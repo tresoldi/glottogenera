@@ -1,0 +1,3 @@
+# Empty terminal TSV fields are represented by trailing tabs and are data, not
+# accidental Markdown/source whitespace.
+*.tsv whitespace=-blank-at-eol

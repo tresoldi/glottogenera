@@ -1,0 +1,61 @@
+name: tests
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        python-version: ["3.10", "3.11", "3.12", "3.13", "3.14"]
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: ${{ matrix.python-version }}
+      - name: Install
+        run: pip install -e .[dev]
+      - name: Lint
+        run: ruff check src scripts tests
+      - name: Run tests
+        run: pytest -q
+
+  # The built package, installed as a user would, and the CLDF dataset.
+  package:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+      - name: Build the wheel and sdist
+        run: pip install build && python -m build
+      - name: Install the wheel and run the tests against it
+        run: |
+          pip install dist/*.whl pytest
+          python -c "import glottogenera; print(glottogenera.__file__, glottogenera.__version__)"
+          pytest -q
+      - name: Validate the CLDF dataset
+        run: pip install pycldf && cldf validate cldf/StructureDataset-metadata.json
+
+  # The full pipeline needs the fetched WALS/ASJP caches; run it on demand to
+  # confirm the committed artifacts still reproduce byte for byte.
+  reproduce:
+    if: github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+      - name: Install
+        run: pip install -e .
+      - name: Run the pipeline
+        run: make all
+      - name: Verify artifacts unchanged
+        run: git diff --exit-code -- data src/glottogenera/data

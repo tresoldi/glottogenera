@@ -1,0 +1,413 @@
+{
+    "@context": [
+        "http://www.w3.org/ns/csvw",
+        {
+            "@language": "en"
+        }
+    ],
+    "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#StructureDataset",
+    "dc:creator": "Tiago Tresoldi",
+    "dc:description": "Genera defined by a divergence threshold on a language tree: a genus is the largest clade whose divergence does not exceed a threshold delta. This release cuts Glottolog 5.3, with crown divergence from PMI alignment of ASJP 21 wordlists and delta = 0.81 calibrated against the WALS genera.",
+    "dc:license": "https://creativecommons.org/licenses/by/4.0/",
+    "dc:source": "sources.bib",
+    "dc:title": "Glottogenera 1.0.0: genera for the languages of Glottolog 5.3",
+    "dcat:accessURL": "https://github.com/tresoldi/glottogenera",
+    "prov:wasDerivedFrom": [
+        {
+            "rdf:about": "https://doi.org/10.5281/zenodo.18840935",
+            "dc:title": "Glottolog 5.3"
+        },
+        {
+            "rdf:about": "https://doi.org/10.5281/zenodo.16736409",
+            "dc:title": "ASJP v21 (lexibank/asjp)"
+        },
+        {
+            "rdf:about": "https://doi.org/10.5281/zenodo.4683137",
+            "dc:title": "WALS Online (CLDF v2020.1)"
+        }
+    ],
+    "tables": [
+        {
+            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ValueTable",
+            "dc:extent": 7674,
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-zA-Z0-9_\\-]+"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "required": true,
+                        "name": "ID"
+                    },
+                    {
+                        "dc:extent": "singlevalued",
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#languageReference",
+                        "required": true,
+                        "name": "Language_ID"
+                    },
+                    {
+                        "dc:extent": "singlevalued",
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#parameterReference",
+                        "required": true,
+                        "name": "Parameter_ID"
+                    },
+                    {
+                        "dc:extent": "singlevalued",
+                        "datatype": "string",
+                        "null": [
+                            "?",
+                            ""
+                        ],
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#value",
+                        "required": false,
+                        "name": "Value"
+                    },
+                    {
+                        "dc:extent": "singlevalued",
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#codeReference",
+                        "required": false,
+                        "name": "Code_ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#comment",
+                        "required": false,
+                        "name": "Comment"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
+                        "required": false,
+                        "separator": ";",
+                        "name": "Source"
+                    },
+                    {
+                        "dc:description": "How the genus was reached (see data/README.md)",
+                        "datatype": "string",
+                        "name": "Method"
+                    }
+                ],
+                "foreignKeys": [
+                    {
+                        "columnReference": [
+                            "Language_ID"
+                        ],
+                        "reference": {
+                            "resource": "languages.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    },
+                    {
+                        "columnReference": [
+                            "Parameter_ID"
+                        ],
+                        "reference": {
+                            "resource": "parameters.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    },
+                    {
+                        "columnReference": [
+                            "Code_ID"
+                        ],
+                        "reference": {
+                            "resource": "codes.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "values.csv"
+        },
+        {
+            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
+            "dc:extent": 7674,
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-zA-Z0-9_\\-]+"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "required": true,
+                        "name": "ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
+                        "required": false,
+                        "name": "Name"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#macroarea",
+                        "required": false,
+                        "name": "Macroarea"
+                    },
+                    {
+                        "datatype": {
+                            "base": "decimal",
+                            "minimum": "-90",
+                            "maximum": "90"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#latitude",
+                        "required": false,
+                        "name": "Latitude"
+                    },
+                    {
+                        "datatype": {
+                            "base": "decimal",
+                            "minimum": "-180",
+                            "maximum": "180"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#longitude",
+                        "required": false,
+                        "name": "Longitude"
+                    },
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-z0-9]{4}[1-9][0-9]{3}"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#glottocode",
+                        "required": false,
+                        "valueUrl": "http://glottolog.org/resource/languoid/id/{Glottocode}",
+                        "name": "Glottocode"
+                    },
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-z]{3}"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#iso639P3code",
+                        "required": false,
+                        "name": "ISO639P3code"
+                    },
+                    {
+                        "dc:description": "Top-level Glottolog family",
+                        "datatype": "string",
+                        "name": "Family"
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "languages.csv"
+        },
+        {
+            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
+            "dc:extent": 1,
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-zA-Z0-9_\\-]+"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "required": true,
+                        "name": "ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
+                        "required": false,
+                        "name": "Name"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#description",
+                        "required": false,
+                        "name": "Description"
+                    },
+                    {
+                        "datatype": "json",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#columnSpec",
+                        "required": false,
+                        "name": "ColumnSpec"
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "parameters.csv"
+        },
+        {
+            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CodeTable",
+            "dc:extent": 1190,
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-zA-Z0-9_\\-]+"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "required": true,
+                        "name": "ID"
+                    },
+                    {
+                        "dc:description": "The parameter or variable the code belongs to.",
+                        "dc:extent": "singlevalued",
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#parameterReference",
+                        "required": true,
+                        "name": "Parameter_ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
+                        "required": false,
+                        "name": "Name"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#description",
+                        "required": false,
+                        "name": "Description"
+                    },
+                    {
+                        "dc:description": "Glottolog name of the genus node",
+                        "datatype": "string",
+                        "name": "Glottolog_Name"
+                    },
+                    {
+                        "dc:description": "Top-level Glottolog family",
+                        "datatype": "string",
+                        "name": "Family"
+                    },
+                    {
+                        "dc:description": "In-scope languages in the genus",
+                        "datatype": "integer",
+                        "name": "Languages"
+                    },
+                    {
+                        "dc:description": "How the genus was reached (see data/README.md)",
+                        "datatype": "string",
+                        "name": "Method"
+                    },
+                    {
+                        "dc:description": "The genus node's own crown divergence D; empty if unmeasured",
+                        "datatype": "decimal",
+                        "name": "Crown_Divergence"
+                    },
+                    {
+                        "dc:description": "Language pairs behind Crown_Divergence",
+                        "datatype": "integer",
+                        "name": "Crown_Pairs"
+                    },
+                    {
+                        "dc:description": "The value c used by the cut",
+                        "datatype": "decimal",
+                        "name": "Cut_Value"
+                    },
+                    {
+                        "dc:description": "The smallest cut value among the genus node's ancestors",
+                        "datatype": "decimal",
+                        "name": "Upper_Value"
+                    },
+                    {
+                        "dc:description": "delta minus Cut_Value",
+                        "datatype": "decimal",
+                        "name": "Margin_Below"
+                    },
+                    {
+                        "dc:description": "Upper_Value minus delta",
+                        "datatype": "decimal",
+                        "name": "Margin_Above"
+                    },
+                    {
+                        "dc:description": "Share of bootstrap replicates (delta recalibrated) in which the genus reappears",
+                        "datatype": "decimal",
+                        "name": "Stability"
+                    },
+                    {
+                        "dc:description": "The same with delta fixed",
+                        "datatype": "decimal",
+                        "name": "Stability_Fixed_Delta"
+                    }
+                ],
+                "foreignKeys": [
+                    {
+                        "columnReference": [
+                            "Parameter_ID"
+                        ],
+                        "reference": {
+                            "resource": "parameters.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "codes.csv"
+        },
+        {
+            "dc:description": "Crown divergence of every measured Glottolog node; with the Glottolog classification it gives the genera at any threshold (glottogenera.genera_at).",
+            "dc:extent": 3609,
+            "tableSchema": {
+                "columns": [
+                    {
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "name": "ID"
+                    },
+                    {
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
+                        "name": "Name"
+                    },
+                    {
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#glottocode",
+                        "name": "Glottocode"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Family"
+                    },
+                    {
+                        "dc:description": "Levels below the family root",
+                        "datatype": "integer",
+                        "name": "Depth"
+                    },
+                    {
+                        "dc:description": "Mean distance over at most 200 language pairs on different branches",
+                        "datatype": "decimal",
+                        "name": "Crown_Divergence"
+                    },
+                    {
+                        "datatype": "integer",
+                        "name": "Crown_Pairs"
+                    },
+                    {
+                        "datatype": "decimal",
+                        "name": "Cut_Value"
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "nodes.csv"
+        }
+    ]
+}

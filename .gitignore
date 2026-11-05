@@ -1,0 +1,16 @@
+# Fetched external source caches (reproducible via `glottogenera fetch`;
+# carry their own upstream licensing, so not vendored here).
+data/sources/
+
+# The dataset under data/ and cldf/ IS the deliverable and is committed, as are
+# the release copies under src/glottogenera/data/ and the explorer's web/data/.
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.ruff_cache/
+.venv/

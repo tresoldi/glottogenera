@@ -1,0 +1,46 @@
+{
+  "title": "glottogenera: genera defined by a divergence threshold on a language tree, with a release for Glottolog 5.3",
+  "version": "1.0.0",
+  "upload_type": "dataset",
+  "description": "Genera defined by an explicit rule: on a rooted language tree, a genus is the largest clade whose divergence does not exceed a threshold delta. The rule applies to any tree (an expert classification, or one estimated from data by neighbour-joining, UPGMA or Bayesian inference) and any divergence (a distance between languages averaged over pairs on different branches, or a quantity of the clade such as its age); the package's glottogenera.tree module implements it. The release instantiates it for the 7,674 in-scope languages of Glottolog 5.3, with divergence measured by PMI alignment over the 40-concept ASJP wordlists and delta calibrated against the WALS genera averaged over language families: 1,190 genera, each a complete Glottolog clade, with crown divergence, margins and bootstrap stability. Includes the released tables (also as a CLDF StructureDataset), the full pipeline (Python package with CLI), the vendored Glottolog dump and a web explorer (https://glottogenera.tresoldi.org). The data are under CC BY 4.0, the code under the MIT license.",
+  "creators": [
+    {
+      "name": "Tresoldi, Tiago",
+      "affiliation": "Department of Linguistics and Philology and Center for the Human Past, Uppsala University",
+      "orcid": "0000-0002-2863-1467"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "keywords": [
+    "linguistics",
+    "typology",
+    "language sampling",
+    "genealogical classification",
+    "language genus",
+    "Glottolog",
+    "WALS",
+    "ASJP",
+    "lexical divergence"
+  ],
+  "related_identifiers": [
+    {
+      "relation": "isDerivedFrom",
+      "identifier": "10.5281/zenodo.18840935",
+      "resource_type": "dataset",
+      "scheme": "doi"
+    },
+    {
+      "relation": "isDerivedFrom",
+      "identifier": "10.5281/zenodo.4683137",
+      "resource_type": "dataset",
+      "scheme": "doi"
+    },
+    {
+      "relation": "isDerivedFrom",
+      "identifier": "10.5281/zenodo.16736409",
+      "resource_type": "dataset",
+      "scheme": "doi"
+    }
+  ]
+}

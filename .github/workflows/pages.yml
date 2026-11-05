@@ -1,0 +1,45 @@
+name: Deploy explorer
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "web/**"
+      - "data/**"
+      - ".github/workflows/pages.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - name: Assemble site (committed artifacts only)
+        run: |
+          rm -rf _site && mkdir -p _site
+          cp -r web/. _site/
+          rm -rf _site/tests _site/README.md
+          mkdir -p _site/release
+          cp data/genera.tsv data/genera_summary.tsv data/nodes.tsv data/genus_names.tsv \
+             data/params.json data/report.md data/LICENSE _site/release/
+      - uses: actions/upload-pages-artifact@v5
+        with:
+          path: _site
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v5

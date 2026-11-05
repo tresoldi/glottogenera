@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Glottogenera</title>
+<meta name="description" content="Genera defined by a divergence threshold on a language tree, released for the languages of Glottolog: browse genera, languages and families, map them, change the threshold, compare with WALS and export CSV and GeoJSON.">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="vendor/leaflet.css">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<header class="site">
+  <div class="bar">
+    <a class="brand" href="#/">Glottogenera</a>
+    <nav>
+      <a href="#/genera" data-nav="genera">Genera</a>
+      <a href="#/languages" data-nav="languages">Languages</a>
+      <a href="#/families" data-nav="families">Families</a>
+      <a href="#/map" data-nav="map">Map</a>
+      <a href="#/wals" data-nav="wals">WALS</a>
+      <a href="#/downloads" data-nav="downloads">Downloads</a>
+      <a href="#/about" data-nav="about">About</a>
+    </nav>
+  </div>
+  <div class="threshold">
+    <label for="delta">Threshold δ</label>
+    <input id="delta" type="range" min="0.5" max="1" step="0.001">
+    <input id="delta-num" type="number" min="0.5" max="1" step="0.001" aria-label="Threshold value">
+    <button id="delta-reset" type="button" title="Back to the released threshold">Released δ</button>
+    <span id="delta-info" class="muted"></span>
+  </div>
+</header>
+<main id="main"><p class="muted">Loading…</p></main>
+<dialog id="notice" aria-labelledby="notice-title">
+  <h2 id="notice-title">Under development</h2>
+  <p>This site is under development: its content, data and features may still change.</p>
+  <p>A paper describing the dataset and its method is in preparation. Until it is published, please contact the author before citing these genera.</p>
+  <form method="dialog"><button type="submit" autofocus>Continue to the site</button></form>
+</dialog>
+<footer class="site">
+  <span>Glottogenera <span id="version"></span>, Tiago Tresoldi (Department of Linguistics and Philology and Center for the Human Past, Uppsala University).</span>
+  <span>Classification: <a href="https://glottolog.org">Glottolog</a>; wordlists: <a href="https://asjp.clld.org">ASJP</a>; genera for comparison: <a href="https://wals.info">WALS</a>. See <a href="#/about">About</a> for licences.</span>
+</footer>
+<script src="vendor/leaflet.js"></script>
+<script src="vendor/polygon-clipping.umd.min.js"></script>
+<script src="js/core.js"></script>
+<script src="js/areas.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

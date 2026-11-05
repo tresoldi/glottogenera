@@ -1,0 +1,38 @@
+MIT License
+
+Copyright (c) 2026 Tiago Tresoldi
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+Licensing note for this repository:
+
+* The **source code** (src/glottogenera/*.py, scripts/, research/, tests/,
+  web/ except web/vendor/ and web/data/, Makefile, workflows) is released
+  under this MIT license. research/divergence/newick.py is forked from
+  python-newick (https://github.com/dlce-eva/python-newick) and remains under
+  the Apache License 2.0 (research/divergence/LICENSE-newick). The libraries vendored in
+  web/vendor/ keep their own licenses (web/vendor/LICENSES.txt).
+* The **dataset** (data/, cldf/, the release copies and the vendored Glottolog
+  dump under src/glottogenera/data/, and web/data/) is released under the
+  Creative Commons Attribution 4.0 International license (see data/LICENSE).
+  It derives from Glottolog, ASJP and WALS, all under CC BY 4.0; see
+  docs/sources.md for attribution. The map outlines in web/data/ derive from
+  Natural Earth (public domain).

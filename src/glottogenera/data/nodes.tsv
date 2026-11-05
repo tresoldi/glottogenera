@@ -1,0 +1,3610 @@
+node	name	family	depth	crown_divergence	crown_pairs	cut_value
+aari1238	Aari-Gayil	South Omotic	2	0.3933	1	0.3933
+aban1245	Abanyom-Nkem-Nkum	Atlantic-Congo	10	0.2528	1	0.2528
+aben1250	Abenaki	Algic	6	0.3585	1	0.3585
+abkh1242	Abkhaz-Adyge	Abkhaz-Adyge	0	0.8652	8	0.8652
+abkh1243	Abkhaz-Abaza	Abkhaz-Adyge	1	0.6288	1	0.6288
+abob1234	Abo-Barombi	Atlantic-Congo	9	0.4484	1	0.4484
+abor1241	Aborlanic	Austronesian	6	0.187	1	0.187
+abua1243	Abua-Odual	Atlantic-Congo	5	0.4593	1	0.4593
+abui1242	Abuic	Timor-Alor-Pantar	4	1.0115	1	1.0115
+ache1247	Acheron-Tocho	Narrow Talodi	2	0.4726	1	0.4726
+adam1254	Adamawa Fali	Atlantic-Congo	3	0.5294	1	0.5294
+adam1257	Adamawa Bua	Atlantic-Congo	4	0.8122	8	0.8122
+adam1260	Adamawa-Bagirmi Fulfulde	Atlantic-Congo	5	0.4062	1	0.4062
+adan1252	West Alor	Timor-Alor-Pantar	4	0.441	3	0.441
+adho1241	Adhola-Alur-Luo	Nilotic	4	0.24	2	0.24
+adho1242	Adhola-Luo	Nilotic	5	0.3087	1	0.3087
+admi1239	Admiralty Islands	Austronesian	4	0.8002	60	0.8002
+afen1234	Afenmai-Bendel	Atlantic-Congo	6	0.4653	2	0.4653
+afro1255	Afro-Asiatic	Afro-Asiatic	0	0.9566	196	0.9566
+aghe1240	Aghemic	Atlantic-Congo	10	0.4007	5	0.4007
+aghe1241	Aghem-Weh	Atlantic-Congo	11	0.4429	1	0.4429
+aghu1259	Aghul-Lezgi	Nakh-Daghestanian	6	0.6538	1	0.6538
+agiy1234	Agi-Yeri	Nuclear Torricelli	3	0.6293	1	0.6293
+agne1238	Agneby	Atlantic-Congo	4	0.7828	3	0.7828
+agoa1234	Agoan	Ramu	1	0.5462	1	0.5462
+agoi1245	Agoi-Doko-Iyoniyong	Atlantic-Congo	5	0.5551	3	0.5551
+ahkk1235	AHK	South Omotic	1	0.5665	4	0.5665
+ahou1236	Ahouic	Tai-Kadai	7	0.7277	1	0.7277
+aian1241	Aian	Ramu	1	0.7059	1	0.7059
+aisi1234	Aisian	Nuclear Trans New Guinea	6	0.4598	1	0.4598
+akan1251	Akanic	Atlantic-Congo	7	0.459	1	0.459
+akel1234	Akeleic	Atlantic-Congo	9	0.5772	1	0.5772
+akpe1249	Akpes-Edoid	Atlantic-Congo	3	0.9068	20	0.9068
+akum1239	Akum-Beezen	Atlantic-Congo	5	0.702	1	0.702
+akun1243	Corumbiara	Tupian	4	0.3613	1	0.3613
+alab1247	Alabaman-Koasati	Muskogean	1	0.2717	1	0.2717
+alab1255	Alabat-Manide Agta	Austronesian	4	0.3139	1	0.3139
+alay1234	Alaya-Athima	Pama-Nyungan	2	0.9041	1	0.9041
+alba1267	Albanian	Indo-European	2	0.4609	3	0.4609
+alba1268	Albanian-Tosk	Indo-European	3	0.5757	2	0.5757
+alem1243	Alemannic	Indo-European	9	0.3496	4	0.3496
+algi1248	Algic	Algic	0	0.955	69	0.955
+algo1256	Algonquian-Blackfoot	Algic	1	0.9293	34	0.9293
+algo1257	Algonquian	Algic	2	0.8032	187	0.8032
+alit1234	Ali-Tumleo	Austronesian	9	0.5731	1	0.5731
+alor1249	Alor-Pantar	Timor-Alor-Pantar	1	0.8302	45	0.8302
+alor1250	Central Alor	Timor-Alor-Pantar	3	0.8685	2	0.8685
+alts1234	Altsächsisch	Indo-European	6	0.3682	4	0.3682
+alum1250	Alumic	Atlantic-Congo	4	0.702	5	0.702
+amal1243	Amalumute	Austronesian	4	0.4669	1	0.4669
+amam1245	Amami	Japonic	3	0.3601	7	0.3601
+amba1270	Ambae	Austronesian	6	0.3369	1	0.3369
+ambo1253	Ambonic Malay	Austronesian	7	0.278	1	0.278
+ambr1240	Ambrym	Austronesian	6	0.5476	12	0.5476
+ambu1246	Ambulas-Hanga-Hundi	Ndu	2	0.3201	1	0.3201
+amem1235	Ame-Manda	Western Daly	2	0.1459	1	0.1459
+amha1244	Amharic-Argobba	Afro-Asiatic	5	0.4846	1	0.4846
+amon1240	Amondava-Uru-Eu-Wau-Wau	Tupian	9	0.0451	1	0.0451
+amto1249	Amto-Musan	Amto-Musan	0	0.6486	1	0.6486
+amuz1253	Amuzgo-Mixtecan	Otomanguean	2	0.914	41	0.914
+amuz1254	Amuzgoan	Otomanguean	3	0.4545	1	0.4545
+anaa1239	Ana	Khoe-Kwadi	5	0.1193	1	0.1193
+anal1240	Anal-Lamgang	Sino-Tibetan	5	0.5129	1	0.5129
+anal1241	Analic	Sino-Tibetan	4	0.5858	4	0.5858
+anam1250	Anamuxric	Nuclear Trans New Guinea	6	0.5765	1	0.5765
+andi1254	Andic	Nakh-Daghestanian	3	0.5202	26	0.5202
+anga1244	Angami-Mao	Sino-Tibetan	4	0.784	8	0.784
+anga1286	Angami-Pochuri	Sino-Tibetan	3	0.7702	24	0.7702
+anga1287	Angami-Chokri	Sino-Tibetan	5	0.5541	1	0.5541
+anga1289	Angan	Angan	0	0.9364	11	0.9364
+anga1291	Sau-Angal-Kewa	Nuclear Trans New Guinea	3	0.7337	6	0.7337
+anga1311	Goemaic	Afro-Asiatic	6	0.6028	12	0.6028
+anga1312	Angami-Ao	Sino-Tibetan	2	0.8634	45	0.8634
+anga1313	Angal-Kewa	Nuclear Trans New Guinea	4	0.645	8	0.645
+anga1314	Angal Mendi	Nuclear Trans New Guinea	5	0.5442	3	0.5442
+angk1246	Angkuic	Austroasiatic	4	0.6794	4	0.6794
+angk1248	Angkola-Mandailing	Austronesian	6	0.0192	1	0.0192
+angl1264	Anglo-Frisian	Indo-European	6	0.6118	104	0.6118
+angl1265	Anglic	Indo-European	7	0.5597	25	0.5597
+anim1240	Anim	Anim	0	0.9266	63	0.9266
+ansu1238	Ansus-Ambai	Austronesian	7	0.4215	6	0.4215
+anti1247	Antillean Arawakan	Arawakan	2	0.831	3	0.831
+aoic1235	Central Naga	Sino-Tibetan	3	0.7518	8	0.7518
+apal1258	Apalic	Nuclear Trans New Guinea	5	0.9011	3	0.9011
+apam1237	AP-AM-AH	Quechuan	3	0.1156	3	0.1156
+aput1239	Aput-Busang-Merah-Kohi	Austronesian	6	0.4635	3	0.4635
+arab1266	Arabana-Wangganguru	Pama-Nyungan	3	0.2677	1	0.2677
+arab1393	Arabian Peninsula Arabic	Afro-Asiatic	6	0.4403	22	0.4403
+arab1395	Arabic	Afro-Asiatic	5	0.487	199	0.487
+arab1396	Arabela-Andoa	Zaparoan	2	0.6515	1	0.6515
+araf1243	Arafundi	Arafundi	0	0.5055	3	0.5055
+arak1257	Araki-Tangoa	Austronesian	9	0.3526	1	0.3526
+aran1263	Upper Arrernte	Pama-Nyungan	4	0.6146	9	0.6146
+aran1266	Arandic-Thura-Yura	Pama-Nyungan	1	0.9624	30	0.9624
+aran1267	Arandic	Pama-Nyungan	2	0.7243	5	0.7243
+arap1279	Arapesh	Nuclear Torricelli	2	0.7456	3	0.7456
+arap1280	Arapaho-Gros Ventre-Besawunena	Algic	4	0.5833	1	0.5833
+araw1269	Arawe-Pasismanua	Austronesian	9	0.8297	28	0.8297
+araw1281	Arawakan	Arawakan	0	0.9085	193	0.9085
+araw1282	Arawan	Arawan	0	0.7552	3	0.7552
+araw1283	Arawe	Austronesian	10	0.7536	9	0.7536
+araw1290	Arawetic	Tupian	6	0.4681	1	0.4681
+arei1235	Are linkage	Austronesian	9	0.6605	9	0.6605
+aret1241	Are-Taupota linkage	Austronesian	8	0.7517	35	0.7517
+arhu1241	Arhuacic	Chibchan	4	0.7684	2	0.7684
+arik1263	Arikemic	Tupian	2	0.6777	1	0.6777
+arik1267	Arikem-Tupari	Tupian	1	0.8529	6	0.8529
+ariw1234	Ari-Waruna	Suki-Gogodala	2	0.5715	1	0.5715
+arme1241	Armenic	Indo-European	2	0.5032	2	0.5032
+aruu1241	Aru	Austronesian	2	0.5236	10	0.5236
+asha1241	Asha-Ashe-Kak	Arawakan	5	0.6841	6	0.6841
+asha1242	Ashe-Asha	Arawakan	6	0.3944	9	0.3944
+asha1244	Asha-Ashe-Kak-Matsi-Nan	Arawakan	4	0.6081	8	0.6081
+ashe1271	Ashe-Asha Norte	Arawakan	7	0.4017	6	0.4017
+ashk1248	Ashkun-Kate-Waigali	Indo-European	5	0.5907	4	0.5907
+ashk1249	Ashkun-Kate	Indo-European	6	0.6057	1	0.6057
+asli1243	Aslian	Austroasiatic	1	0.7213	56	0.7213
+asma1256	Asmat-Kamrau Bay	Nuclear Trans New Guinea	2	0.8366	15	0.8366
+asma1257	Asmat	Nuclear Trans New Guinea	4	0.4348	13	0.4348
+asma1258	Asmat-Kamoro	Nuclear Trans New Guinea	3	0.6358	13	0.6358
+assa1262	Eastern Kamrupa	Indo-European	10	0.3572	1	0.3572
+assa1264	Sukaphic	Tai-Kadai	10	0.3812	17	0.3812
+assa1275	Assam Tai A	Tai-Kadai	12	0.1613	1	0.1613
+astr1247	Eastern Bel	Austronesian	10	0.6654	3	0.6654
+astu1244	Asturo-Leonese	Indo-European	12	0.3864	1	0.3864
+atan1241	West Sogeram	Nuclear Trans New Guinea	7	0.7068	1	0.7068
+atay1246	Atayalic	Austronesian	1	0.6922	1	0.6922
+atha1245	Athabaskan-Eyak-Tlingit	Athabaskan-Eyak-Tlingit	0	0.9603	39	0.9603
+atha1246	Athabaskan-Eyak	Athabaskan-Eyak-Tlingit	1	0.9264	38	0.9264
+atha1247	Athabaskan	Athabaskan-Eyak-Tlingit	2	0.7123	185	0.7123
+athp1240	Athpariyic	Sino-Tibetan	7	0.4045	1	0.4045
+atla1275	Atlas Berber	Afro-Asiatic	3	0.3356	5	0.3356
+atla1278	Atlantic-Congo	Atlantic-Congo	0	0.9683	199	0.9683
+atra1235	Atrato	Chocoan	2	0.1895	1	0.1895
+auag1234	Aua-Gawil	Nuclear Trans New Guinea	3	0.5261	1	0.5261
+auol1234	Au-Olo-Elkei	Nuclear Torricelli	4	0.7889	2	0.7889
+aust1305	Austroasiatic	Austroasiatic	0	0.8459	199	0.8459
+aust1307	Austronesian	Austronesian	0	0.8828	197	0.8828
+auya1234	Auyana	Nuclear Trans New Guinea	4	0.6869	1	0.6869
+avar1255	Avar-Andic-Tsezic	Nakh-Daghestanian	2	0.7976	53	0.7976
+avat1243	Avatime-Nyangbo	Atlantic-Congo	4	0.6451	2	0.6451
+avik1242	Avikam-Alladian	Atlantic-Congo	4	0.7136	1	0.7136
+avok1245	Avokayic	Central Sudanic	3	0.4358	5	0.4358
+awak1249	Awak-Kamo	Atlantic-Congo	9	0.5	1	0.5
+awas1234	Awa-Southern Barbacoan	Barbacoan	1	0.7987	2	0.7987
+awet1245	Aweti-Guarani	Tupian	3	0.7429	37	0.7429
+awin1249	Elevala	Kamula-Elevala	1	0.87	1	0.87
+awyu1263	Awyu-Dumut	Nuclear Trans New Guinea	4	0.8066	56	0.8066
+awyu1264	Awyu	Nuclear Trans New Guinea	5	0.5707	14	0.5707
+awyu1265	Awyu-Ok	Nuclear Trans New Guinea	2	0.9284	200	0.9284
+ayac1238	Ayacuchan Quechua	Quechuan	2	0.1696	1	0.1696
+ayau1236	Ayautlic	Otomanguean	6	0.2714	2	0.2714
+ayer1244	Ayere-Ahan	Atlantic-Congo	4	0.5612	1	0.5612
+ayma1253	Aymaran	Aymaran	0	0.4075	2	0.4075
+azer1255	Central Oghuz	Turkic	4	0.3227	1	0.3227
+azte1234	Aztec	Uto-Aztecan	3	0.436	200	0.436
+b10b1234	B10-B30	Atlantic-Congo	7	0.7233	6	0.7233
+baba1274	Babar	Austronesian	4	0.74	31	0.74
+babu1241	Babungoic	Atlantic-Congo	9	0.6205	1	0.6205
+bada1260	Badaic	Austronesian	5	0.3584	1	0.3584
+bada1263	Badaga-Kannada	Dravidian	4	0.5245	5	0.5245
+bada1265	Badaic-Limola	Austronesian	4	0.5038	2	0.5038
+bafa1251	Bafawic-Bakweric	Atlantic-Congo	10	0.7394	4	0.7394
+bafa1252	Bafawic	Atlantic-Congo	11	0.645	1	0.645
+bafi1244	Bafia (A.50)	Atlantic-Congo	7	0.8006	3	0.8006
+bagi1248	Bagirmic	Central Sudanic	5	0.5298	7	0.5298
+bago1247	Bago-Delo-Cala	Atlantic-Congo	10	0.7133	1	0.7133
+bagv1240	Bagvalal-Tindi	Nakh-Daghestanian	4	0.2959	1	0.2959
+bahi1255	Bahinemic	Sepik	4	0.5877	1	0.5877
+bahi1256	Bahing-Sunwar	Sino-Tibetan	5	0.5427	1	0.5427
+bahn1264	Bahnaric	Austroasiatic	1	0.6222	104	0.6222
+baib1250	Baibai-Fas	Baibai-Fas	0	0.8462	1	0.8462
+baic1239	Baic	Sino-Tibetan	2	0.5884	2	0.5884
+bain1263	Baining	Baining	0	0.7898	2	0.7898
+bain1264	Bainounk	Atlantic-Congo	4	0.6916	1	0.6916
+bais1247	Baiso-Jiiddu	Afro-Asiatic	8	0.7073	1	0.7073
+baiv1238	Bai-Viri	Atlantic-Congo	9	0.2429	1	0.2429
+baka1271	Baka-Gundi	Atlantic-Congo	8	0.2767	1	0.2767
+baka1275	Bakati'	Austronesian	4	0.3243	1	0.3243
+bakh1252	Bakhtiari-Southern Lori	Indo-European	10	0.366	1	0.366
+baki1243	Baki-Bierebo	Austronesian	8	0.4189	1	0.4189
+bakk1238	Bak	Atlantic-Congo	3	0.9275	26	0.9275
+bako1254	Bakor	Atlantic-Congo	8	0.3986	8	0.3986
+bala1300	Balanta	Atlantic-Congo	4	0.447	1	0.447
+bale1258	Baleseic	Central Sudanic	3	0.6217	3	0.6217
+bali1277	Bali-Sasak-Sumbawa	Austronesian	2	0.5847	2	0.5847
+bali1280	Bali-Vitu	Austronesian	6	0.5083	1	0.5083
+bali1284	Bali-Kpasam	Atlantic-Congo	7	0.4348	3	0.4348
+balo1260	Balochic	Indo-European	8	0.3912	2	0.3912
+balt1263	Balto-Slavic	Indo-European	2	0.8065	35	0.8065
+bamb1263	Bambuka-Gomu-Leelau	Atlantic-Congo	6	0.2945	3	0.2945
+bamb1272	Bamboutos	Atlantic-Congo	11	0.6629	1	0.6629
+bami1239	Bamileke	Atlantic-Congo	9	0.7131	24	0.7131
+bamm1241	Bam-Manam	Austronesian	9	0.4719	1	0.4719
+bamw1239	Bamweic	Atlantic-Congo	11	0.2637	1	0.2637
+band1339	Bandjalangic	Pama-Nyungan	4	0.5021	2	0.5021
+band1354	Banda-Geser	Austronesian	3	0.6781	5	0.6781
+bang1370	Bangka-Belitung Malay	Austronesian	6	0.4403	1	0.4403
+bang1371	Bangubangu-Kasai	Atlantic-Congo	10	0.5315	3	0.5315
+bani1258	Baniwa-Curripaco-Tariano	Arawakan	4	0.5813	2	0.5813
+bani1259	Baniwa-Curripaco	Arawakan	5	0.4111	1	0.4111
+banj1240	Banjar-Berau-Brunei Malay	Austronesian	6	0.3552	4	0.3552
+bant1280	Bantawic	Sino-Tibetan	6	0.5261	1	0.5261
+bant1294	Bantoid	Atlantic-Congo	3	0.9159	182	0.9159
+bant1295	Bantu A-B10-B20-B30	Atlantic-Congo	6	0.8057	199	0.8057
+baoa1237	Baoanic	Mongolic-Khitan	4	0.5176	3	0.5176
+bara1360	Barambo-Pambia	Atlantic-Congo	6	0.2608	1	0.2608
+bara1376	Baraic	Koiarian	1	0.6646	3	0.6646
+bara1399	Barapasi-Sauri-Kofei	Geelvink Bay	1	0.7395	1	0.7395
+bara1401	Bara-Tatuyo	Tucanoan	4	0.4273	1	0.4273
+bara1407	Bara-Tanosy	Austronesian	10	0.3104	1	0.3104
+barb1265	Barbacoan	Barbacoan	0	0.8287	6	0.8287
+barh1234	Barh Keita	Central Sudanic	6	0.4873	2	0.4873
+bari1283	Barian	Nilotic	2	0.2822	3	0.2822
+baru1268	Baruga-Doghoro	Nuclear Trans New Guinea	6	0.6073	1	0.6073
+baru1271	Baruya-Simbari	Angan	2	0.6024	1	0.6024
+basa1283	Basaa (A.40)	Atlantic-Congo	8	0.6684	4	0.6684
+basa1288	Basa-Eastern Kainji	Atlantic-Congo	5	0.8387	28	0.8387
+basa1289	Basaa-Bakoko	Atlantic-Congo	9	0.6618	1	0.6618
+basa1291	Basap-Greater Barito	Austronesian	2	0.62	34	0.62
+basa1292	Basaa-Yaunde (A40-70)	Atlantic-Congo	7	0.6817	16	0.6817
+bash1267	Bashkiric	Turkic	6	0.3145	1	0.3145
+basi1245	Basila-Adele	Atlantic-Congo	4	0.8072	1	0.8072
+bass1262	Bassaic	Kru	5	0.5994	1	0.5994
+bass1263	Bassari-Bedik-Bapen	Atlantic-Congo	3	0.6603	1	0.6603
+bass1266	Bassa-Klao	Kru	4	0.5443	2	0.5443
+bata1315	Batanic	Austronesian	2	0.3744	2	0.3744
+bata1320	Bata-Bwatiye	Afro-Asiatic	5	0.7232	1	0.7232
+bate1268	Batekic	Austroasiatic	6	0.3944	1	0.3944
+batu1263	Batui-Saluan	Austronesian	8	0.206	1	0.206
+baye1239	Bairisch	Indo-European	9	0.38	2	0.38
+bayo1259	Bayono-Awbono	Bayono-Awbono	0	0.422	1	0.422
+bayo1261	Bayo-Morom	Central Sudanic	7	0.3284	1	0.3284
+beav1237	Beaver-Sekani	Athabaskan-Eyak-Tlingit	5	0.5184	1	0.5184
+bebe1254	Bebeli-Mangseng	Austronesian	10	0.8673	1	0.8673
+beck1235	Becking-Dawi	Nuclear Trans New Guinea	4	0.8124	2	0.8124
+bedi1236	Bediondo	Central Sudanic	7	0.258	3	0.258
+bell1262	Bel	Austronesian	9	0.6707	15	0.6707
+belr1234	Bel-Roinji-Nenaya	Austronesian	8	0.7642	17	0.7642
+bemb1256	Bemba (M.40)	Atlantic-Congo	10	0.144	1	0.144
+bemb1261	Bembe-Buyu	Atlantic-Congo	8	0.5442	1	0.5442
+bena1258	Bena-Mboi	Atlantic-Congo	4	0.7059	1	0.7059
+bena1273	Bena-Hehe	Atlantic-Congo	9	0.3293	1	0.3293
+bend1256	Bendic	Atlantic-Congo	5	0.6948	2	0.6948
+beng1285	Ben-Gban	Mande	4	0.674	1	0.674
+beng1289	Bengaic	Atlantic-Congo	8	0.6253	3	0.6253
+benu1247	Benue-Congo	Atlantic-Congo	2	0.9252	196	0.9252
+benu1248	Benue-Congo Plateau	Atlantic-Congo	3	0.8287	193	0.8287
+benu1249	West-Central Benue-Congo Plateau	Atlantic-Congo	4	0.7967	39	0.7967
+beny1238	Benyadu-Bekati	Austronesian	3	0.2841	2	0.2841
+bera1263	Berawan-Lower Baram	Austronesian	4	0.6379	15	0.6379
+bera1264	Berawan	Austronesian	5	0.5521	2	0.5521
+bera1266	Berau-Brunei Malay	Austronesian	7	0.3494	3	0.3494
+berb1260	Berber	Afro-Asiatic	1	0.5604	180	0.5604
+beta1259	Betaf-Vitou	Tor-Orya	3	0.3018	1	0.3018
+bewa1242	Bewani	Border	1	0.7537	2	0.7537
+bhad1243	Bhadrawahi-Bhalesi-Curahi	Indo-European	9	0.2774	2	0.2774
+bhad1244	Bhadarwahic	Indo-European	10	0.397	1	0.397
+bhil1254	Bhil	Indo-European	7	0.4868	35	0.4868
+biaa1238	Bia	Atlantic-Congo	7	0.6661	8	0.6661
+biag1235	Biage-Mountain Koiali	Koiarian	2	0.3489	1	0.3489
+biak1249	Biakic	Austronesian	5	0.3661	5	0.3661
+biak1250	Biak-Roon	Austronesian	6	0.3906	1	0.3906
+bibl1237	Bibling	Austronesian	9	0.8119	1	0.8119
+bida1239	Bidayuh-Southern Land Dayak	Austronesian	3	0.5498	15	0.5498
+bida1240	Bidayuh	Austronesian	4	0.4669	2	0.4669
+bidy1245	Bidyaric	Pama-Nyungan	5	0.7073	1	0.7073
+bier1245	Bieria-Maii	Austronesian	8	0.4833	1	0.4833
+biha1245	Bihari	Indo-European	8	0.4833	73	0.4833
+biji1252	Bijimic-Sur-Shall	Atlantic-Congo	5	0.8263	3	0.8263
+bika1252	Bi-Ka	Sino-Tibetan	7	0.5687	6	0.5687
+biko1240	Bikol	Austronesian	4	0.2339	5	0.2339
+bikw1235	Bikwin-Jen	Atlantic-Congo	4	0.5935	24	0.5935
+bila1258	Bilaic	Atlantic-Congo	15	0.5161	9	0.5161
+bila1259	Bila-Kaiku	Atlantic-Congo	16	0.5859	1	0.5859
+bili1253	Bilic	Austronesian	2	0.7253	7	0.7253
+bima1248	Bima-Lembata	Austronesian	2	0.6835	199	0.6835
+bina1276	Greater Binanderean	Nuclear Trans New Guinea	1	0.8532	12	0.8532
+bina1279	Binanderean	Nuclear Trans New Guinea	2	0.6714	29	0.6714
+bina1280	Binaturi	Eastern Trans-Fly	1	0.8221	2	0.8221
+birg1240	Birgit-Mogum-Toram	Afro-Asiatic	6	0.4434	1	0.4434
+biri1257	Birifor	Atlantic-Congo	16	0.4371	1	0.4371
+bisa1262	Bisa-Lamba (M.50)	Atlantic-Congo	10	0.155	1	0.155
+bisa1265	Bisa-Busa	Mande	2	0.6166	8	0.6166
+bisa1268	Bisayan	Austronesian	4	0.3828	111	0.3828
+bisa1270	Bisaya-Lotud	Austronesian	6	0.4706	3	0.4706
+bise1239	Biseni-Okordia	Ijoid	4	0.2947	1	0.2947
+biso1241	Bisoid	Sino-Tibetan	6	0.6572	2	0.6572
+biso1244	Bisoid-Hanic	Sino-Tibetan	5	0.7477	20	0.7477
+bium1270	Marghic	Afro-Asiatic	6	0.3782	2	0.3782
+bium1271	Bataic	Afro-Asiatic	4	0.7793	23	0.7793
+bium1274	Dabaic	Afro-Asiatic	4	0.5525	9	0.5525
+bium1275	Teraic	Afro-Asiatic	4	0.7171	6	0.7171
+bium1279	Musguic	Afro-Asiatic	4	0.7466	2	0.7466
+bium1280	Biu-Mandara	Afro-Asiatic	2	0.8622	179	0.8622
+blaa1241	Blaan	Austronesian	4	0.0855	1	0.0855
+blag1241	Blagaric	Timor-Alor-Pantar	5	0.415	3	0.415
+boan1245	Boana	Nuclear Trans New Guinea	4	0.6346	9	0.6346
+boan1246	Boanaki-Paiwa	Austronesian	10	0.402	1	0.402
+boaz1244	Boazi	Anim	2	0.4623	1	0.4623
+boba1249	Bobangic Riverain	Atlantic-Congo	13	0.5419	11	0.5419
+boba1250	Bobangi-Bangala-Lingala	Atlantic-Congo	14	0.663	2	0.663
+bobo1253	Bobo	Mande	4	0.4066	1	0.4066
+boca1235	Bo-Cari	Great Andamanese	3	0.6019	1	0.6019
+bodi1256	Bodic	Sino-Tibetan	1	0.7488	195	0.7488
+bodi1257	Bodish	Sino-Tibetan	2	0.7018	56	0.7018
+bodo1279	Bodo-Garo	Sino-Tibetan	2	0.7006	47	0.7006
+bodo1280	Bodo-Mech-Kachari	Sino-Tibetan	5	0.2928	1	0.2928
+bogh1240	Boghomic	Afro-Asiatic	6	0.5275	2	0.5275
+boht1239	Bohtan	Afro-Asiatic	10	0.4077	1	0.4077
+boko1260	Bokoto-Gbeya	Atlantic-Congo	5	0.2515	2	0.2515
+boko1265	Boko-Busa	Mande	5	0.1401	3	0.1401
+bola1253	Bola-Bulu	Austronesian	7	0.5794	1	0.5794
+bola1254	Bolanci-Bele	Afro-Asiatic	11	0.5616	1	0.5616
+bole1261	Boleic	Afro-Asiatic	6	0.6766	34	0.6766
+boli1260	Bolivian Arawakan	Arawakan	2	0.6565	5	0.6565
+boli1262	Bolivian-Argentinian Quechua	Quechuan	2	0.1695	2	0.1695
+boli1263	Bolia-Ntomba	Atlantic-Congo	11	0.314	1	0.314
+boly1240	Pakanic	Austroasiatic	2	0.7133	1	0.7133
+bomb1263	Nuta	Austronesian	3	0.4766	3	0.4766
+bond1249	Bondei-Shambala	Atlantic-Congo	12	0.2802	1	0.2802
+bont1246	Bontok-Kankanay	Austronesian	7	0.2242	2	0.2242
+bora1262	Boran	Boran	0	0.6032	1	0.6032
+bord1247	Border	Border	0	0.8217	51	0.8217
+born1254	Borneo Coast Bajaw	Austronesian	6	0.4655	3	0.4655
+boro1281	Bororoan	Bororoan	0	0.6766	2	0.6766
+boro1284	Boroic	Sino-Tibetan	3	0.5621	15	0.5621
+boro1285	Bororo-Otuke	Bororoan	1	0.7798	1	0.7798
+bosa1245	Bosavi	Bosavi	0	0.8004	10	0.8004
+bosa1246	Bosavi Watershed	Bosavi	1	0.6524	9	0.6524
+bosn1247	Bosngun-Awar	Ramu	3	0.4416	1	0.4416
+bota1239	Botatwe	Atlantic-Congo	7	0.4611	18	0.4611
+botl1243	Botlikh-Godoberi	Nakh-Daghestanian	4	0.3442	1	0.3442
+boto1250	Botovro-Vovo-Vao	Austronesian	9	0.3985	1	0.3985
+bozo1252	Bozo	Mande	4	0.5913	3	0.5913
+brag1241	Bragat-Aruop-Amol	Nuclear Torricelli	4	0.6722	3	0.6722
+brah1260	Brahmaputran	Sino-Tibetan	1	0.8034	188	0.8034
+brer1241	Breri-Romkun	Ramu	3	0.5149	1	0.5149
+brin1245	Bringen	Western Daly	1	0.3536	9	0.3536
+brit1245	British Romani	Indo-European	11	0.363	1	0.363
+broo1240	Brooke-Canipaan Palawan	Austronesian	8	0.329	1	0.329
+brou1236	Brou-So	Austroasiatic	3	0.3426	6	0.3426
+brun1246	Brunei-Bacan Malay	Austronesian	9	0.4558	1	0.4558
+brun1252	Bruneic Malay	Austronesian	8	0.4701	2	0.4701
+bryt1239	Brythonic	Indo-European	6	0.4516	2	0.4516
+buak1234	Bua-Kim-Day	Atlantic-Congo	3	0.922	27	0.922
+bual1236	Bua-Lua	Atlantic-Congo	6	0.6969	1	0.6969
+buan1245	Buang linkage	Austronesian	8	0.6408	34	0.6408
+buan1246	Riverine Bua	Atlantic-Congo	5	0.8526	1	0.8526
+budj1235	Budja (C.37)	Atlantic-Congo	13	0.4156	1	0.4156
+budu1266	Budu-Ndaka-Mbo	Atlantic-Congo	15	0.4428	2	0.4428
+bugi1243	Tamanic-Bugis	Austronesian	4	0.5134	4	0.5134
+bugi1245	Bugis	Austronesian	5	0.4712	1	0.4712
+buhi1244	Buhid-Taubuid	Austronesian	4	0.4418	1	0.4418
+buin1247	Buinic	South Bougainville	1	0.7278	1	0.7278
+buka1262	Buka	Austronesian	11	0.7423	4	0.7423
+buka1263	Bukat-Ukit-Beketan-Lugat-Lisum	Austronesian	6	0.459	3	0.459
+buki1250	Bukiyip-Abu	Nuclear Torricelli	4	0.5554	1	0.5554
+buki1251	Bukidnon	Austronesian	6	0.0228	1	0.0228
+bula1259	Bulaka River	Bulaka River	0	0.4822	1	0.4822
+bula1260	Bulangic	Austroasiatic	5	0.5088	1	0.5088
+buli1253	Buli-Koma	Atlantic-Congo	8	0.7423	1	0.7423
+bull1245	Southern Mel	Atlantic-Congo	2	0.6955	6	0.6955
+bull1246	Bullom	Atlantic-Congo	3	0.3628	2	0.3628
+bumt1238	Bumthangic	Sino-Tibetan	5	0.3405	2	0.3405
+buna1274	Bunaban	Bunaban	0	0.5864	1	0.5864
+bund1258	Burui-Gaikundi	Ndu	3	0.4917	1	0.4917
+bung1268	Bungku-Tolaki	Austronesian	6	0.4443	56	0.4443
+bunm1234	Bun-Mundukumo	Yuat	2	0.6957	1	0.6957
+bura1270	Burak-Loo	Atlantic-Congo	6	0.2889	1	0.2889
+bura1294	Burate-Wate	Geelvink Bay	1	0.6706	1	0.6706
+bura1296	Bura-Marghi	Afro-Asiatic	5	0.5983	12	0.5983
+bura1297	Buraic	Afro-Asiatic	6	0.4202	6	0.4202
+bura1298	Buram-Saraf	Narrow Talodi	1	0.5704	12	0.5704
+bure1238	Bureran	Maningrida	1	0.7492	1	0.7492
+buri1258	Buriat	Mongolic-Khitan	4	0.4917	3	0.4917
+burm1265	Burmo-Qiangic	Sino-Tibetan	1	0.8396	199	0.8396
+burm1266	Burmish	Sino-Tibetan	3	0.66	10	0.66
+buru1322	Buruic	Austronesian	4	0.5619	3	0.5619
+buru1328	Burun	Nilotic	2	0.6818	2	0.6818
+busa1252	Busan	Mande	4	0.5343	6	0.5343
+bush1251	Bushoong-Wongo-Lele	Atlantic-Congo	11	0.4725	3	0.4725
+busu1245	Busu	Austronesian	9	0.7545	5	0.7545
+buto1237	Butonic	Austronesian	8	0.314	2	0.314
+butu1243	Butuan-Tausug	Austronesian	6	0.3314	1	0.3314
+buya1244	Buyang	Tai-Kadai	3	0.6348	3	0.6348
+bwai1241	Bwaidoga linkage	Austronesian	8	0.6534	14	0.6534
+bwai1244	Bwaidoka-Iduna	Austronesian	9	0.4774	1	0.4774
+bwak1244	Bwaka	Atlantic-Congo	9	0.3204	1	0.3204
+bwam1247	Bwamu	Atlantic-Congo	7	0.5801	2	0.5801
+bwam1248	Bwamu-Oti-Volta	Atlantic-Congo	6	0.9062	87	0.9062
+bwam1249	Bwamba-Ngondi-Pande-Mbati-Aka	Atlantic-Congo	10	0.7341	6	0.7341
+bwat1242	Bwatooic	Austronesian	11	0.1505	2	0.1505
+cadd1255	Caddoan	Caddoan	0	0.8914	4	0.8914
+caga1241	Cagayan Valley	Austronesian	3	0.3952	6	0.3952
+cahi1243	Cahitan	Uto-Aztecan	2	0.2622	1	0.2622
+cahu1263	Cahuilla-Cupeno	Uto-Aztecan	4	0.396	1	0.396
+cahu1265	Cahuapanan	Cahuapanan	0	0.5009	1	0.5009
+cahu1267	Cahuarano-Iquito	Zaparoan	2	0.6324	1	0.6324
+caja1240	Cajamarca-Lambayeque Quechua	Quechuan	1	0.1466	1	0.1466
+cajo1239	Cajonosic	Otomanguean	8	0.3865	6	0.3865
+cakc1244	Cakchiquel-Tzutujil	Mayan	5	0.2737	1	0.2737
+cali1245	California Athabaskan	Athabaskan-Eyak-Tlingit	4	0.4343	6	0.4343
+came1255	Cameroun-Ubangian	Atlantic-Congo	3	0.9301	176	0.9301
+cana1267	Canaanite	Afro-Asiatic	5	0.6097	2	0.6097
+cang1245	Cangin	Atlantic-Congo	1	0.4872	6	0.4872
+capi1240	Capiznon-Ilonggo-Kawayan	Austronesian	7	0.3185	1	0.3185
+cara1274	Cara-Berom	Atlantic-Congo	6	0.6558	1	0.6558
+cari1281	Caribbean Arawakan	Arawakan	1	0.876	8	0.876
+cari1283	Cariban	Cariban	0	0.7352	197	0.7352
+cari1284	Caribbean English Creole	Indo-European	12	0.2015	8	0.2015
+carr1248	Dakelh	Athabaskan-Eyak-Tlingit	5	0.4152	1	0.4152
+carr1250	Carrieric	Athabaskan-Eyak-Tlingit	4	0.5974	2	0.5974
+casp1236	Caspian	Indo-European	8	0.5127	2	0.5127
+cast1243	Castilic	Indo-European	12	0.3317	3	0.3317
+caya1244	Cayapa-Colorado	Barbacoan	2	0.542	1	0.542
+cele1242	Celebic	Austronesian	2	0.6343	200	0.6343
+cemp1235	Cem-Pac	Austronesian	10	0.7054	1	0.7054
+cend1238	Cenderawasih Bay	Austronesian	4	0.8265	82	0.8265
+cent1397	Central Totonacan	Totonacan	2	0.301	6	0.301
+cent1977	Central Pahari	Indo-European	8	0.3949	1	0.3949
+cent1987	Central-Northern Aslian	Austroasiatic	2	0.6695	53	0.6695
+cent1999	Central Karen	Sino-Tibetan	2	0.6838	17	0.6838
+cent2005	Core Central Kuki-Chin	Sino-Tibetan	4	0.4366	12	0.4366
+cent2020	Central Mbum	Atlantic-Congo	5	0.4294	3	0.4294
+cent2021	Central Bandaic	Atlantic-Congo	8	0.4071	10	0.4071
+cent2022	Core Central Bandaic	Atlantic-Congo	9	0.2811	38	0.2811
+cent2027	Central Upper Cross	Atlantic-Congo	5	0.7181	56	0.7181
+cent2028	Central Delta	Atlantic-Congo	4	0.5786	8	0.5786
+cent2043	Central Moru-Madi	Central Sudanic	2	0.4309	8	0.4309
+cent2044	Sara Central	Central Sudanic	5	0.4074	36	0.4074
+cent2046	Central Ometo	Ta-Ne-Omotic	3	0.4622	18	0.4622
+cent2047	Central Mande	Mande	3	0.6718	50	0.6718
+cent2049	Central Heibanic	Heibanic	2	0.5174	4	0.5174
+cent2060	Central Pacific linkage	Austronesian	4	0.708	77	0.708
+cent2063	Central Santa Isabel	Austronesian	10	0.4315	2	0.4315
+cent2070	Central Papuan Oceanic	Austronesian	7	0.7667	61	0.7667
+cent2080	Central Luzon	Austronesian	2	0.5319	11	0.5319
+cent2088	Central Manobo	Austronesian	7	0.2285	1	0.2285
+cent2094	Lower Baram	Austronesian	5	0.4629	6	0.4629
+cent2097	Central-East Berawan	Austronesian	6	0.45	1	0.45
+cent2103	Central East Formosan	Austronesian	2	0.2619	1	0.2619
+cent2106	Central Western Plains	Austronesian	2	0.7209	1	0.7209
+cent2110	Central Tariku	Lakes Plain	2	0.5115	1	0.5115
+cent2116	Asmat-Awyu-Ok	Nuclear Trans New Guinea	1	0.975	195	0.975
+cent2120	Chimbu-Wahgi	Nuclear Trans New Guinea	1	0.7971	89	0.7971
+cent2129	Central Salish	Salishan	2	0.7496	39	0.7496
+cent2130	Central Numic	Uto-Aztecan	3	0.4789	3	0.4789
+cent2139	Central Chumashan	Chumashan	2	0.3714	3	0.3714
+cent2141	Central Quechua I	Quechuan	2	0.2284	37	0.2284
+cent2146	Central Core Zapotec	Otomanguean	7	0.5714	57	0.5714
+cent2193	Agaw	Afro-Asiatic	2	0.6762	3	0.6762
+cent2217	Central Eastern Aramaic	Afro-Asiatic	9	0.4991	32	0.4991
+cent2225	Central Sudanic	Central Sudanic	0	0.9124	187	0.9124
+cent2226	Central Maipuran	Arawakan	2	0.7946	9	0.7946
+cent2227	Central Dravidian	Dravidian	1	0.6727	4	0.6727
+cent2229	Central-Western Kadugli-Krongo	Kadugli-Krongo	1	0.5937	8	0.5937
+cent2230	Central Atlantic	Atlantic-Congo	2	0.9651	15	0.9651
+cent2232	Central Nubian	Nubian	1	0.799	5	0.799
+cent2233	Central Dani	Nuclear Trans New Guinea	2	0.6411	4	0.6411
+cent2234	Central Sepik Hill	Sepik	3	0.7603	6	0.7603
+cent2236	Central Semitic	Afro-Asiatic	3	0.7498	200	0.7498
+cent2238	Central-Northern One	Nuclear Torricelli	3	0.543	6	0.543
+cent2240	Central Western Saami	Uralic	3	0.3835	2	0.3835
+cent2241	Central Jukunoid	Atlantic-Congo	4	0.8831	9	0.8831
+cent2242	Central Kainji	Atlantic-Congo	4	0.8644	199	0.8644
+cent2243	Central Gur	Atlantic-Congo	4	0.9112	195	0.9112
+cent2246	Central Philippine	Austronesian	3	0.4945	191	0.4945
+cent2247	Central-Yaosakor Asmat	Nuclear Trans New Guinea	5	0.3858	1	0.3858
+cent2248	Central Ngayarda	Pama-Nyungan	4	0.6082	13	0.6082
+cent2251	Central-Southwestern Tai	Tai-Kadai	4	0.5666	68	0.5666
+cent2252	Central-Eastern-Southwestern Ojibwa	Algic	7	0.6068	1	0.6068
+cent2253	Central Lower Cross	Atlantic-Congo	6	0.2868	46	0.2868
+cent2255	Central and Southern Manobo	Austronesian	4	0.4396	18	0.4396
+cent2258	Central Nahuatl	Uto-Aztecan	5	0.3406	30	0.3406
+cent2259	Central Plains Edoid	Atlantic-Congo	6	0.4881	3	0.4881
+cent2260	Central-Western Bantu	Atlantic-Congo	6	0.8089	200	0.8089
+cent2261	Central Tivoid	Atlantic-Congo	6	0.7883	15	0.7883
+cent2262	Central Tano	Atlantic-Congo	6	0.7292	12	0.7292
+cent2263	Central Bisayan	Austronesian	5	0.3058	14	0.3058
+cent2264	Central Iran Kermanic	Indo-European	8	0.5661	3	0.5661
+cent2265	Central Tatic	Indo-European	10	0.3777	1	0.3777
+cent2267	Central Tivoid A	Atlantic-Congo	7	0.6201	4	0.6201
+cent2268	Central Tivoid B	Atlantic-Congo	7	0.5552	3	0.5552
+cent2269	Central Vanuatu	Austronesian	5	0.7301	200	0.7301
+cent2270	Central-Eastern South Halmahera	Austronesian	7	0.4977	2	0.4977
+cent2272	Central Lower Baram A	Austronesian	6	0.5127	3	0.5127
+cent2273	Central Lower Baram B	Austronesian	6	0.3373	1	0.3373
+cent2274	Central Kenya Bantu	Atlantic-Congo	8	0.5695	17	0.5695
+cent2275	Center Ring	Atlantic-Congo	9	0.5014	8	0.5014
+cent2276	Central Micronesian	Austronesian	5	0.8407	17	0.8407
+cent2277	Central-Western Yapen	Austronesian	6	0.458	16	0.458
+cent2279	Central Eastern Botatwe	Atlantic-Congo	9	0.3461	4	0.3461
+cent2282	Central and South Kalinga	Austronesian	8	0.3175	3	0.3175
+cent2283	Central Oil	Indo-European	13	0.5163	9	0.5163
+cent2284	Central Manenguba	Atlantic-Congo	11	0.3565	1	0.3565
+cent2285	Central and Southern Nyika	Atlantic-Congo	11	0.3766	2	0.3766
+cent2286	Central Kilimanjaro	Atlantic-Congo	11	0.4339	3	0.4339
+cent2287	Central East Ruvu	Atlantic-Congo	11	0.3832	5	0.3832
+cent2288	Central-Eastern Luyia	Atlantic-Congo	13	0.4044	9	0.4044
+cent2290	Central Trukic	Austronesian	10	0.5017	15	0.5017
+cent2291	Central-South Dagaric	Atlantic-Congo	15	0.3281	1	0.3281
+cent2293	Central Kalenjin	Nilotic	3	0.4778	4	0.4778
+cent2296	Central Cordilleran	Austronesian	5	0.4948	56	0.4948
+cent2298	Central Northern Outlier Polynesian-East Polynesian	Austronesian	10	0.4229	52	0.4229
+cent2299	Central Northern Outlier Polynesian	Austronesian	11	0.3649	3	0.3649
+cent2302	Central-Eastern Oromo	Afro-Asiatic	8	0.2252	3	0.2252
+cent2307	Central Sumbanese	Austronesian	6	0.231	1	0.231
+cent2308	Central Yapen	Austronesian	7	0.4456	6	0.4456
+cent2309	Central Aru	Austronesian	3	0.6415	1	0.6415
+cent2311	Central-Eastern West Himalayish	Sino-Tibetan	4	0.579	3	0.579
+cent2315	Central-Southeast Malakula	Austronesian	8	0.5634	17	0.5634
+cent2316	Central-Western Malakula	Austronesian	8	0.5067	6	0.5067
+cent2317	Central Iranian PBS	Indo-European	5	0.7551	52	0.7551
+cent2321	Central Sabi	Atlantic-Congo	9	0.2052	4	0.2052
+cent2329	Central Finnic	Uralic	4	0.425	1	0.425
+cent2330	Central Kuki-Chin	Sino-Tibetan	3	0.529	35	0.529
+cent2346	Central Tibetan	Sino-Tibetan	6	0.438	8	0.438
+cent2365	Central-Eastern Chinantec	Otomanguean	4	0.6375	14	0.6375
+cent2370	Central British Columbia Athabaskan	Athabaskan-Eyak-Tlingit	3	0.681	3	0.681
+cent2371	Central Alaska-Yukon Athabaskan	Athabaskan-Eyak-Tlingit	3	0.7545	32	0.7545
+cent2375	Central East Rote	Austronesian	5	0.1691	1	0.1691
+cent2382	Central-Eastern Malagasic	Austronesian	7	0.3638	1	0.3638
+cent2385	Center-West Ring	Atlantic-Congo	8	0.6331	25	0.6331
+cent2391	Central Sumatran Malay	Austronesian	5	0.3436	1	0.3436
+cent2399	Central Eastern Iranian	Indo-European	5	0.7125	6	0.7125
+cent2401	Central Dagan	Dagan	1	0.79	3	0.79
+cent2403	Central-Eastern Arrernte	Pama-Nyungan	5	0.6321	1	0.6321
+cent2404	Central Greek	Indo-European	5	0.6968	2	0.6968
+cent2406	Central Sotho-Tswana	Atlantic-Congo	12	0.3827	2	0.3827
+cent2407	Central Torricelli	Nuclear Torricelli	2	0.9489	66	0.9489
+cent2411	Central Old Kuki	Sino-Tibetan	4	0.4844	3	0.4844
+cent2413	Central-Eastern Maipuran	Arawakan	1	0.7631	6	0.7631
+cent2415	Central-Western Bidayuh	Austronesian	5	0.3298	1	0.3298
+cent2417	Central-Northern Igbo	Atlantic-Congo	5	0.3922	3	0.3922
+cent2421	Central Kawahiva	Tupian	8	0.4276	2	0.4276
+cent2423	Central North West Bandaic	Atlantic-Congo	9	0.3645	1	0.3645
+cent2424	Central-Tana Oromo	Afro-Asiatic	9	0.2701	2	0.2701
+cent2425	Central-Eastern Sepik Hill	Sepik	2	0.7249	5	0.7249
+cent2427	Central Italian Romance	Indo-European	10	0.4083	2	0.4083
+cerr1237	Cerrado	Nuclear-Macro-Je	2	0.7823	14	0.7823
+chad1250	Chadic	Afro-Asiatic	1	0.9166	184	0.9166
+chag1248	Kilimanjaro Bantu	Atlantic-Congo	9	0.5667	5	0.5667
+chag1250	Chaga	Atlantic-Congo	10	0.4628	7	0.4628
+chak1272	Chakalic	Atlantic-Congo	10	0.6549	3	0.6549
+chak1273	Chakali-Tamprusi-Vagala	Atlantic-Congo	11	0.5322	2	0.5322
+chak1274	Chakali-Tamprusi	Atlantic-Congo	12	0.5766	1	0.5766
+chal1278	Chalcatongic	Otomanguean	8	0.4928	3	0.4928
+cham1314	Chama subgroup	Pano-Tacanan	4	0.5297	2	0.5297
+cham1327	Aceh-Chamic	Austronesian	3	0.7269	9	0.7269
+cham1328	Cham	Austronesian	5	0.369	1	0.369
+cham1330	Chamic	Austronesian	4	0.5503	29	0.5503
+cham1331	Chamealic	Indo-European	8	0.3196	12	0.3196
+chan1331	Chang-Phom-Konyak	Sino-Tibetan	5	0.7888	2	0.7888
+chau1260	Chaurasiya	Sino-Tibetan	4	0.4615	1	0.4615
+chec1244	Chechen-Ingush	Nakh-Daghestanian	2	0.4154	1	0.4154
+chep1244	Chepangic	Sino-Tibetan	4	0.2563	1	0.2563
+chia1264	Chiang Saeng	Tai-Kadai	9	0.4018	3	0.4018
+chia1265	Chiapas Zoque	Mixe-Zoque	3	0.2503	3	0.2503
+chib1249	Chibchan	Chibchan	0	0.9482	18	0.9482
+chim1311	Chimakuan	Chimakuan	0	0.7695	1	0.7695
+chin1484	Chinantecan	Otomanguean	3	0.617	16	0.617
+chin1486	Chinantec Group I	Otomanguean	6	0.6488	3	0.6488
+chin1487	Chinantec Group II	Otomanguean	6	0.4937	1	0.4937
+chin1488	Chinantec Group V	Otomanguean	4	0.4913	1	0.4913
+chin1489	Chinantec Group IV	Otomanguean	6	0.5815	1	0.5815
+chin1490	Chinookan	Chinookan	0	0.8868	1	0.8868
+chir1295	Chiriguanic	Tupian	8	0.3956	1	0.3956
+choc1278	Chocho-Popolocan	Otomanguean	5	0.6614	4	0.6614
+choc1280	Chocoan	Chocoan	0	0.6625	5	0.6625
+choi1241	Choic	Sino-Tibetan	5	0.4016	7	0.4016
+choi1242	Choiseul	Austronesian	9	0.6758	4	0.6758
+chok1244	Chokwe-Ngangela-Nyemba (K.20)	Atlantic-Congo	10	0.5563	6	0.5563
+chok1246	Chokwe-Lunda	Atlantic-Congo	9	0.7076	20	0.7076
+chok1247	Chokwe-Lwena	Atlantic-Congo	11	0.3243	1	0.3243
+chok1248	Chokobo-Lemoro-Sanga	Atlantic-Congo	10	0.3966	1	0.3966
+chol1281	Chol-Chontal	Mayan	5	0.4308	1	0.4308
+chol1286	Cholan-Tzeltalan	Mayan	3	0.5859	6	0.5859
+chol1287	Cholan	Mayan	4	0.4921	2	0.4921
+chor1274	Chorote	Mataguayan	2	0.5167	1	0.5167
+chow1240	Chowra-Teressa	Austroasiatic	3	0.7312	1	0.7312
+chru1238	Chru-Northern Cham	Austronesian	5	0.5302	2	0.5302
+chua1248	Chuanqiandian	Hmong-Mien	6	0.5426	5	0.5426
+chuj1249	Chujean	Mayan	4	0.4385	1	0.4385
+chuk1271	Chukotko-Kamchatkan	Chukotko-Kamchatkan	0	0.845	3	0.845
+chuk1272	Chukotian	Chukotko-Kamchatkan	1	0.3871	2	0.3871
+chum1262	Chumashan	Chumashan	0	0.8434	4	0.8434
+chum1265	Chumbuli	Atlantic-Congo	10	0.3073	1	0.3073
+chut1246	East Chutic	Austroasiatic	3	0.476	1	0.476
+chut1252	Chutic	Austroasiatic	2	0.6612	2	0.6612
+chuw1239	Chuwaboic	Atlantic-Congo	8	0.5034	6	0.5034
+cimb1239	Cimbebasia	Atlantic-Congo	10	0.6053	21	0.6053
+circ1239	Circassian	Abkhaz-Adyge	1	0.4247	1	0.4247
+circ1240	Circum-Caribbean French	Indo-European	15	0.3376	8	0.3376
+cita1246	Citak Asmat	Nuclear Trans New Guinea	5	0.0774	1	0.0774
+clas1257	Classical Indo-European	Indo-European	1	0.9002	196	0.9002
+coas1297	Coastal Binanderean	Nuclear Trans New Guinea	5	0.5512	8	0.5512
+coas1312	Coastal Tor	Tor-Orya	2	0.5176	20	0.5176
+coas1314	Coastal Chatino	Otomanguean	6	0.5341	2	0.5341
+coas1315	Coastal Bikol	Austronesian	5	0.0882	1	0.0882
+coas1316	Coast Mixtec	Otomanguean	6	0.4799	2	0.4799
+coas1317	Coastal NEC Bantu	Atlantic-Congo	9	0.5453	27	0.5453
+coas1318	Coastal Min	Sino-Tibetan	3	0.604	2	0.604
+coas1319	Coastal Finnic	Uralic	2	0.454	8	0.454
+coas1321	Coastal Lamalamic	Pama-Nyungan	3	0.7359	1	0.7359
+coas1325	Coast Salish	Salishan	1	0.8258	43	0.8258
+coas1331	Coastal Nigerian Krio	Indo-European	13	0.1183	2	0.1183
+coas1332	Coastal Minjim	Nuclear Trans New Guinea	5	0.6595	1	0.6595
+coat1242	Coatlan-Loxicha Zapotec	Otomanguean	8	0.4067	1	0.4067
+coch1271	Cochimi-Yuman	Cochimi-Yuman	0	0.8298	8	0.8298
+coco1262	Coconucan	Barbacoan	1	0.257	1	0.257
+colo1257	Colombia-Ecuador Quechua	Quechuan	1	0.1486	24	0.1486
+colo1258	Colombia-Oriente Quechua	Quechuan	4	0.2257	4	0.2257
+comm1245	Common Turkic	Turkic	1	0.5261	195	0.5261
+comm1246	Common Delaware	Algic	5	0.4892	1	0.4892
+comm1248	Common Kaili	Austronesian	6	0.2928	6	0.2928
+como1260	Comorian Bantu	Atlantic-Congo	11	0.2639	2	0.2639
+comp1236	Compromise Middle Pama	Pama-Nyungan	2	0.811	11	0.811
+cont1248	Continental Indo-Aryan	Indo-European	5	0.5861	198	0.5861
+cora1259	Corachol	Uto-Aztecan	3	0.5357	1	0.5357
+cora1261	Corachol-Aztecan	Uto-Aztecan	2	0.8215	56	0.8215
+cord1235	Cordillera Athabaskan	Athabaskan-Eyak-Tlingit	4	0.5541	3	0.5541
+core1251	Core Quichean	Mayan	4	0.3356	13	0.3356
+core1252	Core Chibchan	Chibchan	1	0.9106	96	0.9106
+core1254	Core Mayan	Mayan	1	0.693	200	0.693
+core1255	Core Shona	Atlantic-Congo	9	0.3073	2	0.3073
+core1259	Narrow Core Zapotec	Otomanguean	6	0.6152	139	0.6152
+core1260	Core Thura Yura	Pama-Nyungan	3	0.7128	3	0.7128
+core1264	Northern Je	Nuclear-Macro-Je	4	0.5368	12	0.5368
+corr1234	Corridor Bantu	Atlantic-Congo	7	0.5776	28	0.5776
+cors1242	Corsic	Indo-European	11	0.4172	1	0.4172
+cree1271	Cree-Montagnais-Naskapi	Algic	3	0.6017	20	0.6017
+cree1272	Cree	Algic	4	0.5368	14	0.5368
+crim1259	Crimeaic	Turkic	7	0.4708	1	0.4708
+croi1234	Croisilles	Nuclear Trans New Guinea	2	0.9264	200	0.9264
+crom1234	Cromwell	Nuclear Trans New Guinea	4	0.6002	9	0.6002
+cube1243	Cubeo-Desano	Tucanoan	3	0.8304	2	0.8304
+cuic1234	Cuicatec	Otomanguean	5	0.4947	1	0.4947
+cupa1239	Cupan	Uto-Aztecan	3	0.5778	2	0.5778
+curb1234	Cur-Bok-Cotier	Atlantic-Congo	6	0.7763	1	0.7763
+cusc1235	Cuscan Quechua	Quechuan	2	0.0971	1	0.0971
+cush1243	Cushitic	Afro-Asiatic	1	0.9377	199	0.9377
+czec1260	Czech-Slovak	Indo-European	5	0.2323	1	0.2323
+daai1235	Daai-Nghmoye-Muun-Kaang	Sino-Tibetan	6	0.2807	3	0.2807
+daba1262	Daba-Mazagway-Kola	Afro-Asiatic	5	0.3919	1	0.3919
+daga1274	Dagan	Dagan	0	0.8745	18	0.8745
+daga1276	Dagaaric	Atlantic-Congo	14	0.4223	9	0.4223
+dagh1238	Daghestanian	Nakh-Daghestanian	1	0.8703	200	0.8703
+daic1237	Daic	Tai-Kadai	3	0.5961	196	0.5961
+daic1238	Daic-Beic	Tai-Kadai	2	0.6876	40	0.6876
+daju1249	Dajuic	Dajuic	0	0.6767	8	0.6767
+dako1256	Dakoid	Atlantic-Congo	5	0.7518	2	0.7518
+dako1257	Dakotan	Siouan	2	0.4177	4	0.4177
+dall1240	Dallman	Nuclear Trans New Guinea	5	0.5174	2	0.5174
+dama1266	Dama-Galke	Atlantic-Congo	6	0.3543	1	0.3543
+damb1252	Dambi-Kumaru	Austronesian	10	0.2944	1	0.2944
+dana1253	Danaw	Austronesian	3	0.3076	1	0.3076
+dang1275	Dangla-Mabire-Birgit	Afro-Asiatic	5	0.6171	10	0.6171
+dang1276	Dangla	Afro-Asiatic	6	0.5423	3	0.5423
+dani1287	Dani	Nuclear Trans New Guinea	1	0.657	39	0.657
+dard1244	Eastern Dardic	Indo-European	5	0.6406	192	0.6406
+darg1242	Dargwic	Nakh-Daghestanian	2	0.5503	3	0.5503
+darm1241	Darma-Byangsi-Chaudangsi	Sino-Tibetan	5	0.4234	2	0.4234
+darm1242	Darma-Byangsi	Sino-Tibetan	6	0.4859	1	0.4859
+dawr1235	Dawro-Gofa-Gamo	Ta-Ne-Omotic	4	0.4244	3	0.4244
+deba1238	Debao-Jingxi-Nung	Tai-Kadai	5	0.533	3	0.533
+defo1239	Defoid	Atlantic-Congo	3	0.6551	14	0.6551
+dege1249	Degema-Engenni	Atlantic-Congo	6	0.4234	1	0.4234
+dege1250	Degenanic	Nuclear Trans New Guinea	5	0.6846	1	0.6846
+dela1253	Delawaran	Algic	4	0.6189	2	0.6189
+delt1251	Delta Cross	Atlantic-Congo	3	0.8531	200	0.8531
+delt1252	Delta Edoid	Atlantic-Congo	5	0.5272	2	0.5272
+delt1253	Delta-Californian Yuman	Cochimi-Yuman	3	0.5604	1	0.5604
+deng1254	Dengka-Meto	Austronesian	5	0.4198	3	0.4198
+dese1234	Desert Nyungic	Pama-Nyungan	1	0.8695	114	0.8695
+dghw1240	Dghwedeic	Afro-Asiatic	6	0.6362	5	0.6362
+dheg1241	Dhegiha	Siouan	2	0.4139	5	0.4139
+dhim1247	Dhimal-Lhokpu-Toto	Sino-Tibetan	1	0.6021	1	0.6021
+dhuw1248	Dhuwal-Dhuwala	Pama-Nyungan	4	0.3675	2	0.3675
+dibo1249	Dibo-Kupa	Atlantic-Congo	6	0.5652	7	0.5652
+dibo1250	Abawa	Atlantic-Congo	7	0.483	2	0.483
+dida1244	Neyo-Dida	Kru	2	0.4056	2	0.4056
+dida1245	Dida	Kru	3	0.5141	1	0.5141
+didi1256	Didinga-Murle	Surmic	3	0.4193	5	0.4193
+didi1257	Didinga-Longarim	Surmic	4	0.4221	1	0.4221
+dier1240	Dieric	Pama-Nyungan	5	0.4844	1	0.4844
+diic1235	Diic	Atlantic-Congo	7	0.679	1	0.679
+dima1253	Dimasa-Kokborok	Sino-Tibetan	4	0.5536	4	0.5536
+dims1234	Dimsuffix Southern Bantu	Atlantic-Congo	9	0.7088	48	0.7088
+ding1244	Dingic	Atlantic-Congo	10	0.758	44	0.758
+dink1261	Dinka-Nuer	Nilotic	2	0.7155	9	0.7155
+dink1262	Dinka	Nilotic	3	0.2799	10	0.2799
+dirs1236	Dir-Swat Kohistani	Indo-European	8	0.4036	1	0.4036
+dita1239	Ditammaric	Atlantic-Congo	12	0.6895	1	0.6895
+divi1234	Division A Lowland Ok	Nuclear Trans New Guinea	6	0.348	3	0.348
+divi1235	Division A Mountain Ok	Nuclear Trans New Guinea	6	0.54	4	0.54
+dizo1235	Dizoid	Dizoid	0	0.5245	3	0.5245
+djam1254	Yirram	Mirndi	1	0.5225	1	0.5225
+dobu1240	Dobu-Duau linkage	Austronesian	8	0.6163	10	0.6163
+dogo1293	Dogoso-Khe	Atlantic-Congo	6	0.633	1	0.633
+dogo1299	Dogon	Dogon	0	0.7554	143	0.7554
+dogo1300	Dogose-Khisa	Atlantic-Congo	7	0.5299	1	0.5299
+dori1247	Doriri-Abia	Yareban	1	0.3101	1	0.3101
+doso1240	Doso-Dza	Atlantic-Congo	7	0.2154	1	0.2154
+dout1239	Doutai-Kai-Waritai	Lakes Plain	3	0.634	7	0.634
+drav1251	Dravidian	Dravidian	0	0.7807	199	0.7807
+dual1244	Dualaic	Atlantic-Congo	8	0.4821	4	0.4821
+dual1245	Duala-Malimba	Atlantic-Congo	9	0.3311	1	0.3311
+dugw1240	Dugwor-Merey	Afro-Asiatic	7	0.5718	1	0.5718
+duka1247	Northwestern Kainji	Atlantic-Congo	5	0.7028	3	0.7028
+duka1250	Dukaic	Atlantic-Congo	6	0.5979	2	0.5979
+dull1239	Dullay	Afro-Asiatic	6	0.6081	1	0.6081
+dump1244	Dumpas-Sukang	Austronesian	8	0.2795	1	0.2795
+dumu1247	Dumut	Nuclear Trans New Guinea	5	0.6676	4	0.6676
+dura1246	Durango Nahuatl	Uto-Aztecan	7	0.45	1	0.45
+dusu1277	Dusunic	Austronesian	6	0.3456	22	0.3456
+duun1243	Duun-Bobo	Mande	3	0.8129	10	0.8129
+duun1244	Duun-Jo	Mande	4	0.7974	4	0.7974
+duun1245	Duun	Mande	6	0.5351	3	0.5351
+dzon1238	Dzongkhic	Sino-Tibetan	7	0.5541	1	0.5541
+earl1243	Early Melanesian Pidgin	Indo-European	12	0.2619	6	0.2619
+east1426	East Slavic	Indo-European	4	0.4015	5	0.4015
+east1436	Eastern Pahari	Indo-European	8	0.4568	1	0.4568
+east1439	East South Bird's Head	South Bird's Head	3	0.6338	2	0.6338
+east1459	East Bird's Head	East Bird's Head	0	0.8715	2	0.8715
+east2269	Eastern South Slavic	Indo-European	5	0.3799	2	0.3799
+east2291	Greater East Low German	Indo-European	9	0.3223	1	0.3223
+east2316	Eastern Tharu	Indo-European	10	0.3894	6	0.3894
+east2324	Eastern Saami	Uralic	2	0.5102	3	0.5102
+east2331	East Palaungic	Austroasiatic	3	0.7348	73	0.7348
+east2334	East Oghuz	Turkic	4	0.2894	1	0.2894
+east2341	Eastern-Western Pwo Karen	Sino-Tibetan	4	0.2382	1	0.2382
+east2361	Eastern Tani	Sino-Tibetan	3	0.3378	1	0.3378
+east2365	Eastern Kra	Tai-Kadai	2	0.6862	3	0.6862
+east2367	Tabasaran-Aghul-Lezgi	Nakh-Daghestanian	5	0.633	2	0.633
+east2368	East Tsezic	Nakh-Daghestanian	4	0.4238	1	0.4238
+east2369	East Hmongic	Hmong-Mien	4	0.6078	2	0.6078
+east2374	Eastern Daly	Eastern Daly	0	0.3087	1	0.3087
+east2378	Eastern Dhuwal-Dhuwala	Pama-Nyungan	5	0.5157	1	0.5157
+east2381	Eastern Nyulnyulan	Nyulnyulan	1	0.4858	2	0.4858
+east2383	Eastern Ijo	Ijoid	2	0.4783	4	0.4783
+east2386	Eastern Jebel	Eastern Jebel	0	0.8012	1	0.8012
+east2391	Eastern Mundu-Baka	Atlantic-Congo	7	0.558	2	0.558
+east2397	Eastern Grusi	Atlantic-Congo	8	0.7473	9	0.7473
+east2400	East-West Central Delta Cross	Atlantic-Congo	6	0.6777	19	0.6777
+east2401	East Ogonoid	Atlantic-Congo	5	0.47	2	0.47
+east2404	Eastern Kainji	Atlantic-Congo	6	0.8566	28	0.8566
+east2415	Eastern Kru	Kru	1	0.556	15	0.556
+east2418	Eastern Nilotic	Nilotic	1	0.7869	36	0.7869
+east2423	East Ometo	Ta-Ne-Omotic	2	0.5699	3	0.5699
+east2424	Krongo-Tumtum	Kadugli-Krongo	2	0.6093	1	0.6093
+east2425	East Manding	Mande	8	0.3953	53	0.3953
+east2428	Eastern Dajuic	Dajuic	1	0.5043	1	0.5043
+east2429	Eastern Heibanic	Heibanic	1	0.6791	1	0.6791
+east2431	Eastern Songhay	Songhay	1	0.3285	5	0.3285
+east2432	Eastern Saharan	Saharan	1	0.6894	1	0.6894
+east2433	East Strickland	East Strickland	0	0.5959	12	0.5959
+east2438	Eastern Yapen	Austronesian	6	0.4238	1	0.4238
+east2439	East Makian-Gane	Austronesian	6	0.3923	1	0.3923
+east2445	Tokalau Fijian	Austronesian	5	0.6739	37	0.6739
+east2449	East Polynesian	Austronesian	11	0.4731	36	0.4731
+east2452	East Santa Isabel	Austronesian	10	0.3758	1	0.3758
+east2459	Eastern Admiralty Islands	Austronesian	5	0.6911	51	0.6911
+east2460	East Manus	Austronesian	7	0.568	18	0.568
+east2477	Eastern Mansakan	Austronesian	5	0.1684	1	0.1684
+east2478	East Manobo	Austronesian	7	0.3733	1	0.3733
+east2488	Eastern Celebic	Austronesian	4	0.6738	200	0.6738
+east2489	Eastern Bungku-Tolaki	Austronesian	7	0.3569	7	0.3569
+east2490	East Coast Bungku-Tolaki	Austronesian	8	0.2935	21	0.2935
+east2491	Eastern Saluan-Banggai	Austronesian	6	0.5329	1	0.5329
+east2493	East Formosan	Austronesian	1	0.6801	8	0.6801
+east2494	Eastern Eleman	Eleman	1	0.3366	1	0.3366
+east2500	East Lakes Plain	Lakes Plain	1	0.7911	1	0.7911
+east2502	East Tariku	Lakes Plain	2	0.671	21	0.671
+east2503	Eastern Trans-Fly	Eastern Trans-Fly	0	0.7752	3	0.7752
+east2504	Eastern Mek	Nuclear Trans New Guinea	2	0.4021	1	0.4021
+east2520	East Timor	Timor-Alor-Pantar	1	0.6939	2	0.6939
+east2530	Eastern Pauwasi	Pauwasi	1	0.6842	3	0.6842
+east2546	Eastern Miwokan	Miwok-Costanoan	2	0.5243	3	0.5243
+east2549	Eastern Naduhup	Naduhup	1	0.5148	2	0.5148
+east2557	Eastern Otomanguean	Otomanguean	1	0.9772	183	0.9772
+east2569	Eastern Isthmic Chibchan	Chibchan	3	0.9202	4	0.9202
+east2571	Eastern-Southern Arhuacic	Chibchan	5	0.624	1	0.624
+east2632	East Chadic	Afro-Asiatic	2	0.8823	154	0.8823
+east2633	East Chadic B	Afro-Asiatic	3	0.8408	67	0.8408
+east2640	East Chadic A	Afro-Asiatic	3	0.836	28	0.836
+east2641	East Chadic A.3	Afro-Asiatic	4	0.733	1	0.733
+east2643	Sumrayic	Afro-Asiatic	5	0.7549	4	0.7549
+east2645	East Chadic A.2	Afro-Asiatic	4	0.6638	3	0.6638
+east2649	Eastern Tera	Afro-Asiatic	5	0.557	3	0.557
+east2653	Eastern Omo-Tana	Afro-Asiatic	7	0.5591	39	0.5591
+east2680	Eastern Aramaic	Afro-Asiatic	8	0.585	35	0.585
+east2697	Eastern Mande	Mande	1	0.6736	72	0.6736
+east2698	Eastern Tucanoan	Tucanoan	1	0.6576	66	0.6576
+east2699	East Cushitic	Afro-Asiatic	2	0.8636	198	0.8636
+east2700	Eastern Algonquian	Algic	3	0.7842	36	0.7842
+east2701	Eastern Gunwinyguan	Gunwinyguan	1	0.9571	2	0.9571
+east2702	Eastern Eastern Tucanoan	Tucanoan	2	0.4045	15	0.4045
+east2703	Nyun	Atlantic-Congo	3	0.7731	4	0.7731
+east2705	Eastern Huon	Nuclear Trans New Guinea	3	0.8377	11	0.8377
+east2706	Eastern Victoria	Pama-Nyungan	3	0.7956	1	0.7956
+east2707	Eastern Eastern Tucanoan I	Tucanoan	3	0.4604	2	0.4604
+east2708	Eastern Eastern Tucanoan II	Tucanoan	3	0.478	6	0.478
+east2709	East Chadic B.1	Afro-Asiatic	4	0.7547	24	0.7547
+east2710	East Chadic B.3	Afro-Asiatic	4	0.6665	4	0.6665
+east2711	Eastern Gbe	Atlantic-Congo	4	0.4287	10	0.4287
+east2712	Eastern Malayo-Polynesian	Austronesian	2	0.9025	200	0.9025
+east2714	Eastern Romance	Indo-European	7	0.4834	2	0.4834
+east2715	Eastern Kordofan Nubian	Nubian	3	0.4025	1	0.4025
+east2716	Eastern Maric	Pama-Nyungan	4	0.3845	1	0.3845
+east2717	Eastern Waka-Kabic	Pama-Nyungan	4	0.6799	1	0.6799
+east2719	Eastern Kiranti	Sino-Tibetan	4	0.6034	104	0.6034
+east2720	Eastern Nahuatl	Uto-Aztecan	4	0.4464	54	0.4464
+east2721	East Chadic A.2 1	Afro-Asiatic	5	0.5172	1	0.5172
+east2722	East Chadic A.2 2	Afro-Asiatic	5	0.7757	1	0.7757
+east2723	Eastern Southwestern Apachean	Athabaskan-Eyak-Tlingit	5	0.2354	1	0.2354
+east2724	Eastern Murutic	Austronesian	7	0.2663	3	0.2663
+east2729	Eastern Arabic	Afro-Asiatic	6	0.388	5	0.388
+east2730	Eastern Beboid	Atlantic-Congo	6	0.7352	9	0.7352
+east2731	East Bantu	Atlantic-Congo	6	0.728	200	0.728
+east2734	Eastern Goidelic	Indo-European	8	0.6071	1	0.6071
+east2735	Eastern Alta Mixtec	Otomanguean	6	0.3708	1	0.3708
+east2736	Eastern Chatino	Otomanguean	7	0.2332	1	0.2332
+east2739	East Kambaric	Atlantic-Congo	7	0.4944	1	0.4944
+east2740	East-West Grusi	Atlantic-Congo	7	0.7974	60	0.7974
+east2742	East and Central Manobo	Austronesian	6	0.4188	4	0.4188
+east2743	Eastern Indonesia Trade Malay	Austronesian	6	0.2219	19	0.2219
+east2745	Eastern Farsic	Indo-European	10	0.1736	1	0.1736
+east2748	East Rivers Seram	Austronesian	4	0.3399	1	0.3399
+east2750	East Nyanza	Atlantic-Congo	9	0.5965	21	0.5965
+east2751	East Buton	Austronesian	9	0.4063	1	0.4063
+east2752	East Piru Bay	Austronesian	4	0.5536	16	0.5536
+east2753	Eastern Malakula linkage	Austronesian	7	0.6861	7	0.6861
+east2754	East Santo	Austronesian	8	0.6553	6	0.6553
+east2755	East Borneo Malay	Austronesian	5	0.3413	5	0.3413
+east2756	East Ruvu	Atlantic-Congo	10	0.4571	9	0.4571
+east2757	Eastern Littoral Piru Bay	Austronesian	5	0.479	1	0.479
+east2758	East Uvean-Niuafo'ou	Austronesian	8	0.2175	1	0.2175
+east2759	Eastern Caribbean Creole	Indo-European	13	0.25	4	0.25
+east2760	East Choiseul	Austronesian	10	0.6012	1	0.6012
+east2761	East New Georgia	Austronesian	10	0.5919	11	0.5919
+east2763	East Arawe	Austronesian	11	0.6863	3	0.6863
+east2764	Eastern Trukic	Austronesian	11	0.472	2	0.472
+east2765	Eastern Great Lakes Algonquian	Algic	3	0.7532	29	0.7532
+east2766	Eastern MSA	Afro-Asiatic	4	0.6416	1	0.6416
+east2767	East Sogeram	Nuclear Trans New Guinea	5	0.7682	5	0.7682
+east2768	Eastern-Western Armenian	Indo-European	3	0.2667	1	0.2667
+east2769	East Nuclear Subanen	Austronesian	5	0.2283	1	0.2283
+east2772	Eastern Ngero	Austronesian	8	0.4371	2	0.4371
+east2777	Eastern West Himalayish	Sino-Tibetan	3	0.6055	12	0.6055
+east2778	East-West-Central Manobo	Austronesian	5	0.3507	8	0.3507
+east2783	Eastern Bru-Katang	Austroasiatic	4	0.2707	2	0.2707
+east2790	Eastern Samur	Nakh-Daghestanian	4	0.801	3	0.801
+east2791	East Kipchak	Turkic	5	0.3214	1	0.3214
+east2796	East Ladoga	Uralic	6	0.4101	3	0.4101
+east2832	East Middle German	Indo-European	7	0.405	3	0.405
+east2852	Eastern Enlhet-Enenlhet	Lengua-Mascoy	1	0.5527	1	0.5527
+east2858	Nuclear Rote	Austronesian	4	0.1086	2	0.1086
+east2862	East Bamileke	Atlantic-Congo	10	0.6414	10	0.6414
+east2864	East Keram	Keram	1	0.8629	1	0.8629
+east2865	Eastern Romanian	Indo-European	9	0.3663	1	0.3663
+east2880	Eastern Gondi	Dravidian	7	0.2898	1	0.2898
+east2890	Eastern Rajasthani	Indo-European	10	0.3621	1	0.3621
+east2894	Eastern Timor	Austronesian	3	0.67	2	0.67
+east2895	East Polynesian Distal	Austronesian	12	0.479	4	0.479
+east2896	East Polynesian Proximal	Austronesian	12	0.5057	8	0.5057
+east2897	East Sudanic Arabic	Afro-Asiatic	9	0.4435	3	0.4435
+east2901	Eastern Kirinyaga	Atlantic-Congo	9	0.6576	2	0.6576
+east2909	Eastern Tupian	Tupian	1	0.8676	160	0.8676
+east2911	Eastern Jayapura Bay	Austronesian	8	0.5919	1	0.5919
+eban1241	Ebang-Logol	Heibanic	3	0.5152	5	0.5152
+eban1242	Ebang-Laru	Heibanic	4	0.481	1	0.481
+ebir1244	Ebira-Nupoid	Atlantic-Congo	3	0.7527	9	0.7527
+ebug1242	Ebughu-Oro	Atlantic-Congo	8	0.2272	1	0.2272
+ecua1248	Ecuadorian Quechua A	Quechuan	2	0.1007	3	0.1007
+ecua1249	Ecuadorian Quechua B	Quechuan	2	0.1394	13	0.1394
+edea1234	Ede	Atlantic-Congo	6	0.2859	1	0.2859
+edek1238	Edekiri	Atlantic-Congo	5	0.4816	2	0.4816
+edoi1239	Edoid	Atlantic-Congo	4	0.707	145	0.707
+efat1236	Efate	Austronesian	8	0.4767	4	0.4767
+efat1241	Efate-Shepherds	Austronesian	7	0.606	4	0.606
+efik1244	Efikic	Atlantic-Congo	7	0.1635	3	0.1635
+efik1246	Efik-Ibibio	Atlantic-Congo	9	0.1742	1	0.1742
+eggo1240	Eggon-Ake	Atlantic-Congo	5	0.7191	1	0.7191
+egyp1251	Egyptic Arabic	Afro-Asiatic	6	0.4831	6	0.4831
+egyp1254	Egypto-Sudanic Arabic	Afro-Asiatic	7	0.3904	9	0.3904
+ejag1240	Bakor-Ejagham	Atlantic-Congo	7	0.4858	6	0.4858
+ekit1245	Ekit-Etebi	Atlantic-Congo	7	0.2329	1	0.2329
+ekoi1236	Ekoid	Atlantic-Congo	6	0.7043	7	0.7043
+ekoi1237	Ekoid-Mbe	Atlantic-Congo	5	0.7748	8	0.7748
+elep1241	Elepi-Kamasau-Marienberg	Nuclear Torricelli	2	0.741	3	0.741
+elgo1240	Elgon-Mau Kalenjin	Nilotic	3	0.3744	1	0.3744
+elip1240	Elip-Gunu	Atlantic-Congo	13	0.5406	1	0.5406
+elli1239	Ellicean	Austronesian	8	0.3267	3	0.3267
+elpa1239	Elpaputi	Austronesian	10	0.4682	1	0.4682
+embe1258	Embera	Chocoan	1	0.2945	6	0.2945
+emil1243	Emiliano-Romagnolo	Indo-European	12	0.2823	1	0.2823
+ende1245	Eastern Central Flores	Austronesian	7	0.3147	3	0.3147
+ende1247	Ende-Lio	Austronesian	8	0.3186	1	0.3186
+enet1251	Enets-Nenets	Uralic	2	0.6267	1	0.6267
+enga1251	Engan	Nuclear Trans New Guinea	2	0.6975	12	0.6975
+enga1254	Enga-Kewa-Huli	Nuclear Trans New Guinea	1	0.8071	44	0.8071
+enwa1244	Enwang-Uda	Atlantic-Congo	8	0.132	1	0.132
+epie1239	Epi-Efate	Austronesian	6	0.7408	30	0.7408
+epii1237	Epi	Austronesian	7	0.6392	12	0.6392
+erap1240	Erap	Nuclear Trans New Guinea	3	0.7823	20	0.7823
+erim1234	Erimaic	Nuclear Trans New Guinea	4	0.8043	1	0.8043
+erit1238	Eritai-Obokuitai-Biritai	Lakes Plain	3	0.5924	3	0.5924
+erro1239	Erromanga	Austronesian	6	0.7008	1	0.7008
+esca1235	Escarpment Dogon	Dogon	1	0.4852	3	0.4852
+eski1264	Eskimo-Aleut	Eskimo-Aleut	0	0.948	10	0.948
+eski1265	Eskimo	Eskimo-Aleut	1	0.685	29	0.685
+espi1234	Espiritu Santo	Austronesian	6	0.6502	200	0.6502
+ethi1244	Ethiosemitic	Afro-Asiatic	3	0.7125	36	0.7125
+etor1234	Etoro-Bedamini	Bosavi	1	0.4947	1	0.4947
+etul1244	Akweya	Atlantic-Congo	4	0.7355	3	0.7355
+etul1246	Etulo-Idoma	Atlantic-Congo	5	0.7527	2	0.7527
+evap1240	Evapia	Nuclear Trans New Guinea	3	0.8058	3	0.8058
+ewei1234	Eweic	Atlantic-Congo	5	0.3392	1	0.3392
+exte1234	Extended Ocotepec Zapotec	Otomanguean	9	0.4529	5	0.4529
+extr1244	Extreme Northern New Caledonian	Austronesian	8	0.5228	1	0.5228
+faiw1245	Faiwol-Seltaman	Nuclear Trans New Guinea	9	0.4163	1	0.4163
+fala1242	Falamic	Sino-Tibetan	6	0.3043	3	0.3043
+fali1290	Fali-Gude	Afro-Asiatic	7	0.5626	1	0.5626
+fare1245	Far East Polynesian	Austronesian	13	0.4052	1	0.4052
+fars1254	Farsic-Caucasian Tat	Indo-European	8	0.5517	3	0.5517
+fars1255	Farsic	Indo-European	9	0.2178	2	0.2178
+farw1236	Far West Lakes Plain	Lakes Plain	1	0.8852	2	0.8852
+fata1246	Fataluku-Oirata	Timor-Alor-Pantar	2	0.5053	1	0.5053
+fayu1239	Fayu-Kirikiri	Lakes Plain	3	0.7239	1	0.7239
+ferg1237	Fer-Gula	Central Sudanic	4	0.5285	1	0.5285
+fhjo1234	FH-Jola	Atlantic-Congo	6	0.6532	5	0.6532
+fini1244	Finisterre-Huon	Nuclear Trans New Guinea	1	0.8937	176	0.8937
+fini1245	Finisterre-Saruwaged	Nuclear Trans New Guinea	2	0.8515	165	0.8515
+finn1317	Finnic	Uralic	1	0.4492	9	0.4492
+finu1234	Finungwan-Mamaa-Gusan	Nuclear Trans New Guinea	4	0.6841	1	0.6841
+fipa1240	Fipaic	Atlantic-Congo	10	0.2187	4	0.2187
+firs1234	First Vernacular Hmong	Hmong-Mien	7	0.546	4	0.546
+flor1239	Flores-Lembata	Austronesian	4	0.5533	59	0.5533
+flor1241	West-Central Flores	Austronesian	4	0.54	19	0.54
+flor1242	Flores Lamaholot	Austronesian	6	0.3053	1	0.3053
+flor1244	Flores	Austronesian	3	0.6859	119	0.6859
+fong1244	Fongbeic	Atlantic-Congo	5	0.4617	6	0.4617
+fore1272	Forest Kivu	Atlantic-Congo	11	0.4816	13	0.4816
+fore1273	Fore-Gimi	Nuclear Trans New Guinea	4	0.6825	1	0.6825
+foxx1245	Fox	Algic	4	0.5281	1	0.5281
+fran1268	Middle German	Indo-European	6	0.3823	19	0.3823
+fris1239	Frisian	Indo-European	7	0.3712	6	0.3712
+fula1264	Fula	Atlantic-Congo	3	0.4246	30	0.4246
+fula1265	Eastern Fula	Atlantic-Congo	4	0.4619	5	0.4619
+fuli1242	Fuliiru-Vira	Atlantic-Congo	13	0.2249	1	0.2249
+fura1235	Furan	Furan	0	0.7575	1	0.7575
+fyer1240	Fyer-Tambas	Afro-Asiatic	5	0.5769	1	0.5769
+gada1257	Ga-Dangme	Atlantic-Congo	3	0.3807	1	0.3807
+gadd1245	Gaddangic	Austronesian	5	0.4856	6	0.4856
+gads1260	Gadsup-Agarabi	Nuclear Trans New Guinea	4	0.7081	1	0.7081
+gaen1235	Gaena-Korafe	Nuclear Trans New Guinea	6	0.431	1	0.431
+gahu1246	Gahuku	Nuclear Trans New Guinea	4	0.5292	3	0.5292
+gala1265	Galambu-Bele	Afro-Asiatic	8	0.6345	4	0.6345
+gale1261	Galela-Loloda	North Halmahera	3	0.4985	1	0.4985
+galg1238	Kalkatungic	Pama-Nyungan	1	0.7775	1	0.7775
+gali1263	Galician Romance	Indo-European	12	0.5284	18	0.5284
+gall1279	Gallo-Italian	Indo-European	11	0.3709	8	0.3709
+gall1280	Gallo-Rhaetian	Indo-European	11	0.6982	11	0.6982
+galu1240	Galu-Alu	Nuclear Torricelli	4	0.6943	1	0.6943
+gama1260	Gamale-Parbate	Sino-Tibetan	5	0.1365	1	0.1365
+gamr1234	Gamrange	Austronesian	8	0.5876	1	0.5876
+gand1254	Kaansa-Dogose	Atlantic-Congo	6	0.5837	1	0.5837
+gang1271	Gangte-Vaiphei	Sino-Tibetan	6	0.2025	1	0.2025
+gang1273	Ganglau-Saep	Nuclear Trans New Guinea	5	0.4625	1	0.4625
+garr1260	Garrwan	Garrwan	0	0.4974	1	0.4974
+garu1247	Garuhic	Nuclear Trans New Guinea	5	0.5498	5	0.5498
+garu1249	Garuh-Foran	Nuclear Trans New Guinea	6	0.5282	1	0.5282
+gaud1237	Gauda-Kamrupa	Indo-European	8	0.4344	14	0.4344
+gaud1238	Gauda-Banga	Indo-European	9	0.4131	10	0.4131
+gauw1235	Gauwa	Nuclear Trans New Guinea	3	0.8046	8	0.8046
+gavi1248	Nuclear Gavianic	Tupian	3	0.5745	1	0.5745
+gavi1250	Gavianic	Tupian	2	0.6093	2	0.6093
+gawa1246	Gawarbatic	Indo-European	4	0.5287	1	0.5287
+gbag1256	Gbagyi-Gbari	Atlantic-Congo	5	0.6006	1	0.6006
+gban1259	Gbanu-Manza-Ngbaka	Atlantic-Congo	5	0.3764	4	0.3764
+gbay1279	Gbaya-Manza-Ngbaka	Atlantic-Congo	3	0.4805	40	0.4805
+gbay1280	Gbaya Oriental	Atlantic-Congo	4	0.3565	10	0.3565
+gbay1282	Gbaya Meridional-Occidental	Atlantic-Congo	4	0.5335	11	0.5335
+gbay1284	Gbaya Meridional	Atlantic-Congo	5	0.5124	1	0.5124
+gbee1241	Gbe	Atlantic-Congo	3	0.4647	27	0.4647
+gber1234	Gberi-Morokodo-Mittu	Central Sudanic	4	0.3976	2	0.3976
+gbey1243	Gbeya	Atlantic-Congo	6	0.1756	1	0.1756
+geba1236	Geba-Bwe	Sino-Tibetan	3	0.5761	1	0.5761
+gebe1238	Gebeic	Austronesian	6	0.5791	3	0.5791
+geel1240	Geelvink Bay	Geelvink Bay	0	0.7157	18	0.7157
+geji1246	Gejic	Afro-Asiatic	7	0.4054	1	0.4054
+gela1265	Gelaoic	Tai-Kadai	5	0.8226	11	0.8226
+gema1234	Kman-Meyor	Sino-Tibetan	1	0.644	1	0.644
+gene1244	General Yuman	Cochimi-Yuman	2	0.5818	16	0.5818
+geor1252	Georgian-Zan	Kartvelian	1	0.6579	2	0.6579
+gera1247	Gera-Geruma-Kubi-Deno	Afro-Asiatic	8	0.566	2	0.566
+gera1248	Gera-Geruma	Afro-Asiatic	9	0.4897	1	0.4897
+germ1287	Germanic	Indo-European	2	0.6124	66	0.6124
+gese1239	Seran Laut	Austronesian	4	0.7004	7	0.7004
+ghal1246	Ghale	Sino-Tibetan	4	0.3991	2	0.3991
+ghal1247	Ghale-Tamangic	Sino-Tibetan	3	0.6614	27	0.6614
+ghan1246	Ghanongga-Lungga	Austronesian	12	0.1911	1	0.1911
+gido1236	Gidole-Bussa	Afro-Asiatic	8	0.574	1	0.574
+giim1238	Giimbiyu	Giimbiyu	0	0.3277	2	0.3277
+giky1239	Gikyode-Ginyanga	Atlantic-Congo	10	0.4512	1	0.4512
+gira1248	Gira-Neko-Nekgini	Nuclear Trans New Guinea	4	0.8619	1	0.8619
+glob1241	Global Dutch	Indo-European	8	0.3843	1	0.3843
+glob1242	Global South Bavarian	Indo-European	10	0.4094	1	0.4094
+goam1234	Goam	Ramu	1	0.8238	16	0.8238
+gogo1264	Gogodalic	Suki-Gogodala	1	0.6165	2	0.6165
+goid1240	Goidelic	Indo-European	6	0.6011	3	0.6011
+goli1246	Golinic	Nuclear Trans New Guinea	4	0.6311	2	0.6311
+gond1265	Gondi	Dravidian	3	0.425	18	0.425
+gong1255	Ta-Ne-Omotic	Ta-Ne-Omotic	0	0.7671	87	0.7671
+gong1256	Kefoid	Ta-Ne-Omotic	1	0.555	5	0.555
+gonj1242	Gonja-Dompo	Atlantic-Congo	8	0.6063	1	0.6063
+gora1267	Gorani	Indo-European	9	0.45	1	0.45
+gore1234	Gore	Central Sudanic	7	0.5563	1	0.5563
+goro1257	Gorontalo-Mongondow	Austronesian	3	0.592	7	0.592
+goro1272	Goroka	Nuclear Trans New Guinea	2	0.8553	25	0.8553
+goro1273	Gorontalic	Austronesian	4	0.6066	21	0.6066
+goul1243	Inland Bua	Atlantic-Congo	5	0.6729	2	0.6729
+goul1244	Goulaic	Atlantic-Congo	6	0.6979	1	0.6979
+gour1248	Gourmantche-Moba	Atlantic-Congo	13	0.5368	1	0.5368
+gran1246	Grand Valley Dani	Nuclear Trans New Guinea	3	0.4749	5	0.4749
+grea1241	Great Andamanese	Great Andamanese	0	0.7433	26	0.7433
+grea1275	Greater Awyu	Nuclear Trans New Guinea	3	0.8488	39	0.8488
+grea1276	Greater Quichean	Mayan	3	0.4767	29	0.4767
+grea1277	Greater Mamean	Mayan	3	0.5821	4	0.5821
+grea1283	Greater Barito linkage	Austronesian	3	0.713	200	0.713
+grea1284	Greater Central Philippine	Austronesian	2	0.5907	200	0.5907
+grea1285	Tamar	Sino-Tibetan	5	0.5252	7	0.5252
+grea1287	Greater Luyana	Atlantic-Congo	7	0.2582	3	0.2582
+grea1288	Bantu B20A	Atlantic-Congo	7	0.6214	6	0.6214
+grea1289	Great Lakes Bantu	Atlantic-Congo	8	0.6503	200	0.6503
+grea1291	Greater Luyia	Atlantic-Congo	9	0.5386	10	0.5386
+grea1293	Greater Dusunic	Austronesian	5	0.4866	79	0.4866
+grea1294	Greater Murutic	Austronesian	5	0.3594	23	0.3594
+grea1295	Greater Chuanqiandian	Hmong-Mien	5	0.7009	74	0.7009
+grea1296	Greater Zenatic	Afro-Asiatic	2	0.4914	14	0.4914
+grea1297	Greater West Sogeram	Nuclear Trans New Guinea	6	0.8549	2	0.8549
+grea1298	Greater Northern Adelbert	Nuclear Trans New Guinea	3	0.9351	42	0.9351
+grea1299	Greater Eastern Celebic	Austronesian	3	0.6764	200	0.6764
+grea1302	Greater Seram Laut	Austronesian	2	0.7721	12	0.7721
+grea1304	Greater Yaganon	Nuclear Trans New Guinea	3	0.9033	3	0.9033
+grea1305	Greater West Rift South Cushitic	Afro-Asiatic	3	0.8242	4	0.8242
+greb1257	Grebo	Kru	4	0.5648	2	0.5648
+greb1258	Grebo-Aizi	Kru	3	0.7741	3	0.7741
+gree1276	Greek	Indo-European	3	0.7386	3	0.7386
+gres1241	Gresi-Kemtuik	Nimboranic	3	0.3258	1	0.3258
+grus1239	Grusi	Atlantic-Congo	6	0.8348	80	0.8348
+guad1241	Guadalcanal-Nggelic	Austronesian	5	0.4437	10	0.4437
+guah1252	Guahiboan	Guahiboan	0	0.6084	4	0.6084
+guah1253	Central Guahibo	Guahiboan	2	0.4157	2	0.4157
+guah1254	Guahibo-Playero	Guahiboan	3	0.3791	1	0.3791
+guai1249	Guaicuruan	Guaicuruan	0	0.9092	4	0.9092
+guai1250	Guaicuru del Sur	Guaicuruan	1	0.9249	3	0.9249
+guaj1257	Guajiro-Paraujano	Arawakan	2	0.6647	1	0.6647
+guaj1258	Guaja-Kaapor-Ava	Tupian	6	0.4535	3	0.4535
+guan1278	Guang	Atlantic-Congo	6	0.6923	33	0.6923
+guay1266	Guaymiic	Chibchan	4	0.8212	1	0.8212
+guda1245	Ngurlun	Mirndi	1	0.6892	1	0.6892
+gude1247	Gudeic	Afro-Asiatic	5	0.7388	17	0.7388
+gude1248	Gude-Jimi-Zizilivakan	Afro-Asiatic	6	0.5554	5	0.5554
+gudu1253	Gudufic	Afro-Asiatic	7	0.4566	1	0.4566
+guer1245	Guerrero Mixtec	Otomanguean	6	0.5057	1	0.5057
+guia1242	Guianan	Cariban	1	0.633	9	0.633
+guin1259	Guinea Coast Creole English	Indo-European	11	0.363	70	0.363
+guiy1235	Guiyang	Hmong-Mien	6	0.7263	1	0.7263
+guja1255	Gujarati-Rajasthani	Indo-European	8	0.6584	26	0.6584
+guja1256	Gujaratic	Indo-European	9	0.7549	1	0.7549
+gulf1238	Gulf Zoque	Mixe-Zoque	2	0.3351	2	0.3351
+gumb1242	Gumbaynggiric	Pama-Nyungan	3	0.5872	1	0.5872
+gumm1240	Gum	Nuclear Trans New Guinea	4	0.5202	12	0.5202
+guno1235	Gunong	Sino-Tibetan	2	0.6247	1	0.6247
+gunw1250	Gunwinyguan	Gunwinyguan	0	0.8908	40	0.8908
+gura1261	Gur	Atlantic-Congo	3	0.9146	192	0.9146
+guri1250	Eastern Ngumpin	Pama-Nyungan	4	0.5722	2	0.5722
+gurm1247	Gurma-Yom-Oti-Volta Occidental	Atlantic-Congo	9	0.7527	129	0.7527
+gurm1248	Gurma-Yom-Naudem	Atlantic-Congo	10	0.7514	13	0.7514
+gurm1249	Gurma	Atlantic-Congo	11	0.7029	10	0.7029
+gurm1250	Gurma B	Atlantic-Congo	12	0.574	6	0.574
+guro1245	Mano-Dan	Mande	3	0.4163	3	0.4163
+guro1246	Guro-Dan	Mande	4	0.565	2	0.565
+guro1247	Guro-Yaoure	Mande	5	0.2153	1	0.2153
+guru1260	Gurungic	Sino-Tibetan	5	0.5499	7	0.5499
+guru1272	Guruntumic	Afro-Asiatic	6	0.7132	7	0.7132
+gusa1245	Gusap-Mot	Nuclear Trans New Guinea	3	0.7705	8	0.7705
+gusi1245	Gusilay-Bandial	Atlantic-Congo	6	0.3505	1	0.3505
+guto1244	Gutob-Remo	Austroasiatic	2	0.5361	1	0.5361
+guya1252	Guyanic Creole French	Indo-European	16	0.233	1	0.233
+gwic1236	Gwichin-Han	Athabaskan-Eyak-Tlingit	4	0.7779	1	0.7779
+hadi1241	Hadiyya-Kambaata	Afro-Asiatic	5	0.5041	4	0.5041
+hadi1242	Hadiyyaic	Afro-Asiatic	6	0.1778	1	0.1778
+haek1241	Haeke-Bwatoo	Austronesian	12	0.1316	1	0.1316
+hage1248	Hagen	Nuclear Trans New Guinea	2	0.4331	4	0.4331
+haid1248	Haida	Haida	0	0.3456	1	0.3456
+hali1243	Haliaic	Austronesian	12	0.4828	1	0.4828
+hame1241	Hamer-Karo	South Omotic	2	0.3936	1	0.3936
+hani1249	Hani-Jino	Sino-Tibetan	4	0.6149	10	0.6149
+hani1250	Hanic	Sino-Tibetan	6	0.5879	14	0.5879
+hans1243	Hanseman	Nuclear Trans New Guinea	4	0.6532	143	0.6532
+hara1260	Harakmbut	Harakmbut	0	0.548	1	0.548
+hara1270	Harari-East Gurage	Afro-Asiatic	5	0.5091	3	0.5091
+hare1243	Slaveyic	Athabaskan-Eyak-Tlingit	4	0.5405	2	0.5405
+hary1239	Haryanvic	Indo-European	10	0.2709	2	0.2709
+hash1239	Hasha-Sambe	Atlantic-Congo	5	0.6872	1	0.6872
+hatu1244	Saparuan	Austronesian	9	0.4865	2	0.4865
+hatu1247	Hatuhaha	Austronesian	8	0.5827	3	0.5827
+hawu1234	Hawu-Dhao	Austronesian	4	0.5338	1	0.5338
+haya1251	Ha-Ya	Sino-Tibetan	7	0.2758	1	0.2758
+head1239	Headwaters Pano	Pano-Tacanan	4	0.5844	7	0.5844
+hebr1246	Hebrewic	Afro-Asiatic	6	0.4732	1	0.4732
+heib1242	Heibanic	Heibanic	0	0.771	16	0.771
+here1250	Her-Ejamat	Atlantic-Congo	8	0.5541	1	0.5541
+here1252	Herero (R.30)	Atlantic-Congo	11	0.8563	1	0.8563
+hewa1240	Hewa-April River	Sepik	3	0.8079	3	0.8079
+heyo1241	Heyo-Yahang	Nuclear Torricelli	2	0.6237	1	0.6237
+high1272	Highland Phula	Sino-Tibetan	6	0.5214	1	0.5214
+high1285	Highland East Cushitic	Afro-Asiatic	3	0.626	6	0.626
+high1286	Upper German	Indo-European	6	0.4145	9	0.4145
+high1287	West Middle German	Indo-European	7	0.3666	6	0.3666
+high1288	Highland Kenyah	Austronesian	5	0.5648	1	0.5648
+high1289	High German	Indo-European	5	0.4057	90	0.4057
+high1292	South Sumatra Malay	Austronesian	5	0.2661	1	0.2661
+higi1241	Higic	Afro-Asiatic	4	0.6186	5	0.6186
+higi1242	Nkafa-Kirya	Afro-Asiatic	6	0.5639	1	0.5639
+hill1256	Hill South Guang	Atlantic-Congo	8	0.5077	1	0.5077
+hill1257	South Bastar Gondi-Koya	Dravidian	5	0.4005	1	0.4005
+hima1249	Himalayish	Sino-Tibetan	1	0.8288	34	0.8288
+hima1250	Himachali	Indo-European	6	0.3778	32	0.3778
+himb1234	Himba-Pinji	Atlantic-Congo	10	0.2264	1	0.2264
+hind1270	Hindustani	Indo-European	10	0.4226	1	0.4226
+hind1271	Hindko	Indo-European	10	0.1689	1	0.1689
+hind1274	Hindko-Siraiki	Indo-European	9	0.226	2	0.226
+hiwl1234	Hiw-Lo-Toga	Austronesian	7	0.5235	1	0.5235
+hlai1238	Hlaic	Tai-Kadai	1	0.7383	2	0.7383
+hmar1240	Hmaric	Sino-Tibetan	6	0.469	1	0.469
+hmon1336	Hmong-Mien	Hmong-Mien	0	0.8452	120	0.8452
+hmon1337	Hmongic	Hmong-Mien	1	0.7907	44	0.7907
+hoav1239	Hoava-Kusaghe	Austronesian	12	0.1797	1	0.1797
+hoby1243	Hobyot-Western MSA	Afro-Asiatic	4	0.5225	3	0.5225
+holu1246	Holu (K.10)	Atlantic-Congo	10	0.5906	3	0.5906
+homu1234	Ho-Mundari	Austroasiatic	5	0.2424	1	0.2424
+hong1247	Hongshui He	Tai-Kadai	7	0.3346	2	0.3346
+horo1248	Horom-Fyem	Atlantic-Congo	5	0.5187	1	0.5187
+horp1240	Horpa	Sino-Tibetan	7	0.6226	1	0.6226
+hote1244	Misim-Yamap	Austronesian	8	0.493	1	0.493
+houa1234	Houailou	Austronesian	9	0.6906	3	0.6906
+hovo1240	Hovongan-Kereho	Austronesian	6	0.2139	1	0.2139
+hozo1235	Hozo-Seze	Blue Nile Mao	2	0.5239	1	0.5239
+hres1236	Hre-Sedang-Todrah-Monam	Austroasiatic	3	0.4491	2	0.4491
+hres1237	Hre-Sedang	Austroasiatic	4	0.4439	1	0.4439
+huaa1247	Hua	Tuu	1	0.7545	1	0.7545
+huam1250	Far Western Miao	Hmong-Mien	8	0.5086	6	0.5086
+huam1251	Huambisa-Shuar	Chicham	2	0.2838	1	0.2838
+huas1241	Huastecan Mayan	Mayan	1	0.3939	1	0.3939
+huas1257	Huasteca Nahuatl	Uto-Aztecan	5	0.218	3	0.218
+huav1256	Huavean	Huavean	0	0.4683	2	0.4683
+huay1239	Huaylay	Quechuan	3	0.2042	3	0.2042
+huit1251	Huitotoan	Huitotoan	0	0.7845	6	0.7845
+hula1245	Hula-Keapara	Austronesian	9	0.3562	1	0.3562
+hume1245	Humene-Kwale	Kwalean	1	0.5538	1	0.5538
+hund1240	Hunde-Havu	Atlantic-Congo	12	0.5032	1	0.5032
+hung1281	Hungan-Samba	Atlantic-Congo	14	0.543	1	0.543
+hunt1235	Hunter-Hastings	Pama-Nyungan	5	0.7664	1	0.7664
+huon1245	Huon Gulf	Austronesian	6	0.9068	200	0.9068
+huon1246	Huon	Nuclear Trans New Guinea	2	0.8317	93	0.8317
+huon1247	Huon Tip	Nuclear Trans New Guinea	5	0.736	8	0.736
+hupy1235	Hup-Yuhup	Naduhup	2	0.3285	1	0.3285
+hurz1242	Hurza	Afro-Asiatic	3	0.5842	1	0.5842
+hyam1246	Hyamic	Atlantic-Congo	6	0.5654	1	0.5654
+hyen1234	Hyenghene	Austronesian	11	0.1859	1	0.1859
+iban1263	Ibanic	Austronesian	4	0.4192	4	0.4192
+iban1268	Ibanagic	Austronesian	4	0.3946	9	0.3946
+iban1269	Iban-Mualang-Seberuang	Austronesian	5	0.3226	3	0.3226
+iban1270	Iban-Seberuang	Austronesian	6	0.3326	2	0.3326
+ibin1242	Ibino-Iko	Atlantic-Congo	7	0.1842	1	0.1842
+ibuo1244	Ibuoro-ItuMbuso	Atlantic-Congo	9	0.1151	1	0.1151
+icel1246	Icelandic-Faroese	Indo-European	6	0.3988	1	0.3988
+ifug1247	Ifugaw	Austronesian	7	0.3888	3	0.3888
+igbo1258	Igboid	Atlantic-Congo	3	0.6666	5	0.6666
+igbo1259	Nuclear Igboid	Atlantic-Congo	4	0.5685	7	0.5685
+ijoi1239	Ijoid	Ijoid	0	0.7498	9	0.7498
+ijoo1239	Ijo	Ijoid	1	0.4858	20	0.4858
+imba1241	Imbabura-Colombia-Oriente Quechua	Quechuan	3	0.1744	5	0.1744
+impe1234	Imperial Latin	Indo-European	5	0.6476	51	0.6476
+impf1234	Impfondoic	Atlantic-Congo	10	0.48	1	0.48
+inan1242	Inanwatanic	South Bird's Head	1	0.647	1	0.647
+indo1310	Indo-Aryan Northern zone	Indo-European	7	0.4636	4	0.4636
+indo1319	Indo-European	Indo-European	0	0.925	193	0.925
+indo1320	Indo-Iranian	Indo-European	2	0.8382	192	0.8382
+indo1321	Indo-Aryan	Indo-European	3	0.7278	199	0.7278
+indo1322	Indo-Aryan Central zone	Indo-European	8	0.6151	77	0.6151
+indo1323	Indo-Aryan Eastern zone	Indo-European	6	0.4916	11	0.4916
+indu1240	Indus Kohistanic	Indo-European	8	0.4146	2	0.4146
+iner1234	Ineric	Arawakan	3	0.761	2	0.761
+inla1259	Inland Ijo	Ijoid	3	0.3447	2	0.3447
+inla1262	Inland Gulf of Papua	Anim	1	0.844	2	0.844
+inla1265	Inland Tsamosan	Salishan	3	0.3868	1	0.3868
+inla1267	Inland Min	Sino-Tibetan	3	0.5831	1	0.5831
+inla1268	Inland Bandjalang	Pama-Nyungan	5	0.3959	1	0.3959
+inla1273	Inland-Western Malagasic	Austronesian	9	0.3614	4	0.3614
+inla1274	Inland Minjim	Nuclear Trans New Guinea	5	0.4613	1	0.4613
+inne1244	Inner Sulu Sama	Austronesian	6	0.2058	3	0.2058
+inne1246	Inner Basin Bantu	Atlantic-Congo	8	0.7698	143	0.7698
+inor1239	Peripheral Western Gurage	Afro-Asiatic	7	0.6589	1	0.6589
+insu1254	Insular Celtic	Indo-European	5	0.85	12	0.85
+inte1241	Interior Salish	Salishan	1	0.7588	15	0.7588
+inte1258	Interior Bungku-Tolaki	Austronesian	8	0.1496	3	0.1496
+inte1264	Interior Kasai-Ngounie	Atlantic-Congo	15	0.6072	25	0.6072
+inui1246	Inuit	Eskimo-Aleut	2	0.5112	9	0.5112
+inup1234	Alaskan Inupiaq	Eskimo-Aleut	3	0.262	1	0.262
+iqui1244	Iquito-Arabela	Zaparoan	1	0.7459	3	0.7459
+iran1269	Iranian	Indo-European	4	0.6946	197	0.6946
+iran1271	Iranian-Nuristani	Indo-European	3	0.8434	195	0.8434
+iraq1240	Iraqwoid	Afro-Asiatic	6	0.3113	1	0.3113
+iroq1247	Iroquoian	Iroquoian	0	0.9463	8	0.9463
+iroq1249	Iroquois	Iroquoian	4	0.4745	9	0.4745
+irul1245	Irula-Muduga	Dravidian	7	0.5152	2	0.5152
+isla1279	Island Carib-Garifuna	Arawakan	4	0.485	1	0.485
+isla1281	Island Kaili-Wolio	Austronesian	5	0.467	2	0.467
+isle1246	Isle-de-France Creole	Indo-European	15	0.2375	1	0.2375
+isth1243	Isthmic Chibchan	Chibchan	2	0.8921	16	0.8921
+isth1245	Isthmus Nahuatl	Uto-Aztecan	6	0.3592	3	0.3592
+isth1246	Isthmus-Pipil Nahuatl	Uto-Aztecan	5	0.4147	3	0.4147
+ital1285	Italo-Western Romance	Indo-European	7	0.6192	200	0.6192
+ital1286	Italo-Dalmatian	Indo-European	8	0.571	7	0.571
+ital1287	Italian Romance	Indo-European	9	0.5065	17	0.5065
+iten1244	Beromic	Atlantic-Congo	4	0.8134	3	0.8134
+iten1245	Iten-Cara-Berom	Atlantic-Congo	5	0.7865	2	0.7865
+iter1240	Iteri-Bo	Left May	2	0.7201	1	0.7201
+ivor1240	Ivorian Grebo	Kru	5	0.4029	1	0.4029
+iwai1246	Iwaidjan Proper	Iwaidjan Proper	0	0.7441	3	0.7441
+iwam1259	Iwam-Wogamus	Sepik	1	0.919	4	0.919
+iwam1260	Iwamic	Sepik	2	0.4125	1	0.4125
+ixca1247	Ixcatec-Chocho-Popolocan	Otomanguean	4	0.6576	5	0.6576
+ixil1250	Ixilan	Mayan	4	0.4693	1	0.4693
+izer1242	Izeric	Atlantic-Congo	7	0.4569	4	0.4569
+jaad1234	Jaad	Atlantic-Congo	2	0.7258	1	0.7258
+jabu1249	Jabuti	Nuclear-Macro-Je	1	0.5812	1	0.5812
+jaku1245	Jaku-Gubi	Atlantic-Congo	7	0.5479	1	0.5479
+jala1236	Jala	Gunwinyguan	1	0.6764	1	0.6764
+japo1237	Japonic	Japonic	0	0.6024	10	0.6024
+jara1244	Jarawa-Onge	Jarawa-Onge	0	0.5261	1	0.5261
+jara1262	Jarawan	Atlantic-Congo	5	0.718	6	0.718
+jara1275	Jarawaic	Atlantic-Congo	8	0.2961	1	0.2961
+jarr1235	Jarrakan	Jarrakan	0	0.8006	1	0.8006
+jauj1237	Jauja-Huanca	Quechuan	3	0.1318	1	0.1318
+java1253	Javanesic	Austronesian	2	0.5257	2	0.5257
+jaya1243	Jayapura Bay	Austronesian	7	0.673	2	0.673
+jece1235	Central Je	Nuclear-Macro-Je	3	0.5855	1	0.5855
+jeee1236	Je	Nuclear-Macro-Je	1	0.9339	18	0.9339
+jehh1246	Jeh-Halang	Austroasiatic	4	0.302	1	0.302
+jenn1241	Jen	Atlantic-Congo	6	0.4655	2	0.4655
+jeri1241	Jeri	Mande	6	0.4784	1	0.4784
+jese1235	Goyaz	Nuclear-Macro-Je	3	0.7018	6	0.7018
+jibu1240	Jibu-Wase	Atlantic-Congo	7	0.5469	2	0.5469
+jibu1241	Jibuic	Atlantic-Congo	8	0.5708	1	0.5708
+jili1242	Jilic-Eggonic	Atlantic-Congo	4	0.8679	4	0.8679
+jili1243	Jilic	Atlantic-Congo	5	0.3485	1	0.3485
+jimi1245	Jimi	Nuclear Trans New Guinea	2	0.7632	2	0.7632
+jing1259	Jingpho-Luish	Sino-Tibetan	2	0.7364	5	0.7364
+jing1260	Jingpho	Sino-Tibetan	3	0.2202	1	0.2202
+jion1235	Jiongnai-Ho Ne	Hmong-Mien	3	0.5286	1	0.5286
+jiva1245	Chicham	Chicham	0	0.3399	3	0.3399
+jogo1241	Jogo-Jeri	Mande	5	0.4418	2	0.4418
+jola1264	Jola	Atlantic-Congo	5	0.688	29	0.688
+jool1234	Joola-Manjaku	Atlantic-Congo	4	0.9199	30	0.9199
+josa1234	Jos	Atlantic-Congo	7	0.7691	34	0.7691
+juku1256	Ju-Kung	Kxa	1	0.5715	3	0.5715
+juku1257	Jukunoid	Atlantic-Congo	3	0.8382	6	0.8382
+juku1258	Jukun-Mbembe-Wurbo	Atlantic-Congo	5	0.7902	5	0.7902
+juku1259	Jukun	Atlantic-Congo	6	0.5705	6	0.5705
+kabe1245	Kabenau	Nuclear Trans New Guinea	3	0.7836	10	0.7836
+kabi1265	Kabiyeic	Atlantic-Congo	9	0.5929	3	0.5929
+kabu1258	Kaburic	South Bird's Head	2	0.7293	3	0.7293
+kaby1244	Kabyle-Atlas Berber	Afro-Asiatic	2	0.4261	4	0.4261
+kada1291	Kadaic	Tai-Kadai	1	0.8041	43	0.8041
+kada1292	Kadazan-Sugut-Minokok	Austronesian	7	0.4083	2	0.4083
+kadu1256	Kadugli-Krongo	Kadugli-Krongo	0	0.5607	5	0.5607
+kaer1235	Kaera-Straits	Timor-Alor-Pantar	4	0.6505	3	0.6505
+kafu1239	Kafue	Atlantic-Congo	10	0.2885	6	0.2885
+kaga1259	Kagan-Kalagan	Austronesian	6	0.1167	1	0.1167
+kaie1238	Kaiep-Terebu	Austronesian	9	0.5367	1	0.5367
+kaik1248	Kaike-Ghale-Tamangic	Sino-Tibetan	2	0.6876	11	0.6876
+kail1254	Greater Kaili	Austronesian	5	0.3452	14	0.3452
+kail1255	Kaili-Wolio	Austronesian	3	0.5731	44	0.5731
+kain1270	Kaingang-Xokleng	Nuclear-Macro-Je	3	0.5437	1	0.5437
+kain1273	Kainantu-Goroka	Nuclear Trans New Guinea	1	0.9416	126	0.9416
+kain1274	Kainantu	Nuclear Trans New Guinea	2	0.8952	20	0.8952
+kain1275	Kainji	Atlantic-Congo	3	0.897	99	0.897
+kain1276	Kainji Lake	Atlantic-Congo	4	0.8242	2	0.8242
+kair1261	Kairiru-Manam	Austronesian	7	0.6811	15	0.6811
+kair1262	Kairiruic linkage	Austronesian	8	0.643	2	0.643
+kaja1255	Kajang	Austronesian	5	0.4382	2	0.4382
+kaja1256	Kajaman-Lahanan	Austronesian	6	0.4702	1	0.4702
+kaka1266	Kakabai linkage	Austronesian	8	0.4715	1	0.4715
+kaki1245	Nikio	Ijoid	3	0.4022	3	0.4022
+kaki1246	Kio Ijo	Ijoid	4	0.2685	3	0.2685
+kaku1242	Kakua-Nukak	Kakua-Nukak	0	0.5609	1	0.5609
+kala1389	Kalamian	Austronesian	4	0.3615	1	0.3615
+kala1402	Kalapuyan	Kalapuyan	0	0.4566	3	0.4566
+kala1403	Kalamic-South Adelbert	Nuclear Trans New Guinea	2	0.9374	30	0.9374
+kala1404	Kalam-Kobon	Nuclear Trans New Guinea	3	0.6827	1	0.6827
+kala1410	Kalasa	Nuclear Trans New Guinea	4	0.702	1	0.702
+kale1246	Kalenjin	Nilotic	2	0.5637	42	0.5637
+kali1298	Kaliai-Kove	Austronesian	9	0.1991	1	0.1991
+kali1307	Kalispel-Spokane	Salishan	4	0.2941	1	0.2941
+kali1310	Kalinga-Itneg	Austronesian	6	0.3656	6	0.3656
+kali1311	Kalinga	Austronesian	7	0.3495	9	0.3495
+kali1312	Kalikoic	Central Sudanic	4	0.4272	1	0.4272
+kall1244	Kalanguya	Austronesian	8	0.5891	1	0.5891
+kalu1249	Kaluli-Sunia	Bosavi	2	0.5968	1	0.5968
+kama1374	Kamano-Yagaria	Nuclear Trans New Guinea	5	0.7039	8	0.7039
+kama1375	Kamara-Hanga	Atlantic-Congo	13	0.5309	1	0.5309
+kama1376	Kamas-Selkup	Uralic	2	0.6796	1	0.6796
+kamb1317	Kambari-Cicipu	Atlantic-Congo	5	0.6785	3	0.6785
+kamb1318	Kambaataic	Afro-Asiatic	6	0.468	1	0.468
+kamb1319	Kambaric	Atlantic-Congo	6	0.2992	2	0.2992
+kamb1320	Central-East Sumbanese	Austronesian	5	0.3923	5	0.3923
+kamb1321	Kambakunyic Kikongo	Atlantic-Congo	16	0.5324	13	0.5324
+kamb1323	Kamba-Dhaisu	Atlantic-Congo	9	0.5592	1	0.5592
+kami1255	Kamic	Tai-Kadai	4	0.4581	2	0.4581
+kami1263	Kami-Gupa	Atlantic-Congo	8	0.3402	1	0.3402
+kamp1244	Kampa-Amuesha	Arawakan	2	0.9154	10	0.9154
+kams1241	Kam-Sui	Tai-Kadai	2	0.6167	24	0.6167
+kamt1240	Kamrupa	Indo-European	9	0.4173	2	0.4173
+kamt1241	Kam-Tai	Tai-Kadai	1	0.7923	198	0.7923
+kamu1261	Kamuku-Hungwarya	Atlantic-Congo	6	0.5698	4	0.5698
+kamu1262	Kamuku	Atlantic-Congo	7	0.5918	3	0.5918
+kamu1264	Kamula-Elevala	Kamula-Elevala	0	0.8586	2	0.8586
+kana1292	Kanakanavu-Saaroa	Austronesian	2	0.6261	1	0.6261
+kand1306	Kandawo-Narak	Nuclear Trans New Guinea	3	0.4128	1	0.4128
+kand1307	Kandas-Duke of York	Austronesian	8	0.3983	1	0.3983
+kang1292	Kangric-Chamealic-Bhattiyali	Indo-European	7	0.4927	1	0.4927
+kanj1261	Kanjobalan-Chujean	Mayan	3	0.5172	8	0.5172
+kanj1262	Kanjobalan	Mayan	4	0.357	3	0.357
+kanj1263	Kanjobal-Jacaltec	Mayan	5	0.3359	3	0.3359
+kank1245	Kankanay	Austronesian	8	0.2793	1	0.2793
+kann1259	Kannadoid	Dravidian	5	0.5335	9	0.5335
+kanu1279	Kanuri-Kanembu	Saharan	2	0.3287	2	0.3287
+kanu1280	Kanum	Yam	1	0.5148	3	0.5148
+kanu1281	Kanuric	Saharan	3	0.3059	1	0.3059
+kanu1282	Kanufi-Ninkyob-Angan	Atlantic-Congo	5	0.4388	1	0.4388
+kaon1242	Kaonde-Shaba-Sanga	Atlantic-Congo	9	0.3217	3	0.3217
+kaor1242	Kao River	North Halmahera	3	0.5037	1	0.5037
+kapa1251	Kapau-Menya	Angan	2	0.4095	1	0.4095
+kapt1236	Kaptiau-Tarpia	Austronesian	8	0.5763	1	0.5763
+kara1477	Karangic	Atlantic-Congo	6	0.3821	3	0.3821
+kara1479	Karaboro	Atlantic-Congo	4	0.5093	1	0.5093
+kara1498	Karawarian	Lower Sepik	1	0.726	1	0.726
+karb1240	Karbic	Sino-Tibetan	2	0.155	1	0.155
+kare1337	Karenic	Sino-Tibetan	1	0.6946	86	0.6946
+kari1319	Karian-Usan-Yaben	Nuclear Trans New Guinea	6	0.5631	3	0.5631
+karn1253	Karnic	Pama-Nyungan	1	0.802	19	0.802
+karo1293	Karon-Mlomp	Atlantic-Congo	9	0.2869	1	0.2869
+karr1237	Karre-Boni	Afro-Asiatic	8	0.4377	1	0.4377
+kart1248	Kartvelian	Kartvelian	0	0.8605	3	0.8605
+kart1249	Kartu-Nhanda	Pama-Nyungan	2	0.6817	2	0.6817
+kart1250	Kartu	Pama-Nyungan	3	0.6307	1	0.6307
+kasa1251	Kasai-Ngounie	Atlantic-Congo	13	0.6952	86	0.6952
+kash1285	Kashmiric	Indo-European	6	0.6623	1	0.6623
+kata1264	Katang	Austroasiatic	5	0.2625	1	0.2625
+kata1275	Katabic	Atlantic-Congo	7	0.6131	1	0.6131
+katc1251	Katcha-Kadugli-Miri-Kanga	Kadugli-Krongo	2	0.3445	1	0.3445
+kate1254	Kate-Mape	Nuclear Trans New Guinea	6	0.4866	1	0.4866
+katl1246	Katla-Tima	Katla-Tima	0	0.7484	1	0.7484
+kato1245	Ka-Togo	Atlantic-Congo	3	0.8695	20	0.8695
+katu1271	Katuic	Austroasiatic	1	0.4876	43	0.4876
+katu1272	Katu	Austroasiatic	2	0.3899	1	0.3899
+katu1274	Katukinan	Katukinan	0	0.8831	1	0.8831
+kauk1240	Kaukombaran	Nuclear Trans New Guinea	5	0.672	6	0.672
+kauk1241	Kaukasus Kipchak	Turkic	6	0.21	1	0.21
+kaur1268	Kauru	Atlantic-Congo	8	0.8244	1	0.8244
+kaur1274	Kaure-Kosare	Kaure-Kosare	0	0.8625	1	0.8625
+kawa1296	Kawahiva	Tupian	6	0.576	11	0.576
+kaya1317	Kayah	Sino-Tibetan	4	0.5747	1	0.5747
+kaya1327	Kayagaric	Kayagaric	0	0.6378	2	0.6378
+kaya1333	Kayanic	Austronesian	5	0.293	5	0.293
+kaya1335	Kayan-Murik-Modang	Austronesian	3	0.7647	10	0.7647
+kaya1336	Kayan-Murik	Austronesian	4	0.5988	4	0.5988
+kaya1337	Kayah-Yintale	Sino-Tibetan	3	0.5646	2	0.5646
+kayg1237	Kaygir-Tamagario	Kayagaric	1	0.4178	1	0.4178
+kebu1246	Kebu-Animere	Atlantic-Congo	4	0.6393	1	0.6393
+keda1253	Northeastern Peninsular Malay	Austronesian	6	0.4603	1	0.4603
+keif1237	Kei-Fordata	Austronesian	4	0.4732	1	0.4732
+keit1238	Nuclear Tanimbar-Bomberai	Austronesian	3	0.6477	8	0.6477
+kela1257	Dayic	Austronesian	4	0.4979	6	0.4979
+kele1261	Keleic	Atlantic-Congo	9	0.7138	10	0.7138
+kele1263	Kele-Poke	Atlantic-Congo	10	0.776	23	0.776
+kele1265	Kele-Lombo	Atlantic-Congo	11	0.725	1	0.725
+kemb1251	Kemberanic	South Bird's Head	4	0.3387	1	0.3387
+kend1255	Kendem-Denya	Atlantic-Congo	6	0.3182	1	0.3182
+keny1280	Kenyahic	Austronesian	4	0.6515	8	0.6515
+kera1258	Keram	Keram	0	0.9009	6	0.9009
+kere1287	Keresan	Keresan	0	0.1636	1	0.1636
+keri1253	Kerinci-Minangkabau	Austronesian	6	0.5746	3	0.5746
+kesa1245	Kesawai-Wia	Nuclear Trans New Guinea	5	0.409	1	0.409
+ketu1239	Ketum-Wambon	Nuclear Trans New Guinea	6	0.7378	1	0.7378
+kewa1249	Kewa-Huli	Nuclear Trans New Guinea	2	0.7333	7	0.7333
+kewa1250	Kewa	Nuclear Trans New Guinea	5	0.419	2	0.419
+khal1273	Khalkha-Buriat	Mongolic-Khitan	3	0.589	9	0.589
+kham1285	Kham-Magar-Chepang	Sino-Tibetan	3	0.6764	12	0.6764
+kham1300	Khambu	Sino-Tibetan	5	0.4656	2	0.4656
+khan1271	Khandesic	Indo-European	7	0.4476	1	0.4476
+khao1243	Khao-Bit	Austroasiatic	4	0.6614	1	0.6614
+khas1268	Khasian	Austroasiatic	2	0.6784	3	0.6784
+khas1273	Khasi-Palaung	Austroasiatic	1	0.849	80	0.849
+khas1274	Khasi-Pnar-Lyngngam	Austroasiatic	3	0.5165	2	0.5165
+khas1275	Khasi-Pnar	Austroasiatic	4	0.4294	1	0.4294
+kher1245	Kherwarian	Austroasiatic	3	0.366	15	0.366
+khme1253	Khmeric	Austroasiatic	1	0.4472	1	0.4472
+khmu1236	Khmuic	Austroasiatic	1	0.725	5	0.725
+khob1235	Kho-Bwa	Sino-Tibetan	1	0.7972	5	0.7972
+khoe1240	Khoe-Kwadi	Khoe-Kwadi	0	0.8258	10	0.8258
+khoe1241	Khoe	Khoe-Kwadi	1	0.7017	21	0.7017
+khoe1242	Khoekhoe	Khoe-Kwadi	2	0.5433	2	0.5433
+khom1240	Khomic	Sino-Tibetan	4	0.3869	3	0.3869
+kiko1234	Kikongoic	Atlantic-Congo	15	0.6112	14	0.6112
+kiko1235	Kikongo Language Cluster	Atlantic-Congo	13	0.6348	34	0.6348
+kila1239	Kilaadic Kikongo	Atlantic-Congo	17	0.6111	22	0.6111
+kilb1234	Kilba-South Margi	Afro-Asiatic	7	0.314	1	0.314
+kili1266	Kilivilic	Austronesian	8	0.8301	2	0.8301
+kili1269	Kilimanjaro-Taita	Atlantic-Congo	8	0.6634	12	0.6634
+kili1270	Kilivila-Misima	Austronesian	7	0.8435	3	0.8435
+kili1271	Kilivila-Muyuw	Austronesian	9	0.5984	1	0.5984
+kima1245	Kimaama-Riantana	Kolopom	1	0.6836	1	0.6836
+kimb1240	Kim-Besme-Goundo	Atlantic-Congo	4	0.6065	3	0.6065
+kina1253	Kinalakna-Kumukio	Nuclear Trans New Guinea	6	0.3507	1	0.3507
+kinn1250	Kinnauric	Sino-Tibetan	4	0.5326	9	0.5326
+kion1241	Kiong-Korop	Atlantic-Congo	5	0.5035	1	0.5035
+kiow1265	Kiowa-Tanoan	Kiowa-Tanoan	0	0.7929	9	0.7929
+kipc1239	Kipchak	Turkic	3	0.3942	40	0.3942
+kipc1240	Kipchak-Turkestan	Turkic	2	0.4963	64	0.4963
+kira1253	Kiranti	Sino-Tibetan	3	0.7754	182	0.7754
+kire1239	Ruboni	Ramu	2	0.6055	2	0.6055
+kirf1234	Kirfi-Bele	Afro-Asiatic	9	0.6069	3	0.6069
+kirm1250	Kirma-Tyurama	Atlantic-Congo	6	0.492	1	0.492
+kirm1251	Kir-Mangas	Afro-Asiatic	7	0.315	1	0.315
+kisa1265	Kisaric	Austronesian	5	0.4456	1	0.4456
+kisa1269	Kisa-Marama-Tsotso	Atlantic-Congo	14	0.2026	1	0.2026
+kisi1244	Kisi-Pangwa	Atlantic-Congo	9	0.4914	1	0.4914
+kiss1245	Kissi	Atlantic-Congo	3	0.353	1	0.353
+kisw1234	Kis-Wogeo	Austronesian	9	0.7012	1	0.7012
+kivu1239	Kivu	Atlantic-Congo	10	0.4945	30	0.4945
+kiwa1251	Kiwaian	Kiwaian	0	0.5114	14	0.5114
+klce1234	KLC Extended	Atlantic-Congo	12	0.7731	59	0.7731
+kobi1240	Buy	Atlantic-Congo	4	0.4203	1	0.4203
+koch1249	Kochic	Sino-Tibetan	3	0.5007	3	0.5007
+kofy1243	Kofyar-Mushere-Chip	Afro-Asiatic	6	0.337	7	0.337
+kofy1244	Kofyaric	Afro-Asiatic	7	0.3484	3	0.3484
+kohi1251	Kohistani	Indo-European	7	0.5225	11	0.5225
+kohu1243	Kohumonoic	Atlantic-Congo	8	0.5548	3	0.5548
+koia1260	Koiarian	Koiarian	0	0.8017	12	0.8017
+koia1261	Koiaric	Koiarian	1	0.531	4	0.531
+koit1243	Koita-Koiari	Koiarian	2	0.4299	1	0.4299
+koiw1244	Koiwai-Irarutu	Austronesian	5	0.71	2	0.71
+koko1271	Kokon	Nuclear Trans New Guinea	4	0.7292	3	0.7292
+kola1242	Kolami-Naiki	Dravidian	2	0.3957	1	0.3957
+kola1286	East Alor	Timor-Alor-Pantar	2	0.7027	2	0.7027
+kole1239	Kole-Isubu	Atlantic-Congo	9	0.4298	1	0.4298
+kolh1241	Kolhrengic	Sino-Tibetan	4	0.3919	2	0.3919
+kolo1268	Kolopom	Kolopom	0	0.8151	2	0.8151
+koma1264	Koman	Koman	0	0.8448	3	0.8448
+koma1268	Koma Alantika	Atlantic-Congo	8	0.5829	1	0.5829
+komb1271	Kombio-Yambes	Nuclear Torricelli	2	0.6711	7	0.6711
+komb1275	Kombioic	Nuclear Torricelli	3	0.6485	3	0.6485
+komb1276	Kombio-Arapesh-Urat	Nuclear Torricelli	1	0.8738	29	0.8738
+komi1267	Komi	Uralic	2	0.2804	1	0.2804
+komi1276	Komisenian	Indo-European	8	0.278	3	0.278
+komk1239	Komic	Atlantic-Congo	10	0.3464	1	0.3464
+komo1265	Komoic	Atlantic-Congo	14	0.5466	11	0.5466
+kona1244	Kona	Atlantic-Congo	8	0.489	1	0.489
+kond1294	Konda-Kui	Dravidian	3	0.5551	4	0.5551
+kond1302	Konda-Yahadian	Konda-Yahadian	0	0.5777	1	0.5777
+konj1251	Konja-Mambila-Vute	Atlantic-Congo	7	0.7762	7	0.7762
+konk1271	Konkomba-Gangam	Atlantic-Congo	13	0.7033	1	0.7033
+kons1242	Konsoid	Afro-Asiatic	7	0.5507	2	0.5507
+kony1246	Patkaian	Sino-Tibetan	2	0.7103	15	0.7103
+kony1247	South Patkaian	Sino-Tibetan	3	0.7997	4	0.7997
+kony1249	North Patkaian	Sino-Tibetan	3	0.539	2	0.539
+kony1251	Konyak-Phom	Sino-Tibetan	6	0.4974	1	0.4974
+konz1238	Rwenzori	Atlantic-Congo	10	0.394	1	0.394
+koon1247	Koongo-Kituba	Atlantic-Congo	21	0.4067	1	0.4067
+kora1297	Korap linkage	Austronesian	8	0.3971	6	0.3971
+kord1246	Kordofan Nubian	Nubian	2	0.5526	5	0.5526
+kore1284	Koreanic	Koreanic	0	0.5047	1	0.5047
+kori1259	Koring-Kukele	Atlantic-Congo	7	0.5225	2	0.5225
+koro1301	Koroic	Atlantic-Congo	6	0.6297	5	0.6297
+koro1314	Koro-Lele-Nali-Titan	Austronesian	8	0.565	3	0.565
+koro1315	Koro-Koyaga	Mande	10	0.137	1	0.137
+koso1246	Kosorong-Burum-Mindik	Nuclear Trans New Guinea	6	0.6676	1	0.6676
+kosr1239	Kosraean-Nauruan	Austronesian	5	0.9032	1	0.9032
+kota1281	Kota-Mahongwe	Atlantic-Congo	9	0.4647	1	0.4647
+koti1239	Koti-Nathembo	Atlantic-Congo	8	0.27	1	0.27
+koto1265	Kotoko Septentrional	Afro-Asiatic	5	0.584	2	0.584
+koto1266	Koto-Olrat-Lakon	Austronesian	7	0.3882	1	0.3882
+koto1267	Kotoko-Buduma	Afro-Asiatic	4	0.7909	12	0.7909
+koto1269	Kotoko Septentrional 2	Afro-Asiatic	6	0.6468	1	0.6468
+kowa1247	Kowan	Nuclear Trans New Guinea	4	0.7503	1	0.7503
+koyo1244	Mboshi (C.20)	Atlantic-Congo	9	0.5761	2	0.5761
+koyo1245	Koyo-Mboshi	Atlantic-Congo	10	0.42	1	0.42
+koyu1238	Koyukonic	Athabaskan-Eyak-Tlingit	4	0.6095	3	0.6095
+kpel1252	Kpelle	Mande	4	0.4465	1	0.4465
+kpos1239	Kposo-Ahlo-Bowili	Atlantic-Congo	4	0.8232	3	0.8232
+kpwe1234	Bakweric	Atlantic-Congo	11	0.6864	1	0.6864
+kres1240	Kresh-Aja	Kresh-Aja	0	0.7119	1	0.7119
+krua1234	Kru	Kru	0	0.7573	64	0.7573
+kubo1241	Kubo-Samo-Bibo	East Strickland	1	0.4648	3	0.4648
+kugb1242	Kugboic	Atlantic-Congo	5	0.4027	1	0.4027
+kuik1244	Kui-Kuvi	Dravidian	5	0.5723	1	0.5723
+kuke1241	Kukele-Uzekwe	Atlantic-Congo	8	0.3371	1	0.3371
+kuki1245	Kuki-Chin-Naga	Sino-Tibetan	1	0.8119	200	0.8119
+kuki1246	Kuki-Chin	Sino-Tibetan	2	0.5774	200	0.5774
+kuku1277	Kuku-Wik	Pama-Nyungan	5	0.7193	2	0.7193
+kula1277	Kulango	Atlantic-Congo	5	0.5375	1	0.5375
+kula1283	Kulango-Lorom	Atlantic-Congo	4	0.6369	2	0.6369
+kula1284	Kulawi	Austronesian	6	0.1929	1	0.1929
+kuli1252	Kuliak	Kuliak	0	0.8297	2	0.8297
+kuli1256	Kulin-Bunganditj	Pama-Nyungan	3	0.7692	4	0.7692
+kulu1252	Kulungic	Sino-Tibetan	6	0.4382	1	0.4382
+kuma1279	Kuman-Dom-Gunaa	Nuclear Trans New Guinea	4	0.6144	1	0.6144
+kumi1249	Kumil	Nuclear Trans New Guinea	6	0.6871	3	0.6871
+kumi1250	Kumil-Tibor	Nuclear Trans New Guinea	5	0.8051	15	0.8051
+kuna1280	Kuna	Chibchan	4	0.3828	1	0.3828
+kune1234	Kunene	Atlantic-Congo	9	0.5512	26	0.5512
+kuni1270	Kunimaipan	Kunimaipan	0	0.8299	3	0.8299
+kura1251	Kura	Eastern Trans-Fly	2	0.8507	1	0.8507
+kurd1259	Kurdish	Indo-European	9	0.5241	3	0.5241
+kuri1270	Kuri	Pama-Nyungan	4	0.7655	4	0.7655
+kuru1300	Kurux-Malto	Dravidian	2	0.503	2	0.503
+kusw1234	Kuswaric	Indo-European	10	0.4376	3	0.4376
+kutu1267	Kutu-Zaramo	Atlantic-Congo	12	0.3525	1	0.3525
+kuya1251	Kuyan	Austronesian	6	0.3388	2	0.3388
+kuys1235	Kuy-Souei	Austroasiatic	3	0.3399	1	0.3399
+kwak1268	Kwakiutlan	Wakashan	2	0.4431	1	0.4431
+kwak1270	Kwa-Kasai North	Atlantic-Congo	14	0.6027	2	0.6027
+kwal1257	Kwalean	Kwalean	0	0.9134	2	0.9134
+kwam1257	Kwambi-Ndonga	Atlantic-Congo	12	0.3161	1	0.3161
+kwan1286	Kwanga-Mende	Sepik	2	0.5534	1	0.5534
+kwan1288	Kwangali-Diriku	Atlantic-Congo	10	0.3413	1	0.3413
+kwas1245	Kwasio-Gyele	Atlantic-Congo	11	0.651	1	0.651
+kwat1245	Kwatay-Karon-Mlomp	Atlantic-Congo	8	0.736	2	0.736
+kwav1236	Kwa Volta-Congo	Atlantic-Congo	2	0.9007	191	0.9007
+kwer1240	Kwerba-Samarokena	Greater Kwerba	1	0.7438	6	0.7438
+kwer1242	Greater Kwerba	Greater Kwerba	0	0.8549	3	0.8549
+kwer1262	Kwerbaic	Greater Kwerba	2	0.6932	1	0.6932
+kwer1266	Kwer-Kopkaka-Burumakok	Nuclear Trans New Guinea	5	0.3918	2	0.3918
+kwer1267	Kwer-Burumakok	Nuclear Trans New Guinea	6	0.2449	1	0.2449
+kwii1241	!Ui	Tuu	1	0.4458	3	0.4458
+kwil1238	Kwilu-Ngounie	Atlantic-Congo	12	0.7416	21	0.7416
+kwom1263	Kwomtari-Nai	Kwomtari-Nai	0	0.7347	1	0.7347
+kxaa1236	Kxa	Kxa	0	0.8685	3	0.8685
+kxoe1242	Kxoe-Ani	Khoe-Kwadi	4	0.3965	1	0.3965
+kyen1241	Kyenga-Shanga	Mande	5	0.3525	1	0.3525
+kyir1235	Kyirong-Kagate	Sino-Tibetan	8	0.4562	5	0.4562
+laal1244	Laali-Yaa	Atlantic-Congo	19	0.293	1	0.293
+labe1241	Label-Bilur	Austronesian	8	0.6893	1	0.6893
+lach1247	Lachic	Tai-Kadai	4	0.4742	1	0.4742
+lada1242	Western Archaic Tibetan	Sino-Tibetan	4	0.3054	2	0.3054
+lado1234	Ladogan	Uralic	5	0.4133	7	0.4133
+lago1243	Barupu Lagoon	Sko	2	0.427	3	0.427
+laha1249	Lahaulic	Sino-Tibetan	4	0.3298	1	0.3298
+laha1255	Lahauli-Spiti	Sino-Tibetan	6	0.3502	5	0.3502
+lahn1241	Greater Panjabic	Indo-European	8	0.4312	7	0.4312
+laic1236	Lai Chin	Sino-Tibetan	5	0.3109	3	0.3109
+lake1255	Lakes Plain	Lakes Plain	0	0.9335	77	0.9335
+lake1264	Lake Iroquoian	Iroquoian	2	0.6263	5	0.6263
+laki1246	Laki-Kurdish	Indo-European	8	0.6144	3	0.6144
+lakk1237	Lakkia-Biao	Tai-Kadai	2	0.816	1	0.816
+lama1273	Lamalamic	Pama-Nyungan	2	0.858	2	0.858
+lama1287	Lamang-Hdi	Afro-Asiatic	4	0.3941	3	0.3941
+lama1293	Lamaholot Barat	Austronesian	5	0.4249	13	0.4249
+lama1294	Lamaholot Tengah	Austronesian	5	0.384	2	0.384
+lama1297	Lamaholot Timur	Austronesian	5	0.2659	1	0.2659
+lame1259	Lamenu-Lewo	Austronesian	8	0.3919	1	0.3919
+lame1269	Lameic	Atlantic-Congo	9	0.6009	1	0.6009
+lamp1241	Lampungic	Austronesian	2	0.3684	2	0.3684
+land1261	Land Dayak	Austronesian	2	0.6	24	0.6
+lang1323	Lango-Kumam	Nilotic	4	0.3091	1	0.3091
+lano1244	Lanoh-Semnam-Temiar	Austroasiatic	4	0.4909	3	0.4909
+lano1246	Lanoh-Semnam	Austroasiatic	5	0.3091	2	0.3091
+lano1247	Lanohic	Austroasiatic	6	0.2026	1	0.2026
+laot1235	Lao-Thai	Tai-Kadai	9	0.4055	6	0.4055
+late1250	Late Bomokandian	Atlantic-Congo	15	0.6163	2	0.6163
+late1253	Late Old Tibetan	Sino-Tibetan	5	0.55	93	0.55
+late1254	Later Anglic	Indo-European	8	0.4655	24	0.4655
+lawa1256	Lawa	Austroasiatic	6	0.792	1	0.792
+lebo1246	Lebonya	Atlantic-Congo	13	0.7054	5	0.7054
+lech1241	Lechitic	Indo-European	5	0.4991	3	0.4991
+lefa1243	Lefa-Bafia	Atlantic-Congo	9	0.5702	1	0.5702
+left1242	Left May	Left May	0	0.8298	5	0.8298
+lega1253	Lega	Atlantic-Congo	9	0.4244	1	0.4244
+legb1241	Legboic	Atlantic-Congo	8	0.4602	2	0.4602
+leka1234	Lekaningic	Atlantic-Congo	20	0.459	3	0.459
+leko1246	Sambaic	Atlantic-Congo	7	0.5678	2	0.5678
+leko1248	Greater Manenguba	Atlantic-Congo	8	0.6928	8	0.6928
+lele1262	Lelemic	Atlantic-Congo	4	0.6636	4	0.6636
+lele1263	Lelemi-Akpafu	Atlantic-Congo	5	0.724	1	0.724
+leme1240	Lemerig-Veraa	Austronesian	7	0.4912	1	0.4912
+lenc1239	Lencan	Lencan	0	0.6695	1	0.6695
+lend1246	Lenduic	Central Sudanic	1	0.644	1	0.644
+leng1261	Lengua-Mascoy	Lengua-Mascoy	0	0.5519	4	0.5519
+leng1262	Lengua	Lengua-Mascoy	1	0.5447	1	0.5447
+lenj1247	Greater Eastern Botatwe	Atlantic-Congo	8	0.4008	5	0.4008
+leny1239	Lenyima-Leyigha	Atlantic-Congo	9	0.4553	1	0.4553
+lepk1239	Lepki-Murkim-Kembra	Lepki-Murkim-Kembra	0	0.761	3	0.761
+lese1245	Nuclear Baleseic	Central Sudanic	4	0.6653	3	0.6653
+less1242	Lesser Antillean French Creole	Indo-European	16	0.4025	1	0.4025
+leva1239	Levantine-Cypriot Arabic	Afro-Asiatic	6	0.4797	1	0.4797
+levu1240	Southeast Lembata	Austronesian	6	0.3448	1	0.3448
+lezg1248	Lezgic	Nakh-Daghestanian	2	0.7814	8	0.7814
+lian1261	Lianshan-Liujiang	Tai-Kadai	7	0.3878	1	0.3878
+libi1251	Libinzic	Atlantic-Congo	12	0.4089	1	0.4089
+liko1251	Likouala-Sangha	Atlantic-Congo	9	0.694	28	0.694
+likp1239	Likpe-Santrokofi	Atlantic-Congo	5	0.6069	1	0.6069
+liku1245	Likum-Levei	Austronesian	9	0.4344	1	0.4344
+limb1267	Limba	Atlantic-Congo	1	0.4553	1	0.4553
+lind1250	Lindaic	Atlantic-Congo	10	0.252	6	0.252
+ling1269	Lingala-Bangala	Atlantic-Congo	15	0.4137	1	0.4137
+liso1234	Lisoid	Sino-Tibetan	5	0.5592	2	0.5592
+lisu1252	Lisu-Laluba-Lavu	Sino-Tibetan	7	0.6437	1	0.6437
+loan1238	Loange-Atlantic	Atlantic-Congo	11	0.7403	200	0.7403
+lobi1246	Lobiri-Jaane	Atlantic-Congo	6	0.7196	1	0.7196
+loho1238	Lohorung-Yamphu	Sino-Tibetan	6	0.4438	2	0.4438
+loko1252	Lokoic	Atlantic-Congo	7	0.6257	2	0.6257
+lolo1265	Lolo-Burmese	Sino-Tibetan	2	0.7804	200	0.7804
+lolo1267	Loloish	Sino-Tibetan	3	0.7259	200	0.7259
+loma1259	Loma	Mande	5	0.2525	1	0.2525
+lomw1242	Lomweic	Atlantic-Congo	9	0.5018	1	0.5018
+lopi1244	Lopit-Dongotono	Nilotic	5	0.4438	1	0.4438
+lori1239	Lori	Central Sudanic	4	0.4257	1	0.4257
+lotu1248	Lotuxo-Maa	Nilotic	3	0.6728	12	0.6728
+lotu1249	Lotuxo	Nilotic	4	0.5535	5	0.5535
+loup1244	Lou-Paluai	Austronesian	7	0.5564	1	0.5564
+love1237	Loven-Suq	Austroasiatic	4	0.3115	1	0.3115
+lowe1411	Lower Markham	Austronesian	8	0.8152	9	0.8152
+lowe1423	Lower Sepik	Lower Sepik	0	0.8258	13	0.8258
+lowe1438	Lower Chinookan	Chinookan	1	0.8512	1	0.8512
+lowe1439	Lower Ramu	Ramu	1	0.8186	15	0.8186
+lowe1440	Gulf Guinea Creole Portuguese	Indo-European	14	0.3343	2	0.3343
+lowe1462	Lower Minjim	Nuclear Trans New Guinea	4	0.6791	4	0.6791
+lowg1239	Low German	Indo-European	8	0.3374	4	0.3374
+lowl1259	Lowland Ok	Nuclear Trans New Guinea	5	0.6299	3	0.6299
+lowl1263	Lowland Mixe	Mixe-Zoque	5	0.2867	1	0.2867
+lowl1267	Lowland East Cushitic	Afro-Asiatic	3	0.8461	48	0.8461
+lowl1268	Lowland-Midland-South Highland Mixe	Mixe-Zoque	3	0.2806	4	0.2806
+lowl1269	Lowland-Midland Mixe	Mixe-Zoque	4	0.2927	4	0.2927
+lowl1271	Lowland-Sierra Totonacan	Totonacan	4	0.166	3	0.166
+lowl1273	Lowland Murut	Austronesian	8	0.304	1	0.304
+loya1239	Loyalty Islands	Austronesian	6	0.8172	3	0.8172
+luan1261	Luangic-Kisaric	Austronesian	4	0.4428	4	0.4428
+luan1262	Luangic	Austronesian	5	0.3316	1	0.3316
+luba1253	Luban	Atlantic-Congo	7	0.6956	17	0.6956
+luba1254	Luba-Kaonde	Atlantic-Congo	8	0.5492	19	0.5492
+luba1255	Lubaic	Atlantic-Congo	9	0.6456	3	0.6456
+lubi1239	Lubila-Lokaa	Atlantic-Congo	8	0.4785	1	0.4785
+luey1235	Sipsongpannic	Tai-Kadai	12	0.4502	1	0.4502
+lugb1241	Lugbaric	Central Sudanic	3	0.3616	1	0.3616
+lule1256	Lule-Pite Saami	Uralic	4	0.4419	1	0.4419
+lumb1251	Lumbuic	Atlantic-Congo	21	0.5351	8	0.5351
+lumb1252	Lumbu-Bwisi	Atlantic-Congo	22	0.3379	1	0.3379
+lund1275	Lunda-Ruund-Kete	Atlantic-Congo	11	0.6046	2	0.6046
+luri1252	Luric	Indo-European	9	0.4172	2	0.4172
+luri1257	Luric-Dezfulic	Indo-European	8	0.4322	3	0.4322
+lush1251	Lushootseed-Puget	Salishan	3	0.2168	1	0.2168
+luyi1234	Luyia	Atlantic-Congo	10	0.476	9	0.476
+lwoo1234	Lwoo	Nilotic	2	0.4261	30	0.4261
+maan1240	Maanyan-Paku	Austronesian	5	0.3056	1	0.3056
+maba1272	Southern Burun	Nilotic	3	0.5305	1	0.5305
+maba1275	Mabang	Maban	1	0.7268	4	0.7268
+maba1276	Maba-Masalit	Maban	2	0.7025	1	0.7025
+mabu1247	Mabuso	Nuclear Trans New Guinea	3	0.7794	200	0.7794
+mace1252	Macedo-Bulgarian	Indo-European	6	0.2465	1	0.2465
+mach1269	Machili	Atlantic-Congo	9	0.251	1	0.251
+macl1239	Macleay-New England	Pama-Nyungan	1	0.9134	1	0.9134
+maco1238	Maco-Piaroa	Saliban	1	0.7656	1	0.7656
+macr1267	Macro-Yaeyama	Japonic	3	0.489	1	0.489
+macr1268	Macro-Tani	Sino-Tibetan	1	0.8681	6	0.8681
+macr1269	Macro-Oriya	Indo-European	8	0.5136	3	0.5136
+macr1271	Macro-English	Indo-European	10	0.3938	123	0.3938
+macr1272	Macro-Portuguese	Indo-European	13	0.5419	37	0.5419
+macr1273	Macro-French	Indo-European	14	0.4183	25	0.4183
+macr1274	Macro-Carolinian	Austronesian	12	0.4562	5	0.4562
+macr1276	Macrocoatecano	Otomanguean	6	0.5366	2	0.5366
+mada1284	Madak linkage	Austronesian	7	0.7811	3	0.7811
+mada1298	Madang	Nuclear Trans New Guinea	1	0.9152	200	0.9152
+mada1300	Madaic	Afro-Asiatic	7	0.5296	2	0.5296
+mada1301	Mada-Ninzam	Atlantic-Congo	6	0.84	1	0.84
+madi1262	Madi-Madiha	Arawan	1	0.6176	2	0.6176
+madi1263	Madiha	Arawan	2	0.468	1	0.468
+madu1247	Maduresic	Austronesian	2	0.7376	1	0.7376
+maew1234	Maewo	Austronesian	6	0.3225	3	0.3225
+mafe1238	Mafea-Tutuba	Austronesian	9	0.3026	1	0.3026
+maga1261	Magar	Sino-Tibetan	4	0.1567	1	0.1567
+maga1270	Mag-Ayta	Austronesian	4	0.3404	1	0.3404
+magd1236	Magdalenic	Chibchan	2	0.9011	16	0.9011
+magh1239	Maghrebi	Afro-Asiatic	8	0.4602	14	0.4602
+mago1247	Magoric	Austronesian	9	0.458	3	0.458
+maha1306	Mahakiranti	Sino-Tibetan	2	0.8129	200	0.8129
+maid1262	Maiduan	Maiduan	0	0.4871	3	0.4871
+mail1249	Mailuan	Mailuan	0	0.6124	12	0.6124
+main1279	Mainline Pano	Pano-Tacanan	2	0.6506	27	0.6506
+main1280	Mainland Eastern Saami	Uralic	3	0.5584	3	0.5584
+main1281	Main-Gwamhi	Atlantic-Congo	7	0.6771	1	0.6771
+main1282	Mainland North Halmaheran	North Halmahera	2	0.4821	13	0.4821
+main1283	Mainstream Lowland East Cushitic	Afro-Asiatic	5	0.7806	102	0.7806
+main1286	Mainland New Caledonian	Austronesian	6	0.8959	150	0.8959
+mair1253	Mairasic	Mairasic	0	0.5185	3	0.5185
+mait1254	Magadhan	Indo-European	9	0.3573	9	0.3573
+maka1300	Mak-Ai-Cham	Tai-Kadai	5	0.2086	1	0.2086
+maka1310	Makassaric	Austronesian	4	0.2895	3	0.2895
+maka1323	Makaa-Njem (A.80)	Atlantic-Congo	8	0.6618	29	0.6618
+maka1324	Makaaic	Atlantic-Congo	10	0.6665	2	0.6665
+maka1326	Makah-Nitinat	Wakashan	2	0.53	1	0.53
+maka1327	Makaa-Kako (A.80-90)	Atlantic-Congo	7	0.7174	33	0.7174
+makt1234	Mak-Tal	Atlantic-Congo	6	0.3113	1	0.3113
+maku1247	North Mozambique Bantu	Atlantic-Congo	7	0.5975	42	0.5975
+maku1279	Makua-Lomwe	Atlantic-Congo	8	0.4758	5	0.4758
+mala1485	Longgu-Malaita-Makira	Austronesian	5	0.4709	18	0.4709
+mala1537	Malagasic	Austronesian	5	0.4832	36	0.4832
+mala1538	Malayic	Austronesian	3	0.4471	197	0.4471
+mala1539	Malakula	Austronesian	6	0.6489	178	0.6489
+mala1540	Malaita-Makira	Austronesian	6	0.5243	77	0.5243
+mala1541	Malayalamoid	Dravidian	9	0.4591	21	0.4591
+mala1542	Malaita	Austronesian	7	0.4554	27	0.4554
+mala1545	Malayo-Polynesian	Austronesian	1	0.8262	195	0.8262
+mala1550	Malasa-Eravallan	Dravidian	10	0.2027	1	0.2027
+mala1554	Malayo-Chamic	Austronesian	2	0.6659	196	0.6659
+malt1248	Malto	Dravidian	3	0.5818	1	0.5818
+malt1259	Malta-Tunisian Arabic	Afro-Asiatic	9	0.5215	1	0.5215
+malu1251	Maluwawaru	Atlantic-Congo	11	0.2346	6	0.2346
+malu1252	Malungu-Central Sabi	Atlantic-Congo	8	0.3294	9	0.3294
+mamb1310	Mambila-Vute	Atlantic-Congo	8	0.7971	10	0.7971
+mamb1311	Mambila-Mbongno	Atlantic-Congo	9	0.7512	1	0.7512
+mamb1312	Mambila	Atlantic-Congo	10	0.4334	3	0.4334
+mame1240	Mamean	Mayan	4	0.5112	1	0.5112
+mamf1238	Mamfe	Atlantic-Congo	5	0.5541	2	0.5541
+mamp1246	Mampruli-Dagbani	Atlantic-Congo	13	0.2799	1	0.2799
+mamu1256	Mamusa-Mengen	Austronesian	9	0.4395	1	0.4395
+mana1287	Manangba-Nar-Phu	Sino-Tibetan	6	0.3622	1	0.3622
+mana1294	Manamic linkage	Austronesian	8	0.5685	4	0.5685
+mana1300	Manadoic Malay	Austronesian	7	0.074	1	0.074
+mana1303	Manambu-Yalaku	Ndu	2	0.4265	1	0.4265
+manc1250	Manchu-Jurchen	Tungusic	1	0.608	2	0.608
+manc1251	Manchu-Xibe	Tungusic	2	0.4671	1	0.4671
+mand1411	Manda-Kui	Dravidian	4	0.6035	4	0.6035
+mand1412	Manda-Pengo	Dravidian	5	0.4574	1	0.4574
+mand1431	Manding-Kpelle	Mande	2	0.8585	179	0.8585
+mand1432	Manding-Jogo	Mande	4	0.6151	66	0.6151
+mand1433	Manding-Vai	Mande	5	0.5656	40	0.5656
+mand1434	Manding-Mokole	Mande	6	0.4621	64	0.4621
+mand1435	Manding	Mande	7	0.4034	48	0.4034
+mand1437	Mande Samo	Mande	4	0.5148	3	0.5148
+mand1468	Macro-Mandaic	Afro-Asiatic	9	0.147	1	0.147
+mand1469	Mande	Mande	0	0.8552	198	0.8552
+mand1470	Mandi-Muniwara	Nuclear Torricelli	2	0.5983	1	0.5983
+mand1471	Mandarinic	Sino-Tibetan	5	0.5764	3	0.5764
+mand1472	Mandaraic	Afro-Asiatic	5	0.696	20	0.696
+mand1473	Mandobo	Nuclear Trans New Guinea	6	0.3136	1	0.3136
+mand1474	Mandi-Nyokon	Atlantic-Congo	11	0.7245	3	0.7245
+mand1475	Manda-Ngoni	Atlantic-Congo	9	0.2922	1	0.2922
+mane1267	Manenkan	Mande	9	0.4192	3	0.4192
+mane1268	Manenguba	Atlantic-Congo	10	0.4268	5	0.4268
+mane1269	Manep-Barem	Nuclear Trans New Guinea	5	0.7108	1	0.7108
+mang1377	Mangic	Austroasiatic	1	0.839	2	0.839
+mang1393	Mangbetu-Asua	Central Sudanic	1	0.4512	2	0.4512
+mang1423	Mangarrayi-Maran	Mangarrayi-Maran	0	0.9473	3	0.9473
+mang1424	Mangbetuic	Central Sudanic	2	0.5229	1	0.5229
+mang1425	Mangbutu-Efe	Central Sudanic	2	0.5687	4	0.5687
+mang1426	Manguean	Otomanguean	2	0.7633	1	0.7633
+mang1430	Manggaraiic	Austronesian	5	0.5054	3	0.5054
+mani1290	Maniq-Menraq-Batek	Austroasiatic	4	0.5821	12	0.5821
+mani1291	Maniqic	Austroasiatic	5	0.3366	3	0.3366
+mani1293	Maningrida	Maningrida	0	0.8526	4	0.8526
+mani1303	Maninka-Mori	Mande	9	0.2529	9	0.2529
+manj1250	Manjaku-Mankanya-Pepel	Atlantic-Congo	5	0.6307	2	0.6307
+mank1258	Mankonic	Atlantic-Congo	10	0.544	3	0.544
+mano1276	Manobo	Austronesian	3	0.4615	27	0.4615
+mans1261	Mansakan	Austronesian	4	0.2704	11	0.2704
+manu1261	Manubaran	Manubaran	0	0.3932	1	0.3932
+manu1262	Manus	Austronesian	6	0.6493	93	0.6493
+manz1241	Manza-Ngbaka	Atlantic-Congo	6	0.2952	3	0.2952
+manz1242	Manzaic	Atlantic-Congo	7	0.2548	2	0.2548
+maon1239	Maonan-Mak-Sui	Tai-Kadai	4	0.4963	8	0.4963
+maon1240	Maonan-Chadong	Tai-Kadai	5	0.5481	1	0.5481
+maoo1243	Blue Nile Mao	Blue Nile Mao	0	0.7784	3	0.7784
+mapi1253	Pidjanan	Arawakan	2	0.7286	1	0.7286
+mapo1244	Mapoyo-Tamanaku	Cariban	2	0.5839	5	0.5839
+mapo1245	Mapoyo-Yawarana	Cariban	3	0.5913	1	0.5913
+mapo1247	Mapos-Mangga-Wagau	Austronesian	9	0.6477	1	0.6477
+mapp1234	Mappi-Digul Awyu	Nuclear Trans New Guinea	6	0.616	1	0.616
+mara1381	Maraic	Sino-Tibetan	4	0.5561	7	0.5561
+mara1414	Maran	Mangarrayi-Maran	1	0.7506	3	0.7506
+mara1416	Marathic	Indo-European	7	0.4391	3	0.4391
+marb1245	Marba-Musey	Afro-Asiatic	4	0.5431	1	0.5431
+marg1252	Margany-Gunya	Pama-Nyungan	5	0.289	1	0.289
+marg1267	Margi-Mandara-Mofu	Afro-Asiatic	4	0.8496	179	0.8496
+mari1278	Mari	Uralic	1	0.3074	1	0.3074
+mari1415	Maringic	Sino-Tibetan	3	0.4954	1	0.4954
+mari1420	Marithielic	Western Daly	2	0.07	6	0.07
+mari1433	Marienberg	Nuclear Torricelli	1	0.8716	17	0.8716
+mari1437	Marind-Boazi-Yaqai	Anim	1	0.8853	10	0.8853
+mari1445	Maric	Pama-Nyungan	3	0.6315	26	0.6315
+mari1452	Maritimes-Southern New England Algonquian	Algic	4	0.7549	8	0.7549
+mari1453	Mari-Bisis	Sepik	5	0.6234	1	0.6234
+mark1257	Markham	Austronesian	7	0.7886	63	0.7886
+maro1246	Maroua	Afro-Asiatic	4	1.0181	1	1.0181
+maro1247	Marovo-Vangunu	Austronesian	11	0.2977	1	0.2977
+marq1246	Marquesan	Austronesian	13	0.2802	1	0.2802
+marr1265	Marrngu	Pama-Nyungan	2	0.7924	1	0.7924
+maru1251	Marubo Subgroup	Pano-Tacanan	4	0.5281	1	0.5281
+maru1254	Maruic	Sino-Tibetan	5	0.4182	6	0.4182
+masa1323	Masa	Afro-Asiatic	2	0.6223	9	0.6223
+masb1239	Masbate-Sorsogon	Austronesian	7	0.2788	1	0.2788
+mase1249	Masela-South Babar	Austronesian	6	0.5292	6	0.5292
+mash1238	Mashan	Hmong-Mien	6	0.637	1	0.637
+mash1271	Mashi-Mbukushi	Atlantic-Congo	9	0.2092	1	0.2092
+mata1289	Mataguayan	Mataguayan	0	0.8336	8	0.8336
+mata1290	Mataguayo I	Mataguayan	1	0.7442	1	0.7442
+mata1291	Mataguayo II	Mataguayan	1	0.7507	4	0.7507
+mata1311	Matakam	Afro-Asiatic	4	0.6229	2	0.6229
+mata1312	Matangnga-Aralle-Tabulahan	Austronesian	6	0.2077	3	0.2077
+mate1261	South Mbinda	Atlantic-Congo	10	0.3569	1	0.3569
+mate1263	Matengo-Rufiji	Atlantic-Congo	9	0.4708	4	0.4708
+matl1258	Matlatzincan	Otomanguean	4	0.6213	1	0.6213
+mats1243	Matses subgroup	Pano-Tacanan	4	0.621	1	0.621
+matu1263	Matandu	Atlantic-Congo	10	0.3205	1	0.3205
+mawe1252	Maweti-Guarani	Tupian	2	0.8206	38	0.8206
+maxa1249	Maxakali-Borum	Nuclear-Macro-Je	1	0.9748	2	0.9748
+maya1279	Mayabic	Pama-Nyungan	2	0.6702	1	0.6702
+maya1287	Mayan	Mayan	0	0.8092	58	0.8092
+maya1288	Maya-Salawati-Matbat	Austronesian	5	0.6632	6	0.6632
+maya1289	Maya-Salawati	Austronesian	6	0.6009	5	0.6009
+mayb1237	Maybratic	Maybratic	0	0.4545	1	0.4545
+mayo1260	Mayogo-Bangba	Atlantic-Congo	8	0.4455	1	0.4455
+mayo1269	Mayo Group	Pano-Tacanan	3	0.49	2	0.49
+mayo1278	Mayo-Pasi	Sepik	2	0.7259	2	0.7259
+maza1295	Mazatecan	Otomanguean	4	0.3916	21	0.3916
+maza1305	Mazanderani-Shahmirzadi	Indo-European	9	0.3633	1	0.3633
+maza1309	Central Mazatec	Otomanguean	5	0.4862	1	0.4862
+mbai1246	Mbaic	Atlantic-Congo	6	0.9076	3	0.9076
+mbal1259	Mbala-Holu-Sondi (K.10)	Atlantic-Congo	9	0.5762	8	0.5762
+mbal1260	Mbala-Sondi	Atlantic-Congo	10	0.5402	1	0.5402
+mbam1249	Mbam-Nkam	Atlantic-Congo	7	0.7262	92	0.7262
+mbam1252	Mbam	Atlantic-Congo	7	0.7265	11	0.7265
+mbam1253	Mbam-Nkam Nun	Atlantic-Congo	9	0.6428	18	0.6428
+mbam1254	Mbam-Bubi	Atlantic-Congo	6	0.8267	12	0.8267
+mbem1251	Mbembe-Legbo	Atlantic-Congo	7	0.6131	3	0.6131
+mber1262	Mbere (B.60)	Atlantic-Congo	18	0.4201	4	0.4201
+mbey1234	Mbeya	Atlantic-Congo	9	0.2732	1	0.2732
+mbod1237	Mbodomo-Bofi	Atlantic-Congo	5	0.2685	1	0.2685
+mboz1234	Mbozi-Malawi Nyika	Atlantic-Congo	12	0.3093	1	0.3093
+mboz1235	Mbozi	Atlantic-Congo	8	0.522	59	0.522
+mbug1243	Mbugwe-Langi	Atlantic-Congo	7	0.459	1	0.459
+mbum1257	Mbumic	Atlantic-Congo	4	0.7016	46	0.7016
+mbun1247	Mbundu (H.20)	Atlantic-Congo	9	0.568	3	0.568
+mbur1240	Mbure-Yambassa	Atlantic-Congo	10	0.7477	4	0.7477
+meax1236	Meax	East Bird's Head	1	0.3582	1	0.3582
+meew1234	Mee-Wodani	Nuclear Trans New Guinea	2	0.5151	1	0.5151
+mefe1243	Mefele-Cuvok	Afro-Asiatic	5	0.487	1	0.487
+mehe1244	Mehek-Pahi	Sepik	2	0.6466	1	0.6466
+mekk1240	Mek	Nuclear Trans New Guinea	1	0.5658	6	0.5658
+mela1255	Melanau	Austronesian	5	0.5107	3	0.5107
+mela1257	Mel	Atlantic-Congo	1	0.9337	25	0.9337
+mela1262	Melanau-Kajang	Austronesian	4	0.5842	9	0.5842
+mele1252	Mele-Futuna	Austronesian	9	0.3348	1	0.3348
+melp1239	Melpa-Tembagla	Nuclear Trans New Guinea	3	0.3807	1	0.3807
+memb1239	Membi-Mangbutu-Efe	Central Sudanic	1	0.8784	11	0.8784
+mend1263	Mende-Loma	Mande	4	0.4921	5	0.4921
+mend1264	Mende-Bandi	Mande	5	0.3039	2	0.3039
+mend1265	Mende-Loko	Mande	6	0.2894	1	0.2894
+meng1266	Mengenic	Austronesian	8	0.7215	2	0.7215
+menk1239	Menka-Atong	Atlantic-Congo	8	0.4592	1	0.4592
+menr1235	Menraq-Batek	Austroasiatic	5	0.5516	5	0.5516
+meph1234	Mephaa	Otomanguean	3	0.3273	3	0.3273
+meri1245	Meri	Afro-Asiatic	6	0.6155	2	0.6155
+meso1253	Meso Melanesian linkage	Austronesian	5	0.8335	200	0.8335
+meso1254	Meso-Cordilleran	Austronesian	3	0.786	13	0.786
+mewa1253	Mewaric	Indo-European	10	0.7328	1	0.7328
+mewa1254	Mewati-Gojri	Indo-European	10	0.4091	9	0.4091
+meyi1234	Western Kho-Bwa	Sino-Tibetan	2	0.5745	1	0.5745
+mian1255	Mianic	Nuclear Trans New Guinea	6	0.7379	1	0.7379
+micm1234	Micmacic	Algic	6	0.7944	1	0.7944
+micr1243	Micronesian	Austronesian	4	0.8465	36	0.8465
+midd1319	Middle Franconian	Indo-European	8	0.3491	2	0.3491
+midd1323	Middle Great Andamanese	Great Andamanese	1	0.483	2	0.483
+midd1348	Middle Bomokandian	Atlantic-Congo	14	0.668	3	0.668
+midd1354	Middle-Modern Sinitic	Sino-Tibetan	3	0.6694	58	0.6694
+midd1367	Middle-Modern Aramaic	Afro-Asiatic	7	0.6669	14	0.6669
+midd1375	Middle-Modern Indo-Aryan	Indo-European	4	0.6503	190	0.6503
+midd1379	Middle-Modern Southwestern Brythonic	Indo-European	8	0.3298	1	0.3298
+midd1381	Middle Mamberamo Kwerba	Greater Kwerba	3	0.406	1	0.406
+midl1241	Midland Mixe	Mixe-Zoque	5	0.1391	1	0.1391
+midl1245	Midlands Indo-Aryan	Indo-European	6	0.5563	189	0.5563
+mids1246	Mid-Southern New Caledonian	Austronesian	8	0.7793	33	0.7793
+mien1242	Mienic	Hmong-Mien	1	0.5252	7	0.5252
+mien1243	Mien-Mun	Hmong-Mien	2	0.55	3	0.55
+miji1238	Mijikenda	Atlantic-Congo	11	0.3773	6	0.3773
+miji1240	Mijikenda-Pokomo-Comorian	Atlantic-Congo	10	0.5694	23	0.5694
+mika1254	Mikarewan	Ramu	3	0.5803	1	0.5803
+mina1272	Minahasan	Austronesian	3	0.3449	4	0.3449
+mina1280	Minangkabauic	Austronesian	7	0.5059	2	0.5059
+mind1258	Mindjim	Nuclear Trans New Guinea	3	0.7992	8	0.7992
+mini1255	Minica-Murui	Huitotoan	2	0.3068	1	0.3068
+mini1257	Minigir-Tolai	Austronesian	9	0.4089	1	0.4089
+minn1248	Min	Sino-Tibetan	2	0.6647	6	0.6647
+mirn1241	Mirndi	Mirndi	0	0.8913	8	0.8913
+mish1241	Digarish	Sino-Tibetan	1	0.6364	1	0.6364
+miss1252	Missouri River Siouan	Siouan	1	0.6287	1	0.6287
+miss1254	Mississippi Valley	Siouan	1	0.6484	32	0.6484
+misu1242	Misumalpan	Misumalpan	0	0.8483	3	0.8483
+mitu1241	Mituku-Lega	Atlantic-Congo	8	0.6204	12	0.6204
+mitu1242	Mitukuic	Atlantic-Congo	9	0.5615	1	0.5615
+miwo1274	Miwok-Costanoan	Miwok-Costanoan	0	0.855	6	0.855
+miwo1275	Miwokan	Miwok-Costanoan	1	0.7031	8	0.7031
+mixe1284	Mixe-Zoque	Mixe-Zoque	0	0.6084	63	0.6084
+mixe1286	Mixe	Mixe-Zoque	1	0.5455	21	0.5455
+mixi1243	Mixiforic	Mande	8	0.3254	1	0.3254
+mixt1422	Mixtecan	Otomanguean	3	0.9385	38	0.9385
+mixt1423	Mixtec-Cuicatec	Otomanguean	4	0.8862	33	0.8862
+mixt1427	Mixtec	Otomanguean	5	0.5574	97	0.5574
+mixt1428	Mixtepec-Quioquitani-Quieri Zapotec	Otomanguean	9	0.3292	1	0.3292
+miya1267	Miyak-Bun-Biwat	Yuat	1	0.621	2	0.621
+mizo1244	Mizoic	Sino-Tibetan	5	0.513	2	0.513
+mlap1239	Mlap-Gresi-Kemtuik	Nimboranic	2	0.5352	2	0.5352
+mmal1234	Mmala-Elip-Gunu	Atlantic-Congo	12	0.4575	2	0.4575
+mmen1239	Mmen-Bum	Atlantic-Congo	10	0.5625	1	0.5625
+mnon1258	Mnong-Stieng-Chrau	Austroasiatic	4	0.3919	5	0.3919
+mnon1259	Mnong	Austroasiatic	5	0.2567	1	0.2567
+moba1243	Moba-Bimoba	Atlantic-Congo	14	0.3241	1	0.3241
+moda1243	Modang-Segai	Austronesian	4	0.5121	1	0.5121
+mode1251	Modern Javanese	Austronesian	3	0.3276	1	0.3276
+mode1252	Modern South Arabian	Afro-Asiatic	3	0.6073	8	0.6073
+mode1257	Modern Dutch	Indo-European	7	0.3868	8	0.3868
+mode1258	Modern High German	Indo-European	8	0.4082	26	0.4082
+mode1259	Modern Southwestern Iranian	Indo-European	7	0.5355	43	0.5355
+mode1265	Modern Goidelic	Indo-European	7	0.5827	2	0.5827
+mode1266	Modern Koineic Greek	Indo-European	7	0.472	1	0.472
+mode1268	Modern Marathi	Indo-European	10	0.5519	3	0.5519
+mofu1249	Mofuic	Afro-Asiatic	5	0.7178	22	0.7178
+mofu1250	Mofu	Afro-Asiatic	6	0.4231	1	0.4231
+moga1251	Mogaung	Tai-Kadai	11	0.3709	2	0.3709
+moha1257	Mohawk-Oneida	Iroquoian	5	0.3727	1	0.3727
+moke1241	Moken-Moklen	Austronesian	2	0.4126	1	0.4126
+moki1244	Mokiba-Ngando	Atlantic-Congo	10	0.6244	1	0.6244
+moko1244	Mokoreng-Loniu	Austronesian	7	0.4165	1	0.4165
+molb1238	Molbog-Palawan	Austronesian	6	0.3144	3	0.3144
+moma1244	Sopac	Nuclear Trans New Guinea	6	0.5589	1	0.5589
+momb1255	Mombum-Koneraw	Mombum-Koneraw	0	0.5528	1	0.5528
+momo1242	Momo	Atlantic-Congo	7	0.641	5	0.641
+mond1266	Monde	Tupian	1	0.5885	3	0.5885
+mong1329	Mongolic	Mongolic-Khitan	1	0.6406	60	0.6406
+mong1331	Mongolian	Mongolic-Khitan	4	0.4708	3	0.4708
+mong1343	Ulmapo	Keram	1	0.6803	2	0.6803
+mong1351	Mongoic	Atlantic-Congo	10	0.4506	5	0.4506
+moni1258	Monic	Austroasiatic	1	0.4352	3	0.4352
+mono1280	Mono-Uruavan	Austronesian	9	0.6553	3	0.6553
+monu1249	Bogia	Bogia	0	0.5507	1	0.5507
+monz1253	Monzomboic	Atlantic-Congo	9	0.3562	1	0.3562
+mord1256	Mordvin	Uralic	1	0.1717	1	0.1717
+more1255	Yam	Yam	0	0.8157	52	0.8157
+more1256	Morehead-Maro	Yam	1	0.8923	48	0.8923
+more1263	Moreic-Waric	Chapacuran	1	0.645	4	0.645
+more1264	Moreic	Chapacuran	2	0.428	1	0.428
+moro1282	Baka-Beli	Central Sudanic	2	0.6275	6	0.6275
+moro1293	Morokodo-Beli	Central Sudanic	3	0.5569	10	0.5569
+mort1238	Mortlockese-Trukese	Austronesian	12	0.5318	1	0.5318
+moru1252	Moru-Madi	Central Sudanic	1	0.4847	27	0.4847
+moss1237	Mossi-Farefare	Atlantic-Congo	13	0.5324	1	0.5324
+mote1237	Motemboic	Atlantic-Congo	11	0.6255	2	0.6255
+moun1250	Mountain Upper Markham	Austronesian	9	0.5759	6	0.5759
+moun1253	Mountain Ok	Nuclear Trans New Guinea	5	0.7864	10	0.7864
+moun1254	Mountain Oti North Guang	Atlantic-Congo	9	0.4383	2	0.4383
+moxo1234	Mojeño	Arawakan	4	0.3424	1	0.3424
+moye1234	Moyen Kasai-Ngounie	Atlantic-Congo	14	0.5605	28	0.5605
+moyo1240	Moyon-Monsang Naga	Sino-Tibetan	5	0.2885	1	0.2885
+moza1250	Northern Saharan Oasis Berber	Afro-Asiatic	4	0.4426	3	0.4426
+mpoi1234	Mpoic	Atlantic-Congo	9	0.6027	5	0.6027
+mubi1247	Mubic	Afro-Asiatic	5	0.48	6	0.48
+mudu1245	Muduga-Palu	Dravidian	8	0.3106	1	0.3106
+mufi1239	Mufian-Bukiyip-Abu	Nuclear Torricelli	3	0.6195	2	0.6195
+mula1252	Mulam-Kam	Tai-Kadai	3	0.6636	3	0.6636
+mull1247	Muller-Schwaner	Austronesian	5	0.2852	2	0.2852
+mume1239	Mumeng	Austronesian	9	0.5923	8	0.5923
+mumu1249	Mumuye-Yandang	Atlantic-Congo	5	0.7691	33	0.7691
+mumu1250	Mumuyic	Atlantic-Congo	6	0.5118	3	0.5118
+muna1246	Muna-Buton	Austronesian	6	0.5358	27	0.5358
+mund1324	Mundangic	Atlantic-Congo	7	0.5212	3	0.5212
+mund1329	Mundurukuic	Tupian	2	0.5578	1	0.5578
+mund1335	Mundaic	Austroasiatic	1	0.7471	90	0.7471
+mund1336	Mundaric	Austroasiatic	4	0.436	8	0.436
+mund1337	Mundat-Karfa	Afro-Asiatic	6	0.5395	1	0.5395
+mund1338	Mundani-Njen	Atlantic-Congo	8	0.4798	1	0.4798
+mung1276	Mungkanic	Pama-Nyungan	6	0.7645	1	0.7645
+muni1256	Munan	Austronesian	8	0.435	5	0.435
+muni1259	Munic	Austronesian	9	0.4073	4	0.4073
+muri1261	Murilo-Fanapanges	Austronesian	13	0.2737	1	0.2737
+muri1262	Muria	Dravidian	6	0.4364	1	0.4364
+muru1275	Murutic	Austronesian	6	0.3153	24	0.3153
+musg1256	Musgu-Mbara	Afro-Asiatic	5	0.6819	1	0.6819
+musk1252	Muskogean	Muskogean	0	0.6216	13	0.6216
+muso1239	Musom-Sirak	Austronesian	10	0.4802	1	0.4802
+muth1243	Muthuvan-Mannan	Dravidian	10	0.4089	1	0.4089
+muya1239	Muya	Sino-Tibetan	4	0.4554	1	0.4554
+mwak1234	Mwakai-Pondi	Keram	2	0.6646	1	0.6646
+mwik1240	Mwika	Atlantic-Congo	9	0.4032	11	0.4032
+mzie1236	Mzieme-Zeme	Sino-Tibetan	4	0.2925	1	0.2925
+naba1257	Sankwep	Nuclear Trans New Guinea	5	0.4219	1	0.4219
+nabi1238	Irarutic	Austronesian	6	0.5554	1	0.5554
+nada1235	Naduhup	Naduhup	0	0.6193	3	0.6193
+naga1397	Naga Maoic	Sino-Tibetan	5	0.6586	1	0.6586
+naic1235	Naic	Sino-Tibetan	3	0.724	5	0.724
+nais1236	Naish	Sino-Tibetan	4	0.6103	1	0.6103
+naka1266	Nakanai-Meramera	Austronesian	7	0.7808	1	0.7808
+nakh1245	Nakh-Daghestanian	Nakh-Daghestanian	0	0.8977	84	0.8977
+nakh1246	Nakh	Nakh-Daghestanian	1	0.5164	2	0.5164
+naki1239	Naki-Kemezung	Atlantic-Congo	8	0.6636	2	0.6636
+naki1240	Nakic	Atlantic-Congo	9	0.4202	1	0.4202
+nakk1234	Nakkara-Ndjebbana	Maningrida	1	0.8659	1	0.8659
+nako1241	Nakoda	Siouan	3	0.4258	1	0.4258
+nalu1241	Naluic	Atlantic-Congo	2	0.8513	3	0.8513
+namb1292	Nambu	Yam	2	0.5555	15	0.5555
+namb1299	Nambiquaran	Nambiquaran	0	0.8637	3	0.8637
+namb1300	Nambikwara Complex	Nambiquaran	1	0.6223	2	0.6223
+naml1239	Namla-Tofanma	Namla-Tofanma	0	0.6975	1	0.6975
+nang1263	Nangan Dogon	Dogon	1	0.4209	3	0.4209
+napo1243	Napo Tucanoan	Tucanoan	2	0.5285	2	0.5285
+naqi1236	Na-Qiangic	Sino-Tibetan	2	0.8235	81	0.8235
+naro1248	Naro-Ana	Khoe-Kwadi	4	0.6054	2	0.6054
+narr1279	Narrow Talodi	Narrow Talodi	0	0.6384	6	0.6384
+narr1281	Narrow Bantu	Atlantic-Congo	5	0.8432	200	0.8432
+narr1282	Narrow Grassfields	Atlantic-Congo	6	0.7857	180	0.7857
+nasu1236	Nasu-Nosu	Sino-Tibetan	8	0.665	2	0.665
+nato1234	Na-Togo	Atlantic-Congo	3	0.8224	14	0.8224
+natu1250	Natugu-Nalogo	Austronesian	6	0.3193	1	0.3193
+ndak1244	Ndaka-Mbo	Atlantic-Congo	16	0.2344	1	0.2344
+ndam1255	Ndam-Tumak	Afro-Asiatic	6	0.6655	1	0.6655
+ndas1240	Ndasa-Wumbvu	Atlantic-Congo	9	0.4447	1	0.4447
+ndee1247	Nde-Efutop	Atlantic-Congo	9	0.272	1	0.272
+ndei1235	Ndeiram	Nuclear Trans New Guinea	5	0.5355	1	0.5355
+nden1251	Ndendeule-Ngindo-Nindi	Atlantic-Congo	10	0.4883	1	0.4883
+ndin1246	Nding-Tasomi	Narrow Talodi	2	0.535	1	0.535
+ndja1234	Ndjavi A	Atlantic-Congo	20	0.1967	1	0.1967
+ndja1235	Ndjavi B	Atlantic-Congo	20	0.1847	1	0.1847
+ndon1253	Ndonga (R.20)	Atlantic-Congo	11	0.3294	5	0.3294
+ndun1247	Ndunga-Mba-Dongo	Atlantic-Congo	7	0.8574	2	0.8574
+ndun1248	Ndunga-Mba	Atlantic-Congo	8	0.674	1	0.674
+nduu1242	Ndu	Ndu	0	0.6216	17	0.6216
+negr1239	Negro-Roraima	Arawakan	1	0.8542	2	0.8542
+neha1246	North Bougainville Oceanic	Austronesian	9	0.7807	6	0.7807
+nekn1234	Nek-Nuk	Nuclear Trans New Guinea	5	0.485	1	0.485
+nesu1234	Nesu-Nasu	Sino-Tibetan	9	0.4749	1	0.4749
+neva1234	Neva	Uralic	3	0.4339	12	0.4339
+newa1245	Newaric	Sino-Tibetan	3	0.7754	1	0.7754
+newc1243	New Caledonian	Austronesian	5	0.943	75	0.943
+newg1239	New Georgia	Austronesian	9	0.6642	34	0.6642
+newi1242	New Ireland-Northwest Solomonic linkage	Austronesian	6	0.8614	200	0.8614
+news1235	New South Wales Pama-Nyungan	Pama-Nyungan	2	0.8808	27	0.8808
+ngad1265	Central Flores-Paluqe	Austronesian	5	0.456	6	0.456
+ngad1266	Central Flores	Austronesian	6	0.3488	7	0.3488
+ngad1267	Ngada	Austronesian	7	0.3427	1	0.3427
+ngal1299	Ngalik-Nduga	Nuclear Trans New Guinea	2	0.5343	5	0.5343
+ngam1283	Ngamo-Bele	Afro-Asiatic	10	0.5318	1	0.5318
+ngan1305	Ngangea-So	Kuliak	1	0.3512	1	0.3512
+ngan1306	Ngangela-Nyemba	Atlantic-Congo	11	0.3555	3	0.3555
+ngar1289	Yapa	Pama-Nyungan	3	0.5947	1	0.5947
+ngar1290	Ngarna	Pama-Nyungan	1	0.8657	2	0.8657
+ngay1241	Ngayarda	Pama-Nyungan	3	0.7078	6	0.7078
+ngba1280	Ngbandic	Atlantic-Congo	6	0.5176	5	0.5176
+ngba1286	Ngbaka-Manza-Ali	Atlantic-Congo	8	0.2723	1	0.2723
+ngba1292	Mundu-Baka	Atlantic-Congo	6	0.6559	21	0.6559
+ngbe1239	Ngbele-Ngenda	Atlantic-Congo	14	0.9388	2	0.9388
+ngem1254	Ngembaic	Atlantic-Congo	9	0.5601	12	0.5601
+ngen1255	Ngendan	Atlantic-Congo	15	0.8526	1	0.8526
+nger1240	Ngero	Austronesian	7	0.6273	9	0.6273
+nger1241	Ngero-Vitiaz linkage	Austronesian	6	0.8305	200	0.8305
+ngge1240	Nggelic	Austronesian	7	0.4267	1	0.4267
+ngil1241	Buram Hill Chain	Narrow Talodi	2	0.4517	1	0.4517
+ngir1248	Ngiri	Atlantic-Congo	9	0.7301	198	0.7301
+ngir1250	Ngiri Terrien	Atlantic-Congo	10	0.7725	47	0.7725
+ngir1251	Ngiri Riverain Mongala	Atlantic-Congo	10	0.6289	3	0.6289
+ngir1252	Ngiri Riverain Ubangi	Atlantic-Congo	10	0.5746	8	0.5746
+ngir1254	Ngiri Riverain Ubangi-Ripuaire	Atlantic-Congo	11	0.4887	12	0.4887
+ngiz1243	Ngizim-Southwestern Bade	Afro-Asiatic	5	0.692	2	0.692
+ngka1236	Ngkantr	Yam	3	0.2151	1	0.2151
+ngkr1234	Ngkrn-Ngkantr	Yam	2	0.519	2	0.519
+ngoe1239	Bafaw-Balong-Manenguba	Atlantic-Congo	9	0.6999	16	0.6999
+ngom1276	Ngombe-Ababuan	Atlantic-Congo	11	0.8092	14	0.8092
+ngro1237	N-Group	Afro-Asiatic	6	0.5674	1	0.5674
+ngum1251	Ngumpin-Yapa	Pama-Nyungan	2	0.768	12	0.768
+ngum1256	Ngumpin	Pama-Nyungan	3	0.7275	9	0.7275
+ngum1257	Ngumpit	Pama-Nyungan	5	0.4549	1	0.4549
+ngun1267	Southern Ndebele-Lowland	Atlantic-Congo	13	0.2872	5	0.2872
+ngun1278	Ngungwel-Eboo	Atlantic-Congo	15	0.5192	1	0.5192
+ngun1280	Nguni-Tsonga-Copi	Atlantic-Congo	10	0.6516	16	0.6516
+ngun1281	Ngundu-Kpagua	Atlantic-Congo	10	0.198	1	0.198
+nias1241	Central Barrier Islands	Austronesian	3	0.5522	1	0.5522
+nico1262	Nicobaric	Austroasiatic	1	0.6949	3	0.6949
+nige1254	Nigerian Jarawan	Atlantic-Congo	6	0.6181	25	0.6181
+nige1262	Nigerian-Ghanaian Krio	Indo-European	14	0.1716	1	0.1716
+nila1243	Nila-Serua	Austronesian	5	0.2948	1	0.2948
+nili1235	Ni-Li-Kazhouish	Sino-Tibetan	4	0.6981	43	0.6981
+nilo1247	Nilotic	Nilotic	0	0.9042	194	0.9042
+nimb1257	Nimboranic	Nimboranic	0	0.5463	4	0.5463
+nimo1245	Nimoa-Sudest	Austronesian	7	0.85	1	0.85
+nimo1248	Nimo-Nakwi	Left May	2	0.4268	1	0.4268
+nina1239	Ninam-Yanomam-Yaroame	Yanomamic	1	0.5513	2	0.5513
+ning1276	Ningil-Yil	Nuclear Torricelli	4	0.5734	1	0.5734
+ning1277	Ningic	Atlantic-Congo	9	0.7833	1	0.7833
+ninz1247	Ninzic	Atlantic-Congo	4	0.7504	24	0.7504
+nish1242	Nishga-Gitxsan	Tsimshian	1	0.3459	1	0.3459
+niso1234	Nisoid	Sino-Tibetan	6	0.5861	3	0.5861
+niza1234	Nizaa-Mambila-Vute	Atlantic-Congo	6	0.7889	8	0.7889
+njeb1244	Njebi (B.50)	Atlantic-Congo	19	0.3175	4	0.3175
+njem1234	Njemic	Atlantic-Congo	10	0.384	1	0.384
+njil1234	Njila	Atlantic-Congo	7	0.6986	180	0.6986
+nkaf1238	Nkafa-Kirya-Bana	Afro-Asiatic	5	0.5568	2	0.5568
+nkam1238	Nkambe	Atlantic-Congo	8	0.6793	6	0.6793
+nkor1240	Nkore-Kiga-Nyoro-Tooro	Atlantic-Congo	12	0.3231	4	0.3231
+nkor1241	Nkore-Kiga	Atlantic-Congo	13	0.2936	1	0.2936
+nkut1239	Nkutsuic	Atlantic-Congo	10	0.6617	31	0.6617
+nkut1240	Nkutsu-Lokenye	Atlantic-Congo	11	0.5369	1	0.5369
+nmif1235	Nmi-Fij-Fwa	Austronesian	10	0.2107	2	0.2107
+nmip1235	Nmi-Pij-Fwa-Pam-Pap	Austronesian	9	0.5062	3	0.5062
+nnam1239	Nnam-Ekajuk	Atlantic-Congo	10	0.1023	1	0.1023
+nobi1239	Nobiin Nubian	Nubian	2	0.5661	1	0.5661
+noct1239	Noctean	Sino-Tibetan	4	0.5873	1	0.5873
+nonk1236	Non-Khoekhoe	Khoe-Kwadi	2	0.6155	10	0.6155
+nonu1240	Nonuya-Ocaina	Huitotoan	1	0.8209	1	0.8209
+noon1244	Noon-Lehar	Atlantic-Congo	3	0.3878	1	0.3878
+noon1245	Nooni-Ncane	Atlantic-Congo	8	0.6992	1	0.6992
+norr1244	Nor	Lower Sepik	1	0.5	1	0.5
+nort1547	Northern Daly	Northern Daly	0	0.3891	1	0.3891
+nort2678	Northern Great Andamanese	Great Andamanese	2	0.7964	2	0.7964
+nort2682	North Aslian	Austroasiatic	3	0.5994	7	0.5994
+nort2688	Sakha-Dolgan	Turkic	2	0.1518	1	0.1518
+nort2696	North Kipchak	Turkic	5	0.585	2	0.585
+nort2698	North Dravidian	Dravidian	1	0.8921	3	0.8921
+nort2703	Northern Karen	Sino-Tibetan	2	0.5907	3	0.5907
+nort2704	Northern Pwo Karen	Sino-Tibetan	4	0.3927	1	0.3927
+nort2720	Northern Burmish	Sino-Tibetan	4	0.6091	4	0.6091
+nort2730	Northwestern Kiranti	Sino-Tibetan	4	0.7415	2	0.7415
+nort2734	Northern Kam	Tai-Kadai	5	0.3118	1	0.3118
+nort2739	Northern Shanic	Tai-Kadai	11	0.4014	2	0.4014
+nort2744	Northern Buyang	Tai-Kadai	4	0.2863	2	0.2863
+nort2746	Northern Yeniseian	Yeniseian	1	0.4031	1	0.4031
+nort2748	North Hmongic	Hmong-Mien	4	0.5496	1	0.5496
+nort2751	Northern Worrorran	Worrorran	1	0.4817	1	0.4817
+nort2752	Northern Thura-Yura	Pama-Nyungan	4	0.479	1	0.479
+nort2758	Northern Pama	Pama-Nyungan	2	0.8247	7	0.8247
+nort2759	Umpilaic	Pama-Nyungan	4	0.4852	1	0.4852
+nort2761	Northern Costal Yuin	Pama-Nyungan	5	0.5309	1	0.5309
+nort2767	Northern Bia	Atlantic-Congo	8	0.4915	6	0.4915
+nort2773	Northern Mbum	Atlantic-Congo	5	0.6272	10	0.6272
+nort2777	Northern Central Gur	Atlantic-Congo	5	0.8861	34	0.8861
+nort2782	Northern Grusi	Atlantic-Congo	7	0.6661	7	0.6661
+nort2790	North-South Central Delta Cross	Atlantic-Congo	6	0.629	12	0.629
+nort2814	Northern Lwoo	Nilotic	3	0.4421	10	0.4421
+nort2822	Northwest Songhay	Songhay	1	0.4681	3	0.4681
+nort2823	Northern Songhay	Songhay	2	0.4486	3	0.4486
+nort2824	North Plateau Dogon	Dogon	1	0.6668	4	0.6668
+nort2831	Northern Batak	Austronesian	4	0.3186	2	0.3186
+nort2832	North and West Guadalcanal	Austronesian	7	0.3135	3	0.3135
+nort2833	Central-Northern Malaita	Austronesian	8	0.3727	26	0.3727
+nort2848	North Papuan Mainland-D'Entrecasteaux linkage	Austronesian	7	0.7668	199	0.7668
+nort2858	North Huon Gulf linkage	Austronesian	7	0.7037	3	0.7037
+nort2859	North Babaric	Austronesian	5	0.5665	3	0.5665
+nort2871	Sangil-Sangir	Austronesian	5	0.2446	1	0.2446
+nort2873	North Mangyan	Austronesian	2	0.4606	3	0.4606
+nort2884	North Manobo	Austronesian	4	0.4281	2	0.4281
+nort2886	North Minahasan	Austronesian	4	0.157	3	0.157
+nort2887	Northeast Minahasan	Austronesian	5	0.2084	3	0.2084
+nort2888	North East Greater Barito	Austronesian	4	0.1829	1	0.1829
+nort2891	North West Greater Barito	Austronesian	4	0.376	3	0.376
+nort2894	Northern South Sulawesi	Austronesian	4	0.2973	42	0.2973
+nort2897	Northern Tomini	Austronesian	5	0.238	3	0.238
+nort2898	Northern Kaili-Wolio	Austronesian	4	0.4213	33	0.4213
+nort2900	Northern East Formosan	Austronesian	2	0.5638	1	0.5638
+nort2909	North Binanderean	Nuclear Trans New Guinea	3	0.5176	1	0.5176
+nort2923	North Halmahera	North Halmahera	0	0.8438	9	0.8438
+nort2924	Northern North Halmahera	North Halmahera	1	0.6336	20	0.6336
+nort2933	North Bougainville	North Bougainville	0	0.7938	1	0.7938
+nort2947	Northern Iroquoian	Iroquoian	1	0.7935	12	0.7935
+nort2948	Northern Interior Salish	Salishan	2	0.6304	2	0.6304
+nort2950	Northern Caddoan	Caddoan	1	0.8199	3	0.8199
+nort2953	Northern Uto-Aztecan	Uto-Aztecan	1	0.7962	51	0.7962
+nort2964	Northern Wakashan	Wakashan	1	0.3917	2	0.3917
+nort2965	Northern-Central Pomoan	Pomoan	3	0.1471	1	0.1471
+nort2987	Northern Core Zapotec	Otomanguean	7	0.564	27	0.564
+nort3000	Northern Magdalenic	Chibchan	3	0.8914	3	0.8914
+nort3145	Wojokesic	Angan	2	0.6418	3	0.6418
+nort3146	North-Central Atlantic	Atlantic-Congo	1	0.948	200	0.948
+nort3147	Northern Tungusic	Tungusic	2	0.4776	6	0.4776
+nort3149	North Volta-Congo	Atlantic-Congo	2	0.9471	190	0.9471
+nort3150	North Bahnaric	Austroasiatic	2	0.5215	11	0.5215
+nort3151	North Munda	Austroasiatic	2	0.4765	7	0.4765
+nort3152	Northwest Germanic	Indo-European	3	0.6102	200	0.6102
+nort3154	North Coast Pama-Nyungan	Pama-Nyungan	2	0.8728	8	0.8728
+nort3155	Northern Chinese	Sino-Tibetan	4	0.5718	3	0.5718
+nort3156	North Biu-Mandara	Afro-Asiatic	3	0.8622	183	0.8622
+nort3157	North Masa	Afro-Asiatic	3	0.5171	2	0.5171
+nort3158	Northern-Eastern-Western Agaw	Afro-Asiatic	3	0.403	2	0.403
+nort3160	North Germanic	Indo-European	4	0.462	9	0.462
+nort3161	North-West Ometo	Ta-Ne-Omotic	2	0.5652	15	0.5652
+nort3163	Northeastern Agaw	Afro-Asiatic	4	0.4529	1	0.4529
+nort3164	Northern West Rift South Cushitic	Afro-Asiatic	5	0.4763	2	0.4763
+nort3165	Northwest Semitic	Afro-Asiatic	4	0.7717	45	0.7717
+nort3167	Northern Bullom	Atlantic-Congo	4	0.4605	1	0.4605
+nort3168	Northern Bantoid	Atlantic-Congo	4	0.894	35	0.894
+nort3171	North Sarawakan	Austronesian	3	0.6854	122	0.6854
+nort3172	Northeast Sabahan	Austronesian	4	0.5369	1	0.5369
+nort3174	Northern Sangiric	Austronesian	4	0.3793	2	0.3793
+nort3175	North Sea Germanic	Indo-European	5	0.5956	145	0.5956
+nort3177	Northwestern Iranian	Indo-European	7	0.5904	182	0.5904
+nort3179	Northeastern Kuki-Chin	Sino-Tibetan	4	0.324	20	0.324
+nort3180	Northern Daic	Tai-Kadai	5	0.5417	32	0.5417
+nort3182	North-Central Edoid	Atlantic-Congo	5	0.5968	9	0.5968
+nort3183	Northwestern Edoid	Atlantic-Congo	5	0.6749	11	0.6749
+nort3184	Northwestern Benue-Congo Plateau	Atlantic-Congo	5	0.6801	13	0.6801
+nort3185	Northern Palawanic	Austronesian	5	0.4639	2	0.4639
+nort3186	Northern Murutic	Austronesian	7	0.3566	21	0.3566
+nort3187	Northeastern Luzon	Austronesian	3	0.4152	1	0.4152
+nort3188	Northern Gelao	Tai-Kadai	6	0.8283	2	0.8283
+nort3189	Northern Tai	Tai-Kadai	6	0.4702	41	0.4702
+nort3190	Northwest South Bauchi	Afro-Asiatic	6	0.5933	6	0.5933
+nort3191	North African Arabic	Afro-Asiatic	6	0.4782	15	0.4782
+nort3192	North Tivoid	Atlantic-Congo	6	0.5934	1	0.5934
+nort3195	North and Central Vanuatu	Austronesian	4	0.7613	200	0.7613
+nort3196	North-Central Malagasic	Austronesian	6	0.392	11	0.392
+nort3197	Northwestern Romani	Indo-European	11	0.3932	1	0.3932
+nort3201	Northwestern Otomi	Otomanguean	6	0.301	1	0.301
+nort3202	North Guerrero Nahuatl	Uto-Aztecan	6	0.389	1	0.389
+nort3203	Northeast Savanna Bantu	Atlantic-Congo	7	0.7441	200	0.7441
+nort3204	North Guang	Atlantic-Congo	7	0.6052	26	0.6052
+nort3205	Northern Vanuatu	Austronesian	5	0.6974	200	0.6974
+nort3206	North New Guinea linkage	Austronesian	5	0.8932	199	0.8932
+nort3207	Northern Malagasic	Austronesian	7	0.2848	2	0.2848
+nort3208	Northwestern Shifted Romance	Indo-European	10	0.6657	60	0.6657
+nort3209	Northeast Coastal Bantu	Atlantic-Congo	8	0.6727	200	0.6727
+nort3210	Northern Jos	Atlantic-Congo	8	0.7356	43	0.7356
+nort3211	Mid-Northern New Caledonian	Austronesian	8	0.6353	44	0.6353
+nort3213	Northern Okani	Atlantic-Congo	9	0.2254	2	0.2254
+nort3215	North-Central Jos	Atlantic-Congo	9	0.5955	9	0.5955
+nort3216	North Lembata-Adonara	Austronesian	6	0.3019	1	0.3019
+nort3217	Cape Cumberland	Austronesian	8	0.3344	10	0.3344
+nort3218	Northern Tanna linkage	Austronesian	7	0.3856	2	0.3856
+nort3219	Northern Cham	Austronesian	6	0.7486	1	0.7486
+nort3220	North Nyanza	Atlantic-Congo	10	0.5283	2	0.5283
+nort3222	North Efatic	Austronesian	9	0.3208	1	0.3208
+nort3223	Northern Malakula	Austronesian	7	0.5208	2	0.5208
+nort3225	Northwest Solomonic	Austronesian	8	0.8255	200	0.8255
+nort3227	North Mara	Atlantic-Congo	11	0.4363	3	0.4363
+nort3228	North Rutara	Atlantic-Congo	11	0.5152	9	0.5152
+nort3229	Northwestern Sisaala	Atlantic-Congo	11	0.4979	1	0.4979
+nort3232	Northern Mijikenda	Atlantic-Congo	12	0.1945	3	0.1945
+nort3233	Northern Sotho	Atlantic-Congo	11	0.369	1	0.369
+nort3234	Northwest Oti-Volta	Atlantic-Congo	12	0.5522	14	0.5522
+nort3235	Carolinean Outlier Polynesian	Austronesian	9	0.3678	1	0.3678
+nort3236	Northeast Ambon	Austronesian	8	0.2284	1	0.2284
+nort3237	North-West Dagaric	Atlantic-Congo	15	0.4514	2	0.4514
+nort3238	Northern Luzon	Austronesian	2	0.6493	196	0.6493
+nort3239	Northern Kalenjin	Nilotic	3	0.5201	1	0.5201
+nort3241	North-Eastern Neo-Aramaic	Afro-Asiatic	10	0.365	15	0.365
+nort3243	Northern Indo-Portuguesic	Indo-European	15	0.2092	1	0.2092
+nort3246	Northern Outlier Polynesian-East Polynesian	Austronesian	8	0.4396	36	0.4396
+nort3248	Northwestern Moroccan Berber	Afro-Asiatic	4	0.3829	1	0.3829
+nort3253	North Borneo Malayo-Polynesian	Austronesian	2	0.6975	200	0.6975
+nort3254	North Senufo	Atlantic-Congo	4	0.51	9	0.51
+nort3255	Northern Ryukyuan	Japonic	2	0.3893	10	0.3893
+nort3256	Northeastern Pama	Pama-Nyungan	3	0.7043	2	0.7043
+nort3257	Northern Njila	Atlantic-Congo	8	0.6633	18	0.6633
+nort3258	Northwest Gondi	Dravidian	4	0.3537	5	0.3537
+nort3259	Northern Samba-Duru	Atlantic-Congo	6	0.7265	4	0.7265
+nort3261	Northwestern Malakula	Austronesian	9	0.576	3	0.576
+nort3265	Northern Totonacan	Totonacan	3	0.1144	1	0.1144
+nort3267	Nuclear Northern Kikongo	Atlantic-Congo	18	0.4747	1	0.4747
+nort3276	North Andamanese-Akakede	Great Andamanese	1	0.5815	3	0.5815
+nort3282	North Finnic	Uralic	4	0.323	5	0.323
+nort3284	North Malaitan	Austronesian	9	0.2845	10	0.2845
+nort3310	North Alemannic	Indo-European	10	0.3447	1	0.3447
+nort3325	Northern New Caledonian	Austronesian	7	0.6812	26	0.6812
+nort3326	Northern Daic-Sek	Tai-Kadai	4	0.5682	13	0.5682
+nort3349	Northwestern Chinantec	Otomanguean	5	0.5752	6	0.5752
+nort3350	North-Central Mephaa	Otomanguean	4	0.3148	2	0.3148
+nort3354	Northwestern Canada Athabaskan	Athabaskan-Eyak-Tlingit	3	0.6368	16	0.6368
+nort3357	Central Meto	Austronesian	7	0.2905	1	0.2905
+nort3362	Northeast Japura-Colombia	Arawakan	3	0.6663	14	0.6663
+nort3374	Northern Bakor	Atlantic-Congo	9	0.3156	4	0.3156
+nort3376	North Zaire River	Atlantic-Congo	7	0.7695	200	0.7695
+nort3377	Northwest Kasai-Ngounie	Atlantic-Congo	17	0.5515	30	0.5515
+nort3378	Northern Bikwin-Jen	Atlantic-Congo	5	0.4108	4	0.4108
+nort3379	Northern Adelbert	Nuclear Trans New Guinea	4	0.8376	160	0.8376
+nort3387	Northern Iban	Austronesian	7	0.2484	1	0.2484
+nort3388	Northern Sumatra Malay	Austronesian	5	0.4897	14	0.4897
+nort3402	North Arabian Beduin Arabic	Afro-Asiatic	7	0.4144	6	0.4144
+nort3404	Northern Luyia	Atlantic-Congo	12	0.3454	1	0.3454
+nort3406	Northern Baja Mazatec	Otomanguean	7	0.2592	1	0.2592
+nort3413	Northern Kirinyaga	Atlantic-Congo	10	0.9512	1	0.9512
+nort3414	Northern Eastern Algonquian	Algic	5	0.8148	4	0.8148
+nort3417	Northeastern Tungusic	Tungusic	1	0.5146	8	0.5146
+nort3421	North Georgia Central Salish	Salishan	3	0.5557	1	0.5557
+nort3423	Northern Altai-Lower Chulym	Turkic	3	0.3796	1	0.3796
+nort3424	Northwest Kipchak	Turkic	4	0.4852	15	0.4852
+nort3428	Northeastern Qiandongic Miao	Hmong-Mien	5	0.6646	1	0.6646
+nort3433	Northwestern Mek	Nuclear Trans New Guinea	3	0.4577	1	0.4577
+nsar1239	Nsari-Nooni-Ncane	Atlantic-Congo	7	0.6769	2	0.6769
+nson1239	Nsong-Mpiin-Ngong	Atlantic-Congo	13	0.3387	1	0.3387
+ntch1241	Gurma A	Atlantic-Congo	12	0.6016	1	0.6016
+nubi1251	Nubian	Nubian	0	0.8818	19	0.8818
+nucl1241	Nuclear Hlaic	Tai-Kadai	2	0.5897	1	0.5897
+nucl1244	Western Left May	Left May	1	0.7304	8	0.7304
+nucl1276	Nuclear Pashto	Indo-European	6	0.3353	3	0.3353
+nucl1299	Nuclear West Bahnaric	Austroasiatic	3	0.2987	14	0.2987
+nucl1313	Nuclear Zemeic	Sino-Tibetan	3	0.5131	2	0.5131
+nucl1321	Samur	Nakh-Daghestanian	3	0.7433	20	0.7433
+nucl1335	Nuclear Kulin	Pama-Nyungan	5	0.6943	1	0.6943
+nucl1371	Nuclear Tulaic	Atlantic-Congo	9	0.5682	3	0.5682
+nucl1431	Nuclear Maa	Nilotic	5	0.2939	1	0.2939
+nucl1444	Nuclear Bozo	Mande	5	0.4173	2	0.4173
+nucl1445	Nuclear Mokole	Mande	7	0.3017	5	0.3017
+nucl1470	Nuclear Guadalcanal-Nggelic	Austronesian	6	0.4169	6	0.4169
+nucl1485	Nuclear Polynesian	Austronesian	7	0.4324	195	0.4324
+nucl1506	Nuclear West Central Papuan linkage	Austronesian	9	0.5996	10	0.5996
+nucl1510	Western Bel	Austronesian	10	0.5986	10	0.5986
+nucl1542	Nuclear Southern Cordilleran	Austronesian	7	0.4988	2	0.4988
+nucl1573	Nuclear Muna-Buton	Austronesian	7	0.5786	18	0.5786
+nucl1580	Eleman	Eleman	0	0.4191	6	0.4191
+nucl1586	Nuclear Central Sepik Hill	Sepik	4	0.6163	2	0.6163
+nucl1590	Nuclear Maimai	Nuclear Torricelli	1	0.7048	2	0.7048
+nucl1603	Nuclear Binanderean	Nuclear Trans New Guinea	3	0.631	8	0.631
+nucl1617	Nuclear Simbu	Nuclear Trans New Guinea	3	0.6242	6	0.6242
+nucl1621	Marindic	Anim	2	0.3088	1	0.3088
+nucl1631	Nuclear Sentanic	Sentanic	1	0.6566	2	0.6566
+nucl1641	Nuclear West Bomberai	West Bomberai	1	0.5866	1	0.5866
+nucl1642	Nuclear Ndu	Ndu	1	0.4552	19	0.4552
+nucl1644	Nuclear Amami	Japonic	4	0.3455	2	0.3455
+nucl1659	Nuclear Witotoan	Huitotoan	1	0.2589	2	0.2589
+nucl1667	Central-Southern Aymara	Aymaran	1	0.2635	1	0.2635
+nucl1701	Oromoid	Afro-Asiatic	6	0.686	15	0.686
+nucl1708	Nuclear Torricelli	Nuclear Torricelli	0	0.9484	199	0.9484
+nucl1709	Nuclear Trans New Guinea	Nuclear Trans New Guinea	0	0.9708	192	0.9708
+nucl1710	Nuclear-Macro-Je	Nuclear-Macro-Je	0	0.9628	112	0.9628
+nucl1713	Nuclear Tirio	Anim	2	0.7213	6	0.7213
+nucl1714	Nuclear Hmongic-Ho Ne	Hmong-Mien	2	0.7349	40	0.7349
+nucl1716	Nuclear Tuparic	Tupian	3	0.4931	2	0.4931
+nucl1719	Nuclear SBB Occidental	Central Sudanic	3	0.537	64	0.537
+nucl1720	Nuclear Hmongic	Hmong-Mien	3	0.7928	81	0.7928
+nucl1722	Nuclear Palai	Nuclear Torricelli	3	0.8401	9	0.8401
+nucl1723	Nuclear Ojibwe	Algic	6	0.4475	2	0.4475
+nucl1724	Nuclear Pintupic	Pama-Nyungan	4	0.6131	3	0.6131
+nucl1728	Nuclear Himachali	Indo-European	7	0.4427	3	0.4427
+nucl1729	Nuclear Tamang	Sino-Tibetan	5	0.2352	1	0.2352
+nucl1732	Nuclear Idoma	Atlantic-Congo	6	0.5269	1	0.5269
+nucl1735	Nuclear Boleic	Afro-Asiatic	7	0.621	14	0.621
+nucl1736	Nuclear Oromo	Afro-Asiatic	7	0.3597	4	0.3597
+nucl1737	Nuclear Ngbandic	Atlantic-Congo	7	0.3368	9	0.3368
+nucl1738	Nuclear Palawan	Austronesian	7	0.2319	2	0.2319
+nucl1740	Nuclear Bafia (A.50)	Atlantic-Congo	8	0.6186	2	0.6186
+nucl1743	Nuclear Oti-Volta	Atlantic-Congo	8	0.806	117	0.806
+nucl1744	Nuclear Papuan Tip linkage	Austronesian	6	0.7749	182	0.7749
+nucl1746	Yambassa (A.60)	Atlantic-Congo	11	0.4748	3	0.4748
+nucl1748	Nuclear Oti-Volta Occidental	Atlantic-Congo	11	0.5229	44	0.5229
+nucl1749	Nuclear Trukic	Austronesian	9	0.7122	17	0.7122
+nucl1750	Nuclear North Bougainville Oceanic	Austronesian	10	0.6967	9	0.6967
+nucl1754	Nuclear Cordilleran	Austronesian	6	0.5393	22	0.5393
+nucl1756	Siane-Yagaria	Nuclear Trans New Guinea	4	0.8319	18	0.8319
+nucl1757	Nuclear Maraic	Sino-Tibetan	5	0.6157	3	0.6157
+nucl1758	Nuclear Nicobaric	Austroasiatic	2	0.6261	2	0.6261
+nucl1760	Nuclear Goroka	Nuclear Trans New Guinea	3	0.8378	45	0.8378
+nucl1763	Nuclear Angan	Angan	1	0.7852	47	0.7852
+nucl1764	Nuclear Japura-Colombia	Arawakan	2	0.8092	14	0.8092
+nucl1765	Core Zapotec	Otomanguean	5	0.6256	92	0.6256
+nucl1769	Nuclear Oghuz	Turkic	3	0.3864	15	0.3864
+nucl1773	Nuclear Warisic	Border	2	0.6717	26	0.6717
+nucl1777	Nuclear Warup	Nuclear Trans New Guinea	4	0.8073	9	0.8073
+nucl1790	Nuclear Central Iran Kermanic	Indo-European	9	0.4018	1	0.4018
+nucl1793	Nuclear Santo	Austronesian	7	0.653	52	0.653
+nucl1794	Nuclear Taupota linkage	Austronesian	10	0.551	5	0.551
+nucl1795	Nuclear Zaric	Atlantic-Congo	6	0.6499	5	0.6499
+nucl1797	Nuclear Bandaic	Atlantic-Congo	7	0.3996	59	0.3996
+nucl1801	Nuclear Bendic	Atlantic-Congo	6	0.6316	1	0.6316
+nucl1802	Nuclear Mbam	Atlantic-Congo	8	0.7511	30	0.7511
+nucl1803	Nuclear Ngomic	Atlantic-Congo	8	0.5603	5	0.5603
+nucl1804	Nuclear KLC	Atlantic-Congo	14	0.5981	30	0.5981
+nucl1806	Nuclear Malayic	Austronesian	4	0.4016	198	0.4016
+nucl1818	Nuclear Ghale	Sino-Tibetan	5	0.3038	1	0.3038
+nucl1819	Nuclear Eastern Dardic	Indo-European	6	0.534	36	0.534
+nucl1821	Nuclear Alor-Pantar	Timor-Alor-Pantar	2	0.8111	47	0.8111
+nucl1826	Nuclear Southern Bantu	Atlantic-Congo	8	0.6742	14	0.6742
+nucl1828	Nuclear Guahiboan	Guahiboan	1	0.5755	3	0.5755
+nucl1830	Nuclear West Chadic B.2	Afro-Asiatic	5	0.6678	24	0.6678
+nucl1838	Nuclear Lower Cross	Atlantic-Congo	5	0.3675	83	0.3675
+nucl1841	Nuclear Evapia	Nuclear Trans New Guinea	4	0.6791	2	0.6791
+nucl1842	Nuclear Maxakalian	Nuclear-Macro-Je	3	0.8165	1	0.8165
+nucl1844	Nuclear Yucatecan	Mayan	3	0.5348	2	0.5348
+nucl1848	Nuclear Chonan	Chonan	1	0.7904	1	0.7904
+nucl1849	Nuclear Kolhrengic	Sino-Tibetan	5	0.2985	1	0.2985
+nucl1850	Nuclear Wee	Kru	5	0.351	1	0.351
+nucl1851	Nuclear West Gyalrongic	Sino-Tibetan	6	0.6414	2	0.6414
+nuer1245	Nuer-Reel	Nilotic	3	0.4813	1	0.4813
+nuku1256	Nukuma	Sepik	1	0.5556	2	0.5556
+numa1256	Numan	Atlantic-Congo	7	0.5671	1	0.5671
+numi1242	Numic	Uto-Aztecan	2	0.6367	16	0.6367
+numu1240	Numugenan	Nuclear Trans New Guinea	5	0.6134	9	0.6134
+nuna1234	Nuna-Kasem	Atlantic-Congo	8	0.5581	2	0.5581
+nung1293	Nungish	Sino-Tibetan	1	0.5258	2	0.5258
+nuni1253	Nuni	Atlantic-Congo	9	0.3755	1	0.3755
+nunm1234	Nun MCNB	Atlantic-Congo	10	0.5206	1	0.5206
+nunu1252	Nunusaku	Austronesian	2	0.6731	68	0.6731
+nupe1252	Macro-Nupoid	Atlantic-Congo	4	0.7555	14	0.7555
+nupo1239	Nupoid	Atlantic-Congo	5	0.6909	11	0.6909
+nuri1243	Nuristani	Indo-European	4	0.7208	9	0.7208
+nuru1240	Nuru	Nuclear Trans New Guinea	3	0.7672	9	0.7672
+nwab1239	Nwa-Ben	Mande	3	0.6389	4	0.6389
+nyak1264	Nyakyusa-Ndali	Atlantic-Congo	8	0.471	1	0.471
+nyal1255	Bantu D33	Atlantic-Congo	14	0.4156	6	0.4156
+nyam1284	Polci-Luri	Afro-Asiatic	7	0.4428	2	0.4428
+nyam1286	Nyamwezic	Atlantic-Congo	9	0.4861	6	0.4861
+nyan1316	Nyangbo-Tafi	Atlantic-Congo	5	0.2988	1	0.2988
+nyan1317	Greater Lega	Atlantic-Congo	7	0.649	29	0.649
+nyan1318	Nyanza Mara	Atlantic-Congo	10	0.4892	12	0.4892
+nyat1247	Nyaturu-Nilamba	Atlantic-Congo	7	0.4757	3	0.4757
+nyaw1248	Nyawaygic	Pama-Nyungan	1	0.651	1	0.651
+nyik1244	Nyikinic	Nyulnyulan	2	0.4368	1	0.4368
+nyik1249	Nyika	Atlantic-Congo	10	0.3743	3	0.3743
+nyik1250	Nyika-Lambya	Atlantic-Congo	9	0.4915	4	0.4915
+nyim1244	Nyimang	Nyimang	0	0.6359	1	0.6359
+nyoa1234	Nyo	Atlantic-Congo	3	0.8992	173	0.8992
+nyor1247	Nyoro-Tooro	Atlantic-Congo	13	0.2587	1	0.2587
+nyul1248	Nyulnyulan	Nyulnyulan	0	0.7676	6	0.7676
+nzad1235	Nzadic	Atlantic-Congo	8	0.7878	45	0.7878
+nzan1241	Nzanyic	Afro-Asiatic	6	0.478	1	0.478
+nzeb1234	Nzebi-Laali-Yaa	Atlantic-Congo	18	0.4495	8	0.4495
+oaxa1241	Oaxaca Mixe	Mixe-Zoque	2	0.3364	5	0.3364
+obol1242	Lower Cross	Atlantic-Congo	4	0.6584	18	0.6584
+ocea1241	Oceanic	Austronesian	3	0.8761	198	0.8761
+oghu1243	Oghuz	Turkic	2	0.4587	7	0.4587
+ogon1240	Ogonoid	Atlantic-Congo	4	0.5679	6	0.5679
+ohio1234	Ohio Valley Siouan	Siouan	1	0.7041	2	0.7041
+oila1234	Oil	Indo-European	12	0.5778	10	0.5778
+oira1260	Eastern Mongolic	Mongolic-Khitan	2	0.5422	6	0.5422
+ojib1240	Ojibwa-Potawatomi	Algic	4	0.6305	5	0.6305
+ojib1241	Ojibwa	Algic	5	0.5226	6	0.5226
+okan1244	Okanaganic	Salishan	3	0.6139	2	0.6139
+okie1247	Okiek-Akie	Nilotic	3	0.4785	1	0.4785
+okin1244	Okinawa	Japonic	3	0.393	1	0.393
+okin1245	Okinoerabu-Tokunoshima	Japonic	5	0.3976	1	0.3976
+okkk1242	Ok	Nuclear Trans New Guinea	4	0.7575	105	0.7575
+okok1235	Ok-Oksapmin	Nuclear Trans New Guinea	3	0.9278	17	0.9278
+okol1242	Okol-Opucikwar	Great Andamanese	2	0.7503	1	0.7503
+okop1234	Okop Usem	Atlantic-Congo	8	0.191	2	0.191
+oldb1234	Old Bomokandian	Atlantic-Congo	13	0.7779	61	0.7779
+oldk1252	Northwestern Kuki-Chin	Sino-Tibetan	3	0.5528	43	0.5528
+oldm1245	Early Old Tibetan	Sino-Tibetan	3	0.5037	54	0.5037
+oloe1234	Olo-Elkei	Nuclear Torricelli	5	0.6711	1	0.6711
+omag1247	Omagua-Kokama	Tupian	7	0.3253	1	0.3253
+omet1238	Ometo	Ta-Ne-Omotic	1	0.5651	39	0.5651
+omos1240	Omosan	Nuclear Trans New Guinea	3	0.7394	1	0.7394
+omot1245	Omo-Tana	Afro-Asiatic	6	0.8422	28	0.8422
+onee1245	One	Nuclear Torricelli	2	0.5714	9	0.5714
+onga1238	Ongamo-Maa	Nilotic	4	0.501	2	0.501
+onin1244	Oninic	Austronesian	5	0.4544	3	0.4544
+opuu1238	Central Koman	Koman	1	0.8603	2	0.8603
+oreg1242	Oregon Athabaskan	Athabaskan-Eyak-Tlingit	4	0.6208	2	0.6208
+orie1242	Oriente Quechua	Quechuan	5	0.1235	5	0.1235
+oriy1254	Oriya-Gauda-Kamrupa	Indo-European	7	0.5431	24	0.5431
+ormu1249	Ormuri-Parachi	Indo-European	5	0.749	1	0.749
+oroc1249	Oroch-Udihe	Tungusic	3	0.3611	1	0.3611
+oroi1234	Oroic	Atlantic-Congo	7	0.1902	4	0.1902
+orok1264	Central-Western Tungusic	Tungusic	1	0.4187	2	0.4187
+orok1268	Orokaivic	Nuclear Trans New Guinea	5	0.4213	3	0.4213
+osag1244	Osage-Kansa	Siouan	3	0.4349	1	0.4349
+osse1244	Osse	Atlantic-Congo	6	0.3781	2	0.3781
+ostf1234	North Low Saxon	Indo-European	10	0.4234	1	0.4234
+ostk1235	Ost-Kxoe	Khoe-Kwadi	3	0.6463	1	0.6463
+osum1243	Osum-Wadaginam-Pomoikan	Nuclear Trans New Guinea	4	0.7427	7	0.7427
+otin1234	Oti North Guang	Atlantic-Congo	8	0.5915	15	0.5915
+otiv1239	Oti-Volta	Atlantic-Congo	7	0.7346	58	0.7346
+otiv1240	Oti-Volta Oriental	Atlantic-Congo	9	0.7217	3	0.7217
+otom1297	Otomian	Otomanguean	4	0.4902	21	0.4902
+otom1299	Otomanguean	Otomanguean	0	0.9963	190	0.9963
+otom1300	Otomi	Otomanguean	5	0.4525	16	0.4525
+otop1241	Otopame-Chinantecan	Otomanguean	2	0.9999	148	0.9999
+otop1242	Otopamean	Otomanguean	3	0.8643	67	0.8643
+oumi1237	Oumic	Austronesian	8	0.6125	3	0.6125
+oute1238	Outer Indus Kohistani	Indo-European	9	0.5065	1	0.5065
+oute1258	Outer South Ethiopic	Afro-Asiatic	5	0.6451	8	0.6451
+oute1259	Outer Enga	Nuclear Trans New Guinea	3	0.7325	1	0.7325
+oute1261	Outer Nimboranic	Nimboranic	1	0.5229	3	0.5229
+paci1277	Pacific Coast Athabaskan	Athabaskan-Eyak-Tlingit	3	0.6249	11	0.6249
+paci1280	Pacific Creole English	Indo-European	11	0.3644	9	0.3644
+paga1238	Pagabeteic	Atlantic-Congo	16	0.3916	1	0.3916
+pagi1245	Pagi-Kilmeri	Border	2	0.7321	1	0.7321
+paha1254	Southern Kra	Tai-Kadai	3	0.6051	1	0.6051
+pahe1239	Paheng-Younuo	Hmong-Mien	2	0.8829	1	0.8829
+paho1240	Pahoturi	Pahoturi	0	0.7008	1	0.7008
+paii1252	Pai	Cochimi-Yuman	3	0.3611	1	0.3611
+pais1239	Pai-Sinen-Walio	Walioic	1	0.8941	1	0.8941
+pait1248	Paitanic	Austronesian	6	0.3912	7	0.3912
+pait1250	Paiteic	Sino-Tibetan	6	0.317	1	0.317
+pala1336	Palaung	Austroasiatic	4	0.4473	1	0.4473
+pala1350	Palaihnihan	Palaihnihan	0	0.9077	1	0.9077
+pala1352	Palaungic	Austroasiatic	2	0.7047	78	0.7047
+pala1354	Palawanic	Austronesian	4	0.3291	12	0.3291
+pala1357	Palawanic-Kalamian	Austronesian	3	0.5382	14	0.5382
+palk1239	Palku	Pama-Nyungan	2	0.7978	2	0.7978
+palo1244	Palor-Ndut	Atlantic-Congo	2	0.1441	1	0.1441
+palu1255	Dangari	Indo-European	9	0.4288	1	0.4288
+pama1250	Pama-Nyungan	Pama-Nyungan	0	0.9265	198	0.9265
+pama1251	Paman	Pama-Nyungan	1	0.9264	171	0.9264
+pame1260	Pamean	Otomanguean	4	0.6274	3	0.6274
+pana1302	Panasuanic	Austronesian	5	0.2963	1	0.2963
+pani1259	Paniai Lakes	Nuclear Trans New Guinea	1	0.6591	5	0.6591
+pani1263	Panim-Isebe-Bau	Nuclear Trans New Guinea	5	0.4886	3	0.4886
+pano1256	Panoan	Pano-Tacanan	1	0.754	44	0.754
+pano1257	Pano Nawa	Pano-Tacanan	3	0.5978	63	0.5978
+pano1259	Pano-Tacanan	Pano-Tacanan	0	0.8969	71	0.8969
+pant1258	Pantar	Timor-Alor-Pantar	4	0.6243	1	0.6243
+pany1247	Panytyima-Yinhawangka	Pama-Nyungan	5	0.5281	1	0.5281
+papu1253	Papuan Tip linkage	Austronesian	5	0.8508	199	0.8508
+para1319	Paraguay-Brazil Guarani	Tupian	8	0.483	1	0.483
+pare1273	Xaray	Arawakan	3	0.7024	2	0.7024
+pare1274	Pare-Taveta	Atlantic-Congo	9	0.7578	2	0.7578
+pare1275	Parenic	Arawakan	2	0.6324	1	0.6324
+pare1277	Pareic	Atlantic-Congo	10	0.8858	1	0.8858
+pare1278	Parecis-Nawe	Arawakan	4	0.5565	1	0.5565
+parj1243	Parji-Ollari-Gadaba	Dravidian	2	0.5845	1	0.5845
+paru1239	Parukotoan	Cariban	1	0.4493	2	0.4493
+pash1269	Pashto	Indo-European	5	0.3573	3	0.3573
+pasi1254	Pasismanua	Austronesian	10	0.4866	1	0.4866
+past1248	Pastoral Surmic	Surmic	3	0.5578	2	0.5578
+past1249	Pastaza Quechua	Quechuan	6	0.1627	1	0.1627
+pata1263	Patakai-Manusela	Austronesian	3	0.7774	1	0.7774
+patp1244	Patpatar-Minigir-Tolai	Austronesian	8	0.5327	2	0.5327
+paur1240	Pauri-Nahali	Indo-European	8	0.3522	1	0.3522
+pauw1244	Pauwasi	Pauwasi	0	0.8966	6	0.8966
+pawn1252	Pawnee-Kitsai	Caddoan	2	0.7307	2	0.7307
+pawn1253	Pawnee-Arikara	Caddoan	3	0.6092	1	0.6092
+pear1246	Pearic	Austroasiatic	1	0.4467	2	0.4467
+peba1241	Peba-Yagua	Peba-Yagua	0	0.9255	1	0.9255
+peka1243	Peka	Nuclear Trans New Guinea	3	0.6826	5	0.6826
+peko1235	Pekodian	Cariban	1	0.8113	2	0.8113
+pemo1246	Pemong-Panare	Cariban	2	0.7414	3	0.7414
+pemo1247	Pemongan	Cariban	3	0.5154	3	0.5154
+pena1271	Penan	Austronesian	7	0.4626	2	0.4626
+pena1272	Penangic	Dogon	2	0.5545	3	0.5545
+pera1258	Perai-Tugun-Aputai	Austronesian	5	0.2367	2	0.2367
+pera1259	Perai-Aputai	Austronesian	6	0.1628	1	0.1628
+pere1234	Perema-Mumbake	Atlantic-Congo	9	0.3826	1	0.3826
+peri1254	Peripheral Karen	Sino-Tibetan	2	0.6703	4	0.6703
+peri1258	Peripheral Papuan Tip linkage	Austronesian	6	0.9113	92	0.9113
+peri1260	Peripheral Kuki-Chin	Sino-Tibetan	3	0.5896	99	0.5896
+peri1261	Peripheral Central Bisayan	Austronesian	6	0.3165	4	0.3165
+peri1262	Peripheral Western Malakula	Austronesian	8	0.6797	27	0.6797
+perm1256	Permian	Uralic	1	0.4019	2	0.4019
+pesi1234	Pesisir	Austronesian	3	0.4299	1	0.4299
+peul1234	Fula-Sereer	Atlantic-Congo	2	0.8609	9	0.8609
+peve1244	Peveic	Afro-Asiatic	4	0.4192	1	0.4192
+pfjo1234	PF-Jola	Atlantic-Congo	7	0.711	6	0.711
+phay1242	Phay-Pram	Austroasiatic	2	0.7259	7	0.7259
+phee1234	Pheende-Kwezo	Atlantic-Congo	11	0.602	3	0.602
+piap1247	Piapoco-Achagua	Arawakan	4	0.6171	1	0.6171
+piap1250	Piapung-Koenoem	Afro-Asiatic	8	0.2754	1	0.2754
+piaw1238	Piawi	Piawi	0	0.8925	1	0.8925
+piem1239	Piemontese-Lombard	Indo-European	12	0.3326	1	0.3326
+pila1244	Pilaga-Toba	Guaicuruan	3	0.6572	1	0.6572
+pilb1234	Pilbara	Pama-Nyungan	2	0.7979	7	0.7979
+pima1249	Piman	Uto-Aztecan	3	0.3447	1	0.3447
+pind1245	Pindiu	Nuclear Trans New Guinea	5	0.6655	5	0.6655
+pint1254	Pintupic	Pama-Nyungan	3	0.7292	4	0.7292
+piro1249	Western Yineic	Arawakan	5	0.307	1	0.307
+piru1243	Piru Bay	Austronesian	3	0.5999	20	0.5999
+pisa1246	Pisamira-Yuruti	Tucanoan	4	0.3745	2	0.3745
+pith1234	Pithauragarh	Sino-Tibetan	4	0.3999	3	0.3999
+piti1242	Piti-Atsam	Atlantic-Congo	7	0.5194	1	0.5194
+piva1237	Banoni-Piva	Austronesian	9	0.3711	1	0.3711
+plai1257	Plains Dogon	Dogon	1	0.6796	5	0.6796
+plai1264	Plains Creeic	Algic	5	0.8615	1	0.8615
+plat1259	Plateau Shona	Atlantic-Congo	10	0.2815	1	0.2815
+plat1260	Plateau Central Kalenjin	Nilotic	4	0.5183	3	0.5183
+plat1262	Plateau Kasai-Ngounie	Atlantic-Congo	14	0.5868	1	0.5868
+poch1242	Pochuri-Northern Rengma	Sino-Tibetan	4	0.8672	1	0.8672
+poco1241	Poqom	Mayan	4	0.3169	1	0.3169
+podo1243	Podoko	Afro-Asiatic	6	0.6422	1	0.6422
+pogo1242	Kilombero	Atlantic-Congo	7	0.5819	2	0.5819
+polc1245	Polcic	Afro-Asiatic	8	0.4271	1	0.4271
+poly1242	Polynesian	Austronesian	6	0.4265	69	0.4265
+pomo1272	Pomoikan	Nuclear Trans New Guinea	5	0.6131	2	0.6131
+pomo1273	Pomoan	Pomoan	0	0.4688	11	0.4688
+pona1247	Chuukic-Ponapeic	Austronesian	7	0.7646	39	0.7646
+pona1248	Ponapeic	Austronesian	8	0.4713	3	0.4713
+popo1292	Popoloca-Zapotecan	Otomanguean	2	0.9654	200	0.9654
+popo1293	Popolocan-Mazatecan	Otomanguean	3	0.8046	47	0.8046
+port1292	Orkon-West Ambrym	Austronesian	7	0.4301	2	0.4301
+port1295	Port Sandwich-Axamb-Avok	Austronesian	10	0.3969	1	0.3969
+poto1250	Potou	Atlantic-Congo	5	0.5583	1	0.5583
+poto1254	Potou-Tano	Atlantic-Congo	4	0.8824	50	0.8824
+pouy1239	Pouye-Karawa	Sepik	2	0.5426	1	0.5426
+poya1240	Poyanawa Subgroup	Pano-Tacanan	4	0.5287	1	0.5287
+prea1240	Pre-Andine Maipuran	Arawakan	3	0.627	9	0.627
+puka1245	Pukapukic	Austronesian	9	0.4589	2	0.4589
+pumi1242	Pumi	Sino-Tibetan	4	0.5438	1	0.5438
+puna1279	Punan-Muller-Schwaner	Austronesian	4	0.5994	27	0.5994
+puna1280	Punan	Austronesian	5	0.5348	27	0.5348
+puna1281	Punan Tubu-Bah	Austronesian	6	0.5064	3	0.5064
+puru1265	Purus	Arawakan	3	0.748	7	0.748
+puru1268	Purubora-Ramarama	Tupian	1	0.8494	1	0.8494
+puru1269	Purus-Chamicuro	Arawakan	2	0.8917	5	0.8917
+pwoo1239	Pwo	Sino-Tibetan	3	0.4802	4	0.4802
+qelt1235	Qeltu	Afro-Asiatic	7	0.3856	1	0.3856
+qian1263	Qiangic	Sino-Tibetan	3	0.801	57	0.801
+qian1264	Qiang	Sino-Tibetan	4	0.7431	1	0.7431
+qomm1235	Qom	Guaicuruan	2	0.6521	2	0.6521
+quec1386	Quechua I	Quechuan	1	0.2014	21	0.2014
+quec1387	Quechuan	Quechuan	0	0.2779	199	0.2779
+quec1389	Southern Quechua	Quechuan	1	0.1937	16	0.1937
+quic1274	Quichean-Mamean	Mayan	2	0.5934	40	0.5934
+quic1275	Quiche-Achi	Mayan	5	0.3242	1	0.3242
+rade1241	Rade-Jarai	Austronesian	5	0.3743	3	0.3743
+raic1241	Rai Coast	Nuclear Trans New Guinea	2	0.8652	200	0.8652
+raja1255	Raja Ampat-South Halmahera	Austronesian	4	0.7272	69	0.7272
+raja1256	Rajasthani	Indo-European	9	0.4838	78	0.4838
+raja1258	Raja Ampat Maya	Austronesian	7	0.5079	4	0.5079
+raji1239	Raji-Raute	Sino-Tibetan	1	0.4668	2	0.4668
+ramm1241	Ram	Sepik	1	0.6206	2	0.6206
+ramp1244	Rampi-Seko-Badaic	Austronesian	3	0.5662	11	0.5662
+ramu1234	Ramu	Ramu	0	0.8929	173	0.8929
+rasa1242	Rasawa-Saponi	Lakes Plain	2	0.8298	1	0.8298
+rash1249	Rashad	Rashad	0	0.6103	1	0.6103
+raut1240	Raute-Rawat	Sino-Tibetan	2	0.6741	1	0.6741
+rawl1234	Rawlinson	Nuclear Trans New Guinea	4	0.8233	8	0.8233
+rawo1243	Rawo-Main Serra	Sko	3	0.7182	1	0.7182
+reef1242	Reefs-Santa Cruz	Austronesian	5	0.7097	5	0.7097
+reja1244	Rejang-Makaham Kayan	Austronesian	6	0.2632	1	0.2632
+remp1242	Rempic	Nuclear Trans New Guinea	5	0.4953	3	0.4953
+reng1253	Rengma-Simi	Sino-Tibetan	4	0.8435	1	0.8435
+rhin1244	Rhenish Franconian	Indo-European	8	0.2972	1	0.2972
+ring1243	Ring	Atlantic-Congo	7	0.7282	43	0.7282
+ripu1236	Ripuarian	Indo-European	9	0.3187	1	0.3187
+rive1256	Riverine Phula	Sino-Tibetan	6	0.5542	1	0.5542
+rive1260	River Yuman	Cochimi-Yuman	3	0.398	3	0.398
+rive1262	River Oti North Guang	Atlantic-Congo	9	0.531	9	0.531
+rive1263	River Western Mundu-Baka	Atlantic-Congo	8	0.3657	8	0.3657
+rive1266	Rivers Bantu	Atlantic-Congo	8	0.7534	200	0.7534
+rkor1234	R-Koryakic	Chukotko-Kamchatkan	2	0.4709	1	0.4709
+rock1234	Rockhampton-Gladstone	Pama-Nyungan	1	0.3642	1	0.3642
+rogo1239	Rogo-Sagamuk-Sama-Sambuga	Atlantic-Congo	8	0.5367	2	0.5367
+rogu1236	Rogue River	Athabaskan-Eyak-Tlingit	5	0.5233	1	0.5233
+roma1329	Romani	Indo-European	9	0.3346	22	0.3346
+roma1330	Anglo-Northwestern Romani	Indo-European	10	0.3907	4	0.3907
+roma1334	Romance	Indo-European	6	0.6397	200	0.6397
+roni1235	Ronic	Afro-Asiatic	5	0.6625	9	0.6625
+rote1234	Rote-Meto	Austronesian	3	0.3943	15	0.3943
+rovi1239	Rovianic	Austronesian	11	0.6131	2	0.6131
+rufi1235	Rufiji-Ruvuma	Atlantic-Congo	7	0.5594	18	0.5594
+rufi1236	Rufijic	Atlantic-Congo	8	0.4471	8	0.4471
+ruku1240	Rukubic	Atlantic-Congo	5	0.888	2	0.888
+rund1244	Rundic	Atlantic-Congo	12	0.2691	3	0.2691
+rung1257	Runga-Kibet	Maban	2	0.4173	1	0.4173
+rung1260	Rungus-Mangkaak-Labuk	Austronesian	7	0.3118	2	0.3118
+russ1265	Russian River and Eastern	Pomoan	1	0.5092	4	0.5092
+russ1266	Russian River	Pomoan	2	0.4776	4	0.4776
+ruta1242	Rutara	Atlantic-Congo	10	0.3736	29	0.3736
+ruun1239	Ruund-Salampasu	Atlantic-Congo	10	0.5902	3	0.5902
+ruun1240	Ruund-Kete	Atlantic-Congo	12	0.3928	1	0.3928
+ruvu1234	Ruvuma	Atlantic-Congo	8	0.553	2	0.553
+ruvu1235	Ruvu	Atlantic-Congo	9	0.5219	55	0.5219
+rwan1241	West Highlands Kivu	Atlantic-Congo	11	0.2982	7	0.2982
+ryuk1243	Ryukyuan	Japonic	1	0.4884	21	0.4884
+ryuk1244	Southern Ryukyu	Japonic	2	0.4992	2	0.4992
+saaf1239	Saafi-Noon-Lehar	Atlantic-Congo	2	0.4187	2	0.4187
+saam1281	Saami	Uralic	1	0.5872	20	0.5872
+saam1284	Saamia-Wanga-Bukusu	Atlantic-Congo	11	0.47	14	0.47
+saam1285	Saamia-Wanga	Atlantic-Congo	12	0.4907	10	0.4907
+saam1286	Saamiaic	Atlantic-Congo	14	0.5425	1	0.5425
+saba1281	Saba-Sokoro-Tamki	Afro-Asiatic	6	0.5902	3	0.5902
+saba1282	Sabaki-Swahili	Atlantic-Congo	10	0.5388	3	0.5388
+saba1285	Sabahan	Austronesian	3	0.549	87	0.549
+sabi1248	Sabi	Atlantic-Congo	7	0.4261	6	0.4261
+safa1246	Safaliba-Dagaare	Atlantic-Congo	13	0.4751	6	0.4751
+saga1266	Sagamuk-Sama-Sambuga	Atlantic-Congo	9	0.3414	1	0.3414
+saha1239	Sahaptian	Sahaptian	0	0.7262	2	0.7262
+saha1240	Sahaptin	Sahaptian	1	0.3358	1	0.3358
+saha1256	Saharan	Saharan	0	0.887	10	0.887
+saho1245	Saho-Afar	Afro-Asiatic	4	0.5264	1	0.5264
+saka1297	Sakam-Som	Nuclear Trans New Guinea	4	0.6653	1	0.6653
+saka1299	Western Malagasic	Austronesian	10	0.3697	1	0.3697
+saka1301	Sakata-Tiinic	Atlantic-Congo	15	0.6364	1	0.6364
+sakk1239	Luish	Sino-Tibetan	3	0.7747	3	0.7747
+sali1255	Salishan	Salishan	0	0.8999	134	0.8999
+sali1297	Saliban	Saliban	0	0.7607	2	0.7607
+salu1251	Saluan-Banggai	Austronesian	5	0.6567	20	0.6567
+salu1252	Saluanic	Austronesian	7	0.3706	2	0.3706
+sama1302	Sama-Bajaw	Austronesian	4	0.4662	15	0.4662
+samb1319	Sambalic	Austronesian	3	0.3104	13	0.3104
+samb1322	Central Adamawa	Atlantic-Congo	4	0.8761	157	0.8761
+samb1323	Samba-Duru	Atlantic-Congo	5	0.823	47	0.823
+samb1324	Samba-Leko-Perema-Mumbake	Atlantic-Congo	8	0.6017	1	0.6017
+samo1298	Samoyedic	Uralic	1	0.7707	13	0.7707
+samo1302	Samo-Busa	Mande	3	0.6312	15	0.6312
+samo1308	Northwestern Mande	Mande	2	0.8432	35	0.8432
+samo1309	Duun-Seenku	Mande	5	0.7274	3	0.7274
+samo1310	Samoan-Tokelauan	Austronesian	10	0.4503	1	0.4503
+samu1243	Samu	Atlantic-Congo	4	0.683	3	0.683
+sana1299	Sanaga-West Mbam (A.40)	Atlantic-Congo	9	0.8639	5	0.8639
+sanc1243	Makira	Austronesian	7	0.3186	10	0.3186
+sand1283	San Dionisio-San Mateo Huave	Huavean	1	0.5152	1	0.5152
+sang1327	Sangoic	Atlantic-Congo	8	0.341	1	0.341
+sang1335	Sangiric	Austronesian	3	0.3373	6	0.3373
+sang1341	Sangu-Sira-Punu	Atlantic-Congo	23	0.4534	3	0.4534
+sang1343	Sanglechi-Ishkashimi	Indo-European	5	0.3525	1	0.3525
+sang1345	Sangu-Sira	Atlantic-Congo	24	0.4321	2	0.4321
+sang1348	Sangiric-Minahasan	Austronesian	2	0.5898	25	0.5898
+sani1266	Axioid	Sino-Tibetan	6	0.5832	1	0.5832
+sanj1278	San Juan	Chocoan	2	0.2657	2	0.2657
+sanm1306	San Martin-Amazonas Quechua	Quechuan	1	0.1427	1	0.1427
+sant1457	Santalic	Austroasiatic	4	0.171	3	0.171
+sant1458	Santa Isabel	Austronesian	9	0.555	6	0.555
+saot1242	Saotomic	Indo-European	16	0.2281	1	0.2281
+sapa1255	Sapa-Southwestern Tai	Tai-Kadai	6	0.3105	19	0.3105
+sapo1252	Saposa-Tinputz	Austronesian	12	0.6682	1	0.6682
+sara1318	Sara Peripherique	Central Sudanic	5	0.4739	3	0.4739
+sara1341	Sara-Bongo-Bagirmi	Central Sudanic	1	0.7288	169	0.7288
+sara1342	Central Sarawak	Austronesian	3	0.6253	72	0.6253
+sara1344	Sara Central Chari	Central Sudanic	6	0.2666	1	0.2666
+sara1345	Sara Central Logone	Central Sudanic	6	0.4459	2	0.4459
+sara1346	Sara Central Logone-Chari	Central Sudanic	6	0.3746	9	0.3746
+sara1347	Sarangani-Tasaday-Cotabato	Austronesian	6	0.3382	1	0.3382
+sara1348	Sara-Kaba	Central Sudanic	7	0.4991	1	0.4991
+sara1349	Saraic	Central Sudanic	4	0.5648	118	0.5648
+sard1257	Southern Romance	Indo-European	7	0.2975	1	0.2975
+sarm1241	Sarmi-Jayapura Bay	Austronesian	6	0.8867	18	0.8867
+sarm1242	Sarmi	Austronesian	7	0.7204	13	0.7204
+sarw1240	Sarwa-Sumray	Afro-Asiatic	6	0.6876	1	0.6876
+sasa1248	Sasak-Sumbawa	Austronesian	3	0.4809	1	0.4809
+sata1238	Satawalese-Carolinian	Austronesian	11	0.5455	4	0.5455
+sawa1251	Sawabantu	Atlantic-Congo	7	0.6587	12	0.6587
+sawi1258	Sawila-Wersing	Timor-Alor-Pantar	3	0.6058	1	0.6058
+sawo1234	Iatmulic	Ndu	3	0.3948	1	0.3948
+sawo1235	Sawosic	Ndu	2	0.5061	4	0.5061
+saya1244	Sayan	Turkic	4	0.1242	1	0.1242
+sbbo1237	SBB Occidental	Central Sudanic	2	0.7413	23	0.7413
+schl1237	Schlesisch-Wilmesau	Indo-European	8	0.3668	3	0.3668
+scho1242	Schouten linkage	Austronesian	6	0.8234	56	0.8234
+sege1236	Seget-Moi	West Bird's Head	1	0.5018	1	0.5018
+seke1242	Seke-Sowa	Austronesian	7	0.4217	1	0.4217
+sele1251	Selepet-Komba	Nuclear Trans New Guinea	6	0.398	1	0.398
+seme1246	Semelai-Semaq	Austroasiatic	3	0.4096	3	0.4096
+semi1276	Semitic	Afro-Asiatic	1	0.7793	69	0.7793
+sena1264	Senagi	Senagi	0	0.6434	1	0.6434
+sena1270	Senaic	Atlantic-Congo	9	0.3365	1	0.3365
+sena1271	Sena-Nyanja	Atlantic-Congo	8	0.3702	5	0.3702
+seno1278	Senoic	Austroasiatic	3	0.5464	4	0.5464
+sent1261	Sentanic	Sentanic	0	0.8624	3	0.8624
+sent1262	Sentani-Nafri	Sentanic	2	0.4419	1	0.4419
+senu1239	Senufo	Atlantic-Congo	3	0.6831	41	0.6831
+sepi1256	Sepik Tama	Sepik	1	0.7709	6	0.7709
+sepi1257	Sepik	Sepik	0	0.8964	200	0.8964
+sepi1258	Sepik Hill	Sepik	1	0.8368	24	0.8368
+sera1270	Seram Straits	Austronesian	6	0.4575	10	0.4575
+sera1271	Sera-Sissano	Austronesian	9	0.5925	3	0.5925
+sere1263	Ndogoic	Atlantic-Congo	8	0.5196	8	0.5196
+sere1266	Sere-Indri	Atlantic-Congo	7	0.7485	4	0.7485
+serr1253	Serra Hills	Sko	2	0.6627	2	0.6627
+seso1234	Sesotho-Lozi	Atlantic-Congo	13	0.5417	1	0.5417
+seut1234	Seuta	Atlantic-Congo	11	0.3485	4	0.3485
+seve1242	Severn-Algonquin	Algic	6	0.4416	1	0.4416
+sham1282	Shamskatic	Sino-Tibetan	5	0.1866	1	0.1866
+shan1276	Shanic	Tai-Kadai	9	0.3934	40	0.3934
+shar1250	Sharwa-Tsuvan	Afro-Asiatic	6	0.443	1	0.443
+shar1251	Shark Bayic	Austronesian	8	0.2749	1	0.2749
+shau1239	Shaurasenic	Indo-European	7	0.5616	183	0.5616
+sher1254	Sherpa-Jirel	Sino-Tibetan	8	0.4182	1	0.4182
+shif1234	Shifted Western Romance	Indo-European	9	0.693	200	0.693
+shin1269	Shindzwani-Shimaore	Atlantic-Congo	12	0.1806	1	0.1806
+shin1270	Shinaic	Indo-European	7	0.558	12	0.558
+ship1253	Shipibo-Konibo-Kapanawa	Pano-Tacanan	5	0.5158	1	0.5158
+shir1260	Shirongol	Mongolic-Khitan	3	0.4592	3	0.4592
+shir1273	Shiroro-Kamuku	Atlantic-Congo	5	0.7299	10	0.7299
+shir1274	Shira-Southwestern Bade	Afro-Asiatic	6	0.7642	1	0.7642
+shir1275	Shiroro	Atlantic-Congo	6	0.6101	1	0.6101
+shon1250	Shona (S.10)	Atlantic-Congo	8	0.4481	3	0.4481
+shua1256	Shuaric	Chicham	1	0.2894	2	0.2894
+shug1237	Shughni-Yazgulami	Indo-European	6	0.6335	2	0.6335
+shug1253	Shughnic	Indo-European	7	0.4708	1	0.4708
+siau1243	Siau	Austronesian	7	0.6783	6	0.6783
+sida1247	Sidaama-Hadiyya-Kambaata	Afro-Asiatic	4	0.5185	8	0.5185
+sida1248	Sidaama-Gedeo	Afro-Asiatic	5	0.375	1	0.375
+sido1234	Sido	Central Sudanic	7	0.3201	3	0.3201
+sier1249	Sierra Miwokan	Miwok-Costanoan	3	0.3723	3	0.3723
+sier1251	Sierra Juarezic	Otomanguean	8	0.2765	3	0.2765
+sier1253	Sierra de Puebla Nahuatl	Uto-Aztecan	5	0.3469	3	0.3469
+sigu1235	Siguic	Atlantic-Congo	8	0.4467	2	0.4467
+sika1264	North Sogeram	Nuclear Trans New Guinea	5	0.5694	1	0.5694
+silo1241	Silopi-Utu	Nuclear Trans New Guinea	6	0.2992	1	0.2992
+silo1242	Silopic	Nuclear Trans New Guinea	5	0.5468	9	0.5468
+simb1258	Simbu	Nuclear Trans New Guinea	2	0.7239	8	0.7239
+simb1260	Simboic	Austronesian	11	0.325	2	0.325
+simo1242	Simog-Daonda	Border	3	0.4758	1	0.4758
+sina1272	Sinagoro-Keapara	Austronesian	8	0.4686	2	0.4686
+sind1278	Sindhi-Lahnda	Indo-European	7	0.5836	15	0.5836
+sind1279	Sindhic	Indo-European	8	0.5531	2	0.5531
+sind1282	Sindhi-Kachchi	Indo-European	9	0.3451	1	0.3451
+sing1270	Greater Riau-Johoric	Austronesian	5	0.4213	27	0.4213
+sing1273	Singsali-Bisu	Sino-Tibetan	7	0.622	1	0.622
+sinh1245	Dhivehi-Sinhala	Indo-European	5	0.6193	2	0.6193
+sinh1247	Sinhalaic	Indo-European	6	0.6794	1	0.6794
+sini1245	Sinitic	Sino-Tibetan	1	0.7515	95	0.7515
+sino1245	Sino-Tibetan	Sino-Tibetan	0	0.8756	196	0.8756
+sion1248	Siona-Secoya	Tucanoan	3	0.4042	1	0.4042
+siou1252	Siouan	Siouan	0	0.856	87	0.856
+siou1253	Sioux	Siouan	3	0.3302	1	0.3302
+sira1270	Sira-Barama	Atlantic-Congo	25	0.3684	1	0.3684
+siri1279	Sirionoid	Tupian	8	0.5531	1	0.5531
+siri1280	Siriano-Desano	Tucanoan	5	0.2327	1	0.2327
+sisa1247	Sisaala-Chakali	Atlantic-Congo	9	0.7135	16	0.7135
+sisa1248	Sisaala	Atlantic-Congo	10	0.6773	5	0.6773
+siss1244	Sissano-Tumleo	Austronesian	8	0.7531	8	0.7531
+siss1245	Sissanoic	Austronesian	10	0.4513	3	0.4513
+siwi1238	Libyan-Egyptian Oases Berber	Afro-Asiatic	3	0.3297	1	0.3297
+siza1239	Sizangic	Sino-Tibetan	5	0.3199	9	0.3199
+skoo1245	Sko	Sko	0	0.9053	9	0.9053
+skou1238	Skou-Serra-Piore	Sko	1	0.9195	27	0.9195
+skou1239	Skouic	Sko	2	0.6838	2	0.6838
+slav1253	Slave	Athabaskan-Eyak-Tlingit	5	0.351	1	0.351
+slav1255	Slavic	Indo-European	3	0.4542	94	0.4542
+sobe1239	Sobeic	Austronesian	8	0.6144	1	0.6144
+sogd1247	Sogdic-Ossetic	Indo-European	6	0.7123	1	0.7123
+soge1235	Sogeram	Nuclear Trans New Guinea	4	0.8498	32	0.8498
+sole1243	Solehua	Austronesian	5	0.4298	7	0.4298
+sole1244	So-Lebonya	Atlantic-Congo	12	0.8188	6	0.8188
+solo1260	Solomons Northern Outlier Polynesian-East Polynesian	Austronesian	9	0.3626	17	0.3626
+song1307	Songhay	Songhay	0	0.4687	16	0.4687
+song1314	Songola-Binja	Atlantic-Congo	9	0.6307	1	0.6307
+soni1257	Soninke-Bozo	Mande	3	0.8121	4	0.8121
+sons1245	Sonsorol-Tobi	Austronesian	10	0.566	1	0.566
+sora1255	Sora-Juray-Gorum	Austroasiatic	2	0.3856	2	0.3856
+sora1256	Sora-Juray	Austroasiatic	3	0.2645	1	0.2645
+sorb1249	Sorbian	Indo-European	5	0.199	1	0.199
+soth1248	Sotho-Tswana (S.30)	Atlantic-Congo	10	0.471	8	0.471
+sout1499	South West Bird's Head	West Bird's Head	1	0.6359	1	0.6359
+sout1516	Nuclear South Bird's Head	South Bird's Head	1	0.7252	9	0.7252
+sout1559	Southern Interior Salish	Salishan	2	0.7174	7	0.7174
+sout2683	South Great Andamanese	Great Andamanese	1	0.417	1	0.417
+sout2686	South Aslian	Austroasiatic	2	0.4615	3	0.4615
+sout2690	South Bahnaric	Austroasiatic	3	0.4644	4	0.4644
+sout2693	South Siberian Turkic	Turkic	2	0.4136	8	0.4136
+sout2701	South Kipchak	Turkic	5	0.2756	3	0.2756
+sout2705	Southern Periphery Mongolic	Mongolic-Khitan	2	0.4839	4	0.4839
+sout2711	Southern Gondi	Dravidian	6	0.3372	2	0.3372
+sout2736	Southern Kiranti	Sino-Tibetan	5	0.5138	9	0.5138
+sout2743	Southwestern Tai P	Tai-Kadai	8	0.4146	39	0.4146
+sout2744	Southern Shanic	Tai-Kadai	10	0.4355	8	0.4355
+sout2749	Southwestern Gelao	Tai-Kadai	6	0.2241	1	0.2241
+sout2753	Southern Samur	Nakh-Daghestanian	4	0.2903	1	0.2903
+sout2758	Southern Tangkic	Tangkic	1	0.5625	1	0.5625
+sout2765	Southern Maric	Pama-Nyungan	4	0.3782	12	0.3782
+sout2766	Southern Ngarna	Pama-Nyungan	2	0.7671	1	0.7671
+sout2772	Southern Daly	Southern Daly	0	0.8281	1	0.8281
+sout2779	Southern Bia	Atlantic-Congo	8	0.6365	1	0.6365
+sout2781	South Guang	Atlantic-Congo	7	0.6438	2	0.6438
+sout2786	Ngbugu-Langbasi	Atlantic-Congo	9	0.4312	1	0.4312
+sout2800	Southeastern Benue-Congo Plateau	Atlantic-Congo	4	0.7019	2	0.7019
+sout2805	Southwestern Edoid	Atlantic-Congo	5	0.5319	10	0.5319
+sout2822	South Ring	Atlantic-Congo	8	0.6879	2	0.6879
+sout2827	Southern Moru-Madi	Central Sudanic	2	0.5044	3	0.5044
+sout2830	Southern Nilotic	Nilotic	1	0.7563	22	0.7563
+sout2831	Southern Lwoo	Nilotic	3	0.291	11	0.291
+sout2835	South Gonga	Ta-Ne-Omotic	2	0.4043	1	0.4043
+sout2836	South Surmic	Surmic	1	0.7973	20	0.7973
+sout2837	Southeast Surmic	Surmic	2	0.7226	3	0.7226
+sout2838	Southwest Surmic	Surmic	2	0.6074	4	0.6074
+sout2842	Southwest Mande	Mande	3	0.5948	10	0.5948
+sout2845	South Omotic	South Omotic	0	0.672	4	0.672
+sout2849	Southern Batak	Austronesian	5	0.3421	2	0.3421
+sout2853	Southeast Solomonic	Austronesian	4	0.6634	133	0.6634
+sout2854	Southeast Guadalcanal	Austronesian	6	0.3037	1	0.3037
+sout2868	Southern Vanuatu	Austronesian	5	0.8092	17	0.8092
+sout2874	Southwest New Britain linkage	Austronesian	8	0.8602	32	0.8602
+sout2878	South Huon Gulf linkage	Austronesian	7	0.8858	32	0.8858
+sout2879	South-East Admiralty	Austronesian	6	0.5714	2	0.5714
+sout2881	South Babar	Austronesian	5	0.5929	12	0.5929
+sout2882	Southwest Babar	Austronesian	6	0.5982	3	0.5982
+sout2907	Southern Cordilleran	Austronesian	5	0.6501	4	0.6501
+sout2913	South Manobo	Austronesian	5	0.4107	2	0.4107
+sout2915	South Mangyan	Austronesian	3	0.5758	2	0.5758
+sout2919	Southeast Barito	Austronesian	4	0.6616	38	0.6616
+sout2921	South West Greater Barito	Austronesian	4	0.2309	1	0.2309
+sout2922	Southern Land Dayak	Austronesian	4	0.4973	10	0.4973
+sout2923	Greater South Sulawesi	Austronesian	2	0.5631	108	0.5631
+sout2925	Southern Tomini	Austronesian	5	0.441	10	0.441
+sout2928	Southeastern Celebic	Austronesian	5	0.6395	180	0.6395
+sout2934	South Binanderean	Nuclear Trans New Guinea	4	0.6309	14	0.6309
+sout2948	South Bougainville	South Bougainville	0	0.8208	2	0.8208
+sout2968	Southern Numic	Uto-Aztecan	3	0.67	1	0.67
+sout2975	Southern Tepehuan	Uto-Aztecan	4	0.245	1	0.245
+sout2981	Southern Wakashan	Wakashan	1	0.6226	2	0.6226
+sout2983	Southern Pomoan-Kashaya	Pomoan	3	0.2723	1	0.2723
+sout2988	Southeastern Siouan	Siouan	2	0.6673	1	0.6673
+sout3003	Cisyautepequeño	Otomanguean	8	0.4151	5	0.4151
+sout3006	Barasano-Eduria-Macuna	Tucanoan	3	0.3168	1	0.3168
+sout3015	Southern Magdalenic	Chibchan	3	0.8708	5	0.8708
+sout3054	South Cushitic	Afro-Asiatic	2	0.7873	5	0.7873
+sout3055	Southern Lowland East Cushitic	Afro-Asiatic	4	0.8969	61	0.8969
+sout3078	South Ethiopic	Afro-Asiatic	4	0.6456	36	0.6456
+sout3130	Ankave-Tainae-Akoye	Angan	2	0.757	2	0.757
+sout3131	Southern Maipuran	Arawakan	1	0.8969	130	0.8969
+sout3132	Southern Chumashan	Chumashan	1	0.7379	3	0.7379
+sout3133	South Dravidian	Dravidian	1	0.7494	190	0.7494
+sout3134	South-West Pama-Nyungan	Pama-Nyungan	1	0.7881	60	0.7881
+sout3135	Southeastern Pama-Nyungan	Pama-Nyungan	1	0.8668	200	0.8668
+sout3136	Southern Uto-Aztecan	Uto-Aztecan	1	0.8433	193	0.8433
+sout3138	South Dravidian I	Dravidian	2	0.672	57	0.672
+sout3139	South Dravidian II	Dravidian	2	0.7208	73	0.7208
+sout3140	Southeastern Mande	Mande	2	0.566	16	0.566
+sout3142	Southern Yolngu	Pama-Nyungan	2	0.6061	5	0.6061
+sout3143	Southwestern Kra	Tai-Kadai	2	0.8134	16	0.8134
+sout3144	South Eastern Tucanoan	Tucanoan	2	0.5298	1	0.5298
+sout3145	South Biu-Mandara	Afro-Asiatic	3	0.8573	177	0.8573
+sout3146	South Masa	Afro-Asiatic	3	0.3979	2	0.3979
+sout3147	South Slavic	Indo-European	4	0.365	9	0.365
+sout3148	South Adelbert	Nuclear Trans New Guinea	3	0.867	50	0.867
+sout3149	Southern-Eastern Yolngu	Pama-Nyungan	3	0.5537	7	0.5537
+sout3150	Southwestern Saami	Uralic	3	0.7058	1	0.7058
+sout3151	Southwestern Apachean	Athabaskan-Eyak-Tlingit	4	0.3066	6	0.3066
+sout3152	Southern Bantoid	Atlantic-Congo	4	0.9127	195	0.9127
+sout3153	South Senufo	Atlantic-Congo	4	0.6723	2	0.6723
+sout3154	Southwest Sabahan	Austronesian	4	0.4815	200	0.4815
+sout3155	Southern Sangiric	Austronesian	4	0.2097	1	0.2097
+sout3159	Southern Burmish	Sino-Tibetan	4	0.7354	1	0.7354
+sout3160	South Peripheral Kuki-Chin	Sino-Tibetan	4	0.4737	5	0.4737
+sout3161	South Bauchi East	Afro-Asiatic	5	0.7056	15	0.7056
+sout3162	South Bauchi West	Afro-Asiatic	5	0.7104	15	0.7104
+sout3163	Zaric	Atlantic-Congo	5	0.7775	3	0.7775
+sout3164	Southern Central Gur	Atlantic-Congo	5	0.8861	182	0.8861
+sout3166	Central-Southern Batak	Austronesian	4	0.534	1	0.534
+sout3168	Southwestern Otomi	Otomanguean	5	0.3353	1	0.3353
+sout3170	Southwest South Bauchi	Afro-Asiatic	6	0.6645	2	0.6645
+sout3171	Southern Northwestern Edoid	Atlantic-Congo	6	0.5375	1	0.5375
+sout3173	Southern Melanesian	Austronesian	4	0.9396	194	0.9396
+sout3174	Southwestern Malagasic	Austronesian	6	0.4492	5	0.4492
+sout3175	South Bisayan	Austronesian	5	0.3286	2	0.3286
+sout3177	Southern Tatic	Indo-European	10	0.4624	1	0.4624
+sout3181	Southwest Grassfields	Atlantic-Congo	7	0.635	9	0.635
+sout3183	Southwestern Shifted Romance	Indo-European	10	0.6143	37	0.6143
+sout3184	Southwestern Tai	Tai-Kadai	7	0.4301	63	0.4301
+sout3185	Southern Tanzania Highlands Bantu	Atlantic-Congo	8	0.5117	32	0.5117
+sout3188	South Pentecost	Austronesian	6	0.4947	5	0.4947
+sout3191	Southern Okani	Atlantic-Congo	9	0.5507	3	0.5507
+sout3194	South-Central Santo	Austronesian	8	0.3297	3	0.3297
+sout3195	Southern Tanna	Austronesian	7	0.4852	1	0.4852
+sout3196	South Efatic	Austronesian	9	0.4968	1	0.4968
+sout3197	Southwest Coastal Malekula	Austronesian	10	0.3982	1	0.3982
+sout3198	Southern Malaita	Austronesian	8	0.3276	3	0.3276
+sout3200	South Castilic	Indo-European	13	0.4008	2	0.4008
+sout3201	South Mara	Atlantic-Congo	11	0.4668	4	0.4668
+sout3202	South Rutara	Atlantic-Congo	11	0.2697	1	0.2697
+sout3203	South Kalinga	Austronesian	9	0.4386	2	0.4386
+sout3204	Southern Mijikenda	Atlantic-Congo	12	0.1921	1	0.1921
+sout3205	Southeast Western Oti-Volta	Atlantic-Congo	12	0.4775	8	0.4775
+sout3207	Southeastern Kalinga	Austronesian	10	0.3437	1	0.3437
+sout3209	South Dagaric	Atlantic-Congo	16	0.3008	1	0.3008
+sout3211	South-Central Cordilleran	Austronesian	4	0.5678	75	0.5678
+sout3212	Southeastern Ngwi	Sino-Tibetan	5	0.6147	36	0.6147
+sout3213	Western Trans-Zab	Afro-Asiatic	12	0.2423	1	0.2423
+sout3214	South Khoekhoe	Khoe-Kwadi	3	0.4391	1	0.4391
+sout3216	South-Western Tibetic	Sino-Tibetan	7	0.4441	21	0.4441
+sout3220	Southeast Santo	Austronesian	9	0.5469	3	0.5469
+sout3229	South Halmahera-West New Guinea	Austronesian	3	0.8692	200	0.8692
+sout3230	Southwest Cenderawasih Bay	Austronesian	5	0.8921	2	0.8921
+sout3231	South Halmahera	Austronesian	5	0.6662	8	0.6662
+sout3232	Southern Angkuic	Austroasiatic	5	0.5947	6	0.5947
+sout3233	Southern Njila	Atlantic-Congo	8	0.6844	99	0.6844
+sout3234	Southeast Gondi	Dravidian	4	0.3693	2	0.3693
+sout3237	Southern New England Algonquian	Algic	5	0.6814	1	0.6814
+sout3238	Southern Samba-Duru	Atlantic-Congo	6	0.7835	17	0.7835
+sout3239	Southeastern Malakula linkage	Austronesian	9	0.42	2	0.42
+sout3240	Southwestern Malakula	Austronesian	9	0.5675	14	0.5675
+sout3242	Southern-Western Balochi	Indo-European	9	0.4818	1	0.4818
+sout3244	Southeastern Timbira	Nuclear-Macro-Je	6	0.418	1	0.418
+sout3245	Southern Otomi	Otomanguean	6	0.4492	1	0.4492
+sout3249	Central-Southern Kikongo	Atlantic-Congo	18	0.6447	18	0.6447
+sout3252	Southeast Kewa	Nuclear Trans New Guinea	6	0.3504	1	0.3504
+sout3254	South-Central Bai	Sino-Tibetan	3	0.4807	1	0.4807
+sout3263	Southern Tuareg	Afro-Asiatic	3	0.3303	1	0.3303
+sout3271	Southern Tupi-Guarani	Tupian	5	0.6379	72	0.6379
+sout3292	Southwestern Dutch	Indo-European	8	0.3471	3	0.3471
+sout3294	South Alemannic	Indo-European	10	0.288	1	0.288
+sout3313	Southern New Caledonian	Austronesian	7	0.8912	15	0.8912
+sout3333	Southeastern Chinantec	Otomanguean	5	0.5609	2	0.5609
+sout3337	Southern Alaskan Athabaskan	Athabaskan-Eyak-Tlingit	3	0.7311	1	0.7311
+sout3339	South Santo	Austronesian	8	0.6717	14	0.6717
+sout3346	South West-Central Malagasic	Austronesian	7	0.3158	4	0.3158
+sout3350	Southern Mbam-Nkam	Atlantic-Congo	8	0.6852	165	0.6852
+sout3352	Southern Makaaic	Atlantic-Congo	11	0.7947	1	0.7947
+sout3355	Southern Bikwin-Jen	Atlantic-Congo	5	0.5027	9	0.5027
+sout3367	Southwest Gondi	Dravidian	5	0.3538	6	0.3538
+sout3373	Southwest Mara	Atlantic-Congo	12	0.3501	1	0.3501
+sout3378	Southern Tosk	Indo-European	4	0.3637	1	0.3637
+sout3382	Southwest Maluku	Austronesian	3	0.6961	126	0.6961
+sout3383	Southern East Polynesian Proximal	Austronesian	13	0.4599	27	0.4599
+sout3385	Southwestern Popolocan	Otomanguean	7	0.546	5	0.546
+sout3387	Southern Bantu	Atlantic-Congo	7	0.7364	60	0.7364
+sout3390	Southeast Puebla-Northern Oaxaca Nahuatl	Uto-Aztecan	7	0.2249	1	0.2249
+sout3394	South Georgia Central Salish	Salishan	3	0.6491	3	0.6491
+sout3396	Southeast Kipchak	Turkic	4	0.3171	6	0.3171
+sout3402	Southwestern Alta Mixtec	Otomanguean	7	0.6342	2	0.6342
+sout3403	Southwest Ambrym	Austronesian	9	0.3118	1	0.3118
+sout3406	South Bolivian-Argentinian Quechua	Quechuan	3	0.1754	1	0.1754
+sout3407	Southwestern Patkaian	Sino-Tibetan	4	0.6672	3	0.6672
+sout3413	South Sulawesi	Austronesian	3	0.5095	89	0.5095
+sout3415	Southwest Bandaic	Atlantic-Congo	8	0.4205	4	0.4205
+sout3418	South Bird's Head	South Bird's Head	0	0.86	11	0.86
+sout3420	South Kyoga	Atlantic-Congo	11	0.439	1	0.439
+sout3421	Southern Min-Pu-Xian	Sino-Tibetan	4	0.5794	1	0.5794
+sout3426	Southern Baining	Baining	1	0.7417	1	0.7417
+sout3428	Southern Italian Romance	Indo-European	10	0.411	1	0.411
+spit1239	Spiti-Jad	Sino-Tibetan	7	0.2743	1	0.2743
+sran1241	Eastern Maroons	Indo-European	13	0.2382	2	0.2382
+stan1327	Standard Malay-Indonesian	Austronesian	5	0.1902	1	0.1902
+stge1234	St George linkage	Austronesian	7	0.8498	200	0.8498
+stra1246	Straits Salish	Salishan	3	0.445	1	0.445
+suau1243	Suauic	Austronesian	7	0.5792	20	0.5792
+suau1244	Suau chain	Austronesian	8	0.3546	1	0.3546
+suba1253	Subanen	Austronesian	3	0.287	2	0.287
+suba1255	Subansiri	Sino-Tibetan	5	0.5094	3	0.5094
+subg1264	Tupi-Guarani Subgroup V	Tupian	5	0.5175	2	0.5175
+subt1249	Subtiaba-Tlapanec	Otomanguean	2	0.6076	4	0.6076
+suda1235	Sudanese-Chadian Arabic	Afro-Asiatic	8	0.422	3	0.422
+sugu1244	Sugut-Minokok Kadazan	Austronesian	8	0.3286	1	0.3286
+sugu1245	Suguti	Atlantic-Congo	10	0.263	3	0.263
+suki1244	Suki-Gogodala	Suki-Gogodala	0	0.9363	3	0.9363
+suku1274	Sukuma-Nyamwezi (F.20)	Atlantic-Congo	8	0.4733	4	0.4733
+sula1247	Sula-Buru	Austronesian	3	0.6542	3	0.6542
+sulu1242	Sulu-Borneo	Austronesian	5	0.3537	15	0.3537
+suma1272	Sumalpan	Misumalpan	1	0.854	2	0.854
+suma1273	Sumambu-Tagal	Austronesian	8	0.4402	3	0.4402
+suma1277	Sumatran	Austronesian	2	0.7636	63	0.7636
+sumb1242	Sumba-Hawu	Austronesian	3	0.6685	14	0.6685
+sumb1243	Sumba	Austronesian	4	0.4148	14	0.4148
+sumu1234	Sumuic	Misumalpan	2	0.3708	1	0.3708
+supy1238	Supyiric	Atlantic-Congo	5	0.4496	1	0.4496
+suri1266	Tirma-Chai-Mursi	Surmic	4	0.3105	1	0.3105
+suri1272	Ndyuka	Indo-European	14	0.2813	1	0.2813
+suri1275	Surinamese Creole English	Indo-European	12	0.38	2	0.38
+surm1244	Surmic	Surmic	0	0.858	9	0.858
+susu1249	Susu-Yalunka	Mande	4	0.1694	1	0.1694
+swat1244	Swatic	Atlantic-Congo	14	0.3385	1	0.3385
+sydn1235	Sydney-Hawkesbury	Pama-Nyungan	5	0.6879	1	0.6879
+taba1270	Tabar linkage	Austronesian	7	0.7631	1	0.7631
+taca1255	Tacanan	Pano-Tacanan	1	0.5582	3	0.5582
+tagb1262	Tagbana-Jimini	Atlantic-Congo	5	0.5688	1	0.5688
+tagb1264	Tagbu-Sere	Atlantic-Congo	9	0.5465	1	0.5465
+tahi1244	Tahitian-Austral	Austronesian	14	0.2929	1	0.2929
+taik1252	Tai-Kana	Atlantic-Congo	6	0.3304	1	0.3304
+taik1254	Taikat-Awyi	Border	1	0.7141	1	0.7141
+taik1256	Tai-Kadai	Tai-Kadai	0	0.8654	190	0.8654
+tain1255	Tainae-Akoye	Angan	3	0.5552	1	0.5552
+tair1260	Tairora	Nuclear Trans New Guinea	3	0.6871	6	0.6871
+tait1249	Taita-Sagalla	Atlantic-Congo	9	0.4618	1	0.4618
+taka1267	Takanik-Chamik	Pano-Tacanan	2	0.6453	2	0.6453
+taka1268	Takanik	Pano-Tacanan	3	0.47	1	0.47
+taki1254	Takic	Uto-Aztecan	2	0.706	3	0.706
+taku1258	Takuuic	Austronesian	12	0.2801	3	0.2801
+tala1296	Tala-Sho-Zangwal	Afro-Asiatic	7	0.1785	2	0.1785
+tala1298	Tala-Zamwar	Afro-Asiatic	8	0.1271	1	0.1271
+tali1261	Taliaboic	Austronesian	6	0.2448	1	0.2448
+tali1264	Talic	Afro-Asiatic	7	0.3904	2	0.3904
+tama1329	Tamaic	Tamaic	0	0.7522	2	0.7522
+tama1334	Tamanic	Austronesian	5	0.242	1	0.242
+tama1367	Tamangic	Sino-Tibetan	4	0.467	24	0.467
+tama1368	Tama-Sungor	Tamaic	2	0.4235	1	0.4235
+tami1291	Tamil-Kannada	Dravidian	3	0.637	128	0.637
+tami1292	Tamil-Kota	Dravidian	4	0.5764	22	0.5764
+tami1293	Tamil-Toda	Dravidian	5	0.6988	21	0.6988
+tami1294	Tamil-Irula	Dravidian	6	0.4961	54	0.4961
+tami1297	Tamil-Kodagu	Dravidian	7	0.5118	33	0.5118
+tami1298	Tamil-Malayalam	Dravidian	8	0.4711	63	0.4711
+tami1299	Tamiloid	Dravidian	9	0.4582	33	0.4582
+tami1300	Tamil-Paliyan	Dravidian	10	0.4297	1	0.4297
+tamo1242	Tamolan	Ramu	2	0.6983	5	0.6983
+tamp1256	Tampuon-Bahnar	Austroasiatic	3	0.4925	1	0.4925
+tana1298	Tananaic	Athabaskan-Eyak-Tlingit	5	0.6823	5	0.6823
+tana1299	Tanana-Tutchone	Athabaskan-Eyak-Tlingit	4	0.7081	8	0.7081
+tana1300	Tana River Oromo	Afro-Asiatic	10	0.2361	1	0.2361
+tang1335	Tangkhul-Maring	Sino-Tibetan	2	0.7096	2	0.7096
+tang1340	Tangkic	Tangkic	0	0.6544	2	0.6544
+tang1354	Ataitan	Ramu	2	0.7472	5	0.7472
+tang1366	Tangalic	Afro-Asiatic	6	0.7847	4	0.7847
+tang1367	Nuclear Tangalic	Afro-Asiatic	7	0.6844	5	0.6844
+tang1375	Tangu-Igom	Ramu	3	0.5776	1	0.5776
+tang1376	Tangko-Nakai	Nuclear Trans New Guinea	5	0.6206	1	0.6206
+tang1378	Tangale-Kwami-Kupto	Afro-Asiatic	8	0.7662	1	0.7662
+tani1259	Tani	Sino-Tibetan	2	0.5436	8	0.5436
+tani1260	Tanimbar-Bomberai	Austronesian	2	0.7684	18	0.7684
+tann1242	Tanna	Austronesian	6	0.6463	6	0.6463
+tano1248	Tano	Atlantic-Congo	5	0.8201	180	0.8201
+taoi1247	Ta'oihic	Austroasiatic	2	0.3442	1	0.3442
+tara1321	Tarahumaran	Uto-Aztecan	3	0.4073	1	0.4073
+tara1324	Taranoan	Cariban	2	0.5656	1	0.5656
+tara1326	Tarahumara-Guarijio	Uto-Aztecan	2	0.5998	2	0.5998
+tari1255	Tariku	Lakes Plain	1	0.8532	60	0.8532
+taro1265	Tarokoid	Atlantic-Congo	4	0.819	12	0.819
+taro1266	Tarok-Pe	Atlantic-Congo	6	0.672	1	0.672
+tati1243	Adharic	Indo-European	8	0.62	20	0.62
+tati1244	Tatic	Indo-European	9	0.5168	4	0.5168
+tato1241	Tatoga-Omotik	Nilotic	2	0.7952	1	0.7952
+taup1241	Taupota linkage	Austronesian	9	0.7353	4	0.7353
+taya1258	Tayari-Ditammari	Atlantic-Congo	11	0.7393	2	0.7393
+tbol1241	Tboli-Blaan	Austronesian	3	0.482	2	0.482
+tebe1251	Teberan	Teberan	0	0.7604	1	0.7604
+tebu1238	Tebu	Saharan	2	0.2756	1	0.2756
+telu1265	Teluguic	Dravidian	3	0.3827	1	0.3827
+temc1234	Tem-Chala	Atlantic-Congo	9	0.6943	2	0.6943
+teme1251	Temeinic	Temeinic	0	0.6241	1	0.6241
+temn1245	Northern Mel	Atlantic-Congo	2	0.5427	10	0.5427
+temo1244	Temotu	Austronesian	4	0.9016	20	0.9016
+tend1239	Tenda	Atlantic-Congo	2	0.7422	2	0.7422
+tepe1243	Tepehua	Totonacan	1	0.2711	3	0.2711
+tepe1281	Tepehuan	Uto-Aztecan	3	0.3488	2	0.3488
+tepe1282	Tepexi-Zapotitlan	Otomanguean	8	0.4268	1	0.4268
+tepi1240	Tepiman	Uto-Aztecan	2	0.4643	6	0.4643
+tequ1244	Tequistlatecan	Tequistlatecan	0	0.5123	1	0.5123
+tern1246	Ternatean	North Halmahera	2	0.3803	1	0.3803
+tern1253	Ternate-Zamboanga-Cavite	Indo-European	14	0.3172	1	0.3172
+teso1247	Teso-Lotuxo-Maa	Nilotic	2	0.7642	34	0.7642
+teso1248	Teso-Turkana	Nilotic	3	0.4457	4	0.4457
+tete1254	Tetelaic	Atlantic-Congo	11	0.549	1	0.549
+tetu1244	Tetunic	Austronesian	5	0.1357	1	0.1357
+teun1242	Teun-Nila-Serua	Austronesian	4	0.3962	2	0.3962
+texi1238	Texistepec-Ayapa Zoque	Mixe-Zoque	3	0.4252	1	0.4252
+thad1239	Thadoic	Sino-Tibetan	5	0.3216	5	0.3216
+thak1244	Thakali-Chantyal	Sino-Tibetan	6	0.4217	1	0.4217
+thar1284	Tharuic	Indo-European	9	0.368	9	0.368
+theb1237	Thebor	Sino-Tibetan	5	0.3201	1	0.3201
+then1235	Then-MMS	Tai-Kadai	3	0.4961	5	0.4961
+thom1244	Thompsonic	Salishan	3	0.5439	1	0.5439
+thur1253	Thura-Yura	Pama-Nyungan	2	0.6951	4	0.6951
+tial1241	Central Santo	Austronesian	8	0.2838	3	0.2838
+tiba1234	Tiba-Dong	Atlantic-Congo	6	0.6907	1	0.6907
+tibe1275	West Himalayish	Sino-Tibetan	2	0.6614	49	0.6614
+tibe1276	Middle Old Tibetan	Sino-Tibetan	4	0.5652	17	0.5652
+tibo1240	Ti-Bozo	Mande	6	0.3704	1	0.3704
+tibo1243	Nuclear Tibor	Nuclear Trans New Guinea	7	0.5469	6	0.5469
+tibo1244	Tibor	Nuclear Trans New Guinea	6	0.602	4	0.602
+tidu1238	Tidung-Bulusu	Austronesian	9	0.4017	2	0.4017
+tidu1239	Tidung	Austronesian	10	0.4986	1	0.4986
+tifa1246	Tifal-Telefol	Nuclear Trans New Guinea	7	0.6027	3	0.6027
+tifa1247	Tifalic	Nuclear Trans New Guinea	8	0.5432	2	0.5432
+tilq1236	Tilquiapanic	Otomanguean	10	0.3955	1	0.3955
+timb1253	Eastern Timbira	Nuclear-Macro-Je	5	0.4503	2	0.4503
+timb1264	Kabwum	Nuclear Trans New Guinea	5	0.4233	2	0.4233
+timo1261	Timor-Alor-Pantar	Timor-Alor-Pantar	0	0.8695	75	0.8695
+timo1265	Timor-Babar	Austronesian	2	0.6885	200	0.6885
+tina1255	Tina-Bolinao	Austronesian	4	0.1498	1	0.1498
+tini1248	Tinic	Austroasiatic	3	0.6743	2	0.6743
+tinn1239	Tin	Austroasiatic	4	0.3828	1	0.3828
+tino1236	Tinoric	Atlantic-Congo	7	0.6032	1	0.6032
+tipp1238	Tipperic	Sino-Tibetan	5	0.3727	6	0.3727
+tiri1259	Tirio	Anim	1	0.9082	4	0.9082
+tive1237	Tiv-Evand	Atlantic-Congo	8	0.6856	3	0.6856
+tivi1234	Tiv-Iyive-Otanga	Atlantic-Congo	9	0.4877	3	0.4877
+tivo1239	Tivoid	Atlantic-Congo	5	0.7512	37	0.7512
+tiwa1255	Tiwa	Kiowa-Tanoan	2	0.2689	1	0.2689
+tiwa1256	Tiwa-Boro	Sino-Tibetan	4	0.5577	2	0.5577
+tjar1234	Tjarra	Pama-Nyungan	6	0.4634	3	0.4634
+tlax1234	Tlaxcala-Southeastern Puebla Nahuatl	Uto-Aztecan	6	0.2799	5	0.2799
+toba1265	Batakic	Austronesian	3	0.5015	8	0.5015
+tokh1241	Tokharian	Indo-European	2	0.4349	1	0.4349
+toko1243	Tokombere	Afro-Asiatic	6	0.5304	2	0.5304
+toli1244	Tolitoli	Austronesian	2	0.4437	1	0.4437
+tomi1242	Tominic	Austronesian	4	0.481	15	0.481
+tond1250	Tonda	Yam	2	0.7169	14	0.7169
+tong1324	Tongic	Austronesian	7	0.2639	1	0.2639
+tora1260	Torajic	Austronesian	6	0.2653	6	0.2653
+tora1268	Tor	Tor-Orya	1	0.6394	45	0.6394
+tora1269	Toraja-Duri	Austronesian	5	0.3284	4	0.3284
+toro1256	Tor-Orya	Tor-Orya	0	0.8121	12	0.8121
+torr1262	Torres-Banks linkage	Austronesian	6	0.5096	88	0.5096
+toto1251	Totonacan	Totonacan	0	0.5109	18	0.5109
+toto1252	Totonac	Totonacan	1	0.3913	5	0.3913
+tran1283	Transversal Lowland East Cushitic	Afro-Asiatic	5	0.9607	2	0.9607
+tran1290	Trans-Zab	Afro-Asiatic	11	0.2963	5	0.2963
+tran1296	Trans Vitiaz	Nuclear Trans New Guinea	4	0.8591	3	0.8591
+triq1251	Trique	Otomanguean	4	0.4127	1	0.4127
+truk1243	Trukic	Austronesian	8	0.6342	30	0.6342
+tsak1251	Tsakwambo-Komyandaret	Nuclear Trans New Guinea	5	0.3623	1	0.3623
+tsam1241	Tsamosan	Salishan	2	0.5855	2	0.5855
+tsez1239	Tsezic	Nakh-Daghestanian	3	0.552	6	0.552
+tsha1247	Tshanglic	Sino-Tibetan	2	0.2759	1	0.2759
+tsim1258	Tsimshian	Tsimshian	0	0.5509	2	0.5509
+tsim1259	Tsimihety-Betsimisaraka	Austronesian	8	0.3109	1	0.3109
+tsit1235	Tsitsekeic	Atlantic-Congo	19	0.4238	3	0.4238
+tsog1242	Okani (B.30)	Atlantic-Congo	8	0.5556	9	0.5556
+tson1250	Tsonga-Copi	Atlantic-Congo	11	0.7118	3	0.7118
+tson1251	Tsongan	Atlantic-Congo	13	0.1297	1	0.1297
+tsou1250	Tsouic	Austronesian	1	0.7726	2	0.7726
+tswa1254	Tswa-Ronga (S.50)	Atlantic-Congo	12	0.168	2	0.168
+ttgr1237	TT-Group	Afro-Asiatic	6	0.4825	5	0.4825
+tuam1243	Tuam	Austronesian	9	0.5083	1	0.5083
+tuar1240	Tuareg	Afro-Asiatic	2	0.3747	2	0.3747
+tuca1253	Tucanoan	Tucanoan	0	0.7904	60	0.7904
+tuka1246	Tukangbesi-Bonerate	Austronesian	7	0.201	2	0.201
+tuka1247	Tukang Besi	Austronesian	8	0.0859	1	0.0859
+tula1250	Tula-Waja	Atlantic-Congo	6	0.7005	7	0.7005
+tula1251	Tulaic	Atlantic-Congo	7	0.6641	11	0.6641
+tula1256	Tula-Longuda	Atlantic-Congo	5	0.9236	8	0.9236
+tula1257	Tula-Ma-Yebu	Atlantic-Congo	8	0.589	6	0.589
+tulu1261	South-Western Dravidian	Dravidian	3	0.551	1	0.551
+tumb1253	Tumbuka-Sena-Nyanja	Atlantic-Congo	7	0.5335	4	0.5335
+tune1260	Tunebo	Chibchan	4	0.3266	1	0.3266
+tung1282	Tungusic	Tungusic	0	0.6102	45	0.6102
+tung1294	Tungak-Nalik	Austronesian	7	0.6581	15	0.6581
+tupa1251	Tuparic	Tupian	2	0.6789	3	0.6789
+tupi1275	Tupian	Tupian	0	0.8946	184	0.8946
+tupi1276	Tupi-Guarani	Tupian	4	0.578	188	0.578
+tupi1277	Tupi-Guarani Subgroup I	Tupian	6	0.5805	17	0.5805
+tupi1278	Tupi-Guarani Subgroup II	Tupian	6	0.6066	3	0.6066
+tupi1279	Tupi-Guarani Subgroup IV	Tupian	5	0.4371	7	0.4371
+tupi1280	Tupi-Guarani Subgroup VI	Tupian	5	0.582	6	0.582
+tupi1281	Tupi-Guarani Subgroup VIII	Tupian	5	0.4763	8	0.4763
+tupi1282	Tupi-Guarani Subgroup I.A	Tupian	7	0.449	2	0.449
+tupi1284	Tupi-Guarani Subgroup IV.A	Tupian	6	0.3875	3	0.3875
+tupi1287	Tupi-Guarani Subgroup III	Tupian	6	0.4961	5	0.4961
+tupu1245	Tupuri-Mundang-Mambai	Atlantic-Congo	6	0.7381	7	0.7381
+tura1263	Turama-Kikori	Turama-Kikori	0	0.7802	3	0.7802
+tura1264	Turama-Omatian	Turama-Kikori	1	0.627	3	0.627
+tura1266	Turama-Kerewo	Kiwaian	1	0.3147	1	0.3147
+turk1307	Turkanic	Nilotic	4	0.4664	6	0.4664
+turk1311	Turkic	Turkic	0	0.7581	36	0.7581
+turo1240	Turoyo-Mlahso	Afro-Asiatic	10	0.3968	1	0.3968
+tusc1256	Tuscarora-Nottoway	Iroquoian	2	0.8393	1	0.8393
+tusi1238	Tusia	Atlantic-Congo	4	0.5257	1	0.5257
+tutc1236	Tutchone	Athabaskan-Eyak-Tlingit	5	0.272	1	0.272
+tuuu1241	Tuu	Tuu	0	0.6643	6	0.6643
+tuyu1245	Tuyuca-Yuruti	Tucanoan	5	0.1943	1	0.1943
+twam1235	Komo-Uduk	Koman	2	0.6731	1	0.6731
+tzel1253	Tzeltalan	Mayan	4	0.2898	1	0.2898
+uabm1238	Meto	Austronesian	6	0.3535	2	0.3535
+ubag1244	Ubaghara-Kohumono	Atlantic-Congo	7	0.5001	3	0.5001
+uban1244	Ubangi	Atlantic-Congo	4	0.8427	196	0.8427
+uban1245	Ubangi Ka	Atlantic-Congo	5	0.8128	194	0.8128
+ufim1241	Ufim-Rawa-Nahu	Nuclear Trans New Guinea	4	0.5208	1	0.5208
+uigh1243	Uyghuric	Turkic	5	0.9085	1	0.9085
+ujir1238	Ujir-Kola-Kompane	Austronesian	3	0.3345	1	0.3345
+ukra1257	Ukrainian-Rusyn	Indo-European	5	0.4405	1	0.4405
+ukue1239	Ukue-Ehueun	Atlantic-Congo	7	0.206	1	0.206
+ulch1242	Ulchaic	Tungusic	2	0.2758	1	0.2758
+ulia1238	Uliase	Austronesian	7	0.487	4	0.487
+umas1234	Uma-Sarudu	Austronesian	5	0.3858	1	0.3858
+uncl1506	Unclassified Hanseman	Nuclear Trans New Guinea	5	0.5737	3	0.5737
+uncl1545	Unclassified Kawahiva	Tupian	7	0.6556	1	0.6556
+unem1239	Uneme-Yekhee	Atlantic-Congo	7	0.2751	1	0.2751
+unua1238	Unua-Pangkumu	Austronesian	9	0.2556	1	0.2556
+unun9876	Unclassified Boleic	Afro-Asiatic	7	0.6755	3	0.6755
+unun9902	Unclassified Volta-Congo	Atlantic-Congo	2	0.9298	5	0.9298
+unun9972	Unclassified Rai Coast	Nuclear Trans New Guinea	3	0.6904	1	0.6904
+uppe1412	Upper Arun	Sino-Tibetan	5	0.4824	3	0.4824
+uppe1413	Upper Dudhkosi	Sino-Tibetan	4	0.5269	1	0.5269
+uppe1418	Upper Cross	Atlantic-Congo	4	0.7938	101	0.7938
+uppe1423	Upper Markham	Austronesian	8	0.5903	4	0.5903
+uppe1426	Upper Kinabatangan-Lobu	Austronesian	7	0.3349	3	0.3349
+uppe1440	Upper San Juan	Chocoan	3	0.1959	1	0.1959
+uppe1457	Upper Niger Kainji	Atlantic-Congo	5	0.7127	1	0.7127
+uppe1458	Upper Guinea Portuguese	Indo-European	14	0.4136	3	0.4136
+uppe1464	Upper Franconian	Indo-European	9	0.3347	1	0.3347
+uppe1472	Upper Tananaic	Athabaskan-Eyak-Tlingit	6	0.4527	1	0.4527
+uppe1484	Upper Minjim	Nuclear Trans New Guinea	4	0.3737	1	0.3737
+urad1238	Uradhic	Pama-Nyungan	5	0.2615	2	0.2615
+ural1272	Uralic	Uralic	0	0.8375	200	0.8375
+urig1241	Urigina-Danaru	Nuclear Trans New Guinea	4	0.6288	1	0.6288
+urni1238	Urninganggic	Giimbiyu	1	0.1021	1	0.1021
+uruc1242	Uru-Chipaya	Uru-Chipaya	0	0.5537	1	0.5537
+uruw1240	Uruwa	Nuclear Trans New Guinea	3	0.832	4	0.832
+utoa1244	Uto-Aztecan	Uto-Aztecan	0	0.8882	200	0.8882
+utup1237	Utupua-Vanikoro	Austronesian	5	0.8164	7	0.8164
+utup1238	Utupua	Austronesian	6	0.8038	3	0.8038
+uygh1240	Modern Turkestan	Turkic	4	0.6176	4	0.6176
+uygh1241	Turkestan	Turkic	3	0.4564	4	0.4564
+uzbe1247	Uzbek	Turkic	5	0.2528	1	0.2528
+vagh1247	Kwangic	Atlantic-Congo	6	0.3725	2	0.3725
+vagh1250	Vaghat	Atlantic-Congo	7	0.2768	1	0.2768
+vaik1238	Vai-Kono	Mande	6	0.2268	1	0.2268
+vall1259	Valley Mazatec	Otomanguean	5	0.2837	3	0.2837
+vanu1245	Vanuatu-Loyalty Outliers	Austronesian	8	0.332	5	0.332
+vanu1247	Vanuma-Nyali	Atlantic-Congo	15	0.3647	1	0.3647
+vehi1234	Vehicular Malay	Austronesian	5	0.3264	24	0.3264
+vene1261	Venezuelan Cariban	Cariban	1	0.7034	16	0.7034
+vere1249	Vere-Gimme	Atlantic-Congo	7	0.6766	4	0.6766
+vere1250	Vere	Atlantic-Congo	8	0.6223	1	0.6223
+vice1244	Viceitic	Chibchan	4	0.5761	1	0.5761
+vict1234	Victorian Pama-Nyungan	Pama-Nyungan	2	0.8855	14	0.8855
+vidu1239	Vidunda-Sagala	Atlantic-Congo	11	0.4286	1	0.4286
+viet1250	Vietic	Austroasiatic	1	0.7138	6	0.7138
+viet1251	Viet-Muong	Austroasiatic	2	0.6477	1	0.6477
+vieu1234	Cuvette	Atlantic-Congo	9	0.6348	36	0.6348
+vili1240	Vilic	Atlantic-Congo	20	0.6123	6	0.6123
+vinc1244	Vincent-Grenadian Creole	Indo-European	14	0.2222	1	0.2222
+viti1243	Vitiaz linkage	Austronesian	7	0.8566	200	0.8566
+vohk1234	Voh-Kone	Austronesian	10	0.5105	12	0.5105
+vohk1236	Voh-Kone-Cem-Pac	Austronesian	9	0.7627	12	0.7627
+volt1241	Volta-Congo	Atlantic-Congo	1	0.9437	196	0.9437
+voti1248	Votic Chibchan	Chibchan	2	0.8964	1	0.8964
+vute1246	Vute-Wawa	Atlantic-Congo	10	0.5583	1	0.5583
+vuti1235	Vutic	Atlantic-Congo	9	0.7628	2	0.7628
+waaa1245	Nuclear Waic	Austroasiatic	6	0.267	3	0.267
+waam1245	Waama-Tayari-Ditammari	Atlantic-Congo	10	0.7313	3	0.7313
+waga1259	Maranunggu-Ame-Manda	Western Daly	1	0.3062	2	0.3062
+wagg1235	Ottilien	Ramu	2	0.6137	8	0.6137
+wahg1249	Wahgic	Nuclear Trans New Guinea	2	0.4761	3	0.4761
+waic1245	Waic	Austroasiatic	4	0.5384	10	0.5384
+waig1246	Nuristani Kalasha-Tregami	Indo-European	6	0.4292	1	0.4292
+waig1247	Waigeo Maya	Austronesian	8	0.3649	6	0.3649
+wain1248	Waina-Punda	Border	3	0.5464	1	0.5464
+waiw1245	Waiwaian	Cariban	2	0.3986	1	0.3986
+waka1280	Wakashan	Wakashan	0	0.8987	9	0.8987
+waka1283	Waka-Kabic	Pama-Nyungan	3	0.691	4	0.691
+waka1284	Waka-Yendang-Teme	Atlantic-Congo	7	0.5784	2	0.5784
+waka1285	Waka-Yandang	Atlantic-Congo	8	0.434	1	0.434
+wala1271	Wa-Lawa	Austroasiatic	5	0.5798	6	0.5798
+wala1275	Walakic	Nuclear Trans New Guinea	4	0.5113	1	0.5113
+wali1264	Walioic	Walioic	0	0.8729	5	0.8729
+wama1249	Wamas-Samosa-Murupi-Mosimo	Nuclear Trans New Guinea	5	0.3649	6	0.3649
+wana1272	Kotiria-Piratapuyo	Tucanoan	4	0.327	1	0.327
+wand1280	Wandala-Malgwa-Glavda	Afro-Asiatic	6	0.6403	1	0.6403
+wanj1243	Wanji-Sangu	Atlantic-Congo	9	0.3495	1	0.3495
+wanm1243	Wan-Mwan	Mande	4	0.5667	1	0.5667
+want1251	Wantoatic	Nuclear Trans New Guinea	3	0.7882	1	0.7882
+want1253	Wantoat-Awara	Nuclear Trans New Guinea	4	0.5118	1	0.5118
+wape1249	Wapei-Palei	Nuclear Torricelli	1	0.9031	71	0.9031
+wape1250	Wapeic	Nuclear Torricelli	3	0.8705	49	0.8705
+wara1293	Eastern Tonda	Yam	3	0.5788	1	0.5788
+wara1304	Warayan	Austronesian	6	0.2946	1	0.2946
+wara1305	Warazu-Sirionoid	Tupian	7	0.66	2	0.66
+wari1265	Warisic	Border	1	0.6706	6	0.6706
+wari1267	Wari-Oro Win	Chapacuran	4	0.5262	1	0.5262
+warj1254	Central West Chadic B.2	Afro-Asiatic	6	0.5769	2	0.5769
+warj1255	Warji-Gala-Kariya	Afro-Asiatic	7	0.5683	1	0.5683
+warn1245	Warnman-Wangka	Pama-Nyungan	4	0.5901	1	0.5901
+warr1256	Warrnambool-Bunganditj	Pama-Nyungan	4	0.6886	1	0.6886
+waru1263	Warungu-Gugu Badhun	Pama-Nyungan	5	0.7917	1	0.7917
+waru1269	Warup	Nuclear Trans New Guinea	3	0.8181	5	0.8181
+wata1252	Watam-Kaian	Ramu	3	0.4645	1	0.4645
+wati1241	Wati	Pama-Nyungan	2	0.6726	17	0.6726
+watu1246	Watut	Austronesian	8	0.6548	3	0.6548
+waur1245	Waura-Mehinaku	Arawakan	5	0.2754	1	0.2754
+waya1271	Wayampi-Zoe-Emerillon	Tupian	6	0.5184	2	0.5184
+weda1242	Wedauic	Austronesian	11	0.4006	1	0.4006
+weeb1234	Wee-Bassa-Klao	Kru	3	0.4191	8	0.4191
+wenm1239	Wenma-Southwestern Tai	Tai-Kadai	5	0.4533	41	0.4533
+west1472	West Kipchak	Turkic	5	0.3776	8	0.3776
+west1486	Samarokena-Airoran	Greater Kwerba	2	0.728	1	0.728
+west1492	West Katuic	Austroasiatic	2	0.4985	10	0.4985
+west1493	West Bird's Head	West Bird's Head	0	0.7311	3	0.7311
+west2390	Western Saami	Uralic	2	0.5673	6	0.5673
+west2394	Western Pearic	Austroasiatic	2	0.5051	1	0.5051
+west2399	West Bahnaric	Austroasiatic	2	0.5729	65	0.5729
+west2406	West Oghuz	Turkic	4	0.533	1	0.533
+west2424	Thulung-Tilung-Koyi	Sino-Tibetan	4	0.6941	1	0.6941
+west2428	Western Samur	Nakh-Daghestanian	4	0.6272	1	0.6272
+west2429	West Tsezic	Nakh-Daghestanian	4	0.5203	3	0.5203
+west2432	Western Gunwinyguan	Gunwinyguan	1	0.7642	1	0.7642
+west2434	Western Daly	Western Daly	0	0.61	18	0.61
+west2435	Western Worrorran	Worrorran	1	0.796	1	0.796
+west2438	Western Central Karnic	Pama-Nyungan	3	0.613	2	0.613
+west2440	Western-Inland Yolngu	Pama-Nyungan	2	0.6466	1	0.6466
+west2445	West Mao	Blue Nile Mao	1	0.8611	2	0.8611
+west2446	Western Ijo	Ijoid	2	0.4709	3	0.4709
+west2461	Oti-Volta Occidental	Atlantic-Congo	10	0.6228	14	0.6228
+west2469	West Ogonoid	Atlantic-Congo	5	0.3484	1	0.3484
+west2485	Western Kru	Kru	2	0.643	20	0.643
+west2489	Western Bete	Kru	3	0.4621	3	0.4621
+west2493	Western Nilotic	Nilotic	1	0.7444	126	0.7444
+west2499	West Manding	Mande	8	0.2536	5	0.2536
+west2501	Western Dajuic	Dajuic	1	0.4945	6	0.4945
+west2502	West-Central Heibanic	Heibanic	1	0.6854	17	0.6854
+west2503	Western Heibanic	Heibanic	2	0.564	1	0.564
+west2505	Western Saharan	Saharan	1	0.8253	6	0.8253
+west2506	West-Kxoe	Khoe-Kwadi	3	0.5853	6	0.5853
+west2508	Western Plains Dogon	Dogon	2	0.5597	1	0.5597
+west2523	West Santa Isabel	Austronesian	9	0.5786	1	0.5786
+west2530	West Arawe	Austronesian	11	0.5874	3	0.5874
+west2532	Western Admiralty Islands	Austronesian	5	0.7274	3	0.7274
+west2533	West Manus	Austronesian	7	0.6508	12	0.6508
+west2547	Kemak-Tukudede	Austronesian	3	0.435	1	0.435
+west2550	West Southern Cordilleran	Austronesian	6	0.5111	3	0.5111
+west2552	Western Mansakan	Austronesian	5	0.2125	2	0.2125
+west2554	WBM-Livunganen-Ilianen	Austronesian	7	0.1926	1	0.1926
+west2562	Western Penan-Sebop	Austronesian	8	0.2886	1	0.2886
+west2566	Western Bungku-Tolaki	Austronesian	7	0.4206	12	0.4206
+west2567	West Coast Bungku-Tolaki	Austronesian	8	0.2236	6	0.2236
+west2571	Western Saluan-Banggai	Austronesian	6	0.3159	3	0.3159
+west2572	Western Plains Austronesian	Austronesian	1	0.7927	2	0.7927
+west2573	Western Eleman	Eleman	1	0.4765	3	0.4765
+west2576	Western Sepik Hill	Sepik	2	0.8247	3	0.8247
+west2580	West Wapei	Nuclear Torricelli	1	0.5846	13	0.5846
+west2582	West Tariku	Lakes Plain	2	0.8284	2	0.8284
+west2585	Western Mek	Nuclear Trans New Guinea	2	0.5202	3	0.5202
+west2604	West Bomberai	West Bomberai	0	0.8937	2	0.8937
+west2611	Western Pauwasi	Pauwasi	1	0.6646	1	0.6646
+west2614	Western Muskogean	Muskogean	1	0.2458	1	0.2458
+west2621	Western Numic	Uto-Aztecan	3	0.499	1	0.499
+west2633	Western Miwokan	Miwok-Costanoan	2	0.4199	1	0.4199
+west2641	Western Isthmic Chibchan	Chibchan	3	0.8427	5	0.8427
+west2707	Western Tera	Afro-Asiatic	5	0.6234	1	0.6234
+west2710	West Chadic B.1	Afro-Asiatic	4	0.5845	2	0.5845
+west2712	West Chadic B.2	Afro-Asiatic	4	0.7893	5	0.7893
+west2714	West Chadic A	Afro-Asiatic	3	0.8633	197	0.8633
+west2715	West Chadic A.2	Afro-Asiatic	5	0.7773	56	0.7773
+west2716	West Chadic A.4	Afro-Asiatic	4	0.7726	10	0.7726
+west2717	West Chadic A.3	Afro-Asiatic	5	0.4774	66	0.4774
+west2718	West Chadic A.1	Afro-Asiatic	4	0.4757	1	0.4757
+west2720	West Rift South Cushitic	Afro-Asiatic	4	0.5788	3	0.5788
+west2723	Western Omo-Tana	Afro-Asiatic	7	0.7392	3	0.7392
+west2724	Western Berber	Afro-Asiatic	2	0.559	1	0.559
+west2779	West Dogon	Dogon	1	0.6528	3	0.6528
+west2780	Western Mande	Mande	1	0.8052	200	0.8052
+west2783	Western Otomanguean	Otomanguean	1	1.0171	130	1.0171
+west2784	Western Tucanoan	Tucanoan	1	0.5083	3	0.5083
+west2785	West Chadic	Afro-Asiatic	2	0.9006	193	0.9006
+west2786	West Semitic	Afro-Asiatic	2	0.836	197	0.836
+west2788	West Palai	Nuclear Torricelli	2	0.7254	2	0.7254
+west2789	Western Eastern Tucanoan	Tucanoan	2	0.6585	6	0.6585
+west2790	West Chadic B	Afro-Asiatic	3	0.9089	193	0.9089
+west2791	West Palaungic	Austroasiatic	3	0.5375	5	0.5375
+west2792	West Slavic	Indo-European	4	0.4186	16	0.4186
+west2793	West Germanic	Indo-European	4	0.5922	189	0.5922
+west2795	Western Huon	Nuclear Trans New Guinea	3	0.7519	36	0.7519
+west2797	Western Tani	Sino-Tibetan	4	0.6181	3	0.6181
+west2798	Western Kra	Tai-Kadai	3	0.8278	12	0.8278
+west2799	West Chadic A.2-3	Afro-Asiatic	4	0.7889	195	0.7889
+west2800	West Chadic B.3	Afro-Asiatic	4	0.6981	64	0.6981
+west2802	Western Gbe	Atlantic-Congo	4	0.3557	2	0.3557
+west2803	West Hmongic	Hmong-Mien	4	0.7081	14	0.7081
+west2804	Western South Slavic	Indo-European	5	0.3258	3	0.3258
+west2805	West Scandinavian	Indo-European	5	0.4227	5	0.4227
+west2807	Western Kordofan Nubian	Nubian	3	0.5691	3	0.5691
+west2808	Western Waka-Kabic	Pama-Nyungan	4	0.5374	1	0.5374
+west2809	Western Nahuatl	Uto-Aztecan	4	0.4049	54	0.4049
+west2810	Western Southwestern Apachean	Athabaskan-Eyak-Tlingit	5	0.3891	3	0.3891
+west2812	Western Hindi	Indo-European	9	0.3776	10	0.3776
+west2813	Western Romance	Indo-European	8	0.5845	37	0.5845
+west2814	Western Periphery-North Guerrero Nahuatl	Uto-Aztecan	5	0.4359	11	0.4359
+west2816	Western Tano	Atlantic-Congo	6	0.6608	1	0.6608
+west2817	West Central Maluku	Austronesian	2	0.7578	4	0.7578
+west2818	Western Oceanic linkage	Austronesian	4	0.8891	194	0.8891
+west2820	West Bisayan	Austronesian	5	0.3143	11	0.3143
+west2824	Western Alta Mixtec	Otomanguean	6	0.5031	9	0.5031
+west2825	Western Periphery Nahuatl	Uto-Aztecan	6	0.3714	2	0.3714
+west2826	West Mbam (A.40)	Atlantic-Congo	10	0.6772	7	0.6772
+west2831	Western Rajasthani	Indo-European	10	0.5419	1	0.5419
+west2832	West Coast Mixtec	Otomanguean	7	0.5077	1	0.5077
+west2833	Western Greater Luyana	Atlantic-Congo	8	0.2795	2	0.2795
+west2834	Western Botatwe	Atlantic-Congo	8	0.2803	2	0.2803
+west2835	West Ring	Atlantic-Congo	9	0.5153	4	0.5153
+west2836	Western Mundu-Baka	Atlantic-Congo	7	0.4802	10	0.4802
+west2837	Western Grusi	Atlantic-Congo	8	0.7686	17	0.7686
+west2838	West Ibero-Romance	Indo-European	11	0.5554	80	0.5554
+west2841	West Nyanza	Atlantic-Congo	9	0.5452	30	0.5452
+west2842	Western Lakes Bantu	Atlantic-Congo	9	0.5895	22	0.5895
+west2843	West Piru Bay	Austronesian	4	0.7117	1	0.7117
+west2844	Western Micronesian	Austronesian	6	0.6884	16	0.6884
+west2845	Southwest Santo	Austronesian	8	0.2602	1	0.2602
+west2846	West Ruvu	Atlantic-Congo	10	0.6182	14	0.6182
+west2847	Western Munic	Austronesian	10	0.3845	6	0.3845
+west2848	West Manus I	Austronesian	8	0.594	6	0.594
+west2849	West Manus II	Austronesian	8	0.6075	2	0.6075
+west2850	West Central Papuan linkage	Austronesian	8	0.6249	11	0.6249
+west2851	West African Creole English	Indo-European	12	0.2015	7	0.2015
+west2854	Western Caribbean Creole	Indo-European	13	0.1428	2	0.1428
+west2855	Western Trukic	Austronesian	9	0.5394	2	0.5394
+west2856	West Choiseul	Austronesian	10	0.4707	1	0.4707
+west2857	West New Georgia	Austronesian	10	0.5223	3	0.5223
+west2859	Western MSA	Afro-Asiatic	5	0.5683	3	0.5683
+west2860	Western Shinaic	Indo-European	8	0.3806	2	0.3806
+west2862	Western Ngero	Austronesian	8	0.5249	2	0.5249
+west2865	Western Mayan	Mayan	2	0.6312	30	0.6312
+west2867	West Inland Gulf of Papua	Anim	2	0.7469	1	0.7469
+west2868	Western West Himalayish	Sino-Tibetan	3	0.6852	10	0.6852
+west2870	Western Bru-So	Austroasiatic	4	0.474	1	0.474
+west2871	Western Malakula linkage	Austronesian	7	0.5997	40	0.5997
+west2872	Western Nyulnyulan	Nyulnyulan	1	0.6831	1	0.6831
+west2874	West Kikongo	Atlantic-Congo	19	0.6717	15	0.6717
+west2875	Western Lowland Kenyah-Penan	Austronesian	6	0.5885	3	0.5885
+west2934	Western Phla-Phera	Atlantic-Congo	5	0.5747	1	0.5747
+west2945	Central Timor	Austronesian	2	0.5706	5	0.5706
+west2947	Western Valley Zapotec	Otomanguean	8	0.604	9	0.604
+west2948	West-Central Mephaa	Otomanguean	5	0.174	1	0.174
+west2955	West Rote	Austronesian	4	0.4333	4	0.4333
+west2956	West Santo	Austronesian	7	0.5147	103	0.5147
+west2958	West Bamileke	Atlantic-Congo	10	0.6742	7	0.6742
+west2967	Western A80	Atlantic-Congo	9	0.7486	6	0.7486
+west2968	West-Coastal Bantu	Atlantic-Congo	7	0.8233	46	0.8233
+west2969	West Kasai-Ngounie	Atlantic-Congo	16	0.5916	11	0.5916
+west2973	West Gyalrongic	Sino-Tibetan	5	0.7452	3	0.7452
+west2987	Western Serengeti	Atlantic-Congo	12	0.3645	1	0.3645
+west2992	West Coast Skouic	Sko	4	0.7015	1	0.7015
+west2994	West Alor-Straits-Pantar	Timor-Alor-Pantar	3	0.7414	45	0.7414
+west2997	Western Sotho-Tswana	Atlantic-Congo	11	0.532	3	0.532
+west2998	Western West Chadic B.2	Afro-Asiatic	6	0.7208	1	0.7208
+west3004	Western Plateau Central Kalenjin	Nilotic	5	0.2492	3	0.2492
+west3005	Western Ngumpin	Pama-Nyungan	4	0.6262	3	0.6262
+west3011	Western Hongshui He	Tai-Kadai	8	0.3056	1	0.3056
+west3012	West Lower Cross	Atlantic-Congo	6	0.2971	9	0.2971
+west3017	Western Middle Arabic	Afro-Asiatic	7	0.568	6	0.568
+west3018	West Kilombero	Atlantic-Congo	8	0.4509	1	0.4509
+weta1245	Wetar	Austronesian	4	0.2966	3	0.2966
+weta1246	Wetar-Atauro	Austronesian	3	0.4676	4	0.4676
+wewe1239	Wewewa-Laboya	Austronesian	5	0.3265	1	0.3265
+whit1270	Whitesands-North Tanna linkage	Austronesian	8	0.3047	1	0.3047
+wich1261	Wichi	Mataguayan	2	0.3796	1	0.3796
+wide1239	Wide Grassfields	Atlantic-Congo	5	0.7862	105	0.7862
+wika1239	Wik	Pama-Nyungan	3	0.8209	3	0.8209
+will1243	Willaumez linkage	Austronesian	6	0.7088	4	0.7088
+winn1245	Winnebago-Chiwere	Siouan	2	0.5772	1	0.5772
+wira1261	Wiradhuric	Pama-Nyungan	2	0.5266	3	0.5266
+woga1248	Wogamusin-Chenapian	Sepik	2	0.7667	1	0.7667
+woli1240	Wolio-Kamaru	Austronesian	6	0.4098	1	0.4098
+wolo1247	Wolofic	Atlantic-Congo	3	0.3098	1	0.3098
+wolo1248	Wolof-BKK	Atlantic-Congo	2	0.9196	8	0.9196
+worr1236	Worrorran	Worrorran	0	0.7945	8	0.7945
+wotu1239	Southern Kaili-Wolio	Austronesian	4	0.4861	3	0.4861
+wubu1239	Wubuy-Anindilyakwa	Gunwinyguan	2	0.9307	1	0.9307
+wudi1241	Wuding-Yuanyang Tai	Tai-Kadai	11	0.359	1	0.359
+wuhu1234	Wu-Hui Chinese	Sino-Tibetan	4	0.6538	1	0.6538
+xaso1239	Xasonka	Mande	9	0.4006	1	0.4006
+xing1247	Xinguan	Cariban	2	0.4814	1	0.4814
+xing1249	Xinguan Arawak	Arawakan	3	0.5139	2	0.5139
+yadh1238	Yadhaykenu-Angkamuthi	Pama-Nyungan	6	0.1355	1	0.1355
+yaga1258	Yaganon	Nuclear Trans New Guinea	4	0.5887	2	0.5887
+yaka1278	Yaka-Suku	Atlantic-Congo	15	0.3677	1	0.3677
+yakk1237	Yakkha-Athpariyic	Sino-Tibetan	6	0.5046	2	0.5046
+yali1257	Yalic	Nuclear Trans New Guinea	3	0.2988	1	0.2988
+yamd1241	Yamdena-Onin	Austronesian	4	0.6048	3	0.6048
+yami1255	Yaminawa Complex	Pano-Tacanan	5	0.512	3	0.512
+yami1257	Yami-Itbayat	Austronesian	3	0.4851	1	0.4851
+yamp1244	Yamphuic	Sino-Tibetan	7	0.2496	1	0.2496
+yand1255	Yanda-Bondum-Tebul	Dogon	2	0.5507	5	0.5507
+yand1256	Yanda-Ana	Dogon	3	0.3891	1	0.3891
+yand1260	Yandangic	Atlantic-Congo	6	0.6667	9	0.6667
+yang1287	Yangmanic	Yangmanic	0	0.6694	1	0.6694
+yang1302	Yangkam-Tarok-Pe	Atlantic-Congo	5	0.6993	2	0.6993
+yang1303	Yangum	Nuclear Torricelli	5	0.4394	3	0.4394
+yano1267	Yanomam-Yanimamo	Yanomamic	3	0.2729	1	0.2729
+yano1268	Yanomamic	Yanomamic	0	0.4972	3	0.4972
+yaoi1234	Yaoic	Atlantic-Congo	9	0.3308	1	0.3308
+yape1249	Yapen	Austronesian	5	0.7145	16	0.7145
+yape1250	Yapesic	Austronesian	4	0.4072	1	0.4072
+yaqa1245	Yaqayic	Anim	2	0.7121	1	0.7121
+yara1256	Yarawata-Parawen-Ukuriguma	Nuclear Trans New Guinea	6	0.3973	3	0.3973
+yare1250	Yareban	Yareban	0	0.4721	6	0.4721
+yare1251	Yareba-Bariji-Nawaru	Yareban	1	0.4504	3	0.4504
+yaru1256	Yaru Quechua	Quechuan	3	0.1606	1	0.1606
+yaun1239	Yaunde-Fang (A.70)	Atlantic-Congo	8	0.3479	6	0.3479
+yaur1240	Yaur-Yerisiam	Austronesian	6	0.8957	1	0.8957
+yauy1236	Yau-Yis	Nuclear Torricelli	4	0.5346	1	0.5346
+yawa1259	Yawa-Saweru	Yawa-Saweru	0	0.6327	1	0.6327
+yell1247	Yellow River	Sepik	1	0.6781	3	0.6781
+yemn1234	Yemne-Kimbi	Atlantic-Congo	5	0.7087	10	0.7087
+yeni1251	Yenisey Turkic	Turkic	4	0.4706	1	0.4706
+yeni1252	Yeniseian	Yeniseian	0	0.7431	9	0.7431
+yeni1256	Sayan-Yenisei Turkic	Turkic	3	0.4663	4	0.4663
+yidg1239	Yidgha-Munji	Indo-European	6	0.3708	1	0.3708
+yidi1249	Yidinic	Pama-Nyungan	2	0.5755	1	0.5755
+yimc1239	Yimchingric	Sino-Tibetan	4	0.8288	1	0.8288
+yimi1234	Yimidhirr-Yalanji-Yidinic	Pama-Nyungan	1	0.7129	5	0.7129
+yimi1235	Yimin-Bel	Sepik	3	0.8445	1	0.8445
+yind1249	Yindjibarndi-Kurrama	Pama-Nyungan	5	0.4367	1	0.4367
+yine1239	Yineic	Arawakan	4	0.3513	2	0.3513
+yolm1234	Yolmo-Kagate	Sino-Tibetan	9	0.3395	1	0.3395
+yomn1239	Yom-Nawdm	Atlantic-Congo	11	0.5923	1	0.5923
+yong1274	Yongnan-Yongbei	Tai-Kadai	6	0.4243	1	0.4243
+yoru1244	Yoruboid	Atlantic-Congo	4	0.4681	3	0.4681
+yuan1245	Yuanic	Tai-Kadai	11	0.4179	1	0.4179
+yuat1252	Yuat	Yuat	0	0.6595	7	0.6595
+yuca1252	Yucatecan	Mayan	2	0.4736	3	0.4736
+yuca1253	Yucatec-Lacandon	Mayan	4	0.5722	1	0.5722
+yucu1252	Caqueta	Arawakan	3	0.8056	1	0.8056
+yuep1234	Yue-Pinghua	Sino-Tibetan	4	0.6156	1	0.6156
+yuin1243	Yuin-Kuri	Pama-Nyungan	3	0.8153	8	0.8153
+yuka1259	Yukaghir	Yukaghir	0	0.6856	1	0.6856
+yuki1242	Yuki-Wappo	Yuki-Wappo	0	0.7248	1	0.7248
+yukp1243	Yukpan	Cariban	2	0.4002	1	0.4002
+yuku1244	Yukubenic	Atlantic-Congo	4	0.6828	5	0.6828
+yuma1250	Yuman	Cochimi-Yuman	1	0.687	7	0.687
+yupi1267	Yupik	Eskimo-Aleut	2	0.6519	6	0.6519
+yupn1242	Yupna	Nuclear Trans New Guinea	3	0.533	2	0.533
+yuru1262	Jurunic	Tupian	2	0.3544	1	0.3544
+yuul1239	Yuulngu	Pama-Nyungan	1	0.7311	20	0.7311
+zaks1240	Zakse-Saya	Afro-Asiatic	7	0.5938	1	0.5938
+zamu1243	Zamucoan	Zamucoan	0	0.7562	1	0.7562
+zand1246	Zandic	Atlantic-Congo	5	0.7021	6	0.7021
+zand1247	Zande-Nzakara	Atlantic-Congo	6	0.4951	3	0.4951
+zann1245	Zan	Kartvelian	2	0.3981	1	0.3981
+zapa1251	Zaparoan	Zaparoan	0	0.8571	4	0.8571
+zapo1436	Zapotecan	Otomanguean	3	0.8294	84	0.8294
+zapo1437	Zapotec	Otomanguean	4	0.7007	27	0.7007
+zarm1240	Zarma-Kaado-Dendi	Songhay	2	0.4317	1	0.4317
+zaza1246	Zaza	Indo-European	9	0.4779	1	0.4779
+zaza1247	Zazao-Blanga	Austronesian	11	0.1796	1	0.1796
+zeeu1239	Zeeuwic	Indo-European	9	0.3698	3	0.3698
+zeme1241	Zemeic	Sino-Tibetan	2	0.6533	18	0.6533
+zena1250	Zenatic	Afro-Asiatic	3	0.5233	18	0.5233
+zena1251	Zenag-Patep	Austronesian	10	0.764	1	0.764
+zigu1243	Zigua-Nguu	Atlantic-Congo	12	0.1975	1	0.1975
+zoqu1261	Zoque	Mixe-Zoque	1	0.4448	15	0.4448

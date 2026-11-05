@@ -1,0 +1,2 @@
+ID,Name,Description,ColumnSpec
+genus,Genus,"The genus of the language: the first node on its Glottolog lineage whose cut value is at most delta = 0.81 (crown divergence from PMI alignment of ASJP wordlists), whose cut value is undefined, or the language itself.",

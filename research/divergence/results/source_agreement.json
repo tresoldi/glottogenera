@@ -1,0 +1,153 @@
+{
+ "released_delta": 0.81,
+ "ldnd_delta": 0.869,
+ "gled_delta": 0.812,
+ "gled_languages_with_wordlists": 4453,
+ "asjp_languages_with_wordlists": 5791,
+ "comparisons": [
+  {
+   "against": "LDND, delta recalibrated",
+   "ari": 0.9843797389891341,
+   "changing_genus": 0.09981756580661975,
+   "changing_genus_covered": 0.10050077706786392,
+   "covered": 5791,
+   "ari_covered": 0.9799940275163942,
+   "identical_multi": 648,
+   "released_multi": 714,
+   "by_stability": [
+    {
+     "stability": [
+      0.9,
+      1
+     ],
+     "genera": 333,
+     "identical": 1.0
+    },
+    {
+     "stability": [
+      0.5,
+      0.9
+     ],
+     "genera": 314,
+     "identical": 0.8662420382165605
+    },
+    {
+     "stability": [
+      0,
+      0.5
+     ],
+     "genera": 67,
+     "identical": 0.6417910447761194
+    }
+   ]
+  },
+  {
+   "against": "LDND, released delta",
+   "ari": 0.8451945146115801,
+   "changing_genus": 0.35496481626270526,
+   "changing_genus_covered": 0.35641512692108446,
+   "covered": 5791,
+   "ari_covered": 0.841000310926,
+   "identical_multi": 539,
+   "released_multi": 714,
+   "by_stability": [
+    {
+     "stability": [
+      0.9,
+      1
+     ],
+     "genera": 333,
+     "identical": 0.978978978978979
+    },
+    {
+     "stability": [
+      0.5,
+      0.9
+     ],
+     "genera": 314,
+     "identical": 0.6592356687898089
+    },
+    {
+     "stability": [
+      0,
+      0.5
+     ],
+     "genera": 67,
+     "identical": 0.08955223880597014
+    }
+   ]
+  },
+  {
+   "against": "GLED PMI, delta recalibrated",
+   "ari": 0.9929502313402631,
+   "changing_genus": 0.07401615845712796,
+   "changing_genus_covered": 0.06659167604049494,
+   "covered": 4445,
+   "ari_covered": 0.99368892766335,
+   "identical_multi": 637,
+   "released_multi": 714,
+   "by_stability": [
+    {
+     "stability": [
+      0.9,
+      1
+     ],
+     "genera": 333,
+     "identical": 0.9579579579579579
+    },
+    {
+     "stability": [
+      0.5,
+      0.9
+     ],
+     "genera": 314,
+     "identical": 0.8503184713375797
+    },
+    {
+     "stability": [
+      0,
+      0.5
+     ],
+     "genera": 67,
+     "identical": 0.7611940298507462
+    }
+   ]
+  },
+  {
+   "against": "GLED PMI, released delta",
+   "ari": 0.9943207235768183,
+   "changing_genus": 0.07518894970028668,
+   "changing_genus_covered": 0.06951631046119235,
+   "covered": 4445,
+   "ari_covered": 0.9956066403800243,
+   "identical_multi": 639,
+   "released_multi": 714,
+   "by_stability": [
+    {
+     "stability": [
+      0.9,
+      1
+     ],
+     "genera": 333,
+     "identical": 0.9579579579579579
+    },
+    {
+     "stability": [
+      0.5,
+      0.9
+     ],
+     "genera": 314,
+     "identical": 0.8598726114649682
+    },
+    {
+     "stability": [
+      0,
+      0.5
+     ],
+     "genera": 67,
+     "identical": 0.746268656716418
+    }
+   ]
+  }
+ ]
+}

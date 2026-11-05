@@ -1,0 +1,1191 @@
+ID,Parameter_ID,Name,Description,Glottolog_Name,Family,Languages,Method,Crown_Divergence,Crown_Pairs,Cut_Value,Upper_Value,Margin_Below,Margin_Above,Stability,Stability_Fixed_Delta
+east2731,genus,East Bantu,Glottolog node east2731,East Bantu,Atlantic-Congo,257,divergence,0.728,200,0.728,0.8432,0.082,0.0332,0.895,0.965
+indo1321,genus,Indo-Aryan,Glottolog node indo1321,Indo-Aryan,Indo-European,219,divergence,0.7278,199,0.7278,0.8382,0.0822,0.0282,0.875,0.835
+cent2260,genus,Central-Western Bantu,Glottolog node cent2260,Central-Western Bantu,Atlantic-Congo,216,divergence,0.8089,200,0.8089,0.8432,0.0011,0.0332,0.25,0.385
+lolo1265,genus,Lolo-Burmese,Glottolog node lolo1265,Lolo-Burmese,Sino-Tibetan,129,divergence,0.7804,200,0.7804,0.8396,0.0296,0.0296,0.665,0.775
+germ1287,genus,Germanic,Glottolog node germ1287,Germanic,Indo-European,106,divergence,0.6124,66,0.6124,0.9002,0.1976,0.0902,1.0,1.0
+nort3195,genus,North and Central Vanuatu,Glottolog node nort3195,North and Central Vanuatu,Austronesian,106,divergence,0.7613,200,0.7613,0.8262,0.0487,0.0162,0.695,0.82
+grea1284,genus,Greater Central Philippine,Glottolog node grea1284,Greater Central Philippine,Austronesian,96,divergence,0.5907,200,0.5907,0.8262,0.2193,0.0162,0.89,0.86
+iran1269,genus,Iranian,Glottolog node iran1269,Iranian,Indo-European,96,divergence,0.6946,197,0.6946,0.8382,0.1154,0.0282,0.86,0.81
+semi1276,genus,Semitic,Glottolog node semi1276,Semitic,Afro-Asiatic,96,divergence,0.7793,69,0.7793,0.9566,0.0307,0.1466,0.67,0.795
+nort3253,genus,North Borneo,Glottolog node nort3253,North Borneo Malayo-Polynesian,Austronesian,91,divergence,0.6975,200,0.6975,0.8262,0.1125,0.0162,0.88,0.86
+ital1284,genus,Italic,Glottolog node ital1284,Italic,Indo-European,85,divergence,,,0.6476,0.9002,0.1624,0.0902,1.0,1.0
+bodi1256,genus,Bodic,Glottolog node bodi1256,Bodic,Sino-Tibetan,83,divergence,0.7488,195,0.7488,0.8756,0.0612,0.0656,0.84,0.95
+drav1251,genus,Dravidian,Glottolog node drav1251,Dravidian,Dravidian,82,divergence,0.7807,199,0.7807,,0.0293,,0.67,0.905
+kamt1241,genus,Kam-Tai,Glottolog node kamt1241,Kam-Tai,Tai-Kadai,76,divergence,0.7923,198,0.7923,0.8654,0.0177,0.0554,0.53,0.635
+bant1295,genus,North-West Bantu,Glottolog node bant1295,Bantu A-B10-B20-B30,Atlantic-Congo,75,divergence,0.8057,199,0.8057,0.8432,0.0043,0.0332,0.26,0.5
+mala1554,genus,Malayo-Chamic,Glottolog node mala1554,Malayo-Chamic,Austronesian,71,divergence,0.6659,196,0.6659,0.8262,0.1441,0.0162,0.885,0.86
+wide1239,genus,Wide Grassfields,Glottolog node wide1239,Wide Grassfields,Atlantic-Congo,71,divergence,0.7862,105,0.7862,0.9127,0.0238,0.1027,0.56,0.76
+cele1242,genus,Celebic,Glottolog node cele1242,Celebic,Austronesian,60,divergence,0.6343,200,0.6343,0.8262,0.1757,0.0162,0.89,0.86
+zapo1437,genus,Zapotec,Glottolog node zapo1437,Zapotec,Otomanguean,57,divergence,0.7007,27,0.7007,0.8294,0.1093,0.0194,0.865,0.8
+kuki1246,genus,Kuki-Chin,Glottolog node kuki1246,Kuki-Chin,Sino-Tibetan,55,divergence,0.5774,200,0.5774,0.8119,0.2326,0.0019,0.725,0.605
+west2780,genus,Western Mande,Glottolog node west2780,Western Mande,Mande,54,divergence,0.8052,200,0.8052,0.8552,0.0048,0.0452,0.395,0.485
+mixt1427,genus,Mixtec,Glottolog node mixt1427,Mixtec,Otomanguean,53,divergence,0.5574,97,0.5574,0.8862,0.2526,0.0762,0.995,0.995
+nort3238,genus,Northern Luzon,Glottolog node nort3238,Northern Luzon,Austronesian,51,divergence,0.6493,196,0.6493,0.8262,0.1607,0.0162,0.89,0.86
+awet1245,genus,Aweti-Guarani,Glottolog node awet1245,Aweti-Guarani,Tupian,48,divergence,0.7429,37,0.7429,0.8206,0.0671,0.0106,0.52,0.5
+timo1265,genus,Timor-Babar,Glottolog node timo1265,Timor-Babar,Austronesian,47,divergence,0.6885,200,0.6885,0.8262,0.1215,0.0162,0.89,0.86
+cent2060,genus,Central Pacific,Glottolog node cent2060,Central Pacific linkage,Austronesian,46,divergence,0.708,77,0.708,0.8262,0.102,0.0162,0.855,0.855
+algo1257,genus,Algonquian,Glottolog node algo1257,Algonquian,Algic,44,divergence,0.8032,187,0.8032,0.9293,0.0068,0.1193,0.375,0.535
+atha1247,genus,Athabaskan,Glottolog node atha1247,Athabaskan,Athabaskan-Eyak-Tlingit,44,divergence,0.7123,185,0.7123,0.9264,0.0977,0.1164,0.995,1.0
+bima1248,genus,Bima-Lembata,Glottolog node bima1248,Bima-Lembata,Austronesian,43,divergence,0.6835,199,0.6835,0.8262,0.1265,0.0162,0.885,0.86
+nucl1744,genus,Nuclear Papuan Tip,Glottolog node nucl1744,Nuclear Papuan Tip linkage,Austronesian,43,divergence,0.7749,182,0.7749,0.8262,0.0351,0.0162,0.57,0.74
+quec1387,genus,Quechuan,Glottolog node quec1387,Quechuan,Quechuan,43,divergence,0.2779,199,0.2779,,0.5321,,1.0,1.0
+turk1311,genus,Turkic,Glottolog node turk1311,Turkic,Turkic,43,divergence,0.7581,36,0.7581,,0.0519,,0.82,0.935
+brah1260,genus,Brahmaputran,Glottolog node brah1260,Brahmaputran,Sino-Tibetan,42,divergence,0.8034,188,0.8034,0.8756,0.0066,0.0656,0.355,0.545
+cari1283,genus,Cariban,Glottolog node cari1283,Cariban,Cariban,42,divergence,0.7352,197,0.7352,,0.0748,,0.95,1.0
+sara1341,genus,Bongo-Bagirmi,Glottolog node sara1341,Sara-Bongo-Bagirmi,Central Sudanic,39,divergence,0.7288,169,0.7288,0.9124,0.0812,0.1024,0.94,0.98
+hmon1337,genus,Hmongic,Glottolog node hmon1337,Hmongic,Hmong-Mien,38,divergence,0.7907,44,0.7907,0.8452,0.0193,0.0352,0.485,0.695
+krua1234,genus,Kru,Glottolog node krua1234,Kru,Kru,38,divergence,0.7573,64,0.7573,,0.0527,,0.785,0.885
+pano1256,genus,Panoan,Glottolog node pano1256,Panoan,Pano-Tacanan,38,divergence,0.754,44,0.754,0.8969,0.056,0.0869,0.795,0.915
+basa1291,genus,Basap-Greater Barito,Glottolog node basa1291,Basap-Greater Barito,Austronesian,37,divergence,0.62,34,0.62,0.8262,0.19,0.0162,0.89,0.86
+bahn1264,genus,Bahnaric,Glottolog node bahn1264,Bahnaric,Austroasiatic,36,divergence,0.6222,104,0.6222,0.8459,0.1878,0.0359,0.99,0.96
+west2799,genus,West Chadic A.2-3,Glottolog node west2799,West Chadic A.2-3,Afro-Asiatic,36,divergence,0.7889,195,0.7889,0.8633,0.0211,0.0533,0.54,0.71
+maya1287,genus,Mayan,Glottolog node maya1287,Mayan,Mayan,34,divergence,0.8092,58,0.8092,,0.0008,,0.35,0.47
+sout2923,genus,Greater South Sulawesi,Glottolog node sout2923,Greater South Sulawesi,Austronesian,34,divergence,0.5631,108,0.5631,0.8262,0.2469,0.0162,0.89,0.86
+otiv1239,genus,Oti-Volta,Glottolog node otiv1239,Oti-Volta,Atlantic-Congo,33,divergence,0.7346,58,0.7346,0.8861,0.0754,0.0761,0.92,1.0
+nunu1252,genus,Nunusaku,Glottolog node nunu1252,Nunusaku,Austronesian,32,divergence,0.6731,68,0.6731,0.8262,0.1369,0.0162,0.885,0.86
+admi1239,genus,Admiralty Islands,Glottolog node admi1239,Admiralty Islands,Austronesian,31,divergence,0.8002,60,0.8002,0.8262,0.0098,0.0162,0.285,0.45
+azte1234,genus,Aztecan,Glottolog node azte1234,Aztec,Uto-Aztecan,31,divergence,0.436,200,0.436,0.8215,0.374,0.0115,0.765,0.615
+sini1245,genus,Sinitic,Glottolog node sini1245,Sinitic,Sino-Tibetan,30,divergence,0.7515,95,0.7515,0.8756,0.0585,0.0656,0.87,0.995
+edoi1239,genus,Edoid,Glottolog node edoi1239,Edoid,Atlantic-Congo,29,divergence,0.707,145,0.707,0.9068,0.103,0.0968,0.97,0.98
+kira1253,genus,Kiranti,Glottolog node kira1253,Kiranti,Sino-Tibetan,29,divergence,0.7754,182,0.7754,0.8129,0.0346,0.0029,0.27,0.32
+mabu1247,genus,Mabuso,Glottolog node mabu1247,Mabuso,Nuclear Trans New Guinea,29,divergence,0.7794,200,0.7794,0.9152,0.0306,0.1052,0.615,0.76
+sout3134,genus,South-West Pama-Nyungan,Glottolog node sout3134,South-West Pama-Nyungan,Pama-Nyungan,29,divergence,0.7881,60,0.7881,0.9265,0.0219,0.1165,0.52,0.72
+berb1260,genus,Berber,Glottolog node berb1260,Berber,Afro-Asiatic,27,divergence,0.5604,180,0.5604,0.9566,0.2496,0.1466,1.0,1.0
+sout2853,genus,Southeast Solomonic,Glottolog node sout2853,Southeast Solomonic,Austronesian,26,divergence,0.6634,133,0.6634,0.8262,0.1466,0.0162,0.89,0.86
+tuca1253,genus,Tucanoan,Glottolog node tuca1253,Tucanoan,Tucanoan,26,divergence,0.7904,60,0.7904,,0.0196,,0.495,0.685
+balt1263,genus,Balto-Slavic,Glottolog node balt1263,Balto-Slavic,Indo-European,23,divergence,0.8065,35,0.8065,0.9002,0.0035,0.0902,0.34,0.525
+josa1234,genus,Jos,Glottolog node josa1234,Jos,Atlantic-Congo,23,divergence,0.7691,34,0.7691,0.8387,0.0409,0.0287,0.6,0.6
+obol1242,genus,Lower Cross,Glottolog node obol1242,Lower Cross,Atlantic-Congo,23,divergence,0.6584,18,0.6584,0.8531,0.1516,0.0431,0.985,0.98
+pala1352,genus,Palaungic,Glottolog node pala1352,Palaungic,Austroasiatic,23,divergence,0.7047,78,0.7047,0.8459,0.1053,0.0359,0.92,0.845
+west2800,genus,West Chadic B.3,Glottolog node west2800,West Chadic B.3,Afro-Asiatic,23,divergence,0.6981,64,0.6981,0.9006,0.1119,0.0906,0.99,1.0
+gbee1241,genus,Gbe,Glottolog node gbee1241,Gbe,Atlantic-Congo,22,divergence,0.4647,27,0.4647,0.9007,0.3453,0.0907,0.995,1.0
+mund1335,genus,Munda,Glottolog node mund1335,Mundaic,Austroasiatic,22,divergence,0.7471,90,0.7471,0.8459,0.0629,0.0359,0.895,0.935
+west2493,genus,Western Nilotic,Glottolog node west2493,Western Nilotic,Nilotic,22,divergence,0.7444,126,0.7444,0.9042,0.0656,0.0942,0.895,0.975
+benu1249,genus,West-Central Benue-Congo Plateau,Glottolog node benu1249,West-Central Benue-Congo Plateau,Atlantic-Congo,21,divergence,0.7967,39,0.7967,0.8287,0.0133,0.0187,0.38,0.51
+east2697,genus,Eastern Mande,Glottolog node east2697,Eastern Mande,Mande,21,divergence,0.6736,72,0.6736,0.8552,0.1364,0.0452,0.975,0.945
+grea1282,genus,Greater Maric,Glottolog node grea1282,Greater Maric,Pama-Nyungan,21,divergence,,,0.6315,0.9265,0.1785,0.1165,1.0,1.0
+main1283,genus,Mainstream Lowland East Cushitic,Glottolog node main1283,Mainstream Lowland East Cushitic,Afro-Asiatic,21,divergence,0.7806,102,0.7806,0.8461,0.0294,0.0361,0.62,0.655
+qian1263,genus,Qiangic,Glottolog node qian1263,Qiangic,Sino-Tibetan,21,divergence,0.801,57,0.801,0.8235,0.009,0.0135,0.305,0.34
+uppe1418,genus,Upper Cross,Glottolog node uppe1418,Upper Cross,Atlantic-Congo,21,divergence,0.7938,101,0.7938,0.8531,0.0162,0.0431,0.49,0.73
+dogo1299,genus,Dogon,Glottolog node dogo1299,Dogon,Dogon,20,divergence,0.7554,143,0.7554,,0.0546,,0.875,0.985
+kare1337,genus,Karenic,Glottolog node kare1337,Karenic,Sino-Tibetan,20,divergence,0.6946,86,0.6946,0.8756,0.1154,0.0656,0.99,0.995
+asli1243,genus,Aslian,Glottolog node asli1243,Aslian,Austroasiatic,19,divergence,0.7213,56,0.7213,0.8459,0.0887,0.0359,0.92,0.95
+gong1255,genus,Ta-Ne-Omotic,Glottolog node gong1255,Ta-Ne-Omotic,Ta-Ne-Omotic,19,divergence,0.7671,87,0.7671,,0.0429,,0.685,0.875
+guan1278,genus,Guang,Glottolog node guan1278,Guang,Atlantic-Congo,19,divergence,0.6923,33,0.6923,0.8201,0.1177,0.0101,0.695,0.69
+mixe1284,genus,Mixe-Zoque,Glottolog node mixe1284,Mixe-Zoque,Mixe-Zoque,19,divergence,0.6084,63,0.6084,,0.2016,,1.0,1.0
+nort3325,genus,Northern New Caledonian,Glottolog node nort3325,Northern New Caledonian,Austronesian,19,divergence,0.6812,26,0.6812,0.8262,0.1288,0.0162,0.89,0.86
+okkk1242,genus,Ok,Glottolog node okkk1242,Ok,Nuclear Trans New Guinea,19,divergence,0.7575,105,0.7575,0.9278,0.0525,0.1178,0.835,0.935
+east2418,genus,Eastern Nilotic,Glottolog node east2418,Eastern Nilotic,Nilotic,18,divergence,0.7869,36,0.7869,0.9042,0.0231,0.0942,0.54,0.675
+east2740,genus,East-West Grusi,Glottolog node east2740,East-West Grusi,Atlantic-Congo,18,divergence,0.7974,60,0.7974,0.8348,0.0126,0.0248,0.32,0.54
+mamb1309,genus,Mambiloid,Glottolog node mamb1309,Mambiloid,Atlantic-Congo,18,divergence,,,0.7889,0.894,0.0211,0.084,0.51,0.665
+popo1293,genus,Popolocan-Mazatecan,Glottolog node popo1293,Popolocan-Mazatecan,Otomanguean,18,divergence,0.8046,47,0.8046,0.9654,0.0054,0.1554,0.335,0.495
+west2844,genus,Western Micronesian,Glottolog node west2844,Western Micronesian,Austronesian,18,divergence,0.6884,16,0.6884,0.8262,0.1216,0.0162,0.76,0.67
+band1341,genus,Bandaic,Glottolog node band1341,Bandaic,Atlantic-Congo,17,divergence,,,0.3996,0.8128,0.4104,0.0028,0.725,0.56
+cent2120,genus,Chimbu-Wahgi,Glottolog node cent2120,Chimbu-Wahgi,Nuclear Trans New Guinea,17,divergence,0.7971,89,0.7971,0.9708,0.0129,0.1608,0.45,0.61
+defo1239,genus,Defoid,Glottolog node defo1239,Defoid,Atlantic-Congo,17,divergence,0.6551,14,0.6551,0.9252,0.1549,0.1152,1.0,1.0
+japo1237,genus,Japonic,Glottolog node japo1237,Japonic,Japonic,17,divergence,0.6024,10,0.6024,,0.2076,,1.0,1.0
+mong1349,genus,Mongolic-Khitan,Glottolog node mong1349,Mongolic-Khitan,Mongolic-Khitan,17,divergence,,,0.6406,,0.1694,,1.0,1.0
+raja1255,genus,Raja Ampat-South Halmahera,Glottolog node raja1255,Raja Ampat-South Halmahera,Austronesian,17,divergence,0.7272,69,0.7272,0.8262,0.0828,0.0162,0.805,0.85
+kada1291,genus,Kra,Glottolog node kada1291,Kadaic,Tai-Kadai,16,divergence,0.8041,43,0.8041,0.8654,0.0059,0.0554,0.37,0.515
+karn1253,genus,Karnic,Glottolog node karn1253,Karnic,Pama-Nyungan,16,divergence,0.802,19,0.802,0.9265,0.008,0.1165,0.365,0.5
+nort2953,genus,Northern Uto-Aztecan,Glottolog node nort2953,Northern Uto-Aztecan,Uto-Aztecan,16,divergence,0.7962,51,0.7962,0.8882,0.0138,0.0782,0.42,0.635
+sout2830,genus,Southern Nilotic,Glottolog node sout2830,Southern Nilotic,Nilotic,16,divergence,0.7563,22,0.7563,0.9042,0.0537,0.0942,0.79,0.9
+avar1255,genus,Avar-Andic-Tsezic,Glottolog node avar1255,Avar-Andic-Tsezic,Nakh-Daghestanian,15,divergence,0.7976,53,0.7976,0.8703,0.0124,0.0603,0.475,0.62
+awyu1263,genus,Awyu-Dumut,Glottolog node awyu1263,Awyu-Dumut,Nuclear Trans New Guinea,15,divergence,0.8066,56,0.8066,0.8488,0.0034,0.0388,0.295,0.42
+japu1236,genus,Japura-Colombia,Glottolog node japu1236,Japura-Colombia,Arawakan,15,divergence,,,0.8092,0.9085,0.0008,0.0985,0.36,0.525
+katu1271,genus,Katuic,Glottolog node katu1271,Katuic,Austroasiatic,15,divergence,0.4876,43,0.4876,0.8459,0.3224,0.0359,0.99,0.96
+mark1257,genus,Markham,Glottolog node mark1257,Markham,Austronesian,15,divergence,0.7886,63,0.7886,0.8262,0.0214,0.0162,0.485,0.635
+tung1282,genus,Tungusic,Glottolog node tung1282,Tungusic,Tungusic,15,divergence,0.6102,45,0.6102,,0.1998,,1.0,1.0
+aruu1241,genus,Aru,Glottolog node aruu1241,Aru,Austronesian,14,divergence,0.5236,10,0.5236,0.8262,0.2864,0.0162,0.89,0.86
+cent2070,genus,Central Papuan Oceanic,Glottolog node cent2070,Central Papuan Oceanic,Austronesian,14,divergence,0.7667,61,0.7667,0.8262,0.0433,0.0162,0.61,0.675
+chin1484,genus,Chinantecan,Glottolog node chin1484,Chinantecan,Otomanguean,14,divergence,0.617,16,0.617,0.9963,0.193,0.1863,1.0,1.0
+enga1254,genus,Enga-Kewa-Huli,Glottolog node enga1254,Enga-Kewa-Huli,Nuclear Trans New Guinea,14,divergence,0.8071,44,0.8071,0.9708,0.0029,0.1608,0.34,0.505
+gbay1279,genus,Gbaya-Manza-Ngbaka,Glottolog node gbay1279,Gbaya-Manza-Ngbaka,Atlantic-Congo,14,divergence,0.4805,40,0.4805,0.9437,0.3295,0.1337,1.0,1.0
+mbam1252,genus,Mbam,Glottolog node mbam1252,Mbam,Atlantic-Congo,14,divergence,0.7265,11,0.7265,0.8267,0.0835,0.0167,0.68,0.64
+mbum1257,genus,Mbumic,Glottolog node mbum1257,Mbumic,Atlantic-Congo,14,divergence,0.7016,46,0.7016,0.9301,0.1084,0.1201,0.99,1.0
+nort2924,genus,Northern North Halmahera,Glottolog node nort2924,Northern North Halmahera,North Halmahera,14,divergence,0.6336,20,0.6336,0.8438,0.1764,0.0338,0.89,0.86
+suma1277,genus,Sumatran,Glottolog node suma1277,Sumatran,Austronesian,14,divergence,0.7636,63,0.7636,0.8262,0.0464,0.0162,0.65,0.78
+tivo1239,genus,Tivoid,Glottolog node tivo1239,Tivoid,Atlantic-Congo,14,divergence,0.7512,37,0.7512,0.9127,0.0588,0.1027,0.825,0.945
+dani1287,genus,Dani,Glottolog node dani1287,Dani,Nuclear Trans New Guinea,13,divergence,0.657,39,0.657,0.9708,0.153,0.1608,1.0,1.0
+grae1234,genus,Graeco-Phrygian,Glottolog node grae1234,Graeco-Phrygian,Indo-European,13,divergence,,,0.7386,0.9002,0.0714,0.0902,0.815,0.88
+grea1302,genus,Greater Seram Laut,Glottolog node grea1302,Greater Seram Laut,Austronesian,13,divergence,0.7721,12,0.7721,0.8262,0.0379,0.0162,0.545,0.625
+jara1262,genus,Jarawan,Glottolog node jara1262,Jarawan,Atlantic-Congo,13,divergence,0.718,6,0.718,0.9127,0.092,0.1027,0.795,0.89
+khoe1241,genus,Khoe,Glottolog node khoe1241,Khoe,Khoe-Kwadi,13,divergence,0.7017,21,0.7017,0.8258,0.1083,0.0158,0.725,0.65
+land1261,genus,Land Dayak,Glottolog node land1261,Land Dayak,Austronesian,13,divergence,0.6,24,0.6,0.8262,0.21,0.0162,0.89,0.86
+nduu1242,genus,Ndu,Glottolog node nduu1242,Ndu,Ndu,13,divergence,0.6216,17,0.6216,,0.1884,,1.0,1.0
+ngba1292,genus,Mundu-Baka,Glottolog node ngba1292,Mundu-Baka,Atlantic-Congo,13,divergence,0.6559,21,0.6559,0.8128,0.1541,0.0028,0.72,0.56
+senu1239,genus,Senufo,Glottolog node senu1239,Senufo,Atlantic-Congo,13,divergence,0.6831,41,0.6831,0.9437,0.1269,0.1337,0.99,1.0
+toto1251,genus,Totonacan,Glottolog node toto1251,Totonacan,Totonacan,13,divergence,0.5109,18,0.5109,,0.2991,,1.0,1.0
+bina1279,genus,Binanderean,Glottolog node bina1279,Binanderean,Nuclear Trans New Guinea,12,divergence,0.6714,29,0.6714,0.8532,0.1386,0.0432,0.865,0.87
+bium1271,genus,Bataic,Glottolog node bium1271,Bataic,Afro-Asiatic,12,divergence,0.7793,23,0.7793,0.8573,0.0307,0.0473,0.64,0.775
+chap1271,genus,Chapacuran,Glottolog node chap1271,Chapacuran,Chapacuran,12,divergence,,,0.645,,0.165,,0.99,1.0
+east2709,genus,East Chadic B.1,Glottolog node east2709,East Chadic B.1,Afro-Asiatic,12,divergence,0.7547,24,0.7547,0.8408,0.0553,0.0308,0.7,0.775
+finn1317,genus,Finnic,Glottolog node finn1317,Finnic,Uralic,12,divergence,0.4492,9,0.4492,0.8375,0.3608,0.0275,0.97,0.905
+juku1258,genus,Jukun-Mbembe-Wurbo,Glottolog node juku1258,Jukun-Mbembe-Wurbo,Atlantic-Congo,12,divergence,0.7902,5,0.7902,0.8382,0.0198,0.0282,0.405,0.44
+nucl1763,genus,Nuclear Angan,Glottolog node nucl1763,Nuclear Angan,Angan,12,divergence,0.7852,47,0.7852,0.9364,0.0248,0.1264,0.545,0.75
+tora1268,genus,Tor,Glottolog node tora1268,Tor,Tor-Orya,12,divergence,0.6394,45,0.6394,0.8121,0.1706,0.0021,0.745,0.555
+wati1241,genus,Wati,Glottolog node wati1241,Wati,Pama-Nyungan,12,divergence,0.6726,17,0.6726,0.8695,0.1374,0.0595,0.98,0.96
+west2795,genus,Western Huon,Glottolog node west2795,Western Huon,Nuclear Trans New Guinea,12,divergence,0.7519,36,0.7519,0.8317,0.0581,0.0217,0.705,0.675
+west2994,genus,West Alor-Straits-Pantar,Glottolog node west2994,West Alor-Straits-Pantar,Timor-Alor-Pantar,12,divergence,0.7414,45,0.7414,0.8111,0.0686,0.0011,0.485,0.415
+yape1249,genus,Yapen,Glottolog node yape1249,Yapen,Austronesian,12,divergence,0.7145,16,0.7145,0.8262,0.0955,0.0162,0.72,0.655
+bebo1243,genus,Beboid,Glottolog node bebo1243,Beboid,Atlantic-Congo,11,divergence,,,0.7352,0.9127,0.0748,0.1027,0.805,0.89
+cent2129,genus,Central Salish,Glottolog node cent2129,Central Salish,Salishan,11,divergence,0.7496,39,0.7496,0.8258,0.0604,0.0158,0.745,0.665
+cent2262,genus,Central Tano,Glottolog node cent2262,Central Tano,Atlantic-Congo,11,divergence,0.7292,12,0.7292,0.8201,0.0808,0.0101,0.63,0.66
+cent2425,genus,Central-Eastern Sepik Hill,Glottolog node cent2425,Central-Eastern Sepik Hill,Sepik,11,divergence,0.7249,5,0.7249,0.8368,0.0851,0.0268,0.735,0.715
+cerr1237,genus,Cerrado,Glottolog node cerr1237,Cerrado,Nuclear-Macro-Je,11,divergence,0.7823,14,0.7823,0.9339,0.0277,0.1239,0.595,0.705
+ebir1244,genus,Ebira-Nupoid,Glottolog node ebir1244,Ebira-Nupoid,Atlantic-Congo,11,divergence,0.7527,9,0.7527,0.9252,0.0573,0.1152,0.82,0.87
+erap1240,genus,Erap,Glottolog node erap1240,Erap,Nuclear Trans New Guinea,11,divergence,0.7823,20,0.7823,0.8515,0.0277,0.0415,0.58,0.655
+eski1265,genus,Eskimo,Glottolog node eski1265,Eskimo,Eskimo-Aleut,11,divergence,0.685,29,0.685,0.948,0.125,0.138,0.995,1.0
+heib1242,genus,Heibanic,Glottolog node heib1242,Heibanic,Heibanic,11,divergence,0.771,16,0.771,,0.039,,0.695,0.81
+jola1264,genus,Jola,Glottolog node jola1264,Jola,Atlantic-Congo,11,divergence,0.688,29,0.688,0.9199,0.122,0.1099,0.985,0.995
+lezg1248,genus,Lezgic,Glottolog node lezg1248,Lezgic,Nakh-Daghestanian,11,divergence,0.7814,8,0.7814,0.8703,0.0286,0.0603,0.65,0.79
+mumu1249,genus,Mumuye-Yandang,Glottolog node mumu1249,Mumuye-Yandang,Atlantic-Congo,11,divergence,0.7691,33,0.7691,0.8761,0.0409,0.0661,0.63,0.725
+newg1239,genus,New Georgia,Glottolog node newg1239,New Georgia,Austronesian,11,divergence,0.6642,34,0.6642,0.8255,0.1458,0.0155,0.785,0.695
+otom1297,genus,Otomian,Glottolog node otom1297,Otomian,Otomanguean,11,divergence,0.4902,21,0.4902,0.8643,0.3198,0.0543,0.96,0.97
+prea1240,genus,Kampan,Glottolog node prea1240,Pre-Andine Maipuran,Arawakan,11,divergence,0.627,9,0.627,0.8969,0.183,0.0869,1.0,1.0
+saam1281,genus,Saami,Glottolog node saam1281,Saami,Uralic,11,divergence,0.5872,20,0.5872,0.8375,0.2228,0.0275,0.97,0.905
+tang1335,genus,Tangkhul-Maring,Glottolog node tang1335,Tangkhul-Maring,Sino-Tibetan,11,divergence,0.7096,2,0.7096,0.8119,0.1004,0.0019,0.595,0.505
+tani1260,genus,Tanimbar-Bomberai,Glottolog node tani1260,Tanimbar-Bomberai,Austronesian,11,divergence,0.7684,18,0.7684,0.8262,0.0416,0.0162,0.63,0.74
+west2434,genus,Western Daly,Glottolog node west2434,Western Daly,Western Daly,11,divergence,0.61,18,0.61,,0.2,,0.995,1.0
+anat1257,genus,Anatolian,Glottolog node anat1257,Anatolian,Indo-European,10,unmeasured-clade,,,,0.925,,0.115,1.0,1.0
+anga1286,genus,Angami-Pochuri,Glottolog node anga1286,Angami-Pochuri,Sino-Tibetan,10,divergence,0.7702,24,0.7702,0.8119,0.0398,0.0019,0.405,0.46
+belr1234,genus,Bel-Roinji-Nenaya,Glottolog node belr1234,Bel-Roinji-Nenaya,Austronesian,10,divergence,0.7642,17,0.7642,0.8262,0.0458,0.0162,0.5,0.555
+bikw1235,genus,Bikwin-Jen,Glottolog node bikw1235,Bikwin-Jen,Atlantic-Congo,10,divergence,0.5935,24,0.5935,0.9301,0.2165,0.1201,1.0,1.0
+buan1245,genus,Buang linkage,Glottolog node buan1245,Buang linkage,Austronesian,10,divergence,0.6408,34,0.6408,0.8262,0.1692,0.0162,0.89,0.86
+cent2080,genus,Central Luzon,Glottolog node cent2080,Central Luzon,Austronesian,10,divergence,0.5319,11,0.5319,0.8262,0.2781,0.0162,0.89,0.86
+geel1240,genus,Geelvink Bay,Glottolog node geel1240,Geelvink Bay,Geelvink Bay,10,divergence,0.7157,18,0.7157,,0.0943,,0.95,0.995
+grea1241,genus,Great Andamanese,Glottolog node grea1241,Great Andamanese,Great Andamanese,10,divergence,0.7433,26,0.7433,,0.0667,,0.81,0.915
+ijoi1239,genus,Ijoid,Glottolog node ijoi1239,Ijoid,Ijoid,10,divergence,0.7498,9,0.7498,,0.0602,,0.715,0.81
+koto1267,genus,Kotoko-Buduma,Glottolog node koto1267,Kotoko-Buduma,Afro-Asiatic,10,divergence,0.7909,12,0.7909,0.8622,0.0191,0.0522,0.535,0.685
+maba1274,genus,Maban,Glottolog node maba1274,Maban,Maban,10,divergence,,,0.7268,,0.0832,,0.93,0.98
+masa1323,genus,Masa,Glottolog node masa1323,Masa,Afro-Asiatic,10,divergence,0.6223,9,0.6223,0.9166,0.1877,0.1066,0.995,1.0
+miss1254,genus,Mississippi Valley,Glottolog node miss1254,Mississippi Valley,Siouan,10,divergence,0.6484,32,0.6484,0.856,0.1616,0.046,0.98,0.965
+moru1252,genus,Moru-Madi,Glottolog node moru1252,Moru-Madi,Central Sudanic,10,divergence,0.4847,27,0.4847,0.9124,0.3253,0.1024,1.0,1.0
+neha1246,genus,North Bougainville Oceanic,Glottolog node neha1246,North Bougainville Oceanic,Austronesian,10,divergence,0.7807,6,0.7807,0.8255,0.0293,0.0155,0.415,0.53
+ninz1247,genus,Ninzic,Glottolog node ninz1247,Ninzic,Atlantic-Congo,10,divergence,0.7504,24,0.7504,0.8287,0.0596,0.0187,0.725,0.81
+nort2947,genus,Northern Iroquoian,Glottolog node nort2947,Northern Iroquoian,Iroquoian,10,divergence,0.7935,12,0.7935,0.9463,0.0165,0.1363,0.495,0.57
+nyul1248,genus,Nyulnyulan,Glottolog node nyul1248,Nyulnyulan,Nyulnyulan,10,divergence,0.7676,6,0.7676,,0.0424,,0.665,0.735
+sang1348,genus,Sangiric-Minahasan,Glottolog node sang1348,Sangiric-Minahasan,Austronesian,10,divergence,0.5898,25,0.5898,0.8262,0.2202,0.0162,0.885,0.86
+sarm1242,genus,Sarmi,Glottolog node sarm1242,Sarmi,Austronesian,10,divergence,0.7204,13,0.7204,0.8262,0.0896,0.0162,0.835,0.85
+song1307,genus,Songhay,Glottolog node song1307,Songhay,Songhay,10,divergence,0.4687,16,0.4687,,0.3413,,1.0,1.0
+sout2836,genus,South Surmic,Glottolog node sout2836,South Surmic,Surmic,10,divergence,0.7973,20,0.7973,0.858,0.0127,0.048,0.395,0.52
+tani1259,genus,Tani,Glottolog node tani1259,Tani,Sino-Tibetan,10,divergence,0.5436,8,0.5436,0.8681,0.2664,0.0581,0.94,0.915
+west2712,genus,West Chadic B.2,Glottolog node west2712,West Chadic B.2,Afro-Asiatic,10,divergence,0.7893,5,0.7893,0.9006,0.0207,0.0906,0.56,0.66
+worr1236,genus,Worrorran,Glottolog node worr1236,Worrorran,Worrorran,10,divergence,0.7945,8,0.7945,,0.0155,,0.445,0.575
+yuma1250,genus,Yuman,Glottolog node yuma1250,Yuman,Cochimi-Yuman,10,divergence,0.687,7,0.687,0.8298,0.123,0.0198,0.725,0.665
+yuul1239,genus,Yolngu,Glottolog node yuul1239,Yuulngu,Pama-Nyungan,10,divergence,0.7311,20,0.7311,0.9265,0.0789,0.1165,0.905,0.955
+asma1258,genus,Asmat-Kamoro,Glottolog node asma1258,Asmat-Kamoro,Nuclear Trans New Guinea,9,divergence,0.6358,13,0.6358,0.8366,0.1742,0.0266,0.845,0.82
+bend1256,genus,Bendic,Glottolog node bend1256,Bendic,Atlantic-Congo,9,divergence,0.6948,2,0.6948,0.9127,0.1152,0.1027,0.92,0.95
+cent2232,genus,Central Nubian,Glottolog node cent2232,Central Nubian,Nubian,9,divergence,0.799,5,0.799,0.8818,0.011,0.0718,0.395,0.53
+choc1280,genus,Chocoan,Glottolog node choc1280,Chocoan,Chocoan,9,divergence,0.6625,5,0.6625,,0.1475,,0.965,0.975
+east2502,genus,East Tariku,Glottolog node east2502,East Tariku,Lakes Plain,9,divergence,0.671,21,0.671,0.8532,0.139,0.0432,0.955,0.98
+ekoi1237,genus,Ekoid-Mbe,Glottolog node ekoi1237,Ekoid-Mbe,Atlantic-Congo,9,divergence,0.7748,8,0.7748,0.9127,0.0352,0.1027,0.64,0.77
+fula1264,genus,Fula,Glottolog node fula1264,Fula,Atlantic-Congo,9,divergence,0.4246,30,0.4246,0.8609,0.3854,0.0509,0.95,0.94
+kair1261,genus,Kairiru-Manam,Glottolog node kair1261,Kairiru-Manam,Austronesian,9,divergence,0.6811,15,0.6811,0.8234,0.1289,0.0134,0.69,0.62
+kham1285,genus,Kham-Magar-Chepang,Glottolog node kham1285,Kham-Magar-Chepang,Sino-Tibetan,9,divergence,0.6764,12,0.6764,0.8129,0.1336,0.0029,0.575,0.495
+khmu1236,genus,Khmuic,Glottolog node khmu1236,Khmuic,Austroasiatic,9,divergence,0.725,5,0.725,0.8459,0.085,0.0359,0.89,0.895
+kuku1276,genus,Kuku-Wik-Ep,Glottolog node kuku1276,Kuku-Wik-Ep,Pama-Nyungan,9,divergence,,,0.7193,0.811,0.0907,0.001,0.435,0.36
+mand1472,genus,Mandaraic,Glottolog node mand1472,Mandaraic,Afro-Asiatic,9,divergence,0.696,20,0.696,0.8496,0.114,0.0396,0.96,0.975
+mids1246,genus,Mid-Southern New Caledonian,Glottolog node mids1246,Mid-Southern New Caledonian,Austronesian,9,divergence,0.7793,33,0.7793,0.8262,0.0307,0.0162,0.51,0.61
+mofu1249,genus,Mofuic,Glottolog node mofu1249,Mofuic,Afro-Asiatic,9,divergence,0.7178,22,0.7178,0.8496,0.0922,0.0396,0.935,0.965
+ngba1290,genus,Ngbandi-Mongoba-Kazibati,Glottolog node ngba1290,Ngbandi-Mongoba-Kazibati,Atlantic-Congo,9,divergence,,,0.5176,0.8427,0.2924,0.0327,0.975,0.975
+sere1262,genus,Sereic,Glottolog node sere1262,Sereic,Atlantic-Congo,9,divergence,,,0.7485,0.8128,0.0615,0.0028,0.495,0.455
+shir1273,genus,Shiroro-Kamuku,Glottolog node shir1273,Shiroro-Kamuku,Atlantic-Congo,9,divergence,0.7299,10,0.7299,0.8644,0.0801,0.0544,0.855,0.91
+sout2868,genus,Southern Vanuatu,Glottolog node sout2868,Southern Vanuatu,Austronesian,9,divergence,0.8092,17,0.8092,0.8262,0.0008,0.0162,0.275,0.385
+sout3238,genus,Southern Samba-Duru,Glottolog node sout3238,Southern Samba-Duru,Atlantic-Congo,9,divergence,0.7835,17,0.7835,0.823,0.0265,0.013,0.385,0.41
+thur1253,genus,Thura-Yura,Glottolog node thur1253,Thura-Yura,Pama-Nyungan,9,divergence,0.6951,4,0.6951,0.9265,0.1149,0.1165,0.96,0.98
+tuuu1241,genus,Tuu,Glottolog node tuuu1241,Tuu,Tuu,9,divergence,0.6643,6,0.6643,,0.1457,,0.96,0.98
+viet1250,genus,Vietic,Glottolog node viet1250,Vietic,Austroasiatic,9,divergence,0.7138,6,0.7138,0.8459,0.0962,0.0359,0.925,0.95
+wari1265,genus,Warisic,Glottolog node wari1265,Warisic,Border,9,divergence,0.6706,6,0.6706,0.8217,0.1394,0.0117,0.71,0.655
+aoic1235,genus,Central Naga,Glottolog node aoic1235,Central Naga,Sino-Tibetan,8,divergence,0.7518,8,0.7518,0.8119,0.0582,0.0019,0.53,0.525
+cent2028,genus,Central Delta,Glottolog node cent2028,Central Delta,Atlantic-Congo,8,divergence,0.5786,8,0.5786,0.8531,0.2314,0.0431,0.985,0.985
+cent2413,genus,Central-Eastern Maipuran,Glottolog node cent2413,Central-Eastern Maipuran,Arawakan,8,divergence,0.7631,6,0.7631,0.9085,0.0469,0.0985,0.755,0.87
+idom1262,genus,Idomoid,Glottolog node idom1262,Idomoid,Atlantic-Congo,8,divergence,,,0.7355,0.9252,0.0745,0.1152,0.73,0.885
+inte1241,genus,Interior Salish,Glottolog node inte1241,Interior Salish,Salishan,8,divergence,0.7588,15,0.7588,0.8999,0.0512,0.0899,0.805,0.9
+kiow1265,genus,Kiowa-Tanoan,Glottolog node kiow1265,Kiowa-Tanoan,Kiowa-Tanoan,8,divergence,0.7929,9,0.7929,,0.0171,,0.49,0.635
+koia1260,genus,Koiarian,Glottolog node koia1260,Koiarian,Koiarian,8,divergence,0.8017,12,0.8017,,0.0083,,0.42,0.545
+kumi1250,genus,Kumil-Tibor,Glottolog node kumi1250,Kumil-Tibor,Nuclear Trans New Guinea,8,divergence,0.8051,15,0.8051,0.8376,0.0049,0.0276,0.295,0.4
+mail1249,genus,Mailuan,Glottolog node mail1249,Mailuan,Mailuan,8,divergence,0.6124,12,0.6124,,0.1976,,1.0,1.0
+mekk1240,genus,Mek,Glottolog node mekk1240,Mek,Nuclear Trans New Guinea,8,divergence,0.5658,6,0.5658,0.9708,0.2442,0.1608,1.0,1.0
+namb1292,genus,Nambu,Glottolog node namb1292,Nambu,Yam,8,divergence,0.5555,15,0.5555,0.8157,0.2545,0.0057,0.705,0.61
+narr1279,genus,Talodi,Glottolog node narr1279,Narrow Talodi,Narrow Talodi,8,divergence,0.6384,6,0.6384,,0.1716,,1.0,1.0
+ngum1251,genus,Ngumpin-Yapa,Glottolog node ngum1251,Ngumpin-Yapa,Pama-Nyungan,8,divergence,0.768,12,0.768,0.8695,0.042,0.0595,0.68,0.795
+nucl1777,genus,Nuclear Warup,Glottolog node nucl1777,Nuclear Warup,Nuclear Trans New Guinea,8,divergence,0.8073,9,0.8073,0.8181,0.0027,0.0081,0.185,0.225
+samo1298,genus,Samoyedic,Glottolog node samo1298,Samoyedic,Uralic,8,divergence,0.7707,13,0.7707,0.8375,0.0393,0.0275,0.71,0.765
+tula1250,genus,Tula-Waja,Glottolog node tula1250,Tula-Waja,Atlantic-Congo,8,divergence,0.7005,7,0.7005,0.9112,0.1095,0.1012,0.96,0.98
+west2580,genus,West Wapei,Glottolog node west2580,West Wapei,Nuclear Torricelli,8,divergence,0.5846,13,0.5846,0.9484,0.2254,0.1384,1.0,1.0
+west2716,genus,West Chadic A.4,Glottolog node west2716,West Chadic A.4,Afro-Asiatic,8,divergence,0.7726,10,0.7726,0.8633,0.0374,0.0533,0.63,0.715
+aran1267,genus,Arandic,Glottolog node aran1267,Arandic,Pama-Nyungan,7,divergence,0.7243,5,0.7243,0.9265,0.0857,0.1165,0.89,0.925
+araw1283,genus,Arawe,Glottolog node araw1283,Arawe,Austronesian,7,divergence,0.7536,9,0.7536,0.8262,0.0564,0.0162,0.47,0.495
+boli1260,genus,Bolivia-Paraná,Glottolog node boli1260,Bolivian Arawakan,Arawakan,7,divergence,0.6565,5,0.6565,0.8969,0.1535,0.0869,0.995,1.0
+bosa1245,genus,Bosavi,Glottolog node bosa1245,Bosavi,Bosavi,7,divergence,0.8004,10,0.8004,,0.0096,,0.425,0.53
+bura1296,genus,Bura-Marghi,Glottolog node bura1296,Bura-Marghi,Afro-Asiatic,7,divergence,0.5983,12,0.5983,0.8496,0.2117,0.0396,0.98,0.975
+chat1268,genus,Chatino,Glottolog node chat1268,Chatino,Otomanguean,7,divergence,,,0.5341,0.8294,0.2759,0.0194,0.885,0.8
+daju1249,genus,Dajuic,Glottolog node daju1249,Dajuic,Dajuic,7,divergence,0.6767,8,0.6767,,0.1333,,0.98,1.0
+east2710,genus,East Chadic B.3,Glottolog node east2710,East Chadic B.3,Afro-Asiatic,7,divergence,0.6665,4,0.6665,0.8408,0.1435,0.0308,0.915,0.885
+gusa1245,genus,Gusap-Mot,Glottolog node gusa1245,Gusap-Mot,Nuclear Trans New Guinea,7,divergence,0.7705,8,0.7705,0.8515,0.0395,0.0415,0.6,0.665
+high1285,genus,Highland East Cushitic,Glottolog node high1285,Highland East Cushitic,Afro-Asiatic,7,divergence,0.626,6,0.626,0.8636,0.184,0.0536,0.995,0.975
+huit1251,genus,Huitotoan,Glottolog node huit1251,Huitotoan,Huitotoan,7,divergence,0.7845,6,0.7845,,0.0255,,0.53,0.665
+igbo1258,genus,Igboid,Glottolog node igbo1258,Igboid,Atlantic-Congo,7,divergence,0.6666,5,0.6666,0.9252,0.1434,0.1152,0.97,0.99
+khob1235,genus,Kho-Bwa,Glottolog node khob1235,Kho-Bwa,Sino-Tibetan,7,divergence,0.7972,5,0.7972,0.8756,0.0128,0.0656,0.415,0.55
+kwer1240,genus,Kwerba-Samarokena,Glottolog node kwer1240,Kwerba-Samarokena,Greater Kwerba,7,divergence,0.7438,6,0.7438,0.8549,0.0662,0.0449,0.675,0.69
+miwo1275,genus,Miwokan,Glottolog node miwo1275,Miwokan,Miwok-Costanoan,7,divergence,0.7031,8,0.7031,0.855,0.1069,0.045,0.91,0.87
+musk1252,genus,Muskogean,Glottolog node musk1252,Muskogean,Muskogean,7,divergence,0.6216,13,0.6216,,0.1884,,1.0,1.0
+nasi1247,genus,Nasioiic,Glottolog node nasi1247,Nasioiic,South Bougainville,7,unmeasured-clade,,,,0.8208,,0.0108,0.765,0.7
+nort3259,genus,Northern Samba-Duru,Glottolog node nort3259,Northern Samba-Duru,Atlantic-Congo,7,divergence,0.7265,4,0.7265,0.823,0.0835,0.013,0.72,0.66
+pomo1273,genus,Pomoan,Glottolog node pomo1273,Pomoan,Pomoan,7,divergence,0.4688,11,0.4688,,0.3412,,1.0,1.0
+siau1243,genus,Siau,Glottolog node siau1243,Siau,Austronesian,7,divergence,0.6783,6,0.6783,0.8234,0.1317,0.0134,0.665,0.61
+taca1255,genus,Tacanan,Glottolog node taca1255,Tacanan,Pano-Tacanan,7,divergence,0.5582,3,0.5582,0.8969,0.2518,0.0869,0.99,0.99
+yemn1234,genus,Yemne-Kimbi,Glottolog node yemn1234,Yemne-Kimbi,Atlantic-Congo,7,divergence,0.7087,10,0.7087,0.9127,0.1013,0.1027,0.915,0.965
+yuku1244,genus,Yukubenic,Glottolog node yuku1244,Yukubenic,Atlantic-Congo,7,divergence,0.6828,5,0.6828,0.8287,0.1272,0.0187,0.85,0.835
+zeme1241,genus,Zemeic,Glottolog node zeme1241,Zemeic,Sino-Tibetan,7,divergence,0.6533,18,0.6533,0.8119,0.1567,0.0019,0.72,0.605
+araw1282,genus,Arawan,Glottolog node araw1282,Arawan,Arawan,6,divergence,0.7552,3,0.7552,,0.0548,,0.73,0.835
+bain1263,genus,Baining,Glottolog node bain1263,Baining,Baining,6,divergence,0.7898,2,0.7898,,0.0202,,0.53,0.65
+band1357,genus,Greater Bandjalangic,Glottolog node band1357,Greater Bandjalangic,Pama-Nyungan,6,divergence,,,0.5021,0.8668,0.3079,0.0568,0.995,1.0
+bium1274,genus,Dabaic,Glottolog node bium1274,Dabaic,Afro-Asiatic,6,divergence,0.5525,9,0.5525,0.8573,0.2575,0.0473,0.995,0.985
+bryt1239,genus,Brythonic,Glottolog node bryt1239,Brythonic,Indo-European,6,divergence,0.4516,2,0.4516,0.85,0.3584,0.04,0.86,0.8
+cost1250,genus,Costanoan,Glottolog node cost1250,Costanoan,Miwok-Costanoan,6,unmeasured-clade,,,,0.855,,0.045,0.935,0.885
+east2433,genus,East Strickland,Glottolog node east2433,East Strickland,East Strickland,6,divergence,0.5959,12,0.5959,,0.2141,,1.0,1.0
+east2493,genus,East Formosan,Glottolog node east2493,East Formosan,Austronesian,6,divergence,0.6801,8,0.6801,0.8828,0.1299,0.0728,0.97,0.975
+east2645,genus,East Chadic A.2,Glottolog node east2645,East Chadic A.2,Afro-Asiatic,6,divergence,0.6638,3,0.6638,0.836,0.1462,0.026,0.795,0.815
+east2703,genus,Nyun-Buy,Glottolog node east2703,Nyun,Atlantic-Congo,6,divergence,0.7731,4,0.7731,0.9196,0.0369,0.1096,0.66,0.775
+east2775,genus,East Chadic A.1,Glottolog node east2775,East Chadic A.1,Afro-Asiatic,6,divergence,,,0.7549,0.836,0.0551,0.026,0.57,0.645
+gauw1235,genus,Gauwa,Glottolog node gauw1235,Gauwa,Nuclear Trans New Guinea,6,divergence,0.8046,8,0.8046,0.8952,0.0054,0.0852,0.47,0.57
+goul1243,genus,Inland Bua,Glottolog node goul1243,Inland Bua,Atlantic-Congo,6,divergence,0.6729,2,0.6729,0.8122,0.1371,0.0022,0.605,0.51
+java1253,genus,Javanesic,Glottolog node java1253,Javanesic,Austronesian,6,divergence,0.5257,2,0.5257,0.8262,0.2843,0.0162,0.89,0.86
+kadu1256,genus,Kadugli-Krongo,Glottolog node kadu1256,Kadugli-Krongo,Kadugli-Krongo,6,divergence,0.5607,5,0.5607,,0.2493,,1.0,1.0
+kama1374,genus,Kamano-Yagaria,Glottolog node kama1374,Kamano-Yagaria,Nuclear Trans New Guinea,6,divergence,0.7039,8,0.7039,0.8319,0.1061,0.0219,0.74,0.665
+kamb1317,genus,Kambari-Cicipu,Glottolog node kamb1317,Kambari-Cicipu,Atlantic-Congo,6,divergence,0.6785,3,0.6785,0.8644,0.1315,0.0544,0.96,0.975
+kanu1279,genus,Kanuri-Kanembu,Glottolog node kanu1279,Kanuri-Kanembu,Saharan,6,divergence,0.3287,2,0.3287,0.8253,0.4813,0.0153,0.76,0.66
+kiwa1251,genus,Kiwaian,Glottolog node kiwa1251,Kiwaian,Kiwaian,6,divergence,0.5114,14,0.5114,,0.2986,,1.0,1.0
+kuli1256,genus,Kulin-Bunganditj,Glottolog node kuli1256,Kulin-Bunganditj,Pama-Nyungan,6,divergence,0.7692,4,0.7692,0.8668,0.0408,0.0568,0.65,0.735
+leng1261,genus,Lengua-Mascoy,Glottolog node leng1261,Lengua-Mascoy,Lengua-Mascoy,6,divergence,0.5519,4,0.5519,,0.2581,,1.0,1.0
+macr1275,genus,Macro-Bai,Glottolog node macr1275,Macro-Bai,Sino-Tibetan,6,divergence,,,0.5884,0.8756,0.2216,0.0656,1.0,0.995
+mang1425,genus,Mangbutu-Efe,Glottolog node mang1425,Mangbutu-Efe,Central Sudanic,6,divergence,0.5687,4,0.5687,0.8784,0.2413,0.0684,0.99,0.96
+mapi1253,genus,Pidjanan,Glottolog node mapi1253,Pidjanan,Arawakan,6,divergence,0.7286,1,0.7286,0.8542,0.0814,0.0442,0.78,0.76
+mien1242,genus,Mienic,Glottolog node mien1242,Mienic,Hmong-Mien,6,divergence,0.5252,7,0.5252,0.8452,0.2848,0.0352,0.925,0.935
+mind1258,genus,Mindjim,Glottolog node mind1258,Mindjim,Nuclear Trans New Guinea,6,divergence,0.7992,8,0.7992,0.8652,0.0108,0.0552,0.41,0.515
+nger1240,genus,Ngero,Glottolog node nger1240,Ngero,Austronesian,6,divergence,0.6273,9,0.6273,0.8262,0.1827,0.0162,0.825,0.745
+nort2782,genus,Northern Grusi,Glottolog node nort2782,Northern Grusi,Atlantic-Congo,6,divergence,0.6661,7,0.6661,0.8348,0.1439,0.0248,0.77,0.805
+nort3169,genus,Northern Benue-Congo Plateau,Glottolog node nort3169,Northern Benue-Congo Plateau,Atlantic-Congo,6,unmeasured-clade,,,,0.8287,,0.0187,0.88,0.845
+numu1240,genus,Numugenan,Glottolog node numu1240,Numugenan,Nuclear Trans New Guinea,6,divergence,0.6134,9,0.6134,0.8376,0.1966,0.0276,0.92,0.88
+nuri1243,genus,Nuristani,Glottolog node nuri1243,Nuristani,Indo-European,6,divergence,0.7208,9,0.7208,0.8382,0.0892,0.0282,0.79,0.785
+pear1246,genus,Pearic,Glottolog node pear1246,Pearic,Austroasiatic,6,divergence,0.4467,2,0.4467,0.8459,0.3633,0.0359,0.99,0.96
+puru1265,genus,Purus,Glottolog node puru1265,Purus,Arawakan,6,divergence,0.748,7,0.748,0.8917,0.062,0.0817,0.815,0.87
+sepi1256,genus,Sepik Tama,Glottolog node sepi1256,Sepik Tama,Sepik,6,divergence,0.7709,6,0.7709,0.8964,0.0391,0.0864,0.735,0.83
+sout1516,genus,South Bird's Head Proper,Glottolog node sout1516,Nuclear South Bird's Head,South Bird's Head,6,divergence,0.7252,9,0.7252,0.86,0.0848,0.05,0.86,0.83
+sout3054,genus,South Cushitic,Glottolog node sout3054,South Cushitic,Afro-Asiatic,6,divergence,0.7873,5,0.7873,0.9377,0.0227,0.1277,0.48,0.63
+tamo1242,genus,Tamolan,Glottolog node tamo1242,Tamolan,Ramu,6,divergence,0.6983,5,0.6983,0.8238,0.1117,0.0138,0.775,0.7
+tara1326,genus,Tarahumara-Guarijio,Glottolog node tara1326,Tarahumara-Guarijio,Uto-Aztecan,6,divergence,0.5998,2,0.5998,0.8433,0.2102,0.0333,0.935,0.9
+tepi1240,genus,Tepiman,Glottolog node tepi1240,Tepiman,Uto-Aztecan,6,divergence,0.4643,6,0.4643,0.8433,0.3457,0.0333,0.935,0.9
+tond1250,genus,Tonda,Glottolog node tond1250,Tonda,Yam,6,divergence,0.7169,14,0.7169,0.8157,0.0931,0.0057,0.61,0.56
+tung1294,genus,Tungak-Nalik,Glottolog node tung1294,Tungak-Nalik,Austronesian,6,divergence,0.6581,15,0.6581,0.8262,0.1519,0.0162,0.855,0.8
+yano1268,genus,Yanomamic,Glottolog node yano1268,Yanomamic,Yanomamic,6,divergence,0.4972,3,0.4972,,0.3128,,1.0,1.0
+yimi1234,genus,Yimidhirr-Yalanji-Yidinic,Glottolog node yimi1234,Yimidhirr-Yalanji-Yidinic,Pama-Nyungan,6,divergence,0.7129,5,0.7129,0.9265,0.0971,0.1165,0.865,0.925
+yupn1242,genus,Yupna,Glottolog node yupn1242,Yupna,Nuclear Trans New Guinea,6,divergence,0.533,2,0.533,0.8515,0.277,0.0415,0.975,0.94
+zand1246,genus,Zandic,Glottolog node zand1246,Zandic,Atlantic-Congo,6,divergence,0.7021,6,0.7021,0.8427,0.1079,0.0327,0.85,0.94
+alum1250,genus,Alumic,Glottolog node alum1250,Alumic,Atlantic-Congo,5,divergence,0.702,5,0.702,0.8287,0.108,0.0187,0.815,0.815
+araf1243,genus,Arafundi,Glottolog node araf1243,Arafundi,Arafundi,5,divergence,0.5055,3,0.5055,,0.3045,,1.0,1.0
+bena1258,genus,Bena-Mboi,Glottolog node bena1258,Bena-Mboi,Atlantic-Congo,5,divergence,0.7059,1,0.7059,0.9301,0.1041,0.1201,0.86,0.905
+bili1253,genus,Bilic,Glottolog node bili1253,Bilic,Austronesian,5,divergence,0.7253,7,0.7253,0.8262,0.0847,0.0162,0.825,0.815
+bium1275,genus,Teraic,Glottolog node bium1275,Teraic,Afro-Asiatic,5,divergence,0.7171,6,0.7171,0.8573,0.0929,0.0473,0.91,0.965
+bull1245,genus,Southern Mel,Glottolog node bull1245,Southern Mel,Atlantic-Congo,5,divergence,0.6955,6,0.6955,0.9337,0.1145,0.1237,0.97,0.995
+cang1245,genus,Cangin,Glottolog node cang1245,Cangin,Atlantic-Congo,5,divergence,0.4872,6,0.4872,0.9683,0.3228,0.1583,1.0,1.0
+choi1242,genus,Choiseul,Glottolog node choi1242,Choiseul,Austronesian,5,divergence,0.6758,4,0.6758,0.8255,0.1342,0.0155,0.78,0.695
+dako1256,genus,Dakoid,Glottolog node dako1256,Dakoid,Atlantic-Congo,5,divergence,0.7518,2,0.7518,0.894,0.0582,0.084,0.67,0.73
+darg1242,genus,Dargwic,Glottolog node darg1242,Dargwic,Nakh-Daghestanian,5,divergence,0.5503,3,0.5503,0.8703,0.2597,0.0603,1.0,0.995
+duka1247,genus,Northwestern Kainji,Glottolog node duka1247,Northwestern Kainji,Atlantic-Congo,5,divergence,0.7028,3,0.7028,0.8644,0.1072,0.0544,0.9,0.925
+guah1252,genus,Guahiboan,Glottolog node guah1252,Guahiboan,Guahiboan,5,divergence,0.6084,4,0.6084,,0.2016,,1.0,1.0
+guda1246,genus,Gudang-Northeast Paman,Glottolog node guda1246,Gudang-Northeast Paman,Pama-Nyungan,5,divergence,,,0.2615,0.8247,0.5485,0.0147,0.72,0.61
+higi1241,genus,Higic,Glottolog node higi1241,Higic,Afro-Asiatic,5,divergence,0.6186,5,0.6186,0.8622,0.1914,0.0522,0.99,1.0
+huon1247,genus,Huon Tip,Glottolog node huon1247,Huon Tip,Nuclear Trans New Guinea,5,divergence,0.736,8,0.736,0.8317,0.074,0.0217,0.555,0.45
+jeme1246,genus,Southern Je,Glottolog node jeme1246,Southern Je,Nuclear-Macro-Je,5,divergence,,,0.5437,0.9339,0.2663,0.1239,1.0,1.0
+kabe1245,genus,Kabenau,Glottolog node kabe1245,Kabenau,Nuclear Trans New Guinea,5,divergence,0.7836,10,0.7836,0.8652,0.0264,0.0552,0.53,0.61
+khan1279,genus,Khanty,Glottolog node khan1279,Khantyic,Uralic,5,unmeasured-clade,,,,0.8375,,0.0275,0.97,0.905
+khas1268,genus,Khasian,Glottolog node khas1268,Khasian,Austroasiatic,5,divergence,0.6784,3,0.6784,0.8459,0.1316,0.0359,0.88,0.815
+komb1271,genus,Kombio-Yambes,Glottolog node komb1271,Kombio-Yambes,Nuclear Torricelli,5,divergence,0.6711,7,0.6711,0.8738,0.1389,0.0638,0.995,0.99
+lowe1401,genus,Lower Murray,Glottolog node lowe1401,Lower Murray,Pama-Nyungan,5,unmeasured-clade,,,,0.8668,,0.0568,0.995,0.975
+mata1291,genus,Wichí-Chorote,Glottolog node mata1291,Mataguayo II,Mataguayan,5,divergence,0.7507,4,0.7507,0.8336,0.0593,0.0236,0.61,0.68
+mond1266,genus,Monde,Glottolog node mond1266,Monde,Tupian,5,divergence,0.5885,3,0.5885,0.8946,0.2215,0.0846,1.0,1.0
+naic1235,genus,Naic,Glottolog node naic1235,Naic,Sino-Tibetan,5,divergence,0.724,5,0.724,0.8235,0.086,0.0135,0.785,0.71
+namb1300,genus,Nambikwara Complex,Glottolog node namb1300,Nambikwara Complex,Nambiquaran,5,divergence,0.6223,2,0.6223,0.8637,0.1877,0.0537,0.84,0.83
+newa1245,genus,Newaric,Glottolog node newa1245,Newaric,Sino-Tibetan,5,divergence,0.7754,1,0.7754,0.8129,0.0346,0.0029,0.295,0.335
+nico1262,genus,Nicobaric,Glottolog node nico1262,Nicobaric,Austroasiatic,5,divergence,0.6949,3,0.6949,0.8459,0.1151,0.0359,0.895,0.895
+nimb1257,genus,Nimboranic,Glottolog node nimb1257,Nimboranic,Nimboranic,5,divergence,0.5463,4,0.5463,,0.2637,,1.0,1.0
+norm1247,genus,Norman Pama,Glottolog node norm1247,Norman Pama,Pama-Nyungan,5,unmeasured-clade,,,,0.9264,,0.1164,1.0,1.0
+nort3256,genus,Northeastern Pama,Glottolog node nort3256,Northeastern Pama,Pama-Nyungan,5,divergence,0.7043,2,0.7043,0.811,0.1057,0.001,0.455,0.405
+nucl1244,genus,Western Left May,Glottolog node nucl1244,Western Left May,Left May,5,divergence,0.7304,8,0.7304,0.8298,0.0796,0.0198,0.61,0.645
+nucl1580,genus,Eleman,Glottolog node nucl1580,Eleman,Eleman,5,divergence,0.4191,6,0.4191,,0.3909,,0.99,1.0
+nuru1240,genus,Nuru,Glottolog node nuru1240,Nuru,Nuclear Trans New Guinea,5,divergence,0.7672,9,0.7672,0.8652,0.0428,0.0552,0.69,0.79
+ogon1240,genus,Ogonoid,Glottolog node ogon1240,Ogonoid,Atlantic-Congo,5,divergence,0.5679,6,0.5679,0.8531,0.2421,0.0431,0.985,0.985
+osum1243,genus,Osum-Wadaginam-Pomoikan,Glottolog node osum1243,Osum-Wadaginam-Pomoikan,Nuclear Trans New Guinea,5,divergence,0.7427,7,0.7427,0.867,0.0673,0.057,0.86,0.925
+pani1259,genus,Paniai Lakes,Glottolog node pani1259,Paniai Lakes,Nuclear Trans New Guinea,5,divergence,0.6591,5,0.6591,0.9708,0.1509,0.1608,0.94,0.96
+pasi1254,genus,Pasismanua,Glottolog node pasi1254,Pasismanua,Austronesian,5,divergence,0.4866,1,0.4866,0.8262,0.3234,0.0162,0.715,0.59
+saha1239,genus,Sahaptian,Glottolog node saha1239,Sahaptian,Sahaptian,5,divergence,0.7262,2,0.7262,,0.0838,,0.84,0.895
+sant1458,genus,Santa Isabel,Glottolog node sant1458,Santa Isabel,Austronesian,5,divergence,0.555,6,0.555,0.8255,0.255,0.0155,0.785,0.695
+sout2845,genus,South Omotic,Glottolog node sout2845,South Omotic,South Omotic,5,divergence,0.672,4,0.672,,0.138,,0.995,1.0
+sout3132,genus,Southern Chumashan,Glottolog node sout3132,Southern Chumashan,Chumashan,5,divergence,0.7379,3,0.7379,0.8434,0.0721,0.0334,0.61,0.65
+sout3141,genus,Southwest Pama,Glottolog node sout3141,Southwest Pama,Pama-Nyungan,5,unmeasured-clade,,,,0.9264,,0.1164,1.0,1.0
+subt1249,genus,Subtiaba-Tlapanec,Glottolog node subt1249,Subtiaba-Tlapanec,Otomanguean,5,divergence,0.6076,4,0.6076,0.9963,0.2024,0.1863,1.0,1.0
+temn1245,genus,Northern Mel,Glottolog node temn1245,Northern Mel,Atlantic-Congo,5,divergence,0.5427,10,0.5427,0.9337,0.2673,0.1237,1.0,1.0
+tupa1251,genus,Tuparic,Glottolog node tupa1251,Tuparic,Tupian,5,divergence,0.6789,3,0.6789,0.8529,0.1311,0.0429,0.85,0.855
+wagg1235,genus,Ottilien,Glottolog node wagg1235,Ottilien,Ramu,5,divergence,0.6137,8,0.6137,0.8186,0.1963,0.0086,0.785,0.605
+west1493,genus,West Bird's Head,Glottolog node west1493,West Bird's Head,West Bird's Head,5,divergence,0.7311,3,0.7311,,0.0789,,0.765,0.84
+west2710,genus,West Chadic B.1,Glottolog node west2710,West Chadic B.1,Afro-Asiatic,5,divergence,0.5845,2,0.5845,0.9006,0.2255,0.0906,0.995,0.995
+west2817,genus,West Central Maluku,Glottolog node west2817,West Central Maluku,Austronesian,5,divergence,0.7578,4,0.7578,0.8262,0.0522,0.0162,0.565,0.62
+west2867,genus,West Inland Gulf of Papua,Glottolog node west2867,West Inland Gulf of Papua,Anim,5,divergence,0.7469,1,0.7469,0.844,0.0631,0.034,0.695,0.61
+xinc1237,genus,Xincan,Glottolog node xinc1237,Xincan,Xincan,5,unmeasured-family,,,,,,,1.0,1.0
+yare1250,genus,Yareban,Glottolog node yare1250,Yareban,Yareban,5,divergence,0.4721,6,0.4721,,0.3379,,1.0,1.0
+yeni1252,genus,Yeniseian,Glottolog node yeni1252,Yeniseian,Yeniseian,5,divergence,0.7431,9,0.7431,,0.0669,,0.89,0.96
+yuat1252,genus,Yuat,Glottolog node yuat1252,Yuat,Yuat,5,divergence,0.6595,7,0.6595,,0.1505,,0.99,0.995
+yuin1242,genus,Yuin,Glottolog node yuin1242,Yuin,Pama-Nyungan,5,divergence,,,0.5309,0.8153,0.2791,0.0053,0.69,0.53
+alba1267,genus,Albanian,Glottolog node alba1267,Albanian,Indo-European,4,divergence,0.4609,3,0.4609,0.9002,0.3491,0.0902,1.0,1.0
+alba1272,genus,Albatross Bay,Glottolog node alba1272,Albatross Bay,Pama-Nyungan,4,unmeasured-clade,,,,0.8247,,0.0147,0.72,0.61
+alto1250,genus,Medio Rio Negro,Glottolog node alto1250,Medio Rio Negro,Arawakan,4,unmeasured-clade,,,,0.9085,,0.0985,1.0,1.0
+arap1279,genus,Arapesh,Glottolog node arap1279,Arapesh,Nuclear Torricelli,4,divergence,0.7456,3,0.7456,0.8738,0.0644,0.0638,0.815,0.9
+arhu1241,genus,Arhuacic,Glottolog node arhu1241,Arhuacic,Chibchan,4,divergence,0.7684,2,0.7684,0.8914,0.0416,0.0814,0.665,0.75
+ayma1253,genus,Aymaran,Glottolog node ayma1253,Aymaran,Aymaran,4,divergence,0.4075,2,0.4075,,0.4025,,1.0,1.0
+basa1279,genus,Basa,Glottolog node basa1279,Basa,Atlantic-Congo,4,unmeasured-clade,,,,0.8387,,0.0287,0.865,0.785
+bewa1242,genus,Bewani,Glottolog node bewa1242,Bewani,Border,4,divergence,0.7537,2,0.7537,0.8217,0.0563,0.0117,0.455,0.46
+biak1249,genus,Biakic,Glottolog node biak1249,Biakic,Austronesian,4,divergence,0.3661,5,0.3661,0.8262,0.4439,0.0162,0.77,0.665
+bwam1247,genus,Bwamu,Glottolog node bwam1247,Bwamu,Atlantic-Congo,4,divergence,0.5801,2,0.5801,0.8861,0.2299,0.0761,1.0,1.0
+cent2193,genus,Agaw,Glottolog node cent2193,Agaw,Afro-Asiatic,4,divergence,0.6762,3,0.6762,0.9377,0.1338,0.1277,0.96,0.995
+cent2401,genus,Central Dagan,Glottolog node cent2401,Central Dagan,Dagan,4,divergence,0.79,3,0.79,0.8745,0.02,0.0645,0.525,0.575
+chon1288,genus,Chonan,Glottolog node chon1288,Chonan,Chonan,4,divergence,,,0.7904,,0.0196,,0.47,0.575
+chuk1272,genus,Chukotian,Glottolog node chuk1272,Chukotian,Chukotko-Kamchatkan,4,divergence,0.3871,2,0.3871,0.845,0.4229,0.035,0.945,0.825
+east2386,genus,Eastern Jebel,Glottolog node east2386,Eastern Jebel,Eastern Jebel,4,divergence,0.8012,1,0.8012,,0.0088,,0.46,0.53
+east2503,genus,Eastern Trans-Fly,Glottolog node east2503,Eastern Trans-Fly,Eastern Trans-Fly,4,divergence,0.7752,3,0.7752,,0.0348,,0.615,0.78
+east2767,genus,East Sogeram,Glottolog node east2767,East Sogeram,Nuclear Trans New Guinea,4,divergence,0.7682,5,0.7682,0.8498,0.0418,0.0398,0.56,0.58
+east2770,genus,East Queensland Border Pama Nyungan,Glottolog node east2770,East Queensland Border Pama Nyungan,Pama-Nyungan,4,unmeasured-clade,,,,0.9265,,0.1165,1.0,1.0
+evap1240,genus,Evapia,Glottolog node evap1240,Evapia,Nuclear Trans New Guinea,4,divergence,0.8058,3,0.8058,0.8652,0.0042,0.0552,0.38,0.485
+geor1252,genus,Georgian-Zan,Glottolog node geor1252,Georgian-Zan,Kartvelian,4,divergence,0.6579,2,0.6579,0.8605,0.1521,0.0505,0.855,0.81
+goid1240,genus,Goidelic,Glottolog node goid1240,Goidelic,Indo-European,4,divergence,0.6011,3,0.6011,0.85,0.2089,0.04,0.86,0.8
+huav1256,genus,Huavean,Glottolog node huav1256,Huavean,Huavean,4,divergence,0.4683,2,0.4683,,0.3417,,1.0,1.0
+iqui1244,genus,Iquito-Arabela,Glottolog node iqui1244,Iquito-Arabela,Zaparoan,4,divergence,0.7459,3,0.7459,0.8571,0.0641,0.0471,0.78,0.81
+iwai1246,genus,Iwaidjan Proper,Glottolog node iwai1246,Iwaidjan Proper,Iwaidjan Proper,4,divergence,0.7441,3,0.7441,,0.0659,,0.665,0.735
+jiva1245,genus,Chicham,Glottolog node jiva1245,Chicham,Chicham,4,divergence,0.3399,3,0.3399,,0.4701,,1.0,1.0
+juku1256,genus,Ju-Kung,Glottolog node juku1256,Ju-Kung,Kxa,4,divergence,0.5715,3,0.5715,0.8685,0.2385,0.0585,0.905,0.89
+kama1371,genus,Kamakanan,Glottolog node kama1371,Kamakanan,Kamakanan,4,unmeasured-family,,,,,,,1.0,1.0
+kanu1280,genus,Kanum,Glottolog node kanu1280,Kanum,Yam,4,divergence,0.5148,3,0.5148,0.8157,0.2952,0.0057,0.705,0.61
+kauk1240,genus,Kaukombaran,Glottolog node kauk1240,Kaukombaran,Nuclear Trans New Guinea,4,divergence,0.672,6,0.672,0.8376,0.138,0.0276,0.885,0.865
+kora1297,genus,Korap,Glottolog node kora1297,Korap linkage,Austronesian,4,divergence,0.3971,6,0.3971,0.8262,0.4129,0.0162,0.83,0.745
+kula1283,genus,Kulango-Lorom,Glottolog node kula1283,Kulango-Lorom,Atlantic-Congo,4,divergence,0.6369,2,0.6369,0.9146,0.1731,0.1046,1.0,1.0
+kuri1270,genus,Kuri,Glottolog node kuri1270,Kuri,Pama-Nyungan,4,divergence,0.7655,4,0.7655,0.8153,0.0445,0.0053,0.4,0.36
+lele1262,genus,Lelemic,Glottolog node lele1262,Lelemic,Atlantic-Congo,4,divergence,0.6636,4,0.6636,0.8224,0.1464,0.0124,0.715,0.66
+maid1262,genus,Maiduan,Glottolog node maid1262,Maiduan,Maiduan,4,divergence,0.4871,3,0.4871,,0.3229,,1.0,1.0
+maoo1243,genus,Blue Nile Mao,Glottolog node maoo1243,Blue Nile Mao,Blue Nile Mao,4,divergence,0.7784,3,0.7784,,0.0316,,0.555,0.645
+nada1235,genus,Naduhup,Glottolog node nada1235,Naduhup,Naduhup,4,divergence,0.6193,3,0.6193,,0.1907,,0.99,1.0
+nort2933,genus,North Bougainville,Glottolog node nort2933,North Bougainville,North Bougainville,4,divergence,0.7938,1,0.7938,,0.0162,,0.495,0.655
+nucl1713,genus,Nuclear Tirio,Glottolog node nucl1713,Nuclear Tirio,Anim,4,divergence,0.7213,6,0.7213,0.9082,0.0887,0.0982,0.935,0.975
+patp1244,genus,Patpatar-Minigir-Tolai,Glottolog node patp1244,Patpatar-Minigir-Tolai,Austronesian,4,divergence,0.5327,2,0.5327,0.8262,0.2773,0.0162,0.855,0.8
+peka1243,genus,Peka,Glottolog node peka1243,Peka,Nuclear Trans New Guinea,4,divergence,0.6826,5,0.6826,0.8652,0.1274,0.0552,0.97,0.975
+perm1256,genus,Permic,Glottolog node perm1256,Permian,Uralic,4,divergence,0.4019,2,0.4019,0.8375,0.4081,0.0275,0.97,0.905
+reef1242,genus,Reefs-Santa Cruz,Glottolog node reef1242,Reefs-Santa Cruz,Austronesian,4,divergence,0.7097,5,0.7097,0.8262,0.1003,0.0162,0.675,0.73
+shas1238,genus,Shastan,Glottolog node shas1238,Shastan,Shastan,4,unmeasured-family,,,,,,,1.0,1.0
+skou1239,genus,Skouic,Glottolog node skou1239,Skouic,Sko,4,divergence,0.6838,2,0.6838,0.9053,0.1262,0.0953,0.92,0.945
+sout2766,genus,Southern Ngarna,Glottolog node sout2766,Southern Ngarna,Pama-Nyungan,4,divergence,0.7671,1,0.7671,0.8657,0.0429,0.0557,0.645,0.705
+tair1260,genus,Tairora,Glottolog node tair1260,Tairora,Nuclear Trans New Guinea,4,divergence,0.6871,6,0.6871,0.8952,0.1229,0.0852,0.965,0.985
+tama1329,genus,Tamaic,Glottolog node tama1329,Tamaic,Tamaic,4,divergence,0.7522,2,0.7522,,0.0578,,0.68,0.695
+tang1340,genus,Tangkic,Glottolog node tang1340,Tangkic,Tangkic,4,divergence,0.6544,2,0.6544,,0.1556,,0.995,0.99
+tang1354,genus,Ataitan,Glottolog node tang1354,Ataitan,Ramu,4,divergence,0.7472,5,0.7472,0.8238,0.0628,0.0138,0.64,0.67
+tend1239,genus,Tenda,Glottolog node tend1239,Tenda,Atlantic-Congo,4,divergence,0.7422,2,0.7422,0.948,0.0678,0.138,0.79,0.91
+tsam1241,genus,Tsamosan,Glottolog node tsam1241,Tsamosan,Salishan,4,divergence,0.5855,2,0.5855,0.8258,0.2245,0.0158,0.84,0.68
+tune1260,genus,Tunebo,Glottolog node tune1260,Tunebo,Chibchan,4,divergence,0.3266,1,0.3266,0.8708,0.4834,0.0608,0.985,0.965
+tura1263,genus,Turama-Kikori,Glottolog node tura1263,Turama-Kikori,Turama-Kikori,4,divergence,0.7802,3,0.7802,,0.0298,,0.62,0.71
+waka1283,genus,Waka-Kabic,Glottolog node waka1283,Waka-Kabic,Pama-Nyungan,4,divergence,0.691,4,0.691,0.8668,0.119,0.0568,0.89,0.9
+west2432,genus,Western Gunwinyguan,Glottolog node west2432,Western Gunwinyguan,Gunwinyguan,4,divergence,0.7642,1,0.7642,0.8908,0.0458,0.0808,0.755,0.84
+west2945,genus,Central Timor,Glottolog node west2945,Central Timor,Austronesian,4,divergence,0.5706,5,0.5706,0.8262,0.2394,0.0162,0.885,0.86
+will1243,genus,Willaumez,Glottolog node will1243,Willaumez linkage,Austronesian,4,divergence,0.7088,4,0.7088,0.8262,0.1012,0.0162,0.74,0.735
+yaga1258,genus,Yaganon,Glottolog node yaga1258,Yaganon,Nuclear Trans New Guinea,4,divergence,0.5887,2,0.5887,0.8652,0.2213,0.0552,0.985,0.97
+yang1294,genus,Yangum-Ambrak,Glottolog node yang1294,Yangum-Ambrak,Nuclear Torricelli,4,divergence,,,0.4394,0.8401,0.3706,0.0301,0.885,0.82
+yoku1255,genus,Yokutsan,Glottolog node yoku1255,Yokutsan,Yokutsan,4,unmeasured-family,,,,,,,1.0,1.0
+yuka1259,genus,Yukaghir,Glottolog node yuka1259,Yukaghir,Yukaghir,4,divergence,0.6856,1,0.6856,,0.1244,,0.935,0.935
+agne1238,genus,Agneby,Glottolog node agne1238,Agneby,Atlantic-Congo,3,divergence,0.7828,3,0.7828,0.8992,0.0272,0.0892,0.53,0.63
+ainu1252,genus,Ainu,Glottolog node ainu1252,Ainu,Ainu,3,unmeasured-family,,,,,,,1.0,1.0
+alto1249,genus,Alto Orinoco,Glottolog node alto1249,Alto Orinoco,Arawakan,3,divergence,,,0.6324,0.9085,0.1776,0.0985,0.985,1.0
+amuz1254,genus,Amuzgoan,Glottolog node amuz1254,Amuzgoan,Otomanguean,3,divergence,0.4545,1,0.4545,0.914,0.3555,0.104,1.0,1.0
+arme1241,genus,Armenian,Glottolog node arme1241,Armenic,Indo-European,3,divergence,0.5032,2,0.5032,0.9002,0.3068,0.0902,1.0,1.0
+auol1234,genus,Au-Olo-Elkei,Glottolog node auol1234,Au-Olo-Elkei,Nuclear Torricelli,3,divergence,0.7889,2,0.7889,0.8705,0.0211,0.0605,0.495,0.59
+avat1243,genus,Avatime-Nyangbo,Glottolog node avat1243,Avatime-Nyangbo,Atlantic-Congo,3,divergence,0.6451,2,0.6451,0.8695,0.1649,0.0595,0.925,0.955
+awas1234,genus,Awa-Southern Barbacoan,Glottolog node awas1234,Awa-Southern Barbacoan,Barbacoan,3,divergence,0.7987,2,0.7987,0.8287,0.0113,0.0187,0.315,0.315
+bahu1238,genus,Bahuanaic,Glottolog node bahu1238,Bahuanaic,Arawakan,3,unmeasured-clade,,,,0.8542,,0.0442,0.895,0.835
+bali1277,genus,Bali-Sasak-Sumbawa,Glottolog node bali1277,Bali-Sasak-Sumbawa,Austronesian,3,divergence,0.5847,2,0.5847,0.8262,0.2253,0.0162,0.885,0.86
+bata1315,genus,Batanic,Glottolog node bata1315,Batanic,Austronesian,3,divergence,0.3744,2,0.3744,0.8262,0.4356,0.0162,0.89,0.86
+bium1279,genus,Musguic,Glottolog node bium1279,Musguic,Afro-Asiatic,3,divergence,0.7466,2,0.7466,0.8622,0.0634,0.0522,0.68,0.77
+boro1281,genus,Bororoan,Glottolog node boro1281,Bororoan,Bororoan,3,divergence,0.6766,2,0.6766,,0.1334,,0.9,0.955
+brag1241,genus,Bragat-Aruop-Amol,Glottolog node brag1241,Bragat-Aruop-Amol,Nuclear Torricelli,3,divergence,0.6722,3,0.6722,0.8401,0.1378,0.0301,0.79,0.765
+bual1236,genus,Bua-Lua,Glottolog node bual1236,Bua-Lua,Atlantic-Congo,3,divergence,0.6969,1,0.6969,0.8122,0.1131,0.0022,0.44,0.39
+buin1247,genus,Buinic,Glottolog node buin1247,Buinic,South Bougainville,3,divergence,0.7278,1,0.7278,0.8208,0.0822,0.0108,0.65,0.635
+bula1259,genus,Bulaka River,Glottolog node bula1259,Bulaka River,Bulaka River,3,divergence,0.4822,1,0.4822,,0.3278,,1.0,1.0
+char1238,genus,Charruan,Glottolog node char1238,Charruan,Charruan,3,unmeasured-family,,,,,,,1.0,1.0
+cont1249,genus,Continental Transalpine Celtic,Glottolog node cont1249,Continental Transalpine Celtic,Indo-European,3,unmeasured-clade,,,,0.85,,0.04,0.86,0.8
+cora1259,genus,Corachol,Glottolog node cora1259,Corachol,Uto-Aztecan,3,divergence,0.5357,1,0.5357,0.8215,0.2743,0.0115,0.765,0.615
+dhim1247,genus,Dhimal-Lhokpu-Toto,Glottolog node dhim1247,Dhimal-Lhokpu-Toto,Sino-Tibetan,3,divergence,0.6021,1,0.6021,0.8756,0.2079,0.0656,1.0,0.995
+dizo1235,genus,Dizoid,Glottolog node dizo1235,Dizoid,Dizoid,3,divergence,0.5245,3,0.5245,,0.2855,,1.0,1.0
+east2520,genus,East Timor,Glottolog node east2520,East Timor,Timor-Alor-Pantar,3,divergence,0.6939,2,0.6939,0.8695,0.1161,0.0595,0.89,0.91
+east2530,genus,Eastern Pauwasi,Glottolog node east2530,Eastern Pauwasi,Pauwasi,3,divergence,0.6842,3,0.6842,0.8966,0.1258,0.0866,0.875,0.92
+east2706,genus,Eastern Victoria,Glottolog node east2706,Eastern Victoria,Pama-Nyungan,3,divergence,0.7956,1,0.7956,0.8668,0.0144,0.0568,0.495,0.57
+elep1241,genus,Elepi-Kamasau-Marienberg,Glottolog node elep1241,Elepi-Kamasau-Marienberg,Nuclear Torricelli,3,divergence,0.741,3,0.741,0.8716,0.069,0.0616,0.66,0.735
+ersu1242,genus,Ersuic,Glottolog node ersu1242,Ersuic,Sino-Tibetan,3,unmeasured-clade,,,,0.8235,,0.0135,0.865,0.73
+gahu1246,genus,Gahuku,Glottolog node gahu1246,Gahuku,Nuclear Trans New Guinea,3,divergence,0.5292,3,0.5292,0.8378,0.2808,0.0278,0.88,0.84
+gand1254,genus,Kaansa-Dogose,Glottolog node gand1254,Kaansa-Dogose,Atlantic-Congo,3,divergence,0.5837,1,0.5837,0.8861,0.2263,0.0761,1.0,1.0
+giim1238,genus,Giimbiyu,Glottolog node giim1238,Giimbiyu,Giimbiyu,3,divergence,0.3277,2,0.3277,,0.4823,,1.0,1.0
+gogo1264,genus,Gogodalic,Glottolog node gogo1264,Gogodalic,Suki-Gogodala,3,divergence,0.6165,2,0.6165,0.9363,0.1935,0.1263,1.0,0.995
+gumu1250,genus,Gumuz,Glottolog node gumu1250,Gumuz,Gumuz,3,unmeasured-family,,,,,,,1.0,1.0
+hewa1240,genus,Hewa-April River,Glottolog node hewa1240,Hewa-April River,Sepik,3,divergence,0.8079,3,0.8079,0.8247,0.0021,0.0147,0.225,0.22
+hlai1238,genus,Hlaic,Glottolog node hlai1238,Hlaic,Tai-Kadai,3,divergence,0.7383,2,0.7383,0.8654,0.0717,0.0554,0.775,0.855
+iner1234,genus,Ineric,Glottolog node iner1234,Ineric,Arawakan,3,divergence,0.761,2,0.761,0.831,0.049,0.021,0.455,0.46
+iten1245,genus,Iten-Cara-Berom,Glottolog node iten1245,Iten-Cara-Berom,Atlantic-Congo,3,divergence,0.7865,2,0.7865,0.8134,0.0235,0.0034,0.205,0.235
+jarr1235,genus,Jarrakan,Glottolog node jarr1235,Jarrakan,Jarrakan,3,divergence,0.8006,1,0.8006,,0.0094,,0.43,0.555
+jaya1243,genus,Jayapura Bay,Glottolog node jaya1243,Jayapura Bay,Austronesian,3,divergence,0.673,2,0.673,0.8262,0.137,0.0162,0.815,0.82
+kala1402,genus,Kalapuyan,Glottolog node kala1402,Kalapuyan,Kalapuyan,3,divergence,0.4566,3,0.4566,,0.3534,,1.0,1.0
+kala1404,genus,Kalam-Kobon,Glottolog node kala1404,Kalam-Kobon,Nuclear Trans New Guinea,3,divergence,0.6827,1,0.6827,0.9152,0.1273,0.1052,0.985,0.995
+kamc1243,genus,Kamchatkan,Glottolog node kamc1243,Kamchatkan,Chukotko-Kamchatkan,3,unmeasured-clade,,,,0.845,,0.035,0.945,0.825
+katl1246,genus,Katla-Tima,Glottolog node katl1246,Katla-Tima,Katla-Tima,3,divergence,0.7484,1,0.7484,,0.0616,,0.775,0.84
+kawe1237,genus,Kawesqar,Glottolog node kawe1237,Kawesqar,Kawesqar,3,unmeasured-family,,,,,,,1.0,1.0
+kaya1327,genus,Kayagaric,Glottolog node kaya1327,Kayagaric,Kayagaric,3,divergence,0.6378,2,0.6378,,0.1722,,0.965,0.98
+khme1253,genus,Khmeric,Glottolog node khme1253,Khmeric,Austroasiatic,3,divergence,0.4472,1,0.4472,0.8459,0.3628,0.0359,0.99,0.96
+kimb1240,genus,Kim-Besme-Goundo,Glottolog node kimb1240,Kim-Besme-Goundo,Atlantic-Congo,3,divergence,0.6065,3,0.6065,0.922,0.2035,0.112,0.995,0.995
+kire1239,genus,Ruboni,Glottolog node kire1239,Ruboni,Ramu,3,divergence,0.6055,2,0.6055,0.8186,0.2045,0.0086,0.785,0.6
+kola1286,genus,East Alor,Glottolog node kola1286,East Alor,Timor-Alor-Pantar,3,divergence,0.7027,2,0.7027,0.8302,0.1073,0.0202,0.79,0.745
+kres1240,genus,Kresh-Aja,Glottolog node kres1240,Kresh-Aja,Kresh-Aja,3,divergence,0.7119,1,0.7119,,0.0981,,0.91,0.935
+kunj1248,genus,Southwestern Alaya-Athima,Glottolog node kunj1248,Southwestern Alaya-Athima,Pama-Nyungan,3,unmeasured-clade,,,,0.9041,,0.0941,0.965,0.955
+lago1243,genus,Barupu Lagoon,Glottolog node lago1243,Barupu Lagoon,Sko,3,divergence,0.427,3,0.427,0.9053,0.383,0.0953,0.995,0.995
+lama1287,genus,Lamang-Hdi,Glottolog node lama1287,Lamang-Hdi,Afro-Asiatic,3,divergence,0.3941,3,0.3941,0.8622,0.4159,0.0522,0.99,1.0
+lamp1241,genus,Lampungic,Glottolog node lamp1241,Lampungic,Austronesian,3,divergence,0.3684,2,0.3684,0.8262,0.4416,0.0162,0.89,0.86
+lend1246,genus,Lenduic,Glottolog node lend1246,Lenduic,Central Sudanic,3,divergence,0.644,1,0.644,0.9124,0.166,0.1024,0.98,0.99
+lepk1239,genus,Lepki-Murkim-Kembra,Glottolog node lepk1239,Lepki-Murkim-Kembra,Lepki-Murkim-Kembra,3,divergence,0.761,3,0.761,,0.049,,0.65,0.755
+lowe1409,genus,Lower Mamberamo,Glottolog node lowe1409,Lower Mamberamo,Austronesian,3,unmeasured-clade,,,,0.8262,,0.0162,0.89,0.86
+mada1284,genus,Madak linkage,Glottolog node mada1284,Madak linkage,Austronesian,3,divergence,0.7811,3,0.7811,0.8262,0.0289,0.0162,0.465,0.565
+mair1253,genus,Mairasic,Glottolog node mair1253,Mairasic,Mairasic,3,divergence,0.5185,3,0.5185,,0.2915,,1.0,1.0
+mamf1238,genus,Mamfe,Glottolog node mamf1238,Mamfe,Atlantic-Congo,3,divergence,0.5541,2,0.5541,0.9127,0.2559,0.1027,1.0,1.0
+mang1393,genus,Mangbetu-Asua,Glottolog node mang1393,Mangbetu-Asua,Central Sudanic,3,divergence,0.4512,2,0.4512,0.9124,0.3588,0.1024,1.0,1.0
+manj1250,genus,Manjaku-Mankanya-Pepel,Glottolog node manj1250,Manjaku-Mankanya-Pepel,Atlantic-Congo,3,divergence,0.6307,2,0.6307,0.9199,0.1793,0.1099,1.0,1.0
+mans1269,genus,Mansi,Glottolog node mans1269,Mansic,Uralic,3,unmeasured-clade,,,,0.8375,,0.0275,0.97,0.905
+mara1414,genus,Maran,Glottolog node mara1414,Maran,Mangarrayi-Maran,3,divergence,0.7506,3,0.7506,0.9473,0.0594,0.1373,0.705,0.82
+marr1265,genus,Marrngu,Glottolog node marr1265,Marrngu,Pama-Nyungan,3,divergence,0.7924,1,0.7924,0.8695,0.0176,0.0595,0.47,0.545
+mata1311,genus,Matakam,Glottolog node mata1311,Matakam,Afro-Asiatic,3,divergence,0.6229,2,0.6229,0.8573,0.1871,0.0473,0.98,0.98
+maya1279,genus,Mayabic,Glottolog node maya1279,Mayabic,Pama-Nyungan,3,divergence,0.6702,1,0.6702,0.9264,0.1398,0.1164,0.92,0.935
+meng1266,genus,Mengenic,Glottolog node meng1266,Mengenic,Austronesian,3,divergence,0.7215,2,0.7215,0.8262,0.0885,0.0162,0.665,0.645
+mong1343,genus,Ulmapo,Glottolog node mong1343,Ulmapo,Keram,3,divergence,0.6803,2,0.6803,0.9009,0.1297,0.0909,0.97,0.985
+moni1258,genus,Monic,Glottolog node moni1258,Monic,Austroasiatic,3,divergence,0.4352,3,0.4352,0.8459,0.3748,0.0359,0.99,0.96
+mono1280,genus,Mono-Uruavan,Glottolog node mono1280,Mono-Uruavan,Austronesian,3,divergence,0.6553,3,0.6553,0.8255,0.1547,0.0155,0.74,0.68
+nakh1246,genus,Nakh,Glottolog node nakh1246,Nakh,Nakh-Daghestanian,3,divergence,0.5164,2,0.5164,0.8977,0.2936,0.0877,1.0,1.0
+nile1239,genus,Nile Nubian,Glottolog node nile1239,Nile Nubian,Nubian,3,divergence,,,0.5661,0.8818,0.2439,0.0718,0.99,0.995
+nort2858,genus,North Huon Gulf,Glottolog node nort2858,North Huon Gulf linkage,Austronesian,3,divergence,0.7037,3,0.7037,0.8262,0.1063,0.0162,0.69,0.68
+nort2873,genus,North Mangyan,Glottolog node nort2873,North Mangyan,Austronesian,3,divergence,0.4606,3,0.4606,0.8262,0.3494,0.0162,0.89,0.86
+nort2899,genus,Northwest Formosan,Glottolog node nort2899,Northwest Formosan,Austronesian,3,unmeasured-clade,,,,0.8828,,0.0728,1.0,0.995
+nort2964,genus,Northern Wakashan,Glottolog node nort2964,Northern Wakashan,Wakashan,3,divergence,0.3917,2,0.3917,0.8987,0.4183,0.0887,0.995,0.99
+nucl1590,genus,Nuclear Maimai,Glottolog node nucl1590,Nuclear Maimai,Nuclear Torricelli,3,divergence,0.7048,2,0.7048,0.9484,0.1052,0.1384,0.855,0.925
+nucl1631,genus,Nuclear Sentanic,Glottolog node nucl1631,Nuclear Sentanic,Sentanic,3,divergence,0.6566,2,0.6566,0.8624,0.1534,0.0524,0.89,0.87
+nuku1256,genus,Nukuma,Glottolog node nuku1256,Nukuma,Sepik,3,divergence,0.5556,2,0.5556,0.8964,0.2544,0.0864,1.0,1.0
+nung1293,genus,Nungish,Glottolog node nung1293,Nungish,Sino-Tibetan,3,divergence,0.5258,2,0.5258,0.8756,0.2842,0.0656,1.0,0.995
+nyaw1248,genus,Nyawaygic,Glottolog node nyaw1248,Nyawaygic,Pama-Nyungan,3,divergence,0.651,1,0.651,0.9265,0.159,0.1165,0.995,1.0
+ohio1234,genus,Ohio Valley Siouan,Glottolog node ohio1234,Ohio Valley Siouan,Siouan,3,divergence,0.7041,2,0.7041,0.856,0.1059,0.046,0.89,0.92
+pame1260,genus,Pamean,Glottolog node pame1260,Pamean,Otomanguean,3,divergence,0.6274,3,0.6274,0.8643,0.1826,0.0543,0.87,0.9
+pawn1252,genus,Pawnee-Kitsai,Glottolog node pawn1252,Pawnee-Kitsai,Caddoan,3,divergence,0.7307,2,0.7307,0.8199,0.0793,0.0099,0.55,0.48
+qomm1235,genus,Qom,Glottolog node qomm1235,Qom,Guaicuruan,3,divergence,0.6521,2,0.6521,0.9092,0.1579,0.0992,0.99,1.0
+raji1239,genus,Raji-Raute,Glottolog node raji1239,Raji-Raute,Sino-Tibetan,3,divergence,0.4668,2,0.4668,0.8756,0.3432,0.0656,0.995,0.995
+ramm1241,genus,Ram,Glottolog node ramm1241,Ram,Sepik,3,divergence,0.6206,2,0.6206,0.8964,0.1894,0.0864,1.0,1.0
+saba1280,genus,Sabakor,Glottolog node saba1280,Sabakor,Nuclear Trans New Guinea,3,unmeasured-clade,,,,0.8366,,0.0266,0.845,0.82
+sali1297,genus,Saliban,Glottolog node sali1297,Saliban,Saliban,3,divergence,0.7607,2,0.7607,,0.0493,,0.61,0.78
+samu1243,genus,Samu,Glottolog node samu1243,Samu,Atlantic-Congo,3,divergence,0.683,3,0.683,0.9146,0.127,0.1046,0.965,0.98
+serr1253,genus,Serra Hills,Glottolog node serr1253,Serra Hills,Sko,3,divergence,0.6627,2,0.6627,0.9053,0.1473,0.0953,0.92,0.95
+sout2800,genus,Southeastern Benue-Congo Plateau,Glottolog node sout2800,Southeastern Benue-Congo Plateau,Atlantic-Congo,3,divergence,0.7019,2,0.7019,0.8287,0.1081,0.0187,0.81,0.81
+sout2981,genus,Southern Wakashan,Glottolog node sout2981,Southern Wakashan,Wakashan,3,divergence,0.6226,2,0.6226,0.8987,0.1874,0.0887,0.995,0.99
+taba1270,genus,Tabar,Glottolog node taba1270,Tabar linkage,Austronesian,3,divergence,0.7631,1,0.7631,0.8262,0.0469,0.0162,0.545,0.545
+tequ1244,genus,Tequistlatecan,Glottolog node tequ1244,Tequistlatecan,Tequistlatecan,3,divergence,0.5123,1,0.5123,,0.2977,,1.0,1.0
+triq1251,genus,Trique,Glottolog node triq1251,Trique,Otomanguean,3,divergence,0.4127,1,0.4127,0.914,0.3973,0.104,1.0,1.0
+tsim1258,genus,Tsimshianic,Glottolog node tsim1258,Tsimshian,Tsimshian,3,divergence,0.5509,2,0.5509,,0.2591,,1.0,1.0
+tsou1250,genus,Tsouic,Glottolog node tsou1250,Tsouic,Austronesian,3,divergence,0.7726,2,0.7726,0.8828,0.0374,0.0728,0.62,0.75
+uncl1527,genus,Indo-European (unclassified),Glottolog node uncl1527,Unclassified Indo-European,Indo-European,3,unmeasured-clade,,,,0.925,,0.115,1.0,1.0
+unun9898,genus,Maxakalian (unclassified),Glottolog node unun9898,Unclassified Nuclear Maxakalian,Nuclear-Macro-Je,3,unmeasured-clade,,,,0.8165,,0.0065,0.65,0.525
+uppe1457,genus,Upper Niger Kainji,Glottolog node uppe1457,Upper Niger Kainji,Atlantic-Congo,3,divergence,0.7127,1,0.7127,0.8242,0.0973,0.0142,0.61,0.57
+utup1238,genus,Utupua,Glottolog node utup1238,Utupua,Austronesian,3,divergence,0.8038,3,0.8038,0.8164,0.0062,0.0064,0.145,0.21
+vagh1247,genus,Kwangic,Glottolog node vagh1247,Kwangic,Atlantic-Congo,3,divergence,0.3725,2,0.3725,0.819,0.4375,0.009,0.595,0.45
+want1251,genus,Wantoatic,Glottolog node want1251,Wantoatic,Nuclear Trans New Guinea,3,divergence,0.7882,1,0.7882,0.8515,0.0218,0.0415,0.51,0.535
+west1503,genus,Western Tasmanian,Glottolog node west1503,Western Tasmanian,Western Tasmanian,3,unmeasured-family,,,,,,,1.0,1.0
+west2572,genus,Western Plains Austronesian,Glottolog node west2572,Western Plains Austronesian,Austronesian,3,divergence,0.7927,2,0.7927,0.8828,0.0173,0.0728,0.5,0.6
+west2788,genus,West Palai,Glottolog node west2788,West Palai,Nuclear Torricelli,3,divergence,0.7254,2,0.7254,0.9031,0.0846,0.0931,0.84,0.9
+wira1261,genus,Wiradhuric,Glottolog node wira1261,Wiradhuric,Pama-Nyungan,3,divergence,0.5266,3,0.5266,0.8668,0.2834,0.0568,1.0,1.0
+wolo1247,genus,Wolofic,Glottolog node wolo1247,Wolofic,Atlantic-Congo,3,divergence,0.3098,1,0.3098,0.9196,0.5002,0.1096,1.0,1.0
+yang1287,genus,Yangmanic,Glottolog node yang1287,Yangmanic,Yangmanic,3,divergence,0.6694,1,0.6694,,0.1406,,0.925,0.965
+yang1302,genus,Yangkam-Tarok-Pe,Glottolog node yang1302,Yangkam-Tarok-Pe,Atlantic-Congo,3,divergence,0.6993,2,0.6993,0.819,0.1107,0.009,0.66,0.59
+yell1247,genus,Yellow River,Glottolog node yell1247,Yellow River,Sepik,3,divergence,0.6781,3,0.6781,0.8964,0.1319,0.0864,0.97,0.98
+yuru1262,genus,Jurunic,Glottolog node yuru1262,Jurunic,Tupian,3,divergence,0.3544,1,0.3544,0.8676,0.4556,0.0576,0.995,1.0
+zamu1243,genus,Zamucoan,Glottolog node zamu1243,Zamucoan,Zamucoan,3,divergence,0.7562,1,0.7562,,0.0538,,0.71,0.79
+abkh1243,genus,Abkhaz-Abaza,Glottolog node abkh1243,Abkhaz-Abaza,Abkhaz-Adyge,2,divergence,0.6288,1,0.6288,0.8652,0.1812,0.0552,0.965,0.96
+adam1254,genus,Adamawa Fali,Glottolog node adam1254,Adamawa Fali,Atlantic-Congo,2,divergence,0.5294,1,0.5294,0.9298,0.2806,0.1198,0.995,0.995
+agoa1234,genus,Agoan,Glottolog node agoa1234,Agoan,Ramu,2,divergence,0.5462,1,0.5462,0.8929,0.2638,0.0829,1.0,1.0
+aian1241,genus,Aian,Glottolog node aian1241,Aian,Ramu,2,divergence,0.7059,1,0.7059,0.8929,0.1041,0.0829,0.84,0.905
+aleu1261,genus,Aleutic,Glottolog node aleu1261,Aleutic,Eskimo-Aleut,2,unmeasured-clade,,,,0.948,,0.138,1.0,1.0
+amto1249,genus,Amto-Musan,Glottolog node amto1249,Amto-Musan,Amto-Musan,2,divergence,0.6486,1,0.6486,,0.1614,,0.985,0.995
+arau1255,genus,Araucanian,Glottolog node arau1255,Araucanian,Araucanian,2,unmeasured-family,,,,,,,1.0,1.0
+arik1263,genus,Arikemic,Glottolog node arik1263,Arikemic,Tupian,2,divergence,0.6777,1,0.6777,0.8529,0.1323,0.0429,0.865,0.855
+atan1241,genus,West Sogeram,Glottolog node atan1241,West Sogeram,Nuclear Trans New Guinea,2,divergence,0.7068,1,0.7068,0.8498,0.1032,0.0398,0.73,0.695
+atay1246,genus,Atayalic,Glottolog node atay1246,Atayalic,Austronesian,2,divergence,0.6922,1,0.6922,0.8828,0.1178,0.0728,0.965,0.975
+avik1242,genus,Avikam-Alladian,Glottolog node avik1242,Avikam-Alladian,Atlantic-Congo,2,divergence,0.7136,1,0.7136,0.8992,0.0964,0.0892,0.875,0.93
+bala1300,genus,Balanta,Glottolog node bala1300,Balanta,Atlantic-Congo,2,divergence,0.447,1,0.447,0.9275,0.363,0.1175,1.0,1.0
+bali1280,genus,Bali-Vitu,Glottolog node bali1280,Bali-Vitu,Austronesian,2,divergence,0.5083,1,0.5083,0.8262,0.3017,0.0162,0.86,0.805
+bara1406,genus,Barainic,Glottolog node bara1406,Barainic,Afro-Asiatic,2,unmeasured-clade,,,,0.8408,,0.0308,0.94,0.895
+basi1245,genus,Basila-Adele,Glottolog node basi1245,Basila-Adele,Atlantic-Congo,2,divergence,0.8072,1,0.8072,0.8224,0.0028,0.0124,0.3,0.325
+bayo1259,genus,Bayono-Awbono,Glottolog node bayo1259,Bayono-Awbono,Bayono-Awbono,2,divergence,0.422,1,0.422,,0.388,,1.0,1.0
+bijo1239,genus,Bijogo,Glottolog node bijo1239,Bijogo,Atlantic-Congo,2,unmeasured-clade,,,,0.948,,0.138,1.0,1.0
+boaz1244,genus,Boazi,Glottolog node boaz1244,Boazi,Anim,2,divergence,0.4623,1,0.4623,0.8853,0.3477,0.0753,0.97,0.945
+boly1240,genus,Pakanic,Glottolog node boly1240,Pakanic,Austroasiatic,2,divergence,0.7133,1,0.7133,0.839,0.0967,0.029,0.655,0.62
+bora1262,genus,Boran,Glottolog node bora1262,Boran,Boran,2,divergence,0.6032,1,0.6032,,0.2068,,1.0,1.0
+buna1274,genus,Bunaban,Glottolog node buna1274,Bunaban,Bunaban,2,divergence,0.5864,1,0.5864,,0.2236,,1.0,1.0
+bure1238,genus,Bureran,Glottolog node bure1238,Bureran,Maningrida,2,divergence,0.7492,1,0.7492,0.8526,0.0608,0.0426,0.595,0.55
+cahi1243,genus,Cahitan,Glottolog node cahi1243,Cahitan,Uto-Aztecan,2,divergence,0.2622,1,0.2622,0.8433,0.5478,0.0333,0.935,0.9
+cahu1265,genus,Cahuapanan,Glottolog node cahu1265,Cahuapanan,Cahuapanan,2,divergence,0.5009,1,0.5009,,0.3091,,1.0,1.0
+cata1285,genus,Catawban,Glottolog node cata1285,Catawban,Siouan,2,unmeasured-clade,,,,0.856,,0.046,0.98,0.965
+cent2110,genus,Central Tariku,Glottolog node cent2110,Central Tariku,Lakes Plain,2,divergence,0.5115,1,0.5115,0.8532,0.2985,0.0432,0.955,0.98
+cent2337,genus,Central Alaya-Athima,Glottolog node cent2337,Central Alaya-Athima,Pama-Nyungan,2,unmeasured-clade,,,,0.9041,,0.0941,0.965,0.955
+cham1317,genus,Chamicuro-Morike,Glottolog node cham1317,Chamicuro-Morike,Arawakan,2,unmeasured-clade,,,,0.8917,,0.0817,0.99,0.99
+chib1269,genus,Chibcha-Duit,Glottolog node chib1269,Chibcha-Duit,Chibchan,2,unmeasured-clade,,,,0.8708,,0.0608,0.985,0.965
+chim1311,genus,Chimakuan,Glottolog node chim1311,Chimakuan,Chimakuan,2,divergence,0.7695,1,0.7695,,0.0405,,0.65,0.755
+chiq1253,genus,Chiquitano,Glottolog node chiq1253,Chiquitano,Chiquitano,2,unmeasured-family,,,,,,,1.0,1.0
+circ1239,genus,Circassian,Glottolog node circ1239,Circassian,Abkhaz-Adyge,2,divergence,0.4247,1,0.4247,0.8652,0.3853,0.0552,0.965,0.96
+cisa1238,genus,Cisalpine Celtic,Glottolog node cisa1238,Cisalpine Celtic,Indo-European,2,unmeasured-clade,,,,0.85,,0.04,0.86,0.8
+coas1321,genus,Coastal Lamalamic,Glottolog node coas1321,Coastal Lamalamic,Pama-Nyungan,2,divergence,0.7359,1,0.7359,0.858,0.0741,0.048,0.605,0.65
+coch1276,genus,Cochimic,Glottolog node coch1276,Cochimic,Cochimi-Yuman,2,unmeasured-clade,,,,0.8298,,0.0198,0.75,0.67
+coco1262,genus,Coconucan,Glottolog node coco1262,Coconucan,Barbacoan,2,divergence,0.257,1,0.257,0.8287,0.553,0.0187,0.8,0.68
+coos1248,genus,Coosan,Glottolog node coos1248,Coosan,Coosan,2,unmeasured-family,,,,,,,1.0,1.0
+cuic1234,genus,Cuicatec,Glottolog node cuic1234,Cuicatec,Otomanguean,2,divergence,0.4947,1,0.4947,0.8862,0.3153,0.0762,0.995,0.995
+dana1255,genus,Dana-Opo,Glottolog node dana1255,Dana-Opo,Koman,2,unmeasured-clade,,,,0.8448,,0.0348,0.745,0.645
+djam1254,genus,Yirram,Glottolog node djam1254,Yirram,Mirndi,2,divergence,0.5225,1,0.5225,0.8913,0.2875,0.0813,0.995,0.98
+dogo1293,genus,Dogoso-Khe,Glottolog node dogo1293,Dogoso-Khe,Atlantic-Congo,2,divergence,0.633,1,0.633,0.8861,0.177,0.0761,0.94,0.97
+dora1241,genus,Doracic,Glottolog node dora1241,Doracic,Chibchan,2,unmeasured-clade,,,,0.8921,,0.0821,1.0,0.98
+doso1238,genus,Doso-Turumsa,Glottolog node doso1238,Doso-Turumsa,Doso-Turumsa,2,unmeasured-family,,,,,,,1.0,1.0
+dull1239,genus,Dullay,Glottolog node dull1239,Dullay,Afro-Asiatic,2,divergence,0.6081,1,0.6081,0.8461,0.2019,0.0361,0.93,0.86
+east2374,genus,Eastern Daly,Glottolog node east2374,Eastern Daly,Eastern Daly,2,divergence,0.3087,1,0.3087,,0.5013,,1.0,1.0
+east2432,genus,Eastern Saharan,Glottolog node east2432,Eastern Saharan,Saharan,2,divergence,0.6894,1,0.6894,0.887,0.1206,0.077,0.95,0.965
+east2499,genus,East Kutubu,Glottolog node east2499,East Kutubu,East Kutubu,2,unmeasured-family,,,,,,,1.0,1.0
+east2500,genus,East Lakes Plain,Glottolog node east2500,East Lakes Plain,Lakes Plain,2,divergence,0.7911,1,0.7911,0.9335,0.0189,0.1235,0.5,0.62
+east2641,genus,East Chadic A.3,Glottolog node east2641,East Chadic A.3,Afro-Asiatic,2,divergence,0.733,1,0.733,0.836,0.077,0.026,0.655,0.735
+eggo1240,genus,Eggon-Ake,Glottolog node eggo1240,Eggon-Ake,Atlantic-Congo,2,divergence,0.7191,1,0.7191,0.8287,0.0909,0.0187,0.69,0.695
+egyp1245,genus,Egyptian,Glottolog node egyp1245,Egyptian,Afro-Asiatic,2,unmeasured-clade,,,,0.9566,,0.1466,1.0,1.0
+extr1245,genus,Extreme Southern New Caledonian,Glottolog node extr1245,Extreme Southern New Caledonian,Austronesian,2,unmeasured-clade,,,,0.8262,,0.0162,0.885,0.84
+fayu1239,genus,Fayu-Kirikiri,Glottolog node fayu1239,Fayu-Kirikiri,Lakes Plain,2,divergence,0.7239,1,0.7239,0.8284,0.0861,0.0184,0.605,0.58
+fina1240,genus,Finasleigh Pama,Glottolog node fina1240,Finasleigh Pama,Pama-Nyungan,2,unmeasured-clade,,,,0.9264,,0.1164,1.0,1.0
+flin1248,genus,Flinders-Barrow,Glottolog node flin1248,Flinders-Barrow,Pama-Nyungan,2,unmeasured-clade,,,,0.811,,0.001,0.515,0.385
+fore1273,genus,Fore-Gimi,Glottolog node fore1273,Fore-Gimi,Nuclear Trans New Guinea,2,divergence,0.6825,1,0.6825,0.8378,0.1275,0.0278,0.84,0.82
+fura1235,genus,Furan,Glottolog node fura1235,Furan,Furan,2,divergence,0.7575,1,0.7575,,0.0525,,0.765,0.795
+gada1257,genus,Ga-Dangme,Glottolog node gada1257,Ga-Dangme,Atlantic-Congo,2,divergence,0.3807,1,0.3807,0.9007,0.4293,0.0907,0.995,1.0
+galg1238,genus,Kalkatungic,Glottolog node galg1238,Kalkatungic,Pama-Nyungan,2,divergence,0.7775,1,0.7775,0.9265,0.0325,0.1165,0.605,0.71
+galu1240,genus,Galu-Alu,Glottolog node galu1240,Galu-Alu,Nuclear Torricelli,2,divergence,0.6943,1,0.6943,0.8705,0.1157,0.0605,0.96,0.98
+gana1279,genus,Ganaic,Glottolog node gana1279,Ganaic,Pama-Nyungan,2,unmeasured-clade,,,,0.9265,,0.1165,1.0,1.0
+garr1260,genus,Garrwan,Glottolog node garr1260,Garrwan,Garrwan,2,divergence,0.4974,1,0.4974,,0.3126,,1.0,1.0
+gema1234,genus,Kman-Meyor,Glottolog node gema1234,Kman-Meyor,Sino-Tibetan,2,divergence,0.644,1,0.644,0.8756,0.166,0.0656,0.995,0.995
+gizi1243,genus,Giziga,Glottolog node gizi1243,Giziga,Afro-Asiatic,2,unmeasured-clade,,,,0.8622,,0.0522,0.99,1.0
+guaj1257,genus,Guajiro-Paraujano,Glottolog node guaj1257,Guajiro-Paraujano,Arawakan,2,divergence,0.6647,1,0.6647,0.876,0.1453,0.066,0.985,0.995
+guda1245,genus,Ngurlun,Glottolog node guda1245,Ngurlun,Mirndi,2,divergence,0.6892,1,0.6892,0.8913,0.1208,0.0813,0.925,0.945
+gumb1242,genus,Gumbaynggiric,Glottolog node gumb1242,Gumbaynggiric,Pama-Nyungan,2,divergence,0.5872,1,0.5872,0.8668,0.2228,0.0568,0.955,0.935
+haid1248,genus,Haida,Glottolog node haid1248,Haida,Haida,2,divergence,0.3456,1,0.3456,,0.4644,,1.0,1.0
+hara1260,genus,Harakmbut,Glottolog node hara1260,Harakmbut,Harakmbut,2,divergence,0.548,1,0.548,,0.262,,1.0,1.0
+hata1242,genus,Hatam-Mansim,Glottolog node hata1242,Hatam-Mansim,Hatam-Mansim,2,unmeasured-family,,,,,,,1.0,1.0
+hibi1242,genus,Hibito-Cholon,Glottolog node hibi1242,Hibito-Cholon,Hibito-Cholon,2,unmeasured-family,,,,,,,1.0,1.0
+hote1244,genus,Misim-Yamap,Glottolog node hote1244,Misim-Yamap,Austronesian,2,divergence,0.493,1,0.493,0.8262,0.317,0.0162,0.89,0.86
+huar1251,genus,Huarpean,Glottolog node huar1251,Huarpean,Huarpean,2,unmeasured-family,,,,,,,1.0,1.0
+hume1245,genus,Humene-Kwale,Glottolog node hume1245,Humene-Kwale,Kwalean,2,divergence,0.5538,1,0.5538,0.9134,0.2562,0.1034,0.985,0.98
+hung1287,genus,Hungarian,Glottolog node hung1287,Hungaric,Uralic,2,unmeasured-clade,,,,0.8375,,0.0275,0.97,0.905
+hurr1239,genus,Hurro-Urartian,Glottolog node hurr1239,Hurro-Urartian,Hurro-Urartian,2,unmeasured-family,,,,,,,1.0,1.0
+hurz1242,genus,Hurza,Glottolog node hurz1242,Hurza,Afro-Asiatic,2,divergence,0.5842,1,0.5842,0.8622,0.2258,0.0522,0.97,0.99
+inan1242,genus,Inanwatanic,Glottolog node inan1242,Inanwatanic,South Bird's Head,2,divergence,0.647,1,0.647,0.86,0.163,0.05,0.885,0.825
+iwam1260,genus,Iwamic,Glottolog node iwam1260,Iwamic,Sepik,2,divergence,0.4125,1,0.4125,0.8964,0.3975,0.0864,0.975,0.98
+jaad1234,genus,Jaad,Glottolog node jaad1234,Jaad,Atlantic-Congo,2,divergence,0.7258,1,0.7258,0.948,0.0842,0.138,0.84,0.9
+jabu1249,genus,Jabuti,Glottolog node jabu1249,Jabuti,Nuclear-Macro-Je,2,divergence,0.5812,1,0.5812,0.9628,0.2288,0.1528,0.995,1.0
+jala1236,genus,Jala,Glottolog node jala1236,Jala,Gunwinyguan,2,divergence,0.6764,1,0.6764,0.8908,0.1336,0.0808,0.94,0.99
+jara1244,genus,Jarawa-Onge,Glottolog node jara1244,Jarawa-Onge,Jarawa-Onge,2,divergence,0.5261,1,0.5261,,0.2839,,1.0,1.0
+jica1245,genus,Jicaquean,Glottolog node jica1245,Jicaquean,Jicaquean,2,unmeasured-family,,,,,,,1.0,1.0
+jili1243,genus,Jilic,Glottolog node jili1243,Jilic,Atlantic-Congo,2,divergence,0.3485,1,0.3485,0.8287,0.4615,0.0187,0.84,0.785
+kaku1242,genus,Kakua-Nukak,Glottolog node kaku1242,Kakua-Nukak,Kakua-Nukak,2,divergence,0.5609,1,0.5609,,0.2491,,0.995,0.995
+kala1410,genus,Kalasa,Glottolog node kala1410,Kalasa,Nuclear Trans New Guinea,2,divergence,0.702,1,0.702,0.8317,0.108,0.0217,0.615,0.495
+kand1307,genus,Kandas-Duke of York,Glottolog node kand1307,Kandas-Duke of York,Austronesian,2,divergence,0.3983,1,0.3983,0.8262,0.4117,0.0162,0.855,0.8
+kara1498,genus,Karawarian,Glottolog node kara1498,Karawarian,Lower Sepik,2,divergence,0.726,1,0.726,0.8258,0.084,0.0158,0.64,0.62
+karb1240,genus,Karbic,Glottolog node karb1240,Karbic,Sino-Tibetan,2,divergence,0.155,1,0.155,0.8119,0.655,0.0019,0.725,0.605
+kebu1246,genus,Kebu-Animere,Glottolog node kebu1246,Kebu-Animere,Atlantic-Congo,2,divergence,0.6393,1,0.6393,0.8695,0.1707,0.0595,0.885,0.92
+kere1287,genus,Keresan,Glottolog node kere1287,Keresan,Keresan,2,divergence,0.1636,1,0.1636,,0.6464,,1.0,1.0
+kili1271,genus,Kilivila-Muyuw,Glottolog node kili1271,Kilivila-Muyuw,Austronesian,2,divergence,0.5984,1,0.5984,0.8262,0.2116,0.0162,0.56,0.455
+kima1245,genus,Kimaama-Riantana,Glottolog node kima1245,Kimaama-Riantana,Kolopom,2,divergence,0.6836,1,0.6836,0.8151,0.1264,0.0051,0.56,0.51
+kirm1250,genus,Kirma-Tyurama,Glottolog node kirm1250,Kirma-Tyurama,Atlantic-Congo,2,divergence,0.492,1,0.492,0.8861,0.318,0.0761,1.0,1.0
+kond1302,genus,Konda-Yahadian,Glottolog node kond1302,Konda-Yahadian,Konda-Yahadian,2,divergence,0.5777,1,0.5777,,0.2323,,1.0,1.0
+kore1284,genus,Koreanic,Glottolog node kore1284,Koreanic,Koreanic,2,divergence,0.5047,1,0.5047,,0.3053,,1.0,1.0
+koro1317,genus,Koro-Holon,Glottolog node koro1317,Koro-Holon,Sino-Tibetan,2,unmeasured-clade,,,,0.8681,,0.0581,0.94,0.915
+kowa1247,genus,Kowan,Glottolog node kowa1247,Kowan,Nuclear Trans New Guinea,2,divergence,0.7503,1,0.7503,0.9152,0.0597,0.1052,0.73,0.84
+kpan1245,genus,Kpan-Icen,Glottolog node kpan1245,Kpan-Icen,Atlantic-Congo,2,unmeasured-clade,,,,0.8382,,0.0282,0.8,0.74
+kuna1280,genus,Kuna,Glottolog node kuna1280,Kuna,Chibchan,2,divergence,0.3828,1,0.3828,0.8921,0.4272,0.0821,0.995,0.96
+kwom1263,genus,Kwomtari-Nai,Glottolog node kwom1263,Kwomtari-Nai,Kwomtari-Nai,2,divergence,0.7347,1,0.7347,,0.0753,,0.79,0.865
+labe1241,genus,Label-Bilur,Glottolog node labe1241,Label-Bilur,Austronesian,2,divergence,0.6893,1,0.6893,0.8262,0.1207,0.0162,0.765,0.77
+lenc1239,genus,Lencan,Glottolog node lenc1239,Lencan,Lencan,2,divergence,0.6695,1,0.6695,,0.1405,,0.965,0.985
+leni1237,genus,Linngithigh-Alngith,Glottolog node leni1237,Linngithigh-Alngith,Pama-Nyungan,2,unmeasured-clade,,,,0.8247,,0.0147,0.72,0.61
+limb1267,genus,Limba,Glottolog node limb1267,Limba,Atlantic-Congo,2,divergence,0.4553,1,0.4553,0.9683,0.3547,0.1583,1.0,1.0
+limi1242,genus,Limilngan-Wulna,Glottolog node limi1242,Limilngan-Wulna,Limilngan-Wulna,2,unmeasured-family,,,,,,,1.0,1.0
+lobi1246,genus,Lobiri-Jaane,Glottolog node lobi1246,Lobiri-Jaane,Atlantic-Congo,2,divergence,0.7196,1,0.7196,0.8861,0.0904,0.0761,0.9,0.965
+madu1247,genus,Maduresic,Glottolog node madu1247,Maduresic,Austronesian,2,divergence,0.7376,1,0.7376,0.8262,0.0724,0.0162,0.65,0.675
+mand1470,genus,Mandi-Muniwara,Glottolog node mand1470,Mandi-Muniwara,Nuclear Torricelli,2,divergence,0.5983,1,0.5983,0.8716,0.2117,0.0616,0.98,0.96
+mane1269,genus,Manep-Barem,Glottolog node mane1269,Manep-Barem,Nuclear Trans New Guinea,2,divergence,0.7108,1,0.7108,0.8376,0.0992,0.0276,0.795,0.81
+mang1426,genus,Manguean,Glottolog node mang1426,Manguean,Otomanguean,2,divergence,0.7633,1,0.7633,0.9772,0.0467,0.1672,0.725,0.83
+manu1261,genus,Manubaran,Glottolog node manu1261,Manubaran,Manubaran,2,divergence,0.3932,1,0.3932,,0.4168,,1.0,1.0
+mari1278,genus,Mari,Glottolog node mari1278,Mari,Uralic,2,divergence,0.3074,1,0.3074,0.8375,0.5026,0.0275,0.97,0.905
+marr1257,genus,Marrku-Wurrugu,Glottolog node marr1257,Marrku-Wurrugu,Marrku-Wurrugu,2,unmeasured-family,,,,,,,1.0,1.0
+mata1287,genus,Matagalpan,Glottolog node mata1287,Matagalpan,Misumalpan,2,unmeasured-clade,,,,0.8483,,0.0383,0.715,0.62
+mata1290,genus,Maká-Nivaclé,Glottolog node mata1290,Mataguayo I,Mataguayan,2,divergence,0.7442,1,0.7442,0.8336,0.0658,0.0236,0.605,0.67
+matl1258,genus,Matlatzincan,Glottolog node matl1258,Matlatzincan,Otomanguean,2,divergence,0.6213,1,0.6213,0.8643,0.1887,0.0543,0.96,0.97
+mayb1237,genus,Maybratic,Glottolog node mayb1237,Maybratic,Maybratic,2,divergence,0.4545,1,0.4545,,0.3555,,1.0,1.0
+meax1236,genus,Meax,Glottolog node meax1236,Meax,East Bird's Head,2,divergence,0.3582,1,0.3582,0.8715,0.4518,0.0615,0.9,0.885
+miji1239,genus,Miji,Glottolog node miji1239,Miji,Sino-Tibetan,2,unmeasured-clade,,,,0.8756,,0.0656,1.0,0.995
+mish1241,genus,Digarish,Glottolog node mish1241,Digarish,Sino-Tibetan,2,divergence,0.6364,1,0.6364,0.8756,0.1736,0.0656,0.995,0.995
+miss1252,genus,Missouri River Siouan,Glottolog node miss1252,Missouri River Siouan,Siouan,2,divergence,0.6287,1,0.6287,0.856,0.1813,0.046,0.975,0.965
+moke1241,genus,Moken-Moklen,Glottolog node moke1241,Moken-Moklen,Austronesian,2,divergence,0.4126,1,0.4126,0.8262,0.3974,0.0162,0.89,0.86
+momb1255,genus,Mombum-Koneraw,Glottolog node momb1255,Mombum-Koneraw,Mombum-Koneraw,2,divergence,0.5528,1,0.5528,,0.2572,,1.0,1.0
+monu1249,genus,Bogia,Glottolog node monu1249,Bogia,Bogia,2,divergence,0.5507,1,0.5507,,0.2593,,1.0,1.0
+mord1256,genus,Mordvin,Glottolog node mord1256,Mordvin,Uralic,2,divergence,0.1717,1,0.1717,0.8375,0.6383,0.0275,0.97,0.905
+mrui1235,genus,Mruic,Glottolog node mrui1235,Mruic,Sino-Tibetan,2,unmeasured-clade,,,,0.8756,,0.0656,1.0,0.995
+mund1329,genus,Mundurukuic,Glottolog node mund1329,Mundurukuic,Tupian,2,divergence,0.5578,1,0.5578,0.8676,0.2522,0.0576,0.995,1.0
+muru1265,genus,Muruwaric,Glottolog node muru1265,Muruwaric,Pama-Nyungan,2,unmeasured-clade,,,,0.8668,,0.0568,0.995,1.0
+naml1239,genus,Namla-Tofanma,Glottolog node naml1239,Namla-Tofanma,Namla-Tofanma,2,divergence,0.6975,1,0.6975,,0.1125,,0.905,0.95
+ndun1248,genus,Ndunga-Mba,Glottolog node ndun1248,Ndunga-Mba,Atlantic-Congo,2,divergence,0.674,1,0.674,0.8128,0.136,0.0028,0.585,0.465
+ngan1305,genus,Ngangea-So,Glottolog node ngan1305,Ngangea-So,Kuliak,2,divergence,0.3512,1,0.3512,0.8297,0.4588,0.0197,0.705,0.625
+ngat1246,genus,Ngatharra-Ngathana-Iinychanya,Glottolog node ngat1246,Ngatharra-Ngathana-Iinychanya,Pama-Nyungan,2,unmeasured-clade,,,,0.811,,0.001,0.515,0.385
+ning1276,genus,Ningil-Yil,Glottolog node ning1276,Ningil-Yil,Nuclear Torricelli,2,divergence,0.5734,1,0.5734,0.8705,0.2366,0.0605,1.0,1.0
+nivk1234,genus,Nivkh,Glottolog node nivk1234,Nivkh,Nivkh,2,unmeasured-family,,,,,,,1.0,1.0
+norr1244,genus,Nor,Glottolog node norr1244,Nor,Lower Sepik,2,divergence,0.5,1,0.5,0.8258,0.31,0.0158,0.76,0.675
+nort1442,genus,North-Eastern Tasmanian,Glottolog node nort1442,North-Eastern Tasmanian,North-Eastern Tasmanian,2,unmeasured-family,,,,,,,1.0,1.0
+nort1547,genus,Northern Daly,Glottolog node nort1547,Northern Daly,Northern Daly,2,divergence,0.3891,1,0.3891,,0.4209,,1.0,1.0
+nucl1621,genus,Marindic,Glottolog node nucl1621,Marindic,Anim,2,divergence,0.3088,1,0.3088,0.8853,0.5012,0.0753,0.97,0.945
+nucl1641,genus,Nuclear West Bomberai,Glottolog node nucl1641,Nuclear West Bomberai,West Bomberai,2,divergence,0.5866,1,0.5866,0.8937,0.2234,0.0837,0.965,0.935
+nyim1244,genus,Nyimang,Glottolog node nyim1244,Nyimang,Nyimang,2,divergence,0.6359,1,0.6359,,0.1741,,0.975,1.0
+omos1240,genus,Omosan,Glottolog node omos1240,Omosan,Nuclear Trans New Guinea,2,divergence,0.7394,1,0.7394,0.9152,0.0706,0.1052,0.815,0.91
+opat1247,genus,Opata-Eudeve,Glottolog node opat1247,Opata-Eudeve,Uto-Aztecan,2,unmeasured-clade,,,,0.8433,,0.0333,0.935,0.9
+otom1276,genus,Otomaco-Taparita,Glottolog node otom1276,Otomaco-Taparita,Otomaco-Taparita,2,unmeasured-family,,,,,,,1.0,1.0
+paho1240,genus,Pahoturi,Glottolog node paho1240,Pahoturi,Pahoturi,2,divergence,0.7008,1,0.7008,,0.1092,,0.88,0.945
+peba1242,genus,Peba-Yameo,Glottolog node peba1242,Peba-Yameo,Peba-Yagua,2,unmeasured-clade,,,,0.9255,,0.1155,0.995,0.995
+piti1242,genus,Piti-Atsam,Glottolog node piti1242,Piti-Atsam,Atlantic-Congo,2,divergence,0.5194,1,0.5194,0.8387,0.2906,0.0287,0.85,0.745
+piva1237,genus,Banoni-Piva,Glottolog node piva1237,Banoni-Piva,Austronesian,2,divergence,0.3711,1,0.3711,0.8255,0.4389,0.0155,0.785,0.695
+poto1250,genus,Potou,Glottolog node poto1250,Potou,Atlantic-Congo,2,divergence,0.5583,1,0.5583,0.8824,0.2517,0.0724,0.97,0.985
+puri1261,genus,Puri-Coroado,Glottolog node puri1261,Puri-Coroado,Puri-Coroado,2,unmeasured-family,,,,,,,1.0,1.0
+rama1257,genus,Ramarama,Glottolog node rama1257,Ramarama,Tupian,2,unmeasured-clade,,,,0.8494,,0.0394,0.9,0.835
+rash1249,genus,Rashad,Glottolog node rash1249,Rashad,Rashad,2,divergence,0.6103,1,0.6103,,0.1997,,0.995,1.0
+rock1234,genus,Rockhampton-Gladstone,Glottolog node rock1234,Rockhampton-Gladstone,Pama-Nyungan,2,divergence,0.3642,1,0.3642,0.9265,0.4458,0.1165,1.0,1.0
+saho1245,genus,Saho-Afar,Glottolog node saho1245,Saho-Afar,Afro-Asiatic,2,divergence,0.5264,1,0.5264,0.8461,0.2836,0.0361,0.935,0.86
+saka1297,genus,Sakam-Som,Glottolog node saka1297,Sakam-Som,Nuclear Trans New Guinea,2,divergence,0.6653,1,0.6653,0.832,0.1447,0.022,0.755,0.7
+sena1264,genus,Senagi,Glottolog node sena1264,Senagi,Senagi,2,divergence,0.6434,1,0.6434,,0.1666,,0.98,0.995
+sika1264,genus,North Sogeram,Glottolog node sika1264,North Sogeram,Nuclear Trans New Guinea,2,divergence,0.5694,1,0.5694,0.8498,0.2406,0.0398,0.92,0.86
+sout1293,genus,South-Eastern Tasmanian,Glottolog node sout1293,South-Eastern Tasmanian,South-Eastern Tasmanian,2,unmeasured-family,,,,,,,1.0,1.0
+sout3380,genus,Southeast Dagan,Glottolog node sout3380,Southeast Dagan,Dagan,2,unmeasured-clade,,,,0.8745,,0.0645,0.99,0.96
+stma1240,genus,St. Matthias,Glottolog node stma1240,St. Matthias,Austronesian,2,unmeasured-clade,,,,0.8262,,0.0162,0.89,0.86
+sumu1234,genus,Sumuic,Glottolog node sumu1234,Sumuic,Misumalpan,2,divergence,0.3708,1,0.3708,0.8483,0.4392,0.0383,0.715,0.62
+taik1254,genus,Taikat-Awyi,Glottolog node taik1254,Taikat-Awyi,Border,2,divergence,0.7141,1,0.7141,0.8217,0.0959,0.0117,0.65,0.625
+tara1323,genus,Tarascan,Glottolog node tara1323,Tarascan,Tarascan,2,unmeasured-family,,,,,,,1.0,1.0
+taul1250,genus,Taulil-Butam,Glottolog node taul1250,Taulil-Butam,Taulil-Butam,2,unmeasured-family,,,,,,,1.0,1.0
+tebe1251,genus,Teberan,Glottolog node tebe1251,Teberan,Teberan,2,divergence,0.7604,1,0.7604,,0.0496,,0.68,0.75
+tebu1238,genus,Tebu,Glottolog node tebu1238,Tebu,Saharan,2,divergence,0.2756,1,0.2756,0.8253,0.5344,0.0153,0.76,0.66
+tege1244,genus,Tegem,Glottolog node tege1244,Tegem,Tegem,2,unmeasured-family,,,,,,,1.0,1.0
+teme1251,genus,Temeinic,Glottolog node teme1251,Temeinic,Temeinic,2,divergence,0.6241,1,0.6241,,0.1859,,1.0,1.0
+thay1250,genus,Thaypanic,Glottolog node thay1250,Thaypanic,Pama-Nyungan,2,unmeasured-clade,,,,0.9041,,0.0941,0.965,0.955
+ticu1244,genus,Ticuna-Yuri,Glottolog node ticu1244,Ticuna-Yuri,Ticuna-Yuri,2,unmeasured-family,,,,,,,1.0,1.0
+tief1243,genus,Tiefoic,Glottolog node tief1243,Tiefoic,Atlantic-Congo,2,unmeasured-clade,,,,0.9146,,0.1046,1.0,1.0
+tokh1241,genus,Tokharian,Glottolog node tokh1241,Tokharian,Indo-European,2,divergence,0.4349,1,0.4349,0.9002,0.3751,0.0902,1.0,1.0
+toli1244,genus,Tolitoli,Glottolog node toli1244,Tolitoli,Austronesian,2,divergence,0.4437,1,0.4437,0.8262,0.3663,0.0162,0.89,0.86
+tsak1251,genus,Tsakwambo-Komyandaret,Glottolog node tsak1251,Tsakwambo-Komyandaret,Nuclear Trans New Guinea,2,divergence,0.3623,1,0.3623,0.8124,0.4477,0.0024,0.62,0.485
+tuji1244,genus,Tujia,Glottolog node tuji1244,Tujia,Sino-Tibetan,2,unmeasured-clade,,,,0.8396,,0.0296,0.95,0.895
+tusi1238,genus,Tusia,Glottolog node tusi1238,Tusia,Atlantic-Congo,2,divergence,0.5257,1,0.5257,0.9146,0.2843,0.1046,1.0,1.0
+twam1235,genus,Komo-Uduk,Glottolog node twam1235,Komo-Uduk,Koman,2,divergence,0.6731,1,0.6731,0.8448,0.1369,0.0348,0.72,0.635
+uncl1521,genus,Caribbean Arawakan (unclassified),Glottolog node uncl1521,Unclassified Caribbean Arawakan,Arawakan,2,unmeasured-clade,,,,0.876,,0.066,0.985,0.995
+unun9910,genus,Benue-Congo (unclassified),Glottolog node unun9910,Unclassified Benue-Congo,Atlantic-Congo,2,unmeasured-clade,,,,0.9252,,0.1152,1.0,1.0
+unun9947,genus,Southern Uto-Aztecan (unclassified),Glottolog node unun9947,Unclassified Southern Uto-Aztecan,Uto-Aztecan,2,unmeasured-clade,,,,0.8433,,0.0333,0.935,0.9
+unun9972,genus,Rai Coast (unclassified),Glottolog node unun9972,Unclassified Rai Coast,Nuclear Trans New Guinea,2,divergence,0.6904,1,0.6904,0.8652,0.1196,0.0552,0.915,0.92
+uruc1242,genus,Uru-Chipaya,Glottolog node uruc1242,Uru-Chipaya,Uru-Chipaya,2,divergence,0.5537,1,0.5537,,0.2563,,1.0,1.0
+vice1244,genus,Viceitic,Glottolog node vice1244,Viceitic,Chibchan,2,divergence,0.5761,1,0.5761,0.8427,0.2339,0.0327,0.835,0.785
+weri1254,genus,Weric,Glottolog node weri1254,Weric,Kunimaipan,2,unmeasured-clade,,,,0.8299,,0.0199,0.745,0.64
+west2523,genus,West Santa Isabel,Glottolog node west2523,West Santa Isabel,Austronesian,2,divergence,0.5786,1,0.5786,0.8255,0.2314,0.0155,0.78,0.69
+west2611,genus,Western Pauwasi,Glottolog node west2611,Western Pauwasi,Pauwasi,2,divergence,0.6646,1,0.6646,0.8966,0.1454,0.0866,0.985,0.995
+west2718,genus,West Chadic A.1,Glottolog node west2718,West Chadic A.1,Afro-Asiatic,2,divergence,0.4757,1,0.4757,0.8633,0.3343,0.0533,0.985,0.97
+west2816,genus,Western Tano,Glottolog node west2816,Western Tano,Atlantic-Congo,2,divergence,0.6608,1,0.6608,0.8201,0.1492,0.0101,0.68,0.665
+wint1258,genus,Wintuan,Glottolog node wint1258,Wintuan,Wintuan,2,unmeasured-family,,,,,,,1.0,1.0
+woga1248,genus,Wogamusin-Chenapian,Glottolog node woga1248,Wogamusin-Chenapian,Sepik,2,divergence,0.7667,1,0.7667,0.8964,0.0433,0.0864,0.6,0.74
+yape1250,genus,Yapesic,Glottolog node yape1250,Yapesic,Austronesian,2,divergence,0.4072,1,0.4072,0.8262,0.4028,0.0162,0.89,0.86
+yaqa1245,genus,Yaqayic,Glottolog node yaqa1245,Yaqayic,Anim,2,divergence,0.7121,1,0.7121,0.8853,0.0979,0.0753,0.86,0.9
+yarl1237,genus,Yarli-Baagandji,Glottolog node yarl1237,Yarli-Baagandji,Pama-Nyungan,2,unmeasured-clade,,,,0.9265,,0.1165,1.0,1.0
+yauy1236,genus,Yau-Yis,Glottolog node yauy1236,Yau-Yis,Nuclear Torricelli,2,divergence,0.5346,1,0.5346,0.8705,0.2754,0.0605,1.0,1.0
+yawa1259,genus,Yawa-Saweru,Glottolog node yawa1259,Yawa-Saweru,Yawa-Saweru,2,divergence,0.6327,1,0.6327,,0.1773,,0.985,0.99
+yuki1242,genus,Yuki-Wappo,Glottolog node yuki1242,Yuki-Wappo,Yuki-Wappo,2,divergence,0.7248,1,0.7248,,0.0852,,0.835,0.95
+zapa1252,genus,Zaparo-Abishira,Glottolog node zapa1252,Zaparo-Abishira,Zaparoan,2,unmeasured-clade,,,,0.8571,,0.0471,0.925,0.875
+abau1245,genus,Abau,Glottolog node abau1245,Abau,Sepik,1,single-language,,,,0.8964,,0.0864,1.0,1.0
+abin1243,genus,Abinomn,Glottolog node abin1243,Abinomn,Abinomn,1,isolate,,,,,,,1.0,1.0
+abip1241,genus,Abipon,Glottolog node abip1241,Abipon,Guaicuruan,1,single-language,,,,0.9092,,0.0992,0.995,1.0
+abis1238,genus,Aewa,Glottolog node abis1238,Aewa,Aewa,1,isolate,,,,,,,1.0,1.0
+abom1238,genus,Abom,Glottolog node abom1238,Abom,Anim,1,single-language,,,,0.9082,,0.0982,1.0,0.995
+abui1241,genus,Abui,Glottolog node abui1241,Abui,Timor-Alor-Pantar,1,single-language,,,,0.8111,,0.0011,0.515,0.395
+abun1252,genus,Abun,Glottolog node abun1252,Abun,Abun,1,isolate,,,,,,,1.0,1.0
+achu1247,genus,Achumawi,Glottolog node achu1247,Achumawi,Palaihnihan,1,single-language,,,,0.9077,,0.0977,0.97,0.96
+adai1235,genus,Adai,Glottolog node adai1235,Adai,Adai,1,isolate,,,,,,,1.0,1.0
+aeky1238,genus,Aekyom,Glottolog node aeky1238,Aekyom,Kamula-Elevala,1,single-language,,,,0.8586,,0.0486,0.715,0.705
+afud1235,genus,Afudu,Glottolog node afud1235,Afudu,Atlantic-Congo,1,single-language,,,,0.9127,,0.1027,1.0,1.0
+ahwa1235,genus,Ndunic,Glottolog node ahwa1235,Ndunic,Atlantic-Congo,1,single-language,,,,0.8287,,0.0187,0.88,0.845
+aika1237,genus,Aikanã,Glottolog node aika1237,Aikanã,Aikanã,1,isolate,,,,,,,1.0,1.0
+akpe1248,genus,Akpes,Glottolog node akpe1248,Akpes,Atlantic-Congo,1,single-language,,,,0.9068,,0.0968,0.99,0.99
+alse1251,genus,Alsea-Yaquina,Glottolog node alse1251,Alsea-Yaquina,Alsea-Yaquina,1,isolate,,,,,,,1.0,1.0
+amai1246,genus,Amaimon,Glottolog node amai1246,Amaimon,Nuclear Trans New Guinea,1,single-language,,,,0.9152,,0.1052,1.0,1.0
+amal1242,genus,Amal,Glottolog node amal1242,Amal,Sepik,1,single-language,,,,0.8964,,0.0864,1.0,1.0
+amar1272,genus,Amara,Glottolog node amar1272,Amara,Austronesian,1,single-language,,,,0.8262,,0.0162,0.81,0.72
+amba1269,genus,Ambakich,Glottolog node amba1269,Ambakich,Keram,1,single-language,,,,0.8629,,0.0529,0.925,0.855
+anda1286,genus,Andaqui,Glottolog node anda1286,Andaqui,Andaqui,1,isolate,,,,,,,1.0,1.0
+ando1256,genus,Andoque,Glottolog node ando1256,Andoque,Andoque,1,isolate,,,,,,,1.0,1.0
+anem1249,genus,Anem,Glottolog node anem1249,Anem,Anem,1,isolate,,,,,,,1.0,1.0
+anga1290,genus,Angaataha,Glottolog node anga1290,Angaataha,Angan,1,single-language,,,,0.9364,,0.1264,1.0,1.0
+ango1255,genus,Angoram,Glottolog node ango1255,Angoram,Lower Sepik,1,single-language,,,,0.8258,,0.0158,0.76,0.675
+anin1240,genus,Anindilyakwa,Glottolog node anin1240,Anindilyakwa,Gunwinyguan,1,single-language,,,,0.8908,,0.0808,0.98,0.995
+apal1256,genus,Apali,Glottolog node apal1256,Apali,Nuclear Trans New Guinea,1,single-language,,,,0.8498,,0.0398,0.925,0.865
+apma1241,genus,Ap Ma,Glottolog node apma1241,Ap Ma,Keram,1,single-language,,,,0.8629,,0.0529,0.925,0.855
+apro1235,genus,Aproumu Aizi,Glottolog node apro1235,Aproumu Aizi,Atlantic-Congo,1,single-language,,,,0.9298,,0.1198,0.995,0.995
+arit1239,genus,Arritinngithigh,Glottolog node arit1239,Arritinngithigh,Pama-Nyungan,1,single-language,,,,0.8247,,0.0147,0.72,0.61
+arua1264,genus,Aruan,Glottolog node arua1264,Aruan,Arawakan,1,single-language,,,,0.8542,,0.0442,0.895,0.835
+arut1244,genus,Arutani,Glottolog node arut1244,Arutani,Arutani,1,isolate,,,,,,,1.0,1.0
+atac1235,genus,Atacame,Glottolog node atac1235,Atacame,Atacame,1,isolate,,,,,,,1.0,1.0
+atak1252,genus,Atakapa,Glottolog node atak1252,Atakapa,Atakapa,1,isolate,,,,,,,1.0,1.0
+atii1237,genus,Ati,Glottolog node atii1237,Ati,Austronesian,1,single-language,,,,0.8262,,0.0162,0.89,0.86
+atsu1245,genus,Atsugewi,Glottolog node atsu1245,Atsugewi,Palaihnihan,1,single-language,,,,0.9077,,0.0977,0.97,0.96
+atti1239,genus,Attié,Glottolog node atti1239,Attié,Atlantic-Congo,1,single-language,,,,0.8992,,0.0892,0.995,1.0
+awer1241,genus,Awera,Glottolog node awer1241,Awera,Lakes Plain,1,single-language,,,,0.8852,,0.0752,0.93,0.9
+baat1238,genus,Baatonum,Glottolog node baat1238,Baatonum,Atlantic-Congo,1,single-language,,,,0.8861,,0.0761,1.0,1.0
+baga1275,genus,Pukur,Glottolog node baga1275,Pukur,Atlantic-Congo,1,single-language,,,,0.8513,,0.0413,0.82,0.76
+baib1251,genus,Baibai,Glottolog node baib1251,Baibai,Baibai-Fas,1,single-language,,,,0.8462,,0.0362,0.885,0.815
+baim1246,genus,Bai-Maclay,Glottolog node baim1246,Bai-Maclay,Nuclear Trans New Guinea,1,single-language,,,,0.8652,,0.0552,0.985,0.97
+bald1241,genus,Baldamu,Glottolog node bald1241,Baldamu,Afro-Asiatic,1,single-language,,,,0.8622,,0.0522,0.99,1.0
+bana1292,genus,Banaro,Glottolog node bana1292,Banaro,Ramu,1,single-language,,,,0.8929,,0.0829,1.0,1.0
+bang1363,genus,Bangime,Glottolog node bang1363,Bangime,Bangime,1,isolate,,,,,,,1.0,1.0
+barg1252,genus,Bargam,Glottolog node barg1252,Bargam,Nuclear Trans New Guinea,1,single-language,,,,0.9152,,0.1052,1.0,1.0
+bari1297,genus,Barí,Glottolog node bari1297,Barí,Chibchan,1,single-language,,,,0.8708,,0.0608,0.985,0.965
+basq1248,genus,Basque,Glottolog node basq1248,Basque,Basque,1,isolate,,,,,,,1.0,1.0
+bebe1252,genus,Bebeli,Glottolog node bebe1252,Bebeli,Austronesian,1,single-language,,,,0.8262,,0.0162,0.675,0.55
+beja1238,genus,Beja,Glottolog node beja1238,Beja,Afro-Asiatic,1,single-language,,,,0.9377,,0.1277,1.0,1.0
+beli1258,genus,Beli (Papua New Guinea),Glottolog node beli1258,Beli (Papua New Guinea),Nuclear Torricelli,1,single-language,,,,0.9484,,0.1384,1.0,1.0
+bell1243,genus,Bella Coola,Glottolog node bell1243,Bella Coola,Salishan,1,single-language,,,,0.8999,,0.0899,1.0,1.0
+bena1264,genus,Benabena,Glottolog node bena1264,Benabena,Nuclear Trans New Guinea,1,single-language,,,,0.8319,,0.0219,0.79,0.69
+beot1247,genus,Beothuk,Glottolog node beot1247,Beothuk,Beothuk,1,isolate,,,,,,,1.0,1.0
+bert1248,genus,Berta,Glottolog node bert1248,Berta,Berta,1,isolate,,,,,,,1.0,1.0
+beto1236,genus,Betoi-Jirara,Glottolog node beto1236,Betoi-Jirara,Betoi-Jirara,1,isolate,,,,,,,1.0,1.0
+bian1252,genus,Biangai,Glottolog node bian1252,Biangai,Kunimaipan,1,single-language,,,,0.8299,,0.0199,0.745,0.64
+bilu1245,genus,Bilua,Glottolog node bilu1245,Bilua,Bilua,1,isolate,,,,,,,1.0,1.0
+bira1253,genus,Ongota,Glottolog node bira1253,Ongota,Ongota,1,isolate,,,,,,,1.0,1.0
+birr1240,genus,Birri,Glottolog node birr1240,Birri,Central Sudanic,1,single-language,,,,0.8784,,0.0684,0.99,0.96
+bish1246,genus,Bishuo,Glottolog node bish1246,Bishuo,Atlantic-Congo,1,single-language,,,,0.9127,,0.1027,1.0,1.0
+boga1247,genus,Bogaya,Glottolog node boga1247,Bogaya,Bogaya,1,isolate,,,,,,,1.0,1.0
+boro1283,genus,Boro,Glottolog node boro1283,Boro,Atlantic-Congo,1,single-language,,,,0.8224,,0.0124,0.735,0.675
+boru1252,genus,Boruca,Glottolog node boru1252,Boruca,Chibchan,1,single-language,,,,0.8427,,0.0327,0.835,0.785
+bube1242,genus,Bube,Glottolog node bube1242,Bube,Atlantic-Congo,1,single-language,,,,0.8267,,0.0167,0.805,0.725
+budi1249,genus,Budibud,Glottolog node budi1249,Budibud,Austronesian,1,single-language,,,,0.8262,,0.0162,0.56,0.455
+bugl1243,genus,Buglere,Glottolog node bugl1243,Buglere,Chibchan,1,single-language,,,,0.8212,,0.0112,0.675,0.565
+buna1277,genus,Buna,Glottolog node buna1277,Buna,Nuclear Torricelli,1,single-language,,,,0.8716,,0.0616,0.98,0.96
+buna1278,genus,Bunak,Glottolog node buna1278,Bunak,Timor-Alor-Pantar,1,single-language,,,,0.8695,,0.0595,1.0,1.0
+bung1270,genus,Bungain,Glottolog node bung1270,Bungain,Nuclear Torricelli,1,single-language,,,,0.8716,,0.0616,0.98,0.96
+bunu1267,genus,Bunun,Glottolog node bunu1267,Bunun,Austronesian,1,single-language,,,,0.8828,,0.0728,1.0,0.995
+burm1264,genus,Burmeso,Glottolog node burm1264,Burmeso,Burmeso,1,isolate,,,,,,,1.0,1.0
+buru1296,genus,Burushaski,Glottolog node buru1296,Burushaski,Burushaski,1,isolate,,,,,,,1.0,1.0
+buru1299,genus,Buru-Angwe,Glottolog node buru1299,Buru-Angwe,Atlantic-Congo,1,single-language,,,,0.9127,,0.1027,1.0,1.0
+busu1244,genus,Busuu,Glottolog node busu1244,Busuu,Atlantic-Congo,1,single-language,,,,0.9127,,0.1027,1.0,1.0
+cadd1256,genus,Caddo,Glottolog node cadd1256,Caddo,Caddoan,1,single-language,,,,0.8914,,0.0814,0.985,0.96
+cams1241,genus,Camsá,Glottolog node cams1241,Camsá,Camsá,1,isolate,,,,,,,1.0,1.0
+cand1248,genus,Candoshi-Shapra,Glottolog node cand1248,Candoshi-Shapra,Candoshi-Shapra,1,isolate,,,,,,,1.0,1.0
+cani1243,genus,Canichana,Glottolog node cani1243,Canichana,Canichana,1,isolate,,,,,,,1.0,1.0
+cayu1241,genus,Cayuse,Glottolog node cayu1241,Cayuse,Cayuse,1,isolate,,,,,,,1.0,1.0
+cayu1262,genus,Cayubaba,Glottolog node cayu1262,Cayubaba,Cayubaba,1,isolate,,,,,,,1.0,1.0
+celt1247,genus,Celtiberian,Glottolog node celt1247,Celtiberian,Indo-European,1,single-language,,,,0.85,,0.04,0.86,0.8
+cent2045,genus,Jalaa,Glottolog node cent2045,Jalaa,Jalaa,1,isolate,,,,,,,1.0,1.0
+cham1312,genus,Chamorro,Glottolog node cham1312,Chamorro,Austronesian,1,single-language,,,,0.8262,,0.0162,0.89,0.86
+cham1313,genus,Chambri,Glottolog node cham1313,Chambri,Lower Sepik,1,single-language,,,,0.8258,,0.0158,0.76,0.675
+cher1273,genus,Cherokee,Glottolog node cher1273,Cherokee,Iroquoian,1,single-language,,,,0.9463,,0.1363,1.0,1.0
+chic1272,genus,Chichimeca-Jonaz,Glottolog node chic1272,Chichimeca-Jonaz,Otomanguean,1,single-language,,,,0.8643,,0.0543,0.96,0.97
+chim1301,genus,Chimariko,Glottolog node chim1301,Chimariko,Chimariko,1,isolate,,,,,,,1.0,1.0
+chim1309,genus,Chimila,Glottolog node chim1309,Chimila,Chibchan,1,single-language,,,,0.8914,,0.0814,0.965,0.96
+chin1272,genus,Creolized Grand Ronde Chinook Jargon,Glottolog node chin1272,Creolized Grand Ronde Chinook Jargon,Chinookan,1,single-language,,,,0.8512,,0.0412,0.755,0.685
+chin1286,genus,Clatsop-Shoalwater Chinook,Glottolog node chin1286,Clatsop-Shoalwater Chinook,Chinookan,1,single-language,,,,0.8512,,0.0412,0.755,0.685
+chit1248,genus,Chitimacha,Glottolog node chit1248,Chitimacha,Chitimacha,1,isolate,,,,,,,1.0,1.0
+chon1248,genus,Chono,Glottolog node chon1248,Chono,Chono,1,isolate,,,,,,,1.0,1.0
+coah1252,genus,Coahuilteco,Glottolog node coah1252,Coahuilteco,Coahuilteco,1,isolate,,,,,,,1.0,1.0
+cofa1242,genus,Cofán,Glottolog node cofa1242,Cofán,Cofán,1,isolate,,,,,,,1.0,1.0
+come1251,genus,Comecrudan,Glottolog node come1251,Comecrudan,Comecrudan,1,isolate,,,,,,,1.0,1.0
+coto1248,genus,Cotoname,Glottolog node coto1248,Cotoname,Cotoname,1,isolate,,,,,,,1.0,1.0
+cuit1236,genus,Cuitlatec,Glottolog node cuit1236,Cuitlatec,Cuitlatec,1,isolate,,,,,,,1.0,1.0
+cull1235,genus,Culli,Glottolog node cull1235,Culli,Culli,1,isolate,,,,,,,1.0,1.0
+daha1245,genus,Dahalo,Glottolog node daha1245,Dahalo,Afro-Asiatic,1,single-language,,,,0.8636,,0.0536,1.0,0.975
+dama1272,genus,Damal,Glottolog node dama1272,Damal,Damal,1,isolate,,,,,,,1.0,1.0
+dayy1236,genus,Day,Glottolog node dayy1236,Day,Atlantic-Congo,1,single-language,,,,0.922,,0.112,1.0,1.0
+dehu1237,genus,Dehu,Glottolog node dehu1237,Dehu,Austronesian,1,single-language,,,,0.8172,,0.0072,0.665,0.52
+demm1245,genus,Dem,Glottolog node demm1245,Dem,Dem,1,isolate,,,,,,,1.0,1.0
+demt1241,genus,Demta,Glottolog node demt1241,Demta,Sentanic,1,single-language,,,,0.8624,,0.0524,0.92,0.895
+dibi1240,genus,Dibiyaso,Glottolog node dibi1240,Dibiyaso,Dibiyaso,1,isolate,,,,,,,1.0,1.0
+dimi1244,genus,Gavak,Glottolog node dimi1244,Gavak,Nuclear Trans New Guinea,1,single-language,,,,0.8376,,0.0276,0.92,0.88
+djee1236,genus,Djeebbana,Glottolog node djee1236,Djeebbana,Maningrida,1,single-language,,,,0.8526,,0.0426,0.735,0.63
+djin1251,genus,Jingulu,Glottolog node djin1251,Jingulu,Mirndi,1,single-language,,,,0.8913,,0.0813,0.995,0.98
+dong1290,genus,Dongo,Glottolog node dong1290,Dongo,Atlantic-Congo,1,single-language,,,,0.8128,,0.0028,0.65,0.49
+duna1248,genus,Duna,Glottolog node duna1248,Duna,Duna,1,isolate,,,,,,,1.0,1.0
+duvl1242,genus,Duvle,Glottolog node duvl1242,Duvle,Lakes Plain,1,single-language,,,,0.8532,,0.0432,0.955,0.98
+dyan1250,genus,Dyangadi,Glottolog node dyan1250,Dyangadi,Pama-Nyungan,1,single-language,,,,0.9134,,0.1034,0.98,0.97
+dyir1250,genus,Dyirbal,Glottolog node dyir1250,Dyirbal,Pama-Nyungan,1,single-language,,,,0.9265,,0.1165,1.0,1.0
+egaa1242,genus,Ega,Glottolog node egaa1242,Ega,Atlantic-Congo,1,single-language,,,,0.9437,,0.1337,1.0,1.0
+elam1244,genus,Elamite,Glottolog node elam1244,Elamite,Elamite,1,isolate,,,,,,,1.0,1.0
+eloy1241,genus,Ajiri,Glottolog node eloy1241,Ajiri,Atlantic-Congo,1,single-language,,,,0.8287,,0.0187,0.88,0.845
+else1239,genus,Elseng,Glottolog node else1239,Elseng,Elseng,1,isolate,,,,,,,1.0,1.0
+esse1238,genus,Esselen,Glottolog node esse1238,Esselen,Esselen,1,isolate,,,,,,,1.0,1.0
+etru1241,genus,Etruscan,Glottolog node etru1241,Etruscan,Etruscan,1,isolate,,,,,,,1.0,1.0
+eyak1241,genus,Eyak,Glottolog node eyak1241,Eyak,Athabaskan-Eyak-Tlingit,1,single-language,,,,0.9264,,0.1164,1.0,1.0
+fass1245,genus,Momu-Fas,Glottolog node fass1245,Momu-Fas,Baibai-Fas,1,single-language,,,,0.8462,,0.0362,0.885,0.815
+fasu1242,genus,Fasu,Glottolog node fasu1242,Fasu,Fasu,1,isolate,,,,,,,1.0,1.0
+fuln1247,genus,Fulniô,Glottolog node fuln1247,Fulniô,Fulniô,1,isolate,,,,,,,1.0,1.0
+fuyu1242,genus,Fuyug,Glottolog node fuyu1242,Fuyug,Fuyug,1,isolate,,,,,,,1.0,1.0
+gade1242,genus,Gade,Glottolog node gade1242,Gade,Atlantic-Congo,1,single-language,,,,0.9252,,0.1152,1.0,1.0
+gaga1251,genus,Gaagudju,Glottolog node gaga1251,Gaagudju,Gaagudju,1,isolate,,,,,,,1.0,1.0
+gend1249,genus,Gende,Glottolog node gend1249,Gende,Nuclear Trans New Guinea,1,single-language,,,,0.8553,,0.0453,0.95,0.96
+gida1247,genus,Gidar,Glottolog node gida1247,Gidar,Afro-Asiatic,1,single-language,,,,0.8622,,0.0522,0.99,1.0
+gilb1244,genus,Gilbertese,Glottolog node gilb1244,Gilbertese,Austronesian,1,single-language,,,,0.8262,,0.0162,0.77,0.675
+gola1255,genus,Gola,Glottolog node gola1255,Gola,Atlantic-Congo,1,single-language,,,,0.9683,,0.1583,1.0,1.0
+gong1251,genus,Gongduk,Glottolog node gong1251,Gongduk,Sino-Tibetan,1,single-language,,,,0.8756,,0.0656,1.0,0.995
+guac1239,genus,Guachi,Glottolog node guac1239,Guachi,Guachi,1,isolate,,,,,,,1.0,1.0
+guai1237,genus,Guaicurian,Glottolog node guai1237,Guaicurian,Guaicurian,1,isolate,,,,,,,1.0,1.0
+guam1236,genus,Guamo,Glottolog node guam1236,Guamo,Guamo,1,isolate,,,,,,,1.0,1.0
+guat1253,genus,Guató,Glottolog node guat1253,Guató,Guató,1,isolate,,,,,,,1.0,1.0
+guga1239,genus,Gugadj,Glottolog node guga1239,Gugadj,Pama-Nyungan,1,single-language,,,,0.9264,,0.1164,1.0,1.0
+guhu1244,genus,Guhu-Samane,Glottolog node guhu1244,Guhu-Samane,Nuclear Trans New Guinea,1,single-language,,,,0.8532,,0.0432,0.87,0.87
+guiq1238,genus,Guiqiong,Glottolog node guiq1238,Guiqiong,Sino-Tibetan,1,single-language,,,,0.8235,,0.0135,0.865,0.73
+gule1241,genus,Gule,Glottolog node gule1241,Gule,Gule,1,isolate,,,,,,,1.0,1.0
+gunw1252,genus,Bininj Kun-Wok,Glottolog node gunw1252,Bininj Kun-Wok,Gunwinyguan,1,single-language,,,,0.8908,,0.0808,1.0,1.0
+guri1248,genus,Muno,Glottolog node guri1248,Muno,Muno,1,isolate,,,,,,,1.0,1.0
+gwah1244,genus,Gwahatike,Glottolog node gwah1244,Gwahatike,Nuclear Trans New Guinea,1,single-language,,,,0.8181,,0.0081,0.715,0.605
+hadz1240,genus,Hadza,Glottolog node hadz1240,Hadza,Hadza,1,isolate,,,,,,,1.0,1.0
+haru1245,genus,Haruai,Glottolog node haru1245,Haruai,Piawi,1,single-language,,,,0.8925,,0.0825,0.945,0.915
+hatt1246,genus,Hattic,Glottolog node hatt1246,Hattic,Hattic,1,isolate,,,,,,,1.0,1.0
+hoaa1235,genus,Amkoe,Glottolog node hoaa1235,Amkoe,Kxa,1,single-language,,,,0.8685,,0.0585,0.905,0.89
+hrus1242,genus,Hruso,Glottolog node hrus1242,Hruso,Hruso,1,isolate,,,,,,,1.0,1.0
+huet1235,genus,Huetar,Glottolog node huet1235,Huetar,Chibchan,1,single-language,,,,0.8964,,0.0864,0.985,0.98
+iaai1238,genus,Iaai,Glottolog node iaai1238,Iaai,Austronesian,1,single-language,,,,0.8172,,0.0072,0.665,0.52
+iber1250,genus,Iberian,Glottolog node iber1250,Iberian,Iberian,1,isolate,,,,,,,1.0,1.0
+igoo1238,genus,Igo,Glottolog node igoo1238,Igo,Atlantic-Congo,1,single-language,,,,0.8232,,0.0132,0.67,0.635
+ikkk1242,genus,Ik,Glottolog node ikkk1242,Ik,Kuliak,1,single-language,,,,0.8297,,0.0197,0.705,0.625
+ikpo1238,genus,Ikposo,Glottolog node ikpo1238,Ikposo,Atlantic-Congo,1,single-language,,,,0.8232,,0.0132,0.67,0.635
+ipik1244,genus,Ipiko,Glottolog node ipik1244,Ipiko,Anim,1,single-language,,,,0.844,,0.034,0.875,0.77
+iran1263,genus,Irántxe-Münkü,Glottolog node iran1263,Irántxe-Münkü,Irántxe-Münkü,1,isolate,,,,,,,1.0,1.0
+ires1239,genus,Yerisiam,Glottolog node ires1239,Yerisiam,Austronesian,1,single-language,,,,0.8262,,0.0162,0.75,0.635
+isir1237,genus,Isirawa,Glottolog node isir1237,Isirawa,Greater Kwerba,1,single-language,,,,0.8549,,0.0449,0.925,0.835
+iton1250,genus,Itonama,Glottolog node iton1250,Itonama,Itonama,1,isolate,,,,,,,1.0,1.0
+iwal1237,genus,Iwal,Glottolog node iwal1237,Iwal,Austronesian,1,single-language,,,,0.8262,,0.0162,0.89,0.86
+jira1235,genus,Jirajaran,Glottolog node jira1235,Jirajaran,Jirajaran,1,isolate,,,,,,,1.0,1.0
+kadi1248,genus,Kadiwéu,Glottolog node kadi1248,Kadiwéu,Guaicuruan,1,single-language,,,,0.9092,,0.0992,0.995,1.0
+kafo1240,genus,Kafoa,Glottolog node kafo1240,Kafoa,Timor-Alor-Pantar,1,single-language,,,,0.8111,,0.0011,0.58,0.425
+kaki1249,genus,Kaki Ae,Glottolog node kaki1249,Kaki Ae,Kaki Ae,1,isolate,,,,,,,1.0,1.0
+kala1377,genus,Kala Lagaw Ya,Glottolog node kala1377,Kala Lagaw Ya,Pama-Nyungan,1,single-language,,,,0.9265,,0.1165,1.0,1.0
+kama1365,genus,Kamang,Glottolog node kama1365,Kamang,Timor-Alor-Pantar,1,single-language,,,,0.8111,,0.0011,0.515,0.395
+kamm1249,genus,Kam,Glottolog node kamm1249,Kam,Atlantic-Congo,1,single-language,,,,0.9437,,0.1337,1.0,1.0
+kamu1260,genus,Kamula,Glottolog node kamu1260,Kamula,Kamula-Elevala,1,single-language,,,,0.8586,,0.0486,0.8,0.78
+kana1291,genus,Katukína-Kanamarí,Glottolog node kana1291,Katukína-Kanamarí,Katukinan,1,single-language,,,,0.8831,,0.0731,0.945,0.89
+kano1245,genus,Kanoê,Glottolog node kano1245,Kanoê,Kanoê,1,isolate,,,,,,,1.0,1.0
+kapo1250,genus,Kapori,Glottolog node kapo1250,Kapori,Kapori,1,isolate,,,,,,,1.0,1.0
+kara1289,genus,Karankawa,Glottolog node kara1289,Karankawa,Karankawa,1,isolate,,,,,,,1.0,1.0
+kara1497,genus,Karami,Glottolog node kara1497,Karami,Karami,1,isolate,,,,,,,1.0,1.0
+kara1499,genus,Kalamang,Glottolog node kara1499,Kalamang,West Bomberai,1,single-language,,,,0.8937,,0.0837,0.965,0.935
+kara1500,genus,Karajá,Glottolog node kara1500,Karajá,Nuclear-Macro-Je,1,single-language,,,,0.9628,,0.1528,1.0,1.0
+kari1254,genus,Kariri,Glottolog node kari1254,Kariri,Kariri,1,isolate,,,,,,,1.0,1.0
+karo1304,genus,Karuk,Glottolog node karo1304,Karuk,Karuk,1,isolate,,,,,,,1.0,1.0
+kata1270,genus,Katawixi,Glottolog node kata1270,Katawixi,Katukinan,1,single-language,,,,0.8831,,0.0731,0.945,0.89
+kath1253,genus,Kathlamet,Glottolog node kath1253,Kathlamet,Chinookan,1,single-language,,,,0.8868,,0.0768,0.93,0.895
+kaur1271,genus,Kaure-Narau,Glottolog node kaur1271,Kaure-Narau,Kaure-Kosare,1,single-language,,,,0.8625,,0.0525,0.855,0.84
+kehu1238,genus,Kehu,Glottolog node kehu1238,Kehu,Kehu,1,isolate,,,,,,,1.0,1.0
+kena1236,genus,Kenaboi,Glottolog node kena1236,Kenaboi,Kenaboi,1,isolate,,,,,,,1.0,1.0
+kepk1241,genus,Kepkiriwát,Glottolog node kepk1241,Kepkiriwát,Tupian,1,single-language,,,,0.8946,,0.0846,1.0,1.0
+khin1240,genus,Khinalug,Glottolog node khin1240,Khinalug,Nakh-Daghestanian,1,single-language,,,,0.8703,,0.0603,1.0,0.995
+kibi1239,genus,Kibiri,Glottolog node kibi1239,Kibiri,Kibiri,1,isolate,,,,,,,1.0,1.0
+kimk1238,genus,Kimki,Glottolog node kimk1238,Kimki,Kimki,1,isolate,,,,,,,1.0,1.0
+klam1254,genus,Klamath-Modoc,Glottolog node klam1254,Klamath-Modoc,Klamath-Modoc,1,isolate,,,,,,,1.0,1.0
+kolp1236,genus,Kol (Papua New Guinea),Glottolog node kolp1236,Kol (Papua New Guinea),Kol (Papua New Guinea),1,isolate,,,,,,,1.0,1.0
+kono1269,genus,Konomala,Glottolog node kono1269,Konomala,Austronesian,1,single-language,,,,0.8262,,0.0162,0.855,0.8
+koro1298,genus,Koromfé,Glottolog node koro1298,Koromfé,Atlantic-Congo,1,single-language,,,,0.8861,,0.0761,1.0,1.0
+koro1312,genus,Korowai,Glottolog node koro1312,Korowai,Nuclear Trans New Guinea,1,single-language,,,,0.8124,,0.0024,0.62,0.485
+kosa1251,genus,Kosadle,Glottolog node kosa1251,Kosadle,Kaure-Kosare,1,single-language,,,,0.8625,,0.0525,0.855,0.84
+kosr1238,genus,Kosraean,Glottolog node kosr1238,Kosraean,Austronesian,1,single-language,,,,0.8262,,0.0162,0.83,0.775
+kova1243,genus,Kovai,Glottolog node kova1243,Kovai,Nuclear Trans New Guinea,1,single-language,,,,0.8317,,0.0217,0.71,0.515
+kren1239,genus,Borum,Glottolog node kren1239,Borum,Nuclear-Macro-Je,1,single-language,,,,0.9628,,0.1528,1.0,1.0
+kris1246,genus,I'saka,Glottolog node kris1246,I'saka,Sko,1,single-language,,,,0.9053,,0.0953,0.995,0.995
+krob1245,genus,Krobu,Glottolog node krob1245,Krobu,Atlantic-Congo,1,single-language,,,,0.8201,,0.0101,0.74,0.695
+kuii1253,genus,Kui (Indonesia),Glottolog node kuii1253,Kui (Indonesia),Timor-Alor-Pantar,1,single-language,,,,0.8111,,0.0011,0.515,0.395
+kuja1239,genus,Kujarge,Glottolog node kuja1239,Kujarge,Kujarge,1,isolate,,,,,,,1.0,1.0
+kuna1268,genus,Kunama,Glottolog node kuna1268,Kunama,Kunama,1,isolate,,,,,,,1.0,1.0
+kunb1251,genus,Kunbarlang,Glottolog node kunb1251,Kunbarlang,Gunwinyguan,1,single-language,,,,0.8908,,0.0808,1.0,1.0
+kung1259,genus,Kungarakany,Glottolog node kung1259,Kungarakany,Kungarakany,1,isolate,,,,,,,1.0,1.0
+kuni1267,genus,Kunimaipa,Glottolog node kuni1267,Kunimaipa,Kunimaipan,1,single-language,,,,0.8299,,0.0199,0.745,0.64
+kunz1244,genus,Kunza,Glottolog node kunz1244,Kunza,Kunza,1,isolate,,,,,,,1.0,1.0
+kuot1243,genus,Kuot,Glottolog node kuot1243,Kuot,Kuot,1,isolate,,,,,,,1.0,1.0
+kusu1250,genus,Kusunda,Glottolog node kusu1250,Kusunda,Kusunda,1,isolate,,,,,,,1.0,1.0
+kute1248,genus,Kutep,Glottolog node kute1248,Kutep,Atlantic-Congo,1,single-language,,,,0.8382,,0.0282,0.805,0.75
+kute1249,genus,Kutenai,Glottolog node kute1249,Kutenai,Kutenai,1,isolate,,,,,,,1.0,1.0
+kwaa1262,genus,Baa,Glottolog node kwaa1262,Baa,Atlantic-Congo,1,single-language,,,,0.9301,,0.1201,1.0,1.0
+kwad1244,genus,Kwadi,Glottolog node kwad1244,Kwadi,Khoe-Kwadi,1,single-language,,,,0.8258,,0.0158,0.755,0.655
+kwam1249,genus,Gwama,Glottolog node kwam1249,Gwama,Koman,1,single-language,,,,0.8448,,0.0348,0.865,0.77
+kwaz1243,genus,Kwaza,Glottolog node kwaz1243,Kwaza,Kwaza,1,isolate,,,,,,,1.0,1.0
+laal1242,genus,Laal,Glottolog node laal1242,Laal,Laal,1,isolate,,,,,,,1.0,1.0
+laek1243,genus,Laeko-Libuat,Glottolog node laek1243,Laeko-Libuat,Nuclear Torricelli,1,single-language,,,,0.9484,,0.1384,1.0,1.0
+lakk1252,genus,Lak,Glottolog node lakk1252,Lak,Nakh-Daghestanian,1,single-language,,,,0.8703,,0.0603,1.0,0.995
+lamo1244,genus,Lamogai,Glottolog node lamo1244,Lamogai,Austronesian,1,single-language,,,,0.8119,,0.0019,0.515,0.34
+lara1258,genus,Laragia,Glottolog node lara1258,Laragia,Laragia,1,isolate,,,,,,,1.0,1.0
+lavu1241,genus,Lavukaleve,Glottolog node lavu1241,Lavukaleve,Lavukaleve,1,isolate,,,,,,,1.0,1.0
+leco1242,genus,Leco,Glottolog node leco1242,Leco,Leco,1,isolate,,,,,,,1.0,1.0
+lepc1244,genus,Lepcha,Glottolog node lepc1244,Lepcha,Sino-Tibetan,1,single-language,,,,0.8288,,0.0188,0.735,0.64
+logb1245,genus,Ikpana,Glottolog node logb1245,Ikpana,Atlantic-Congo,1,single-language,,,,0.8224,,0.0124,0.735,0.675
+long1389,genus,Longuda,Glottolog node long1389,Longuda,Atlantic-Congo,1,single-language,,,,0.9112,,0.1012,1.0,0.995
+lule1238,genus,Lule,Glottolog node lule1238,Lule,Lule,1,isolate,,,,,,,1.0,1.0
+made1252,genus,Ma (Democratic Republic of Congo),Glottolog node made1252,Ma (Democratic Republic of Congo),Atlantic-Congo,1,single-language,,,,0.8128,,0.0028,0.72,0.55
+maja1242,genus,Majang,Glottolog node maja1242,Majang,Surmic,1,single-language,,,,0.858,,0.048,0.955,0.92
+maku1246,genus,Máku,Glottolog node maku1246,Máku,Máku,1,isolate,,,,,,,1.0,1.0
+mala1432,genus,Malali,Glottolog node mala1432,Malali,Nuclear-Macro-Je,1,single-language,,,,0.8165,,0.0065,0.65,0.525
+male1289,genus,Maleu-Kilenge,Glottolog node male1289,Maleu-Kilenge,Austronesian,1,single-language,,,,0.8262,,0.0162,0.83,0.745
+male1297,genus,Maléku Jaíka,Glottolog node male1297,Maléku Jaíka,Chibchan,1,single-language,,,,0.8964,,0.0864,0.985,0.98
+mand1446,genus,Mandan,Glottolog node mand1446,Mandan,Siouan,1,single-language,,,,0.856,,0.046,0.98,0.965
+mang1378,genus,Mang,Glottolog node mang1378,Mang,Austroasiatic,1,single-language,,,,0.839,,0.029,0.745,0.675
+mang1381,genus,Mangarrayi,Glottolog node mang1381,Mangarrayi,Mangarrayi-Maran,1,single-language,,,,0.9473,,0.1373,1.0,1.0
+mang1403,genus,Mangseng,Glottolog node mang1403,Mangseng,Austronesian,1,single-language,,,,0.8262,,0.0162,0.675,0.55
+mani1235,genus,Sougb,Glottolog node mani1235,Sougb,East Bird's Head,1,single-language,,,,0.8715,,0.0615,0.9,0.885
+mani1292,genus,Manipuri,Glottolog node mani1292,Manipuri,Sino-Tibetan,1,single-language,,,,0.8119,,0.0019,0.725,0.605
+mans1259,genus,Mansoanka,Glottolog node mans1259,Mansoanka,Atlantic-Congo,1,single-language,,,,0.9683,,0.1583,1.0,1.0
+mara1266,genus,Maratino,Glottolog node mara1266,Maratino,Maratino,1,isolate,,,,,,,1.0,1.0
+mara1409,genus,Maragua,Glottolog node mara1409,Maragua,Arawakan,1,single-language,,,,0.831,,0.021,0.74,0.66
+mass1263,genus,Massep,Glottolog node mass1263,Massep,Massep,1,isolate,,,,,,,1.0,1.0
+mata1275,genus,Matanawí,Glottolog node mata1275,Matanawí,Matanawí,1,isolate,,,,,,,1.0,1.0
+mato1253,genus,Mato Grosso Arára,Glottolog node mato1253,Mato Grosso Arára,Mato Grosso Arára,1,isolate,,,,,,,1.0,1.0
+mawe1251,genus,Mawes,Glottolog node mawe1251,Mawes,Mawes,1,isolate,,,,,,,1.0,1.0
+maxa1247,genus,Maxakalí,Glottolog node maxa1247,Maxakalí,Nuclear-Macro-Je,1,single-language,,,,0.8165,,0.0065,0.65,0.525
+mbar1253,genus,Rimanggudhinma,Glottolog node mbar1253,Rimanggudhinma,Pama-Nyungan,1,single-language,,,,0.858,,0.048,0.8,0.785
+mbar1254,genus,Mbara-Yanga,Glottolog node mbar1254,Mbara-Yanga,Pama-Nyungan,1,single-language,,,,0.9264,,0.1164,1.0,1.0
+mbiy1238,genus,Mbiywom,Glottolog node mbiy1238,Mbiywom,Pama-Nyungan,1,single-language,,,,0.8247,,0.0147,0.72,0.61
+mbre1244,genus,Mbre,Glottolog node mbre1244,Mbre,Atlantic-Congo,1,single-language,,,,0.9298,,0.1198,0.995,0.995
+mbul1258,genus,Mbulungish,Glottolog node mbul1258,Mbulungish,Atlantic-Congo,1,single-language,,,,0.8513,,0.0413,0.82,0.76
+mbul1263,genus,Mbula,Glottolog node mbul1263,Mbula,Austronesian,1,single-language,,,,0.8262,,0.0162,0.83,0.745
+mero1237,genus,Meroitic,Glottolog node mero1237,Meroitic,Meroitic,1,isolate,,,,,,,1.0,1.0
+mido1240,genus,Midob,Glottolog node mido1240,Midob,Nubian,1,single-language,,,,0.8818,,0.0718,0.995,1.0
+mimi1240,genus,Mimi-Gaudefroy,Glottolog node mimi1240,Mimi-Gaudefroy,Mimi-Gaudefroy,1,isolate,,,,,,,1.0,1.0
+mini1253,genus,Minidien,Glottolog node mini1253,Minidien,Nuclear Torricelli,1,single-language,,,,0.8705,,0.0605,1.0,1.0
+mink1237,genus,Minkin,Glottolog node mink1237,Minkin,Minkin,1,isolate,,,,,,,1.0,1.0
+misi1243,genus,Misima-Paneati,Glottolog node misi1243,Misima-Paneati,Austronesian,1,single-language,,,,0.8262,,0.0162,0.735,0.64
+misk1235,genus,Mískito,Glottolog node misk1235,Mískito,Misumalpan,1,single-language,,,,0.8483,,0.0383,0.825,0.765
+moch1259,genus,Mochica,Glottolog node moch1259,Mochica,Mochica,1,isolate,,,,,,,1.0,1.0
+mola1238,genus,Molale,Glottolog node mola1238,Molale,Molale,1,isolate,,,,,,,1.0,1.0
+molo1262,genus,Molof,Glottolog node molo1262,Molof,Molof,1,isolate,,,,,,,1.0,1.0
+momu1241,genus,Momuna,Glottolog node momu1241,Momuna,Momuna,1,isolate,,,,,,,1.0,1.0
+morb1239,genus,Mor (Bomberai Peninsula),Glottolog node morb1239,Mor (Bomberai Peninsula),Mor (Bomberai Peninsula),1,isolate,,,,,,,1.0,1.0
+morm1235,genus,Mor (Mor Islands),Glottolog node morm1235,Mor (Mor Islands),Austronesian,1,single-language,,,,0.8262,,0.0162,0.89,0.86
+moro1289,genus,Marori,Glottolog node moro1289,Marori,Marori,1,isolate,,,,,,,1.0,1.0
+mose1249,genus,Mosetén-Chimané,Glottolog node mose1249,Mosetén-Chimané,Mosetén-Chimané,1,isolate,,,,,,,1.0,1.0
+mouk1239,genus,Mouk-Aria,Glottolog node mouk1239,Mouk-Aria,Austronesian,1,single-language,,,,0.8119,,0.0019,0.515,0.34
+movi1243,genus,Movima,Glottolog node movi1243,Movima,Movima,1,isolate,,,,,,,1.0,1.0
+mpal1237,genus,Mpalityanh-Luthigh,Glottolog node mpal1237,Mpalityanh-Luthigh,Pama-Nyungan,1,single-language,,,,0.8247,,0.0147,0.72,0.61
+mpra1235,genus,Mpra,Glottolog node mpra1235,Mpra,Atlantic-Congo,1,single-language,,,,0.9298,,0.1198,0.995,0.995
+mpur1239,genus,Mpur,Glottolog node mpur1239,Mpur,Mpur,1,isolate,,,,,,,1.0,1.0
+muku1242,genus,Mukulu,Glottolog node muku1242,Mukulu,Afro-Asiatic,1,single-language,,,,0.8408,,0.0308,0.94,0.895
+mula1254,genus,Mulaha,Glottolog node mula1254,Mulaha,Kwalean,1,single-language,,,,0.9134,,0.1034,0.985,0.98
+muni1258,genus,Muniche,Glottolog node muni1258,Muniche,Muniche,1,isolate,,,,,,,1.0,1.0
+mure1235,genus,Mure,Glottolog node mure1235,Mure,Mure,1,isolate,,,,,,,1.0,1.0
+murr1258,genus,Murriny Patha,Glottolog node murr1258,Murriny Patha,Southern Daly,1,single-language,,,,0.8281,,0.0181,0.795,0.68
+nabi1239,genus,Nabi-Metan,Glottolog node nabi1239,Nabi-Metan,Nuclear Torricelli,1,single-language,,,,0.8705,,0.0605,1.0,1.0
+naka1260,genus,Nakara,Glottolog node naka1260,Nakara,Maningrida,1,single-language,,,,0.8526,,0.0426,0.735,0.63
+nalu1240,genus,Nalu,Glottolog node nalu1240,Nalu,Atlantic-Congo,1,single-language,,,,0.8513,,0.0413,0.82,0.76
+nang1259,genus,Nangikurrunggurr,Glottolog node nang1259,Nangikurrunggurr,Southern Daly,1,single-language,,,,0.8281,,0.0181,0.795,0.68
+nara1262,genus,Nara,Glottolog node nara1262,Nara,Nara,1,isolate,,,,,,,1.0,1.0
+natc1249,genus,Natchez,Glottolog node natc1249,Natchez,Natchez,1,isolate,,,,,,,1.0,1.0
+naur1243,genus,Nauru,Glottolog node naur1243,Nauru,Austronesian,1,single-language,,,,0.8262,,0.0162,0.83,0.775
+ndom1245,genus,Ndom,Glottolog node ndom1245,Ndom,Kolopom,1,single-language,,,,0.8151,,0.0051,0.61,0.535
+ndoo1242,genus,Ndo,Glottolog node ndoo1242,Ndo,Central Sudanic,1,single-language,,,,0.8784,,0.0684,0.99,0.96
+neng1238,genus,Nengone,Glottolog node neng1238,Nengone,Austronesian,1,single-language,,,,0.8172,,0.0072,0.665,0.52
+ngab1239,genus,Ngäbere,Glottolog node ngab1239,Ngäbere,Chibchan,1,single-language,,,,0.8212,,0.0112,0.675,0.565
+ngal1292,genus,Ngalkbun,Glottolog node ngal1292,Ngalkbun,Gunwinyguan,1,single-language,,,,0.8908,,0.0808,1.0,1.0
+ngan1295,genus,Ngandi,Glottolog node ngan1295,Ngandi,Gunwinyguan,1,single-language,,,,0.8908,,0.0808,0.995,0.995
+ngan1296,genus,Nganyaywana,Glottolog node ngan1296,Nganyaywana,Pama-Nyungan,1,single-language,,,,0.9134,,0.1034,0.98,0.97
+ngko1236,genus,Ngkoth,Glottolog node ngko1236,Ngkoth,Pama-Nyungan,1,single-language,,,,0.8247,,0.0147,0.72,0.61
+niha1238,genus,Nihali,Glottolog node niha1238,Nihali,Nihali,1,isolate,,,,,,,1.0,1.0
+nimo1246,genus,Nimoa,Glottolog node nimo1246,Nimoa,Austronesian,1,single-language,,,,0.8262,,0.0162,0.765,0.655
+nucl1453,genus,Walio,Glottolog node nucl1453,Walio,Walioic,1,single-language,,,,0.8729,,0.0629,0.94,0.925
+nukn1238,genus,Nukna,Glottolog node nukn1238,Nukna,Nuclear Trans New Guinea,1,single-language,,,,0.832,,0.022,0.78,0.715
+numb1247,genus,Numbami,Glottolog node numb1247,Numbami,Austronesian,1,single-language,,,,0.8262,,0.0162,0.89,0.86
+nung1290,genus,Wubuy,Glottolog node nung1290,Wubuy,Gunwinyguan,1,single-language,,,,0.8908,,0.0808,0.98,0.995
+obis1242,genus,Obispeño,Glottolog node obis1242,Obispeño,Chumashan,1,single-language,,,,0.8434,,0.0334,0.83,0.765
+odia1239,genus,Odiai,Glottolog node odia1239,Odiai,Odiai,1,isolate,,,,,,,1.0,1.0
+ofay1240,genus,Ofayé,Glottolog node ofay1240,Ofayé,Nuclear-Macro-Je,1,single-language,,,,0.9628,,0.1528,1.0,1.0
+okoe1238,genus,Oko-Eni-Osayen,Glottolog node okoe1238,Oko-Eni-Osayen,Atlantic-Congo,1,single-language,,,,0.9252,,0.1152,1.0,1.0
+oksa1245,genus,Oksapmin,Glottolog node oksa1245,Oksapmin,Nuclear Trans New Guinea,1,single-language,,,,0.9278,,0.1178,1.0,1.0
+olek1239,genus,Olekha,Glottolog node olek1239,Olekha,Sino-Tibetan,1,single-language,,,,0.8756,,0.0656,1.0,0.995
+omur1241,genus,Omurano,Glottolog node omur1241,Omurano,Omurano,1,isolate,,,,,,,1.0,1.0
+onjo1240,genus,Onjob,Glottolog node onjo1240,Onjob,Dagan,1,single-language,,,,0.8745,,0.0645,0.99,0.96
+orya1242,genus,Orya,Glottolog node orya1242,Orya,Tor-Orya,1,single-language,,,,0.8121,,0.0021,0.745,0.555
+otii1244,genus,Oti,Glottolog node otii1244,Oti,Oti,1,isolate,,,,,,,1.0,1.0
+owin1240,genus,Owiniga,Glottolog node owin1240,Owiniga,Left May,1,single-language,,,,0.8298,,0.0198,0.74,0.695
+oyst1235,genus,Oyster Bay-Big River-Little Swanport,Glottolog node oyst1235,Oyster Bay-Big River-Little Swanport,Oyster Bay-Big River-Little Swanport,1,isolate,,,,,,,1.0,1.0
+paez1247,genus,Páez,Glottolog node paez1247,Páez,Páez,1,isolate,,,,,,,1.0,1.0
+paiw1248,genus,Paiwan,Glottolog node paiw1248,Paiwan,Austronesian,1,single-language,,,,0.8828,,0.0728,1.0,0.995
+pala1344,genus,Palauan,Glottolog node pala1344,Palauan,Austronesian,1,single-language,,,,0.8262,,0.0162,0.89,0.86
+pank1250,genus,Pankararú,Glottolog node pank1250,Pankararú,Pankararú,1,isolate,,,,,,,1.0,1.0
+papi1255,genus,Papi,Glottolog node papi1255,Papi,Papi,1,isolate,,,,,,,1.0,1.0
+pare1271,genus,Pare,Glottolog node pare1271,Pare,Kamula-Elevala,1,single-language,,,,0.8586,,0.0486,0.715,0.705
+pata1261,genus,Pataxó Hã-Ha-Hãe,Glottolog node pata1261,Pataxó Hã-Ha-Hãe,Nuclear-Macro-Je,1,single-language,,,,0.8165,,0.0065,0.65,0.525
+pawa1255,genus,Pawaia,Glottolog node pawa1255,Pawaia,Pawaia,1,isolate,,,,,,,1.0,1.0
+paya1236,genus,Payagua,Glottolog node paya1236,Payagua,Payagua,1,isolate,,,,,,,1.0,1.0
+payn1244,genus,Manat,Glottolog node payn1244,Manat,Nuclear Trans New Guinea,1,single-language,,,,0.8498,,0.0398,0.825,0.725
+pech1241,genus,Pech,Glottolog node pech1241,Pech,Chibchan,1,single-language,,,,0.9482,,0.1382,1.0,1.0
+peii1238,genus,Pei,Glottolog node peii1238,Pei,Walioic,1,single-language,,,,0.8729,,0.0629,0.94,0.925
+pele1245,genus,Pele-Ata,Glottolog node pele1245,Pele-Ata,Pele-Ata,1,isolate,,,,,,,1.0,1.0
+pina1252,genus,Pinai-Hagahai,Glottolog node pina1252,Pinai-Hagahai,Piawi,1,single-language,,,,0.8925,,0.0825,0.945,0.915
+pira1253,genus,Pirahã,Glottolog node pira1253,Pirahã,Pirahã,1,isolate,,,,,,,1.0,1.0
+puel1244,genus,Puelche,Glottolog node puel1244,Puelche,Puelche,1,isolate,,,,,,,1.0,1.0
+puin1248,genus,Puinave,Glottolog node puin1248,Puinave,Puinave,1,isolate,,,,,,,1.0,1.0
+pume1238,genus,Pumé,Glottolog node pume1238,Pumé,Pumé,1,isolate,,,,,,,1.0,1.0
+puqu1242,genus,Puquina,Glottolog node puqu1242,Puquina,Puquina,1,isolate,,,,,,,1.0,1.0
+pura1257,genus,Purari,Glottolog node pura1257,Purari,Purari,1,isolate,,,,,,,1.0,1.0
+puru1264,genus,Puruborá,Glottolog node puru1264,Puruborá,Tupian,1,single-language,,,,0.8494,,0.0394,0.9,0.835
+puyu1239,genus,Puyuma,Glottolog node puyu1239,Puyuma,Austronesian,1,single-language,,,,0.8828,,0.0728,1.0,0.995
+pyuu1245,genus,Pyu,Glottolog node pyuu1245,Pyu,Pyu,1,isolate,,,,,,,1.0,1.0
+rama1270,genus,Rama,Glottolog node rama1270,Rama,Chibchan,1,single-language,,,,0.8964,,0.0864,0.985,0.98
+rama1271,genus,Ramanos,Glottolog node rama1271,Ramanos,Ramanos,1,isolate,,,,,,,1.0,1.0
+raoo1244,genus,Rao,Glottolog node raoo1244,Rao,Ramu,1,single-language,,,,0.8929,,0.0829,1.0,1.0
+rasa1243,genus,Rasawa,Glottolog node rasa1243,Rasawa,Lakes Plain,1,single-language,,,,0.8298,,0.0198,0.655,0.59
+reja1240,genus,Rejang,Glottolog node reja1240,Rejang,Austronesian,1,single-language,,,,0.8262,,0.0162,0.89,0.86
+resh1242,genus,Reshe,Glottolog node resh1242,Reshe,Atlantic-Congo,1,single-language,,,,0.8242,,0.0142,0.69,0.61
+rikb1245,genus,Rikbaktsa,Glottolog node rikb1245,Rikbaktsa,Nuclear-Macro-Je,1,single-language,,,,0.9628,,0.1528,1.0,1.0
+ruka1240,genus,Rukai,Glottolog node ruka1240,Rukai,Austronesian,1,single-language,,,,0.8828,,0.0728,1.0,0.995
+saba1268,genus,Sabanê,Glottolog node saba1268,Sabanê,Nambiquaran,1,single-language,,,,0.8637,,0.0537,0.86,0.835
+sali1253,genus,Salinan,Glottolog node sali1253,Salinan,Salinan,1,isolate,,,,,,,1.0,1.0
+sand1273,genus,Sandawe,Glottolog node sand1273,Sandawe,Sandawe,1,isolate,,,,,,,1.0,1.0
+sani1270,genus,Saniyo-Hiyewe,Glottolog node sani1270,Saniyo-Hiyewe,Sepik,1,single-language,,,,0.8247,,0.0147,0.7,0.57
+sape1238,genus,Sapé,Glottolog node sape1238,Sapé,Sapé,1,isolate,,,,,,,1.0,1.0
+sapo1254,genus,Saponi,Glottolog node sapo1254,Saponi,Lakes Plain,1,single-language,,,,0.8298,,0.0198,0.655,0.59
+sate1243,genus,Sateré-Mawé,Glottolog node sate1243,Sateré-Mawé,Tupian,1,single-language,,,,0.8206,,0.0106,0.71,0.585
+saus1247,genus,Sause,Glottolog node saus1247,Sause,Sause,1,isolate,,,,,,,1.0,1.0
+savo1255,genus,Savosavo,Glottolog node savo1255,Savosavo,Savosavo,1,isolate,,,,,,,1.0,1.0
+sech1236,genus,Sechuran,Glottolog node sech1236,Sechuran,Sechuran,1,isolate,,,,,,,1.0,1.0
+sere1260,genus,Sereer,Glottolog node sere1260,Sereer,Atlantic-Congo,1,single-language,,,,0.8609,,0.0509,0.95,0.94
+seri1257,genus,Seri,Glottolog node seri1257,Seri,Seri,1,isolate,,,,,,,1.0,1.0
+shab1252,genus,Shabo,Glottolog node shab1252,Shabo,Shabo,1,isolate,,,,,,,1.0,1.0
+shal1242,genus,Shall-Zwall,Glottolog node shal1242,Shall-Zwall,Atlantic-Congo,1,single-language,,,,0.8134,,0.0034,0.64,0.51
+shom1245,genus,Shom Peng,Glottolog node shom1245,Shom Peng,Shom Peng,1,isolate,,,,,,,1.0,1.0
+siam1242,genus,Siamou,Glottolog node siam1242,Siamou,Siamou,1,isolate,,,,,,,1.0,1.0
+sian1257,genus,Siane,Glottolog node sian1257,Siane,Nuclear Trans New Guinea,1,single-language,,,,0.8319,,0.0219,0.79,0.69
+siar1238,genus,Siar-Lak,Glottolog node siar1238,Siar-Lak,Austronesian,1,single-language,,,,0.8262,,0.0162,0.855,0.8
+siks1238,genus,Siksika,Glottolog node siks1238,Siksika,Algic,1,single-language,,,,0.9293,,0.1193,1.0,1.0
+sioo1240,genus,Sio,Glottolog node sioo1240,Sio,Austronesian,1,single-language,,,,0.8262,,0.0162,0.83,0.745
+sius1254,genus,Siuslaw,Glottolog node sius1254,Siuslaw,Siuslaw,1,isolate,,,,,,,1.0,1.0
+suar1238,genus,Asabano,Glottolog node suar1238,Asabano,Asabano,1,isolate,,,,,,,1.0,1.0
+sude1239,genus,Sudest,Glottolog node sude1239,Sudest,Austronesian,1,single-language,,,,0.8262,,0.0162,0.765,0.655
+suki1245,genus,Suki,Glottolog node suki1245,Suki,Suki-Gogodala,1,single-language,,,,0.9363,,0.1263,1.0,0.995
+suku1272,genus,Sukur,Glottolog node suku1272,Sukur,Afro-Asiatic,1,single-language,,,,0.8573,,0.0473,0.995,0.985
+sulk1246,genus,Sulka,Glottolog node sulk1246,Sulka,Sulka,1,isolate,,,,,,,1.0,1.0
+sume1241,genus,Sumerian,Glottolog node sume1241,Sumerian,Sumerian,1,isolate,,,,,,,1.0,1.0
+sund1252,genus,Sundanese,Glottolog node sund1252,Sundanese,Austronesian,1,single-language,,,,0.8262,,0.0162,0.89,0.86
+surr1238,genus,Sur,Glottolog node surr1238,Sur,Atlantic-Congo,1,single-language,,,,0.819,,0.009,0.595,0.45
+surs1246,genus,Sursurunga,Glottolog node surs1246,Sursurunga,Austronesian,1,single-language,,,,0.8262,,0.0162,0.855,0.8
+svan1243,genus,Svan,Glottolog node svan1243,Svan,Kartvelian,1,single-language,,,,0.8605,,0.0505,0.895,0.835
+tabo1241,genus,Tabo,Glottolog node tabo1241,Tabo,Tabo,1,isolate,,,,,,,1.0,1.0
+taia1239,genus,Taiap,Glottolog node taia1239,Taiap,Taiap,1,isolate,,,,,,,1.0,1.0
+tain1254,genus,Taino,Glottolog node tain1254,Taino,Arawakan,1,single-language,,,,0.831,,0.021,0.74,0.66
+take1257,genus,Takelma,Glottolog node take1257,Takelma,Takelma,1,isolate,,,,,,,1.0,1.0
+tall1235,genus,Tallán,Glottolog node tall1235,Tallán,Tallán,1,isolate,,,,,,,1.0,1.0
+tamb1257,genus,Tambora,Glottolog node tamb1257,Tambora,Tambora,1,isolate,,,,,,,1.0,1.0
+tami1290,genus,Tami,Glottolog node tami1290,Tami,Austronesian,1,single-language,,,,0.8262,,0.0162,0.83,0.745
+tana1288,genus,Tanahmerah,Glottolog node tana1288,Tanahmerah,Tanahmerah,1,isolate,,,,,,,1.0,1.0
+tand1253,genus,Tandia,Glottolog node tand1253,Tandia,Austronesian,1,single-language,,,,0.8262,,0.0162,0.89,0.86
+tane1237,genus,Tanema,Glottolog node tane1237,Tanema,Austronesian,1,single-language,,,,0.8164,,0.0064,0.585,0.5
+tang1348,genus,Tangga,Glottolog node tang1348,Tangga,Austronesian,1,single-language,,,,0.8262,,0.0162,0.855,0.8
+taru1236,genus,Taruma,Glottolog node taru1236,Taruma,Taruma,1,isolate,,,,,,,1.0,1.0
+taua1242,genus,Tauade,Glottolog node taua1242,Tauade,Tauade,1,isolate,,,,,,,1.0,1.0
+taus1252,genus,Tause,Glottolog node taus1252,Tause,Lakes Plain,1,single-language,,,,0.8284,,0.0184,0.735,0.66
+taus1253,genus,Taushiro,Glottolog node taus1253,Taushiro,Taushiro,1,isolate,,,,,,,1.0,1.0
+tean1237,genus,Teanu,Glottolog node tean1237,Teanu,Austronesian,1,single-language,,,,0.8164,,0.0064,0.585,0.5
+teri1250,genus,Teribe,Glottolog node teri1250,Teribe,Chibchan,1,single-language,,,,0.8427,,0.0327,0.835,0.785
+tika1246,genus,Tikar,Glottolog node tika1246,Tikar,Atlantic-Congo,1,single-language,,,,0.894,,0.084,1.0,1.0
+till1254,genus,Tillamook,Glottolog node till1254,Tillamook,Salishan,1,single-language,,,,0.8258,,0.0158,0.845,0.68
+timo1237,genus,Timote-Cuica,Glottolog node timo1237,Timote-Cuica,Timote-Cuica,1,isolate,,,,,,,1.0,1.0
+timu1245,genus,Timucua,Glottolog node timu1245,Timucua,Timucua,1,isolate,,,,,,,1.0,1.0
+tini1245,genus,Tinigua,Glottolog node tini1245,Tinigua,Tinigua,1,isolate,,,,,,,1.0,1.0
+tiwi1244,genus,Tiwi,Glottolog node tiwi1244,Tiwi,Tiwi,1,isolate,,,,,,,1.0,1.0
+tlin1245,genus,Tlingit,Glottolog node tlin1245,Tlingit,Athabaskan-Eyak-Tlingit,1,single-language,,,,0.9603,,0.1503,1.0,1.0
+tomo1244,genus,Tomoip,Glottolog node tomo1244,Tomoip,Austronesian,1,single-language,,,,0.8262,,0.0162,0.86,0.805
+tonk1249,genus,Tonkawa,Glottolog node tonk1249,Tonkawa,Tonkawa,1,isolate,,,,,,,1.0,1.0
+touo1238,genus,Touo,Glottolog node touo1238,Touo,Touo,1,isolate,,,,,,,1.0,1.0
+trum1247,genus,Trumai,Glottolog node trum1247,Trumai,Trumai,1,isolate,,,,,,,1.0,1.0
+tuba1279,genus,Tubar,Glottolog node tuba1279,Tubar,Uto-Aztecan,1,single-language,,,,0.8433,,0.0333,0.935,0.9
+tuni1251,genus,Tunia,Glottolog node tuni1251,Tunia,Atlantic-Congo,1,single-language,,,,0.8122,,0.0022,0.54,0.425
+tuni1252,genus,Tunica,Glottolog node tuni1252,Tunica,Tunica,1,isolate,,,,,,,1.0,1.0
+tura1265,genus,Turaka,Glottolog node tura1265,Turaka,Dagan,1,single-language,,,,0.8745,,0.0645,0.99,0.96
+tuwa1242,genus,Tuwari,Glottolog node tuwa1242,Tuwari,Walioic,1,single-language,,,,0.8729,,0.0629,0.975,0.955
+tuwu1238,genus,Tuwuli,Glottolog node tuwu1238,Tuwuli,Atlantic-Congo,1,single-language,,,,0.8232,,0.0132,0.67,0.635
+tuxa1239,genus,Tuxá,Glottolog node tuxa1239,Tuxá,Tuxá,1,isolate,,,,,,,1.0,1.0
+ubyk1235,genus,Ubykh,Glottolog node ubyk1235,Ubykh,Abkhaz-Adyge,1,single-language,,,,0.8652,,0.0552,0.965,0.96
+ukaa1243,genus,Ukaan,Glottolog node ukaa1243,Ukaan,Atlantic-Congo,1,single-language,,,,0.9252,,0.1152,1.0,1.0
+uman1240,genus,Umanakaina,Glottolog node uman1240,Umanakaina,Dagan,1,single-language,,,,0.8745,,0.0645,0.99,0.96
+umbu1235,genus,Umbugarla,Glottolog node umbu1235,Umbugarla,Umbugarla,1,isolate,,,,,,,1.0,1.0
+uncl1505,genus,Unclassified Riverine Bua,Glottolog node uncl1505,Unclassified Riverine Bua,Atlantic-Congo,1,unmeasured-clade,,,,0.8122,,0.0022,0.54,0.425
+uncl1524,genus,Unclassified Central Adamawa,Glottolog node uncl1524,Unclassified Central Adamawa,Atlantic-Congo,1,unmeasured-clade,,,,0.8761,,0.0661,1.0,1.0
+uncl1525,genus,Unclassified Sogeram,Glottolog node uncl1525,Unclassified Sogeram,Nuclear Trans New Guinea,1,unmeasured-clade,,,,0.8498,,0.0398,0.925,0.865
+uncl1526,genus,Unclassified North Volta-Congo,Glottolog node uncl1526,Unclassified North Volta-Congo,Atlantic-Congo,1,unmeasured-clade,,,,0.9437,,0.1337,1.0,1.0
+uncl1528,genus,Unclassified Antillean Arawakan,Glottolog node uncl1528,Unclassified Antillean Arawakan,Arawakan,1,unmeasured-clade,,,,0.831,,0.021,0.74,0.66
+uncl1544,genus,Unclassified Nuclear Macro-Je,Glottolog node uncl1544,Unclassified Nuclear Macro-Je,Nuclear-Macro-Je,1,unmeasured-clade,,,,0.9628,,0.1528,1.0,1.0
+unun9873,genus,Unclassified East Cushitic,Glottolog node unun9873,Unclassified East Cushitic,Afro-Asiatic,1,unmeasured-clade,,,,0.8636,,0.0536,1.0,0.975
+unun9878,genus,Unclassified Biu-Mandara,Glottolog node unun9878,Unclassified Biu-Mandara,Afro-Asiatic,1,unmeasured-clade,,,,0.8622,,0.0522,1.0,1.0
+unun9905,genus,Unclassified Samba-Duru,Glottolog node unun9905,Unclassified Samba-Duru,Atlantic-Congo,1,unmeasured-clade,,,,0.823,,0.013,0.83,0.685
+unun9906,genus,Unclassified Cameroun-Ubangian,Glottolog node unun9906,Unclassified Cameroun-Ubangian,Atlantic-Congo,1,unmeasured-clade,,,,0.9301,,0.1201,1.0,1.0
+unun9931,genus,Unclassified Bantoid,Glottolog node unun9931,Unclassified Bantoid,Atlantic-Congo,1,unmeasured-clade,,,,0.9159,,0.1059,1.0,1.0
+unun9943,genus,Unclassified Chibchan,Glottolog node unun9943,Unclassified Chibchan,Chibchan,1,unmeasured-clade,,,,0.9106,,0.1006,1.0,1.0
+unun9945,genus,Unclassified Barbacoan,Glottolog node unun9945,Unclassified Barbacoan,Barbacoan,1,unmeasured-clade,,,,0.8287,,0.0187,0.8,0.68
+unun9951,genus,Unclassified Sino-Tibetan,Glottolog node unun9951,Unclassified Sino-Tibetan,Sino-Tibetan,1,unmeasured-clade,,,,0.8756,,0.0656,1.0,0.995
+unun9964,genus,Unclassified Pama-Nyungan,Glottolog node unun9964,Unclassified Pama-Nyungan,Pama-Nyungan,1,unmeasured-clade,,,,0.9265,,0.1165,1.0,1.0
+unun9969,genus,Unclassified Nuclear Torricelli,Glottolog node unun9969,Unclassified Nuclear Torricelli,Nuclear Torricelli,1,unmeasured-clade,,,,0.9484,,0.1384,1.0,1.0
+unun9974,genus,Unclassified Kainantu-Goroka,Glottolog node unun9974,Unclassified Kainantu-Goroka,Nuclear Trans New Guinea,1,unmeasured-clade,,,,0.9416,,0.1316,1.0,1.0
+unun9975,genus,Unclassified Kainantu,Glottolog node unun9975,Unclassified Kainantu,Nuclear Trans New Guinea,1,unmeasured-clade,,,,0.8952,,0.0852,0.995,1.0
+unun9977,genus,Unclassified Goroka,Glottolog node unun9977,Unclassified Goroka,Nuclear Trans New Guinea,1,unmeasured-clade,,,,0.8553,,0.0453,0.95,0.96
+unun9979,genus,Unclassified Uruwa,Glottolog node unun9979,Unclassified Uruwa,Nuclear Trans New Guinea,1,unmeasured-clade,,,,0.832,,0.022,0.78,0.715
+urar1246,genus,Urarina,Glottolog node urar1246,Urarina,Urarina,1,isolate,,,,,,,1.0,1.0
+urat1244,genus,Urat,Glottolog node urat1244,Urat,Nuclear Torricelli,1,single-language,,,,0.8738,,0.0638,0.995,0.995
+urim1252,genus,Urim,Glottolog node urim1252,Urim,Nuclear Torricelli,1,single-language,,,,0.9484,,0.1384,1.0,1.0
+usku1243,genus,Usku,Glottolog node usku1243,Usku,Usku,1,isolate,,,,,,,1.0,1.0
+vano1237,genus,Lovono,Glottolog node vano1237,Lovono,Austronesian,1,single-language,,,,0.8164,,0.0064,0.585,0.5
+viem1243,genus,Viemo,Glottolog node viem1243,Viemo,Atlantic-Congo,1,single-language,,,,0.9146,,0.1046,1.0,1.0
+vile1241,genus,Vilela,Glottolog node vile1241,Vilela,Vilela,1,isolate,,,,,,,1.0,1.0
+wadj1254,genus,Wadjiginy,Glottolog node wadj1254,Wadjiginy,Wadjiginy,1,isolate,,,,,,,1.0,1.0
+wage1238,genus,Wageman,Glottolog node wage1238,Wageman,Wageman,1,isolate,,,,,,,1.0,1.0
+wana1268,genus,Wanap,Glottolog node wana1268,Wanap,Nuclear Torricelli,1,single-language,,,,0.9031,,0.0931,1.0,1.0
+waor1240,genus,Waorani,Glottolog node waor1240,Waorani,Waorani,1,isolate,,,,,,,1.0,1.0
+wara1303,genus,Warao,Glottolog node wara1303,Warao,Warao,1,isolate,,,,,,,1.0,1.0
+waro1242,genus,Waropen,Glottolog node waro1242,Waropen,Austronesian,1,single-language,,,,0.8262,,0.0162,0.89,0.86
+warr1255,genus,Warrgamay,Glottolog node warr1255,Warrgamay,Pama-Nyungan,1,single-language,,,,0.9265,,0.1165,1.0,1.0
+waru1265,genus,Warumungu,Glottolog node waru1265,Warumungu,Pama-Nyungan,1,single-language,,,,0.8695,,0.0595,0.99,0.965
+wasc1239,genus,Upper Chinook,Glottolog node wasc1239,Upper Chinook,Chinookan,1,single-language,,,,0.8868,,0.0768,0.93,0.895
+wase1252,genus,Wasembo,Glottolog node wase1252,Wasembo,Nuclear Trans New Guinea,1,single-language,,,,0.8652,,0.0552,0.985,0.97
+wash1253,genus,Washo,Glottolog node wash1253,Washo,Washo,1,isolate,,,,,,,1.0,1.0
+west2600,genus,West Makian,Glottolog node west2600,West Makian,North Halmahera,1,single-language,,,,0.8438,,0.0338,0.89,0.86
+wich1260,genus,Wichita,Glottolog node wich1260,Wichita,Caddoan,1,single-language,,,,0.8199,,0.0099,0.72,0.585
+wikn1246,genus,Wikngenchera,Glottolog node wikn1246,Wikngenchera,Pama-Nyungan,1,single-language,,,,0.811,,0.001,0.58,0.495
+wiru1244,genus,Wiru,Glottolog node wiru1244,Wiru,Wiru,1,isolate,,,,,,,1.0,1.0
+wiyo1248,genus,Wiyot,Glottolog node wiyo1248,Wiyot,Algic,1,single-language,,,,0.955,,0.145,1.0,1.0
+womp1235,genus,Wom (Papua New Guinea),Glottolog node womp1235,Wom (Papua New Guinea),Nuclear Torricelli,1,single-language,,,,0.9484,,0.1384,1.0,1.0
+xuku1239,genus,Xukurú,Glottolog node xuku1239,Xukurú,Xukurú,1,isolate,,,,,,,1.0,1.0
+yaak1241,genus,Yaaku,Glottolog node yaak1241,Yaaku,Afro-Asiatic,1,single-language,,,,0.8461,,0.0361,0.935,0.86
+yagu1244,genus,Yagua,Glottolog node yagu1244,Yagua,Peba-Yagua,1,single-language,,,,0.9255,,0.1155,0.995,0.995
+yale1246,genus,Yale,Glottolog node yale1246,Yale,Yale,1,isolate,,,,,,,1.0,1.0
+yama1264,genus,Yámana,Glottolog node yama1264,Yámana,Yámana,1,isolate,,,,,,,1.0,1.0
+yamb1257,genus,Yamben,Glottolog node yamb1257,Yamben,Nuclear Trans New Guinea,1,single-language,,,,0.9152,,0.1052,1.0,1.0
+yana1271,genus,Yana,Glottolog node yana1271,Yana,Yana,1,isolate,,,,,,,1.0,1.0
+yane1238,genus,Yanesha',Glottolog node yane1238,Yanesha',Arawakan,1,single-language,,,,0.8969,,0.0869,1.0,1.0
+yany1243,genus,Yanyuwa,Glottolog node yany1243,Yanyuwa,Pama-Nyungan,1,single-language,,,,0.8657,,0.0557,0.91,0.88
+yaum1237,genus,Yau-Nungon,Glottolog node yaum1237,Yau-Nungon,Nuclear Trans New Guinea,1,single-language,,,,0.832,,0.022,0.78,0.715
+yaur1239,genus,Yaur,Glottolog node yaur1239,Yaur,Austronesian,1,single-language,,,,0.8262,,0.0162,0.75,0.635
+yawe1241,genus,Yaweyuha,Glottolog node yawe1241,Yaweyuha,Nuclear Trans New Guinea,1,single-language,,,,0.8319,,0.0219,0.79,0.69
+yawi1238,genus,Yawiyo,Glottolog node yawi1238,Yawiyo,Walioic,1,single-language,,,,0.8729,,0.0629,0.975,0.955
+yeii1239,genus,Yei,Glottolog node yeii1239,Yei,Yam,1,single-language,,,,0.8157,,0.0057,0.705,0.61
+yele1255,genus,Yele,Glottolog node yele1255,Yele,Yele,1,isolate,,,,,,,1.0,1.0
+yera1243,genus,Yerakai,Glottolog node yera1243,Yerakai,Yerakai,1,isolate,,,,,,,1.0,1.0
+yere1243,genus,Yeretuar,Glottolog node yere1243,Yeretuar,Austronesian,1,single-language,,,,0.8262,,0.0162,0.75,0.64
+yetf1238,genus,Yetfa,Glottolog node yetf1238,Yetfa,Yetfa,1,isolate,,,,,,,1.0,1.0
+yinw1236,genus,Yinwum,Glottolog node yinw1236,Yinwum,Pama-Nyungan,1,single-language,,,,0.8247,,0.0147,0.72,0.61
+yuch1247,genus,Yuchi,Glottolog node yuch1247,Yuchi,Yuchi,1,isolate,,,,,,,1.0,1.0
+yura1255,genus,Yuracaré,Glottolog node yura1255,Yuracaré,Yuracaré,1,isolate,,,,,,,1.0,1.0
+yuro1248,genus,Yurok,Glottolog node yuro1248,Yurok,Algic,1,single-language,,,,0.955,,0.145,1.0,1.0
+yuru1243,genus,Yurumanguí,Glottolog node yuru1243,Yurumanguí,Yurumanguí,1,isolate,,,,,,,1.0,1.0
+yuwa1244,genus,Hoti,Glottolog node yuwa1244,Hoti,Hoti,1,isolate,,,,,,,1.0,1.0
+zuni1245,genus,Zuni,Glottolog node zuni1245,Zuni,Zuni,1,isolate,,,,,,,1.0,1.0

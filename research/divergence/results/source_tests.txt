@@ -1,0 +1,30 @@
+# blocks: 12 cognate datasets, 13 language families of dated nodes
+asjp:pmi-asymcat-smoothed minus asjp:ldnd (released):
+   cognate within           +0.026  95% CI [+0.016, +0.036]  P(diff<=0)=0.000
+   age                      +0.024  95% CI [+0.004, +0.044]  P(diff<=0)=0.008
+   age old                  +0.017  95% CI [-0.034, +0.067]  P(diff<=0)=0.266
+   cognate within, blocked  +0.026  95% CI [+0.009, +0.047]  P(diff<=0)=0.001
+   age, blocked             +0.024  95% CI [+0.002, +0.055]  P(diff<=0)=0.016
+   age old, blocked         +0.017  95% CI [-0.021, +0.056]  P(diff<=0)=0.166
+gled:pmi-asymcat-smoothed minus asjp:ldnd (released):
+   cognate within           +0.016  95% CI [+0.001, +0.032]  P(diff<=0)=0.017
+   age                      +0.041  95% CI [+0.014, +0.069]  P(diff<=0)=0.001
+   age old                  +0.020  95% CI [-0.041, +0.078]  P(diff<=0)=0.249
+   cognate within, blocked  +0.016  95% CI [-0.001, +0.033]  P(diff<=0)=0.040
+   age, blocked             +0.041  95% CI [+0.015, +0.091]  P(diff<=0)=0.000
+   age old, blocked         +0.020  95% CI [-0.019, +0.066]  P(diff<=0)=0.155
+asjp:pmi minus asjp:ldnd (released):
+   cognate within           +0.028  95% CI [+0.019, +0.038]  P(diff<=0)=0.000
+   age                      +0.026  95% CI [+0.005, +0.046]  P(diff<=0)=0.015
+   age old                  +0.021  95% CI [-0.026, +0.068]  P(diff<=0)=0.217
+   cognate within, blocked  +0.028  95% CI [+0.012, +0.047]  P(diff<=0)=0.000
+   age, blocked             +0.026  95% CI [+0.001, +0.065]  P(diff<=0)=0.021
+   age old, blocked         +0.021  95% CI [-0.025, +0.057]  P(diff<=0)=0.174
+# blocks: 12 cognate datasets, 13 language families of dated nodes
+asjp:pmi-asymcat-smoothed minus gled:pmi-asymcat-smoothed:
+   cognate within           +0.010  95% CI [-0.003, +0.023]  P(diff<=0)=0.078
+   age                      -0.018  95% CI [-0.041, -0.001]  P(diff<=0)=0.984
+   age old                  -0.003  95% CI [-0.036, +0.030]  P(diff<=0)=0.565
+   cognate within, blocked  +0.010  95% CI [+0.001, +0.020]  P(diff<=0)=0.019
+   age, blocked             -0.018  95% CI [-0.049, -0.003]  P(diff<=0)=0.993
+   age old, blocked         -0.003  95% CI [-0.027, +0.026]  P(diff<=0)=0.530

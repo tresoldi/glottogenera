@@ -1,0 +1,73 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "glottogenera"
+version = "1.0.0"
+description = "Genera defined by a divergence threshold on a language tree, with a release for Glottolog 5.3"
+readme = "README.md"
+requires-python = ">=3.10"
+license = "MIT AND CC-BY-4.0"
+license-files = ["LICENSE", "data/LICENSE"]
+authors = [
+    { name = "Tiago Tresoldi", email = "tiago.tresoldi@lingfil.uu.se" },
+]
+keywords = [
+    "linguistics",
+    "typology",
+    "language sampling",
+    "genealogical classification",
+    "glottolog",
+    "wals",
+]
+classifiers = [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Science/Research",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Topic :: Scientific/Engineering",
+    "Topic :: Text Processing :: Linguistic",
+]
+dependencies = [
+    "asymcat>=0.9",
+    "freqprob>=0.9",
+    "numpy>=1.20",
+    "scikit-learn>=1.2",
+    "scipy>=1.9",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=7", "ruff>=0.6"]
+# seqsim 0.4.0, also needed by the research scripts, is installed from git (see research/divergence/README.md)
+research = ["rapidfuzz>=3"]
+web = ["shapely>=2.0", "matplotlib>=3.5"]
+cldf = ["pycldf>=1.40"]
+
+[project.scripts]
+glottogenera = "glottogenera.cli:main"
+
+[project.urls]
+Homepage = "https://glottogenera.tresoldi.org"
+Repository = "https://github.com/tresoldi/glottogenera"
+Changelog = "https://github.com/tresoldi/glottogenera/blob/main/CHANGELOG.md"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+glottogenera = ["data/*.tsv"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 130
+
+[tool.ruff.lint]
+select = ["E4", "E7", "E9", "F"]
+ignore = ["E741"]

@@ -1,0 +1,251 @@
+{
+ "replicates_per_kind": 8,
+ "languages_with_several_doculects": 2020,
+ "multi_language_genera": 714,
+ "replicates": [
+  {
+   "kind": "correspondences",
+   "replicate": 1,
+   "delta": 0.81,
+   "genera": 1191,
+   "languages_changing_genus": 0.004430544696377378,
+   "multi_language_genera_identical": 0.9957983193277311,
+   "languages_changing_genus_fixed_delta": 0.004430544696377378,
+   "multi_language_genera_identical_fixed_delta": 0.9957983193277311
+  },
+  {
+   "kind": "correspondences",
+   "replicate": 2,
+   "delta": 0.811,
+   "genera": 1189,
+   "languages_changing_genus": 0.00039093041438623924,
+   "multi_language_genera_identical": 0.9985994397759104,
+   "languages_changing_genus_fixed_delta": 0.001563721657544957,
+   "multi_language_genera_identical_fixed_delta": 0.9971988795518207
+  },
+  {
+   "kind": "correspondences",
+   "replicate": 3,
+   "delta": 0.81,
+   "genera": 1199,
+   "languages_changing_genus": 0.003388063591347407,
+   "multi_language_genera_identical": 0.9957983193277311,
+   "languages_changing_genus_fixed_delta": 0.003388063591347407,
+   "multi_language_genera_identical_fixed_delta": 0.9957983193277311
+  },
+  {
+   "kind": "correspondences",
+   "replicate": 4,
+   "delta": 0.81,
+   "genera": 1194,
+   "languages_changing_genus": 0.0023455824863174357,
+   "multi_language_genera_identical": 0.9971988795518207,
+   "languages_changing_genus_fixed_delta": 0.0023455824863174357,
+   "multi_language_genera_identical_fixed_delta": 0.9971988795518207
+  },
+  {
+   "kind": "correspondences",
+   "replicate": 5,
+   "delta": 0.81,
+   "genera": 1193,
+   "languages_changing_genus": 0.001954652071931196,
+   "multi_language_genera_identical": 0.9985994397759104,
+   "languages_changing_genus_fixed_delta": 0.001954652071931196,
+   "multi_language_genera_identical_fixed_delta": 0.9985994397759104
+  },
+  {
+   "kind": "correspondences",
+   "replicate": 6,
+   "delta": 0.812,
+   "genera": 1184,
+   "languages_changing_genus": 0.004169924420119885,
+   "multi_language_genera_identical": 0.9957983193277311,
+   "languages_changing_genus_fixed_delta": 0.003127443315089914,
+   "multi_language_genera_identical_fixed_delta": 0.9971988795518207
+  },
+  {
+   "kind": "correspondences",
+   "replicate": 7,
+   "delta": 0.81,
+   "genera": 1193,
+   "languages_changing_genus": 0.001954652071931196,
+   "multi_language_genera_identical": 0.9985994397759104,
+   "languages_changing_genus_fixed_delta": 0.001954652071931196,
+   "multi_language_genera_identical_fixed_delta": 0.9985994397759104
+  },
+  {
+   "kind": "correspondences",
+   "replicate": 8,
+   "delta": 0.81,
+   "genera": 1191,
+   "languages_changing_genus": 0.0006515506906437321,
+   "multi_language_genera_identical": 0.9985994397759104,
+   "languages_changing_genus_fixed_delta": 0.0006515506906437321,
+   "multi_language_genera_identical_fixed_delta": 0.9985994397759104
+  },
+  {
+   "kind": "doculects",
+   "replicate": 1,
+   "delta": 0.816,
+   "genera": 1139,
+   "languages_changing_genus": 0.062157935887412044,
+   "multi_language_genera_identical": 0.9215686274509803,
+   "languages_changing_genus_fixed_delta": 0.04560854834506125,
+   "multi_language_genera_identical_fixed_delta": 0.9537815126050421
+  },
+  {
+   "kind": "doculects",
+   "replicate": 2,
+   "delta": 0.766,
+   "genera": 1488,
+   "languages_changing_genus": 0.27247849882720876,
+   "multi_language_genera_identical": 0.8319327731092437,
+   "languages_changing_genus_fixed_delta": 0.0437842064112588,
+   "multi_language_genera_identical_fixed_delta": 0.957983193277311
+  },
+  {
+   "kind": "doculects",
+   "replicate": 3,
+   "delta": 0.744,
+   "genera": 1635,
+   "languages_changing_genus": 0.35379202501954654,
+   "multi_language_genera_identical": 0.7619047619047619,
+   "languages_changing_genus_fixed_delta": 0.04209017461558509,
+   "multi_language_genera_identical_fixed_delta": 0.9439775910364145
+  },
+  {
+   "kind": "doculects",
+   "replicate": 4,
+   "delta": 0.802,
+   "genera": 1246,
+   "languages_changing_genus": 0.09512640083398488,
+   "multi_language_genera_identical": 0.9327731092436975,
+   "languages_changing_genus_fixed_delta": 0.045478238206932496,
+   "multi_language_genera_identical_fixed_delta": 0.9411764705882353
+  },
+  {
+   "kind": "doculects",
+   "replicate": 5,
+   "delta": 0.815,
+   "genera": 1167,
+   "languages_changing_genus": 0.04665102945009122,
+   "multi_language_genera_identical": 0.938375350140056,
+   "languages_changing_genus_fixed_delta": 0.06411258795934324,
+   "multi_language_genera_identical_fixed_delta": 0.9523809523809523
+  },
+  {
+   "kind": "doculects",
+   "replicate": 6,
+   "delta": 0.77,
+   "genera": 1426,
+   "languages_changing_genus": 0.23716445139431847,
+   "multi_language_genera_identical": 0.8501400560224089,
+   "languages_changing_genus_fixed_delta": 0.05629397967161845,
+   "multi_language_genera_identical_fixed_delta": 0.9397759103641457
+  },
+  {
+   "kind": "doculects",
+   "replicate": 7,
+   "delta": 0.813,
+   "genera": 1194,
+   "languages_changing_genus": 0.08848058378941882,
+   "multi_language_genera_identical": 0.938375350140056,
+   "languages_changing_genus_fixed_delta": 0.09369298931456867,
+   "multi_language_genera_identical_fixed_delta": 0.9369747899159664
+  },
+  {
+   "kind": "doculects",
+   "replicate": 8,
+   "delta": 0.814,
+   "genera": 1159,
+   "languages_changing_genus": 0.044175136825645035,
+   "multi_language_genera_identical": 0.9355742296918768,
+   "languages_changing_genus_fixed_delta": 0.05303622621839979,
+   "multi_language_genera_identical_fixed_delta": 0.9411764705882353
+  }
+ ],
+ "correspondences": {
+  "deltas": [
+   0.81,
+   0.81,
+   0.81,
+   0.81,
+   0.81,
+   0.81,
+   0.811,
+   0.812
+  ],
+  "mean_languages_changing_genus": 0.0024,
+  "mean_multi_language_genera_identical": 0.9974,
+  "mean_languages_changing_genus_fixed_delta": 0.0024,
+  "mean_multi_language_genera_identical_fixed_delta": 0.9974,
+  "identical_by_stability": [
+   {
+    "stability": [
+     0.9,
+     1
+    ],
+    "genera": 333,
+    "mean_reappearance": 1.0
+   },
+   {
+    "stability": [
+     0.5,
+     0.9
+    ],
+    "genera": 314,
+    "mean_reappearance": 0.9984
+   },
+   {
+    "stability": [
+     0,
+     0.5
+    ],
+    "genera": 67,
+    "mean_reappearance": 0.9795
+   }
+  ]
+ },
+ "doculects": {
+  "deltas": [
+   0.744,
+   0.766,
+   0.77,
+   0.802,
+   0.813,
+   0.814,
+   0.815,
+   0.816
+  ],
+  "mean_languages_changing_genus": 0.15,
+  "mean_multi_language_genera_identical": 0.8888,
+  "mean_languages_changing_genus_fixed_delta": 0.0555,
+  "mean_multi_language_genera_identical_fixed_delta": 0.9459,
+  "identical_by_stability": [
+   {
+    "stability": [
+     0.9,
+     1
+    ],
+    "genera": 333,
+    "mean_reappearance": 0.9962
+   },
+   {
+    "stability": [
+     0.5,
+     0.9
+    ],
+    "genera": 314,
+    "mean_reappearance": 0.8475
+   },
+   {
+    "stability": [
+     0,
+     0.5
+    ],
+    "genera": 67,
+    "mean_reappearance": 0.5485
+   }
+  ]
+ }
+}

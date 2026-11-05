@@ -1,0 +1,1758 @@
+{
+  "sources": {
+    "glottolog": {
+      "version": "5.3",
+      "release_tag_object": "0e0d80653e4087cd4ded6b5664ac5dc06426c08b",
+      "release_commit": "eb7d58221bea745a21cb7b96582118e990a295c2",
+      "cldf_commit": "072ca0d0410039fb8b779be8fc165bac575d2cda",
+      "doi": "10.5281/zenodo.18840935"
+    },
+    "asjp": {
+      "repository": "lexibank/asjp",
+      "commit": "012795349540ba0dabfdcf2be16f2e77622f62d6"
+    },
+    "wals": {
+      "repository": "cldf-datasets/wals",
+      "release": "v2020.1"
+    }
+  },
+  "hierarchy": {
+    "languages_below_another_language": 0
+  },
+  "divergence": {
+    "delta": 0.81,
+    "envelope_rule": "own",
+    "distance": {
+      "word": "PMI alignment (asymcat smoothed PMI, linear gaps)",
+      "gap": -2.5,
+      "iterations": 3,
+      "training_language_pairs": 30000,
+      "probable_cognate_threshold": 0.5,
+      "smoothing": "laplace",
+      "candidate_pairs": 960399,
+      "probable_cognates": 82855,
+      "symbols": 41,
+      "off_diagonal_pairs": 60
+    },
+    "calibration": {
+      "criterion": "mean ARI against WALS genera over Glottolog families with at least two WALS genera, averaged over a window of +-0.02 on a 0.001 grid",
+      "families": 49,
+      "languages": 1704,
+      "excluded_wals_label": "Creoles and Pidgins",
+      "smoothing": 0.02,
+      "grid_step": 0.001,
+      "objective": 0.6346,
+      "objective_unsmoothed_at_delta": 0.6541,
+      "tied_deltas": [
+        0.81,
+        0.81
+      ],
+      "family_resampling": {
+        "replicates": 1000,
+        "delta_percentiles_5_50_95": [
+          0.73,
+          0.81,
+          0.825
+        ],
+        "ends": [
+          {
+            "delta": 0.73,
+            "genera": 1728,
+            "languages_changing_genus": 2962
+          },
+          {
+            "delta": 0.825,
+            "genera": 1114,
+            "languages_changing_genus": 573
+          }
+        ]
+      },
+      "leave_one_family_out": {
+        "deltas": {
+          "0.808": 2,
+          "0.8085": 1,
+          "0.8095": 1,
+          "0.81": 40,
+          "0.813": 2,
+          "0.814": 1,
+          "0.817": 2
+        },
+        "mean_held_out_ari": 0.6337,
+        "mean_ari_at_delta": 0.6541
+      },
+      "alternatives": {
+        "unsmoothed": {
+          "delta": 0.812,
+          "genera": 1175,
+          "languages_changing_genus": 131
+        },
+        "window_0.01": {
+          "delta": 0.815,
+          "genera": 1162,
+          "languages_changing_genus": 248
+        },
+        "window_0.03": {
+          "delta": 0.807,
+          "genera": 1209,
+          "languages_changing_genus": 301
+        },
+        "families_with_3_wals_genera": {
+          "delta": 0.817,
+          "genera": 1151,
+          "languages_changing_genus": 291
+        },
+        "families_with_10_wals_languages": {
+          "delta": 0.824,
+          "genera": 1123,
+          "languages_changing_genus": 549
+        },
+        "weighted_by_languages": {
+          "delta": 0.829,
+          "genera": 981,
+          "languages_changing_genus": 1930
+        },
+        "including_single_genus_families": {
+          "delta": 0.876,
+          "families": 147,
+          "genera": 733,
+          "languages_changing_genus": 4644
+        },
+        "pooled_ari": {
+          "delta": 0.864,
+          "genera": 817,
+          "languages_changing_genus": 4083
+        },
+        "indo_european_only": {
+          "delta": 0.767,
+          "tied": [
+            0.728,
+            0.806
+          ],
+          "genera": 1477,
+          "languages_changing_genus": 2012
+        }
+      },
+      "null": {
+        "permutations": 20,
+        "across": {
+          "mean_objective": 0.3164,
+          "max_objective": 0.4192,
+          "mean_held_out_ari": 0.3042,
+          "max_held_out_ari": 0.4365
+        },
+        "within": {
+          "mean_objective": 0.3583,
+          "max_objective": 0.4442,
+          "mean_held_out_ari": 0.3456,
+          "max_held_out_ari": 0.4531
+        }
+      },
+      "family_optima": [
+        {
+          "family": "Austronesian",
+          "languages": 308,
+          "wals_genera": 31,
+          "tied": [
+            0.826,
+            0.826
+          ],
+          "ari_best": 0.1513,
+          "ari_at_delta": 0.1451
+        },
+        {
+          "family": "Atlantic-Congo",
+          "languages": 297,
+          "wals_genera": 32,
+          "tied": [
+            0.92,
+            0.922
+          ],
+          "ari_best": 0.9791,
+          "ari_at_delta": 0.3843
+        },
+        {
+          "family": "Indo-European",
+          "languages": 128,
+          "wals_genera": 10,
+          "tied": [
+            0.728,
+            0.806
+          ],
+          "ari_best": 0.9964,
+          "ari_at_delta": 0.9854
+        },
+        {
+          "family": "Sino-Tibetan",
+          "languages": 117,
+          "wals_genera": 18,
+          "tied": [
+            0.813,
+            0.828
+          ],
+          "ari_best": 0.9753,
+          "ari_at_delta": 0.8087
+        },
+        {
+          "family": "Afro-Asiatic",
+          "languages": 112,
+          "wals_genera": 13,
+          "tied": [
+            0.901,
+            0.916
+          ],
+          "ari_best": 0.9839,
+          "ari_at_delta": 0.7634
+        },
+        {
+          "family": "Pama-Nyungan",
+          "languages": 104,
+          "wals_genera": 4,
+          "tied": [
+            0.905,
+            0.926
+          ],
+          "ari_best": 0.3615,
+          "ari_at_delta": 0.2048
+        },
+        {
+          "family": "Nuclear Trans New Guinea",
+          "languages": 66,
+          "wals_genera": 12,
+          "tied": [
+            0.942,
+            0.97
+          ],
+          "ari_best": 0.9631,
+          "ari_at_delta": 0.402
+        },
+        {
+          "family": "Otomanguean",
+          "languages": 51,
+          "wals_genera": 10,
+          "tied": [
+            0.83,
+            0.864
+          ],
+          "ari_best": 0.9281,
+          "ari_at_delta": 0.8365
+        },
+        {
+          "family": "Austroasiatic",
+          "languages": 43,
+          "wals_genera": 12,
+          "tied": [
+            0.748,
+            0.845
+          ],
+          "ari_best": 1.0,
+          "ari_at_delta": 1.0
+        },
+        {
+          "family": "Uto-Aztecan",
+          "languages": 37,
+          "wals_genera": 10,
+          "tied": [
+            0.706,
+            0.796
+          ],
+          "ari_best": 0.9741,
+          "ari_at_delta": 0.7543
+        },
+        {
+          "family": "Algic",
+          "languages": 30,
+          "wals_genera": 3,
+          "tied": [
+            0.93,
+            0.954
+          ],
+          "ari_best": 1.0,
+          "ari_at_delta": 0.7731
+        },
+        {
+          "family": "Nakh-Daghestanian",
+          "languages": 28,
+          "wals_genera": 4,
+          "tied": [
+            0.798,
+            0.87
+          ],
+          "ari_best": 0.9395,
+          "ari_at_delta": 0.9395
+        },
+        {
+          "family": "Arawakan",
+          "languages": 27,
+          "wals_genera": 12,
+          "tied": [
+            0.876,
+            0.896
+          ],
+          "ari_best": 0.7707,
+          "ari_at_delta": 0.7461
+        },
+        {
+          "family": "Mande",
+          "languages": 26,
+          "wals_genera": 2,
+          "tied": [
+            0.806,
+            0.855
+          ],
+          "ari_best": 1.0,
+          "ari_at_delta": 1.0
+        },
+        {
+          "family": "Uralic",
+          "languages": 24,
+          "wals_genera": 7,
+          "tied": [
+            0.771,
+            0.837
+          ],
+          "ari_best": 0.9527,
+          "ari_at_delta": 0.9527
+        },
+        {
+          "family": "Athabaskan-Eyak-Tlingit",
+          "languages": 23,
+          "wals_genera": 3,
+          "tied": [
+            0.713,
+            0.926
+          ],
+          "ari_best": 1.0,
+          "ari_at_delta": 1.0
+        },
+        {
+          "family": "Central Sudanic",
+          "languages": 23,
+          "wals_genera": 5,
+          "tied": [
+            0.729,
+            0.878
+          ],
+          "ari_best": 0.8933,
+          "ari_at_delta": 0.8933
+        },
+        {
+          "family": "Tupian",
+          "languages": 21,
+          "wals_genera": 6,
+          "tied": [
+            0.579,
+            0.852
+          ],
+          "ari_best": 0.8571,
+          "ari_at_delta": 0.8571
+        },
+        {
+          "family": "Dravidian",
+          "languages": 19,
+          "wals_genera": 4,
+          "tied": [
+            0.721,
+            0.749
+          ],
+          "ari_best": 0.9863,
+          "ari_at_delta": 0.0
+        },
+        {
+          "family": "Salishan",
+          "languages": 19,
+          "wals_genera": 5,
+          "tied": [
+            0.759,
+            0.825
+          ],
+          "ari_best": 1.0,
+          "ari_at_delta": 1.0
+        },
+        {
+          "family": "Tai-Kadai",
+          "languages": 17,
+          "wals_genera": 3,
+          "tied": [
+            0.805,
+            0.865
+          ],
+          "ari_best": 0.7769,
+          "ari_at_delta": 0.7769
+        },
+        {
+          "family": "Chibchan",
+          "languages": 16,
+          "wals_genera": 10,
+          "tied": [
+            0.843,
+            0.87
+          ],
+          "ari_best": 1.0,
+          "ari_at_delta": 0.55
+        },
+        {
+          "family": "Pano-Tacanan",
+          "languages": 15,
+          "wals_genera": 2,
+          "tied": [
+            0.754,
+            0.896
+          ],
+          "ari_best": 1.0,
+          "ari_at_delta": 1.0
+        },
+        {
+          "family": "Nuclear-Macro-Je",
+          "languages": 13,
+          "wals_genera": 6,
+          "tied": [
+            0.934,
+            0.962
+          ],
+          "ari_best": 1.0,
+          "ari_at_delta": 0.6309
+        },
+        {
+          "family": "Siouan",
+          "languages": 13,
+          "wals_genera": 2,
+          "tied": [
+            0.705,
+            0.856
+          ],
+          "ari_best": 0.1413,
+          "ari_at_delta": 0.1413
+        },
+        {
+          "family": "Nuclear Torricelli",
+          "languages": 12,
+          "wals_genera": 5,
+          "tied": [
+            0.904,
+            0.948
+          ],
+          "ari_best": 0.6835,
+          "ari_at_delta": 0.2254
+        },
+        {
+          "family": "Sepik",
+          "languages": 11,
+          "wals_genera": 6,
+          "tied": [
+            0.771,
+            0.896
+          ],
+          "ari_best": 0.6995,
+          "ari_at_delta": 0.6995
+        },
+        {
+          "family": "Eskimo-Aleut",
+          "languages": 10,
+          "wals_genera": 2,
+          "tied": [
+            0.685,
+            0.948
+          ],
+          "ari_best": 1.0,
+          "ari_at_delta": 1.0
+        },
+        {
+          "family": "Ta-Ne-Omotic",
+          "languages": 10,
+          "wals_genera": 2,
+          "tied": [
+            0.566,
+            0.767
+          ],
+          "ari_best": 0.0426,
+          "ari_at_delta": 0.0
+        },
+        {
+          "family": "Gunwinyguan",
+          "languages": 9,
+          "wals_genera": 7,
+          "tied": [
+            0.5,
+            1.0
+          ],
+          "ari_best": 0.0,
+          "ari_at_delta": -0.0435
+        },
+        {
+          "family": "Iroquoian",
+          "languages": 8,
+          "wals_genera": 2,
+          "tied": [
+            0.794,
+            0.946
+          ],
+          "ari_best": 1.0,
+          "ari_at_delta": 1.0
+        },
+        {
+          "family": "Timor-Alor-Pantar",
+          "languages": 7,
+          "wals_genera": 3,
+          "tied": [
+            0.812,
+            0.83
+          ],
+          "ari_best": 1.0,
+          "ari_at_delta": 0.1818
+        },
+        {
+          "family": "Sko",
+          "languages": 6,
+          "wals_genera": 4,
+          "tied": [
+            0.684,
+            0.905
+          ],
+          "ari_best": 1.0,
+          "ari_at_delta": 1.0
+        },
+        {
+          "family": "Wakashan",
+          "languages": 6,
+          "wals_genera": 2,
+          "tied": [
+            0.623,
+            0.898
+          ],
+          "ari_best": 1.0,
+          "ari_at_delta": 1.0
+        },
+        {
+          "family": "Chukotko-Kamchatkan",
+          "languages": 5,
+          "wals_genera": 2,
+          "tied": [
+            0.5,
+            0.845
+          ],
+          "ari_best": 1.0,
+          "ari_at_delta": 1.0
+        },
+        {
+          "family": "Guaicuruan",
+          "languages": 5,
+          "wals_genera": 2,
+          "tied": [
+            0.653,
+            0.909
+          ],
+          "ari_best": 0.4444,
+          "ari_at_delta": 0.4444
+        },
+        {
+          "family": "Ramu",
+          "languages": 5,
+          "wals_genera": 3,
+          "tied": [
+            0.606,
+            0.818
+          ],
+          "ari_best": 1.0,
+          "ari_at_delta": 1.0
+        },
+        {
+          "family": "Mangarrayi-Maran",
+          "languages": 4,
+          "wals_genera": 4,
+          "tied": [
+            0.5,
+            0.75
+          ],
+          "ari_best": 1.0,
+          "ari_at_delta": 0.0
+        },
+        {
+          "family": "Maningrida",
+          "languages": 4,
+          "wals_genera": 3,
+          "tied": [
+            0.75,
+            0.852
+          ],
+          "ari_best": 1.0,
+          "ari_at_delta": 1.0
+        },
+        {
+          "family": "Western Daly",
+          "languages": 4,
+          "wals_genera": 2,
+          "tied": [
+            0.5,
+            0.609
+          ],
+          "ari_best": 1.0,
+          "ari_at_delta": 0.0
+        },
+        {
+          "family": "Mirndi",
+          "languages": 3,
+          "wals_genera": 3,
+          "tied": [
+            0.5,
+            0.891
+          ],
+          "ari_best": 1.0,
+          "ari_at_delta": 1.0
+        },
+        {
+          "family": "Saharan",
+          "languages": 3,
+          "wals_genera": 2,
+          "tied": [
+            0.5,
+            0.886
+          ],
+          "ari_best": 1.0,
+          "ari_at_delta": 1.0
+        },
+        {
+          "family": "Tuu",
+          "languages": 3,
+          "wals_genera": 2,
+          "tied": [
+            0.665,
+            1.0
+          ],
+          "ari_best": 0.0,
+          "ari_at_delta": 0.0
+        },
+        {
+          "family": "Saliban",
+          "languages": 2,
+          "wals_genera": 2,
+          "tied": [
+            0.5,
+            0.76
+          ],
+          "ari_best": 1.0,
+          "ari_at_delta": 0.0
+        },
+        {
+          "family": "South Bird's Head",
+          "languages": 2,
+          "wals_genera": 2,
+          "tied": [
+            0.5,
+            0.859
+          ],
+          "ari_best": 1.0,
+          "ari_at_delta": 1.0
+        },
+        {
+          "family": "Southern Daly",
+          "languages": 2,
+          "wals_genera": 2,
+          "tied": [
+            0.5,
+            0.828
+          ],
+          "ari_best": 1.0,
+          "ari_at_delta": 1.0
+        },
+        {
+          "family": "Suki-Gogodala",
+          "languages": 2,
+          "wals_genera": 2,
+          "tied": [
+            0.5,
+            0.936
+          ],
+          "ari_best": 1.0,
+          "ari_at_delta": 1.0
+        },
+        {
+          "family": "Tor-Orya",
+          "languages": 2,
+          "wals_genera": 2,
+          "tied": [
+            0.5,
+            0.812
+          ],
+          "ari_best": 1.0,
+          "ari_at_delta": 1.0
+        },
+        {
+          "family": "Yuki-Wappo",
+          "languages": 2,
+          "wals_genera": 2,
+          "tied": [
+            0.5,
+            0.724
+          ],
+          "ari_best": 1.0,
+          "ari_at_delta": 0.0
+        }
+      ],
+      "family_optima_spread": {
+        "families": 29,
+        "midpoint_percentiles_25_50_75": [
+          0.7965,
+          0.826,
+          0.886
+        ]
+      },
+      "curve": [
+        {
+          "delta": 0.5,
+          "objective": 0.3135,
+          "objective_smoothed": null,
+          "indo_european_ari": 0.1656,
+          "pooled_ari": 0.0867,
+          "genera": 4140
+        },
+        {
+          "delta": 0.505,
+          "objective": 0.3158,
+          "objective_smoothed": null,
+          "indo_european_ari": 0.1656,
+          "pooled_ari": 0.0901,
+          "genera": 4087
+        },
+        {
+          "delta": 0.51,
+          "objective": 0.316,
+          "objective_smoothed": null,
+          "indo_european_ari": 0.1684,
+          "pooled_ari": 0.0923,
+          "genera": 4038
+        },
+        {
+          "delta": 0.515,
+          "objective": 0.3178,
+          "objective_smoothed": null,
+          "indo_european_ari": 0.1693,
+          "pooled_ari": 0.094,
+          "genera": 3980
+        },
+        {
+          "delta": 0.52,
+          "objective": 0.3186,
+          "objective_smoothed": 0.3231,
+          "indo_european_ari": 0.1747,
+          "pooled_ari": 0.0947,
+          "genera": 3934
+        },
+        {
+          "delta": 0.525,
+          "objective": 0.3263,
+          "objective_smoothed": 0.3264,
+          "indo_european_ari": 0.1756,
+          "pooled_ari": 0.0981,
+          "genera": 3859
+        },
+        {
+          "delta": 0.53,
+          "objective": 0.3309,
+          "objective_smoothed": 0.3297,
+          "indo_european_ari": 0.1765,
+          "pooled_ari": 0.1158,
+          "genera": 3787
+        },
+        {
+          "delta": 0.535,
+          "objective": 0.3314,
+          "objective_smoothed": 0.3329,
+          "indo_european_ari": 0.1847,
+          "pooled_ari": 0.1174,
+          "genera": 3727
+        },
+        {
+          "delta": 0.54,
+          "objective": 0.3402,
+          "objective_smoothed": 0.3372,
+          "indo_european_ari": 0.1909,
+          "pooled_ari": 0.1198,
+          "genera": 3672
+        },
+        {
+          "delta": 0.545,
+          "objective": 0.342,
+          "objective_smoothed": 0.3417,
+          "indo_european_ari": 0.1909,
+          "pooled_ari": 0.1209,
+          "genera": 3629
+        },
+        {
+          "delta": 0.55,
+          "objective": 0.3426,
+          "objective_smoothed": 0.3465,
+          "indo_european_ari": 0.1909,
+          "pooled_ari": 0.1228,
+          "genera": 3584
+        },
+        {
+          "delta": 0.555,
+          "objective": 0.3439,
+          "objective_smoothed": 0.3513,
+          "indo_european_ari": 0.1909,
+          "pooled_ari": 0.1251,
+          "genera": 3502
+        },
+        {
+          "delta": 0.56,
+          "objective": 0.3583,
+          "objective_smoothed": 0.3574,
+          "indo_european_ari": 0.3843,
+          "pooled_ari": 0.1425,
+          "genera": 3409
+        },
+        {
+          "delta": 0.565,
+          "objective": 0.36,
+          "objective_smoothed": 0.3645,
+          "indo_european_ari": 0.3843,
+          "pooled_ari": 0.1459,
+          "genera": 3347
+        },
+        {
+          "delta": 0.57,
+          "objective": 0.367,
+          "objective_smoothed": 0.3723,
+          "indo_european_ari": 0.3843,
+          "pooled_ari": 0.1483,
+          "genera": 3269
+        },
+        {
+          "delta": 0.575,
+          "objective": 0.3722,
+          "objective_smoothed": 0.3802,
+          "indo_european_ari": 0.3843,
+          "pooled_ari": 0.1501,
+          "genera": 3210
+        },
+        {
+          "delta": 0.58,
+          "objective": 0.3981,
+          "objective_smoothed": 0.3883,
+          "indo_european_ari": 0.3843,
+          "pooled_ari": 0.1596,
+          "genera": 3137
+        },
+        {
+          "delta": 0.585,
+          "objective": 0.4017,
+          "objective_smoothed": 0.3958,
+          "indo_european_ari": 0.4267,
+          "pooled_ari": 0.1638,
+          "genera": 3089
+        },
+        {
+          "delta": 0.59,
+          "objective": 0.4067,
+          "objective_smoothed": 0.4038,
+          "indo_european_ari": 0.583,
+          "pooled_ari": 0.1765,
+          "genera": 3044
+        },
+        {
+          "delta": 0.595,
+          "objective": 0.409,
+          "objective_smoothed": 0.4095,
+          "indo_european_ari": 0.6593,
+          "pooled_ari": 0.1903,
+          "genera": 2967
+        },
+        {
+          "delta": 0.6,
+          "objective": 0.4209,
+          "objective_smoothed": 0.4146,
+          "indo_european_ari": 0.6593,
+          "pooled_ari": 0.1937,
+          "genera": 2919
+        },
+        {
+          "delta": 0.605,
+          "objective": 0.4215,
+          "objective_smoothed": 0.4188,
+          "indo_european_ari": 0.6593,
+          "pooled_ari": 0.195,
+          "genera": 2891
+        },
+        {
+          "delta": 0.61,
+          "objective": 0.4152,
+          "objective_smoothed": 0.4241,
+          "indo_european_ari": 0.6593,
+          "pooled_ari": 0.1985,
+          "genera": 2852
+        },
+        {
+          "delta": 0.615,
+          "objective": 0.4169,
+          "objective_smoothed": 0.4294,
+          "indo_european_ari": 0.6914,
+          "pooled_ari": 0.2032,
+          "genera": 2805
+        },
+        {
+          "delta": 0.62,
+          "objective": 0.4244,
+          "objective_smoothed": 0.4347,
+          "indo_european_ari": 0.7131,
+          "pooled_ari": 0.2079,
+          "genera": 2765
+        },
+        {
+          "delta": 0.625,
+          "objective": 0.441,
+          "objective_smoothed": 0.4395,
+          "indo_european_ari": 0.7131,
+          "pooled_ari": 0.2119,
+          "genera": 2710
+        },
+        {
+          "delta": 0.63,
+          "objective": 0.4495,
+          "objective_smoothed": 0.4432,
+          "indo_european_ari": 0.7131,
+          "pooled_ari": 0.2131,
+          "genera": 2673
+        },
+        {
+          "delta": 0.635,
+          "objective": 0.4517,
+          "objective_smoothed": 0.4506,
+          "indo_european_ari": 0.7136,
+          "pooled_ari": 0.2184,
+          "genera": 2609
+        },
+        {
+          "delta": 0.64,
+          "objective": 0.4604,
+          "objective_smoothed": 0.4582,
+          "indo_european_ari": 0.7306,
+          "pooled_ari": 0.2217,
+          "genera": 2573
+        },
+        {
+          "delta": 0.645,
+          "objective": 0.4606,
+          "objective_smoothed": 0.466,
+          "indo_european_ari": 0.7333,
+          "pooled_ari": 0.2234,
+          "genera": 2528
+        },
+        {
+          "delta": 0.65,
+          "objective": 0.4636,
+          "objective_smoothed": 0.4737,
+          "indo_european_ari": 0.7333,
+          "pooled_ari": 0.2271,
+          "genera": 2486
+        },
+        {
+          "delta": 0.655,
+          "objective": 0.4807,
+          "objective_smoothed": 0.4814,
+          "indo_european_ari": 0.885,
+          "pooled_ari": 0.246,
+          "genera": 2431
+        },
+        {
+          "delta": 0.66,
+          "objective": 0.4835,
+          "objective_smoothed": 0.4886,
+          "indo_european_ari": 0.885,
+          "pooled_ari": 0.2502,
+          "genera": 2398
+        },
+        {
+          "delta": 0.665,
+          "objective": 0.5075,
+          "objective_smoothed": 0.4962,
+          "indo_european_ari": 0.885,
+          "pooled_ari": 0.2522,
+          "genera": 2343
+        },
+        {
+          "delta": 0.67,
+          "objective": 0.5101,
+          "objective_smoothed": 0.506,
+          "indo_european_ari": 0.885,
+          "pooled_ari": 0.2566,
+          "genera": 2286
+        },
+        {
+          "delta": 0.675,
+          "objective": 0.5163,
+          "objective_smoothed": 0.5144,
+          "indo_european_ari": 0.885,
+          "pooled_ari": 0.2626,
+          "genera": 2229
+        },
+        {
+          "delta": 0.68,
+          "objective": 0.516,
+          "objective_smoothed": 0.5219,
+          "indo_european_ari": 0.885,
+          "pooled_ari": 0.2631,
+          "genera": 2177
+        },
+        {
+          "delta": 0.685,
+          "objective": 0.5411,
+          "objective_smoothed": 0.5288,
+          "indo_european_ari": 0.885,
+          "pooled_ari": 0.2683,
+          "genera": 2124
+        },
+        {
+          "delta": 0.69,
+          "objective": 0.5415,
+          "objective_smoothed": 0.5336,
+          "indo_european_ari": 0.885,
+          "pooled_ari": 0.2721,
+          "genera": 2072
+        },
+        {
+          "delta": 0.695,
+          "objective": 0.5435,
+          "objective_smoothed": 0.5394,
+          "indo_european_ari": 0.9617,
+          "pooled_ari": 0.288,
+          "genera": 2018
+        },
+        {
+          "delta": 0.7,
+          "objective": 0.544,
+          "objective_smoothed": 0.546,
+          "indo_european_ari": 0.9617,
+          "pooled_ari": 0.2908,
+          "genera": 1973
+        },
+        {
+          "delta": 0.705,
+          "objective": 0.547,
+          "objective_smoothed": 0.5527,
+          "indo_european_ari": 0.9617,
+          "pooled_ari": 0.2931,
+          "genera": 1919
+        },
+        {
+          "delta": 0.71,
+          "objective": 0.5479,
+          "objective_smoothed": 0.5566,
+          "indo_european_ari": 0.9617,
+          "pooled_ari": 0.2965,
+          "genera": 1894
+        },
+        {
+          "delta": 0.715,
+          "objective": 0.5681,
+          "objective_smoothed": 0.5613,
+          "indo_european_ari": 0.9617,
+          "pooled_ari": 0.3058,
+          "genera": 1859
+        },
+        {
+          "delta": 0.72,
+          "objective": 0.5711,
+          "objective_smoothed": 0.5658,
+          "indo_european_ari": 0.9617,
+          "pooled_ari": 0.3065,
+          "genera": 1830
+        },
+        {
+          "delta": 0.725,
+          "objective": 0.5666,
+          "objective_smoothed": 0.5703,
+          "indo_european_ari": 0.9626,
+          "pooled_ari": 0.308,
+          "genera": 1798
+        },
+        {
+          "delta": 0.73,
+          "objective": 0.5801,
+          "objective_smoothed": 0.5758,
+          "indo_european_ari": 0.9964,
+          "pooled_ari": 0.3981,
+          "genera": 1728
+        },
+        {
+          "delta": 0.735,
+          "objective": 0.5805,
+          "objective_smoothed": 0.5807,
+          "indo_european_ari": 0.9964,
+          "pooled_ari": 0.4037,
+          "genera": 1691
+        },
+        {
+          "delta": 0.74,
+          "objective": 0.5805,
+          "objective_smoothed": 0.5849,
+          "indo_european_ari": 0.9964,
+          "pooled_ari": 0.4082,
+          "genera": 1654
+        },
+        {
+          "delta": 0.745,
+          "objective": 0.5844,
+          "objective_smoothed": 0.5864,
+          "indo_european_ari": 0.9964,
+          "pooled_ari": 0.4118,
+          "genera": 1622
+        },
+        {
+          "delta": 0.75,
+          "objective": 0.6135,
+          "objective_smoothed": 0.5885,
+          "indo_european_ari": 0.9964,
+          "pooled_ari": 0.4271,
+          "genera": 1587
+        },
+        {
+          "delta": 0.755,
+          "objective": 0.6011,
+          "objective_smoothed": 0.5903,
+          "indo_european_ari": 0.9964,
+          "pooled_ari": 0.4305,
+          "genera": 1536
+        },
+        {
+          "delta": 0.76,
+          "objective": 0.6061,
+          "objective_smoothed": 0.5924,
+          "indo_european_ari": 0.9964,
+          "pooled_ari": 0.4336,
+          "genera": 1512
+        },
+        {
+          "delta": 0.765,
+          "objective": 0.5865,
+          "objective_smoothed": 0.5945,
+          "indo_european_ari": 0.9964,
+          "pooled_ari": 0.4375,
+          "genera": 1487
+        },
+        {
+          "delta": 0.77,
+          "objective": 0.5908,
+          "objective_smoothed": 0.5965,
+          "indo_european_ari": 0.9964,
+          "pooled_ari": 0.4428,
+          "genera": 1443
+        },
+        {
+          "delta": 0.775,
+          "objective": 0.5953,
+          "objective_smoothed": 0.5981,
+          "indo_european_ari": 0.9964,
+          "pooled_ari": 0.4433,
+          "genera": 1422
+        },
+        {
+          "delta": 0.78,
+          "objective": 0.6016,
+          "objective_smoothed": 0.6002,
+          "indo_european_ari": 0.9964,
+          "pooled_ari": 0.4548,
+          "genera": 1390
+        },
+        {
+          "delta": 0.785,
+          "objective": 0.6019,
+          "objective_smoothed": 0.6049,
+          "indo_european_ari": 0.9964,
+          "pooled_ari": 0.4578,
+          "genera": 1355
+        },
+        {
+          "delta": 0.79,
+          "objective": 0.6054,
+          "objective_smoothed": 0.6126,
+          "indo_european_ari": 0.9964,
+          "pooled_ari": 0.4645,
+          "genera": 1319
+        },
+        {
+          "delta": 0.795,
+          "objective": 0.6188,
+          "objective_smoothed": 0.6204,
+          "indo_european_ari": 0.9964,
+          "pooled_ari": 0.4681,
+          "genera": 1287
+        },
+        {
+          "delta": 0.8,
+          "objective": 0.6221,
+          "objective_smoothed": 0.6268,
+          "indo_european_ari": 0.9964,
+          "pooled_ari": 0.4709,
+          "genera": 1265
+        },
+        {
+          "delta": 0.805,
+          "objective": 0.6386,
+          "objective_smoothed": 0.6318,
+          "indo_european_ari": 0.9964,
+          "pooled_ari": 0.4811,
+          "genera": 1231
+        },
+        {
+          "delta": 0.81,
+          "objective": 0.6541,
+          "objective_smoothed": 0.6346,
+          "indo_european_ari": 0.9854,
+          "pooled_ari": 0.5129,
+          "genera": 1190
+        },
+        {
+          "delta": 0.815,
+          "objective": 0.6541,
+          "objective_smoothed": 0.6338,
+          "indo_european_ari": 0.9854,
+          "pooled_ari": 0.5224,
+          "genera": 1162
+        },
+        {
+          "delta": 0.82,
+          "objective": 0.6395,
+          "objective_smoothed": 0.63,
+          "indo_european_ari": 0.9854,
+          "pooled_ari": 0.5226,
+          "genera": 1144
+        },
+        {
+          "delta": 0.825,
+          "objective": 0.6399,
+          "objective_smoothed": 0.6245,
+          "indo_european_ari": 0.9854,
+          "pooled_ari": 0.5229,
+          "genera": 1114
+        },
+        {
+          "delta": 0.83,
+          "objective": 0.6146,
+          "objective_smoothed": 0.6117,
+          "indo_european_ari": 0.9854,
+          "pooled_ari": 0.4912,
+          "genera": 974
+        },
+        {
+          "delta": 0.835,
+          "objective": 0.6023,
+          "objective_smoothed": 0.5963,
+          "indo_european_ari": 0.9854,
+          "pooled_ari": 0.4917,
+          "genera": 959
+        },
+        {
+          "delta": 0.84,
+          "objective": 0.5762,
+          "objective_smoothed": 0.5774,
+          "indo_european_ari": 0.6245,
+          "pooled_ari": 0.4837,
+          "genera": 932
+        },
+        {
+          "delta": 0.845,
+          "objective": 0.5829,
+          "objective_smoothed": 0.558,
+          "indo_european_ari": 0.6245,
+          "pooled_ari": 0.5634,
+          "genera": 910
+        },
+        {
+          "delta": 0.85,
+          "objective": 0.5432,
+          "objective_smoothed": 0.5379,
+          "indo_european_ari": 0.6245,
+          "pooled_ari": 0.5597,
+          "genera": 881
+        },
+        {
+          "delta": 0.855,
+          "objective": 0.5231,
+          "objective_smoothed": 0.519,
+          "indo_european_ari": 0.6279,
+          "pooled_ari": 0.5604,
+          "genera": 855
+        },
+        {
+          "delta": 0.86,
+          "objective": 0.4795,
+          "objective_smoothed": 0.4991,
+          "indo_european_ari": 0.6279,
+          "pooled_ari": 0.5603,
+          "genera": 838
+        },
+        {
+          "delta": 0.865,
+          "objective": 0.4814,
+          "objective_smoothed": 0.481,
+          "indo_european_ari": 0.6279,
+          "pooled_ari": 0.5634,
+          "genera": 811
+        },
+        {
+          "delta": 0.87,
+          "objective": 0.4618,
+          "objective_smoothed": 0.464,
+          "indo_european_ari": 0.6279,
+          "pooled_ari": 0.5663,
+          "genera": 778
+        },
+        {
+          "delta": 0.875,
+          "objective": 0.4496,
+          "objective_smoothed": 0.4447,
+          "indo_european_ari": 0.6279,
+          "pooled_ari": 0.5654,
+          "genera": 754
+        },
+        {
+          "delta": 0.88,
+          "objective": 0.4304,
+          "objective_smoothed": 0.4208,
+          "indo_european_ari": 0.6279,
+          "pooled_ari": 0.5321,
+          "genera": 729
+        },
+        {
+          "delta": 0.885,
+          "objective": 0.4299,
+          "objective_smoothed": 0.394,
+          "indo_european_ari": 0.6279,
+          "pooled_ari": 0.5196,
+          "genera": 715
+        },
+        {
+          "delta": 0.89,
+          "objective": 0.4045,
+          "objective_smoothed": 0.3655,
+          "indo_european_ari": 0.6279,
+          "pooled_ari": 0.5187,
+          "genera": 700
+        },
+        {
+          "delta": 0.895,
+          "objective": 0.3548,
+          "objective_smoothed": 0.336,
+          "indo_european_ari": 0.6279,
+          "pooled_ari": 0.5183,
+          "genera": 671
+        },
+        {
+          "delta": 0.9,
+          "objective": 0.2736,
+          "objective_smoothed": 0.3079,
+          "indo_european_ari": 0.6279,
+          "pooled_ari": 0.5173,
+          "genera": 646
+        },
+        {
+          "delta": 0.905,
+          "objective": 0.2626,
+          "objective_smoothed": 0.2802,
+          "indo_european_ari": 0.0,
+          "pooled_ari": 0.4948,
+          "genera": 622
+        },
+        {
+          "delta": 0.91,
+          "objective": 0.2236,
+          "objective_smoothed": 0.2521,
+          "indo_european_ari": 0.0,
+          "pooled_ari": 0.4936,
+          "genera": 608
+        },
+        {
+          "delta": 0.915,
+          "objective": 0.2045,
+          "objective_smoothed": 0.2279,
+          "indo_european_ari": 0.0,
+          "pooled_ari": 0.5291,
+          "genera": 577
+        },
+        {
+          "delta": 0.92,
+          "objective": 0.2031,
+          "objective_smoothed": 0.2098,
+          "indo_european_ari": 0.0,
+          "pooled_ari": 0.5289,
+          "genera": 561
+        },
+        {
+          "delta": 0.925,
+          "objective": 0.2031,
+          "objective_smoothed": 0.1984,
+          "indo_european_ari": 0.0,
+          "pooled_ari": 0.5289,
+          "genera": 559
+        },
+        {
+          "delta": 0.93,
+          "objective": 0.186,
+          "objective_smoothed": 0.1847,
+          "indo_european_ari": 0.0,
+          "pooled_ari": 0.4989,
+          "genera": 503
+        },
+        {
+          "delta": 0.935,
+          "objective": 0.1934,
+          "objective_smoothed": 0.1713,
+          "indo_european_ari": 0.0,
+          "pooled_ari": 0.4984,
+          "genera": 493
+        },
+        {
+          "delta": 0.94,
+          "objective": 0.172,
+          "objective_smoothed": 0.1557,
+          "indo_european_ari": 0.0,
+          "pooled_ari": 0.4979,
+          "genera": 488
+        },
+        {
+          "delta": 0.945,
+          "objective": 0.1627,
+          "objective_smoothed": 0.1369,
+          "indo_european_ari": 0.0,
+          "pooled_ari": 0.4298,
+          "genera": 476
+        },
+        {
+          "delta": 0.95,
+          "objective": 0.1074,
+          "objective_smoothed": 0.1182,
+          "indo_european_ari": 0.0,
+          "pooled_ari": 0.4294,
+          "genera": 457
+        },
+        {
+          "delta": 0.955,
+          "objective": 0.087,
+          "objective_smoothed": 0.0972,
+          "indo_european_ari": 0.0,
+          "pooled_ari": 0.4292,
+          "genera": 455
+        },
+        {
+          "delta": 0.96,
+          "objective": 0.0741,
+          "objective_smoothed": 0.0763,
+          "indo_european_ari": 0.0,
+          "pooled_ari": 0.416,
+          "genera": 451
+        },
+        {
+          "delta": 0.965,
+          "objective": 0.0408,
+          "objective_smoothed": 0.0563,
+          "indo_european_ari": 0.0,
+          "pooled_ari": 0.4158,
+          "genera": 443
+        },
+        {
+          "delta": 0.97,
+          "objective": 0.0346,
+          "objective_smoothed": 0.0396,
+          "indo_european_ari": 0.0,
+          "pooled_ari": 0.3991,
+          "genera": 436
+        },
+        {
+          "delta": 0.975,
+          "objective": 0.015,
+          "objective_smoothed": 0.0274,
+          "indo_european_ari": 0.0,
+          "pooled_ari": 0.3941,
+          "genera": 426
+        },
+        {
+          "delta": 0.98,
+          "objective": 0.0068,
+          "objective_smoothed": 0.0179,
+          "indo_european_ari": 0.0,
+          "pooled_ari": 0.3933,
+          "genera": 424
+        },
+        {
+          "delta": 0.985,
+          "objective": 0.0068,
+          "objective_smoothed": null,
+          "indo_european_ari": 0.0,
+          "pooled_ari": 0.3933,
+          "genera": 424
+        },
+        {
+          "delta": 0.99,
+          "objective": 0.0068,
+          "objective_smoothed": null,
+          "indo_european_ari": 0.0,
+          "pooled_ari": 0.3933,
+          "genera": 424
+        },
+        {
+          "delta": 0.995,
+          "objective": 0.0068,
+          "objective_smoothed": null,
+          "indo_european_ari": 0.0,
+          "pooled_ari": 0.3933,
+          "genera": 424
+        },
+        {
+          "delta": 1.0,
+          "objective": 0.0,
+          "objective_smoothed": null,
+          "indo_european_ari": 0.0,
+          "pooled_ari": 0.3917,
+          "genera": 421
+        }
+      ],
+      "indo_european": {
+        "languages": 128,
+        "ari": 0.9854,
+        "proposed_genera": 10,
+        "wals_genera": 10,
+        "genera": [
+          {
+            "genus": "Indo-Aryan",
+            "languages": 43,
+            "wals_genera": [
+              "Indic"
+            ]
+          },
+          {
+            "genus": "Iranian",
+            "languages": 23,
+            "wals_genera": [
+              "Iranian"
+            ]
+          },
+          {
+            "genus": "Germanic",
+            "languages": 18,
+            "wals_genera": [
+              "Germanic"
+            ]
+          },
+          {
+            "genus": "Italic",
+            "languages": 17,
+            "wals_genera": [
+              "Romance"
+            ]
+          },
+          {
+            "genus": "Balto-Slavic",
+            "languages": 16,
+            "wals_genera": [
+              "Baltic",
+              "Slavic"
+            ]
+          },
+          {
+            "genus": "Brythonic",
+            "languages": 3,
+            "wals_genera": [
+              "Celtic"
+            ]
+          },
+          {
+            "genus": "Goidelic",
+            "languages": 3,
+            "wals_genera": [
+              "Celtic"
+            ]
+          },
+          {
+            "genus": "Nuristani",
+            "languages": 3,
+            "wals_genera": [
+              "Nuristani"
+            ]
+          },
+          {
+            "genus": "Armenian",
+            "languages": 1,
+            "wals_genera": [
+              "Armenian"
+            ]
+          },
+          {
+            "genus": "Graeco-Phrygian",
+            "languages": 1,
+            "wals_genera": [
+              "Greek"
+            ]
+          }
+        ]
+      }
+    },
+    "evaluation": {
+      "all": {
+        "languages": 2233,
+        "families": 49,
+        "pooled_ari": 0.5129,
+        "mean_family_ari": 0.6541,
+        "completeness": 0.8645,
+        "contained": 0.6838,
+        "purity": 0.9797,
+        "wals_genera_with_two_or_more": 272
+      },
+      "outside_indo_european": {
+        "languages": 2105,
+        "families": 48,
+        "pooled_ari": 0.4768,
+        "mean_family_ari": 0.6472,
+        "completeness": 0.8623,
+        "contained": 0.678,
+        "purity": 0.9796,
+        "wals_genera_with_two_or_more": 264
+      },
+      "by_wals_genus_size": [
+        {
+          "min_languages": 2,
+          "wals_genera": 272,
+          "completeness": 0.8645,
+          "contained": 0.6838
+        },
+        {
+          "min_languages": 10,
+          "wals_genera": 56,
+          "completeness": 0.7666,
+          "contained": 0.4643
+        }
+      ],
+      "held_out_mean_family_ari": 0.6337,
+      "baselines": [
+        {
+          "depth": 1,
+          "genera": 790,
+          "languages": 2233,
+          "families": 49,
+          "pooled_ari": 0.4573,
+          "mean_family_ari": 0.592,
+          "completeness": 0.8778,
+          "contained": 0.6912,
+          "purity": 0.9178,
+          "wals_genera_with_two_or_more": 272
+        },
+        {
+          "depth": 2,
+          "genera": 1240,
+          "languages": 2233,
+          "families": 49,
+          "pooled_ari": 0.7818,
+          "mean_family_ari": 0.585,
+          "completeness": 0.7386,
+          "contained": 0.4338,
+          "purity": 0.9649,
+          "wals_genera_with_two_or_more": 272
+        },
+        {
+          "depth": 3,
+          "genera": 1740,
+          "languages": 2233,
+          "families": 49,
+          "pooled_ari": 0.878,
+          "mean_family_ari": 0.434,
+          "completeness": 0.631,
+          "contained": 0.2904,
+          "purity": 0.9715,
+          "wals_genera_with_two_or_more": 272
+        },
+        {
+          "depth": 4,
+          "genera": 2299,
+          "languages": 2233,
+          "families": 49,
+          "pooled_ari": 0.6646,
+          "mean_family_ari": 0.3248,
+          "completeness": 0.5427,
+          "contained": 0.2022,
+          "purity": 0.9834,
+          "wals_genera_with_two_or_more": 272
+        }
+      ],
+      "tuned_depth": {
+        "depths": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "in_sample_mean_family_ari": 0.592,
+        "best_depth": 1,
+        "held_out_mean_family_ari": 0.4766
+      }
+    },
+    "stability_and_margin": {
+      "genera": 503,
+      "spearman": 0.7735,
+      "median_margin_stability_below_0.5": 0.0068,
+      "median_margin_stability_0.9_or_more": 0.0761
+    },
+    "divergence_genera_cut_on_subclade_values": 25,
+    "core_concepts": 40,
+    "min_concepts": 20,
+    "max_pairs_per_node": 200,
+    "languages": 7674,
+    "languages_with_wordlists": 5791,
+    "pairs": 63954,
+    "measured_nodes": 3609,
+    "nodes_measured_from_one_pair": 1304,
+    "n_genera": 1190,
+    "largest_genus": "East Bantu",
+    "genus_sizes": {
+      "median": 2.0,
+      "mean": 6.4487,
+      "singletons": 476,
+      "max": 257
+    },
+    "divergence_cut_genera": 620,
+    "divergence_cut_genera_with_measured_subclade_above_delta": 27,
+    "methods": {
+      "languages": {
+        "divergence": 6944,
+        "isolate": 183,
+        "single-language": 273,
+        "unmeasured-clade": 198,
+        "unmeasured-family": 76
+      },
+      "genera": {
+        "divergence": 620,
+        "isolate": 183,
+        "single-language": 273,
+        "unmeasured-clade": 83,
+        "unmeasured-family": 31
+      }
+    },
+    "bootstrap": {
+      "replicates": 200,
+      "delta_percentiles_5_50_95": [
+        0.749,
+        0.795,
+        0.831
+      ],
+      "mean_language_stability": 0.7738,
+      "multi_language_genera": 714,
+      "multi_language_genera_stable_90": 333,
+      "mean_language_stability_fixed_delta": 0.809,
+      "multi_language_genera_stable_90_fixed_delta": 355,
+      "resampled": "core concepts and each node's language pairs"
+    },
+    "divergence_cut_genera_from_one_pair": 173,
+    "unmeasured_genera_with_wordlists": 79,
+    "crown_spread": {
+      "genera": 595,
+      "percentiles_10_25_50_75_90": [
+        0.4548,
+        0.5748,
+        0.6803,
+        0.7494,
+        0.7868
+      ],
+      "iqr": 0.1746
+    }
+  }
+}

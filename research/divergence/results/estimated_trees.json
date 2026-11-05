@@ -1,0 +1,100 @@
+{
+ "languages": 5791,
+ "families_estimated": 207,
+ "pairs": 1398260,
+ "undefined_pairs": 31384,
+ "wals_languages": 2178,
+ "trees": {
+  "glottolog": {
+   "delta": 0.81,
+   "tied": [
+    0.81,
+    0.81
+   ],
+   "genera": 1091,
+   "mean_family_ari_smoothed": 0.6339,
+   "mean_family_ari": 0.6538,
+   "held_out_mean_family_ari": 0.6334,
+   "pooled_ari": 0.511,
+   "ari_with_glottolog_genera": 1.0,
+   "genera_identical_to_glottolog": 1.0,
+   "languages_outside_matching_genus": 0.0,
+   "at_released_delta": {
+    "genera": 1091,
+    "ari_with_glottolog_genera": 1.0
+   },
+   "families": 49
+  },
+  "upgma": {
+   "delta": 0.798,
+   "tied": [
+    0.798,
+    0.798
+   ],
+   "genera": 1079,
+   "mean_family_ari_smoothed": 0.5865,
+   "mean_family_ari": 0.5905,
+   "held_out_mean_family_ari": 0.5874,
+   "pooled_ari": 0.4314,
+   "ari_with_glottolog_genera": 0.4906,
+   "genera_identical_to_glottolog": 0.6738,
+   "languages_outside_matching_genus": 0.0827,
+   "at_released_delta": {
+    "genera": 1011,
+    "ari_with_glottolog_genera": 0.493
+   },
+   "families": 49,
+   "measured_nodes": 5409,
+   "unresolved_families": 0,
+   "all_pairs": {
+    "delta": 0.798,
+    "genera": 1078,
+    "mean_family_ari": 0.5918,
+    "ari_with_glottolog_genera": 0.502,
+    "ari_with_sampled": 0.9926
+   },
+   "max_imputation": {
+    "delta": 0.798,
+    "genera": 1087,
+    "mean_family_ari": 0.5707,
+    "ari_with_glottolog_genera": 0.5117
+   }
+  },
+  "nj": {
+   "delta": 0.808,
+   "tied": [
+    0.808,
+    0.808
+   ],
+   "genera": 1010,
+   "mean_family_ari_smoothed": 0.5719,
+   "mean_family_ari": 0.5748,
+   "held_out_mean_family_ari": 0.5602,
+   "pooled_ari": 0.4171,
+   "ari_with_glottolog_genera": 0.4596,
+   "genera_identical_to_glottolog": 0.7109,
+   "languages_outside_matching_genus": 0.0646,
+   "at_released_delta": {
+    "genera": 1004,
+    "ari_with_glottolog_genera": 0.4592
+   },
+   "families": 49,
+   "measured_nodes": 5407,
+   "unresolved_families": 0,
+   "negative_lengths_set_to_zero": 2,
+   "all_pairs": {
+    "delta": 0.808,
+    "genera": 1009,
+    "mean_family_ari": 0.575,
+    "ari_with_glottolog_genera": 0.4592,
+    "ari_with_sampled": 0.9979
+   },
+   "max_imputation": {
+    "delta": 0.789,
+    "genera": 1127,
+    "mean_family_ari": 0.5456,
+    "ari_with_glottolog_genera": 0.6209
+   }
+  }
+ }
+}

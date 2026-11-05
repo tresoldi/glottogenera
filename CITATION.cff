@@ -1,0 +1,92 @@
+cff-version: 1.2.0
+message: >-
+  If you use this dataset or software, please cite it using the metadata below,
+  and cite Glottolog, ASJP and WALS, from which it derives.
+type: dataset
+title: "glottogenera: genera defined by a divergence threshold on a language tree, with a release for Glottolog 5.3"
+version: 1.0.0
+date-released: "2026-11-02"
+license: CC-BY-4.0
+url: "https://glottogenera.tresoldi.org"
+repository-code: "https://github.com/tresoldi/glottogenera"
+authors:
+  - family-names: Tresoldi
+    given-names: Tiago
+    affiliation: >-
+      Department of Linguistics and Philology and Center for the Human Past,
+      Uppsala University
+    orcid: "https://orcid.org/0000-0002-2863-1467"
+keywords:
+  - linguistics
+  - typology
+  - language sampling
+  - genealogical classification
+  - language genus
+  - Glottolog
+  - WALS
+  - ASJP
+  - lexical divergence
+references:
+  - type: data
+    title: Glottolog 5.3
+    authors:
+      - family-names: Hammarström
+        given-names: Harald
+      - family-names: Forkel
+        given-names: Robert
+      - family-names: Haspelmath
+        given-names: Martin
+      - family-names: Bank
+        given-names: Sebastian
+    publisher:
+      name: Max Planck Institute for Evolutionary Anthropology
+    year: 2026
+    doi: 10.5281/zenodo.18840935
+  - type: data
+    title: "CLDF dataset derived from Wichmann et al.'s \"ASJP Database\" v21 from 2025"
+    authors:
+      - family-names: Wichmann
+        given-names: Søren
+      - family-names: Holman
+        given-names: Eric W.
+      - family-names: Brown
+        given-names: Cecil H.
+      - family-names: Dryer
+        given-names: Matthew S.
+      - family-names: Ran
+        given-names: Qibin
+    year: 2025
+    doi: 10.5281/zenodo.16736409
+  - type: data
+    title: The World Atlas of Language Structures Online
+    authors:
+      - family-names: Dryer
+        given-names: Matthew S.
+      - family-names: Haspelmath
+        given-names: Martin
+    publisher:
+      name: Max Planck Institute for Evolutionary Anthropology
+    year: 2013
+    notes: CLDF release v2020.1
+    doi: 10.5281/zenodo.4683137
+  - type: article
+    title: Large linguistic areas and language sampling
+    authors:
+      - family-names: Dryer
+        given-names: Matthew S.
+    journal: Studies in Language
+    volume: 13
+    issue: 2
+    year: 1989
+    start: 257
+    end: 292
+  - type: article
+    title: A Global Lexical Database (GLED) for Computational Historical Linguistics
+    authors:
+      - family-names: Tresoldi
+        given-names: Tiago
+    journal: Journal of Open Humanities Data
+    volume: 9
+    start: 2
+    year: 2023
+    doi: 10.5334/johd.96
