@@ -52,10 +52,10 @@ $PY $R/estimated_trees.py $OUT          # about 30 minutes
 
 ## External inputs
 
-- **Expert cognate judgements**: the forms of the twelve cognate datasets,
-  aggregated into one CSV with the columns `cognate_source`, `av_id`,
-  `Glottocode`, `concept_id`, `Cognacy` and `Cognate_Detection_Method`; set
-  `COGNATE_FORMS` to it (default `cognates/forms.csv`).
+- **Expert cognate judgements**: the expert judgements of the twelve cognate
+  datasets on the 40 core concepts, one CSV per dataset, as deposited with the
+  data descriptor (Zenodo, doi:[TO BE ASSIGNED]); set `COGNATE_DIR` to the
+  directory (default `cognates/`).
 - **GLED** (Global Lexical Database, CLDF release v1.0, r20221127.1,
   doi:10.5281/zenodo.7368116); set `GLED_CLDF` to its `cldf/`
   directory (default `gled/cldf`).

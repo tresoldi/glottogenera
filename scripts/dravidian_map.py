@@ -1,7 +1,7 @@
 """
 Map of the genera of the Dravidian languages at four thresholds, drawn as on
 the web explorer: each genus is the merged Voronoi cells of its languages,
-cut at 150 km from each language. Needs the explorer's data (``make web``)
+cut at 150 km from each language, on land drawn without country borders. Needs the explorer's data (``make web``)
 and the web extra. Writes web/data/dravidian.png for the About page, or the
 file given with --out; Figure 4 of the data descriptor calls ``figure()``.
 
@@ -121,8 +121,10 @@ def figure():
     langs = [l for l in data["languages"] if l.get("parent") and l.get("lat") is not None
              and l["id"] in cells and family_of(data["nodes"], l["parent"]) == FAMILY]
     area = {l["id"]: polygon(cells[l["id"]]).intersection(disc(l["lon"], l["lat"], RADIUS_KM)) for l in langs}
-    land = [polygon(f["geometry"]["coordinates"] if f["geometry"]["type"] == "MultiPolygon"
-                    else [f["geometry"]["coordinates"]]) for f in world["features"]]
+    # the countries merged into one land mass, so that only coastlines are drawn
+    view = box(x0 - 1, y0 - 1, x1 + 1, y1 + 1)
+    land = [unary_union([polygon(f["geometry"]["coordinates"] if f["geometry"]["type"] == "MultiPolygon"
+                                 else [f["geometry"]["coordinates"]]).intersection(view) for f in world["features"]])]
     inside = {l["id"] for l in langs if x0 <= l["lon"] <= x1 and y0 <= l["lat"] <= y1}
 
     cuts = {d: glottogenera.genera_at(d) for d in DELTAS}
