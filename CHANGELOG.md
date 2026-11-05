@@ -1,6 +1,6 @@
 # Changelog
 
-## 1.0.0 — unreleased
+## 1.0.0 — 2026-11-05
 
 First public release, described in a data descriptor (MDPI *Data*, in
 preparation).
