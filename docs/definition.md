@@ -1,9 +1,8 @@
 # The definition of the genera
 
-The formal definition shown on the About page of the web explorer
-(`scripts/build_web.py` renders it to `web/data/definition.html`). It is the
-text of the corresponding Methods sections of the data descriptor; keep the
-two in step. References are in `definition.bib`.
+The formal definition of the genera, the word distance and the calibration.
+It is the text of the corresponding Methods sections of the data descriptor;
+keep the two in step. Citation keys refer to `definition.bib`.
 
 ## Genera on a rooted tree
 

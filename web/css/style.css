@@ -135,10 +135,6 @@ dialog#notice { max-width: 34rem; width: calc(100% - 32px); border: 1px solid va
 dialog#notice::backdrop { background: rgba(0, 0, 0, 0.45); }
 dialog#notice h2 { margin-top: 0.2rem; }
 dialog#notice form { text-align: right; margin-top: 0.8rem; }
-.definition-text { max-width: 52rem; }
-.definition-text math[display="block"] { display: block; overflow-x: auto; margin: 0.8rem 0; }
-.definition-text h3 { margin-top: 1.4rem; }
-.definition-text .csl-entry { margin: 0.3rem 0 0.3rem 1.5rem; text-indent: -1.5rem; font-size: 0.9rem; }
 
 .about-figure { margin: 1.2em 0; }
 .about-figure img { display: block; width: 100%; max-width: 720px; height: auto; border: 1px solid var(--line); background: #fff; }

@@ -20,10 +20,6 @@ the browser from the files in `data/`.
   at the same coordinates share a cell. The site cuts the cells to the
   distance set with its slider (25–3,000 km, 150 km by default);
 - `data/world.json`: simplified country outlines for the basemap.
-- `data/definition.html`: the formal definition of the genera for the About
-  page, rendered from `docs/definition.md` with MathML and linked citations by
-  pandoc (`PANDOC=/path/to/pandoc make web`; kept as it is when pandoc is
-  missing);
 - `data/dravidian.png`: the map of the Dravidian genera at four thresholds on
   the About page (also Figure 4 of the data descriptor).
 

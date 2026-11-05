@@ -32,8 +32,8 @@ bundle:
 cldf:
 	$(PYTHON) scripts/build_cldf.py --validate
 
-# Data of the web explorer in web/data/ (needs the web extra, the fetched
-# WALS data and, for the definition on the About page, pandoc).
+# Data of the web explorer in web/data/ (needs the web extra and the fetched
+# WALS data).
 web: fetch
 	$(PYTHON) scripts/build_web.py
 	$(PYTHON) scripts/dravidian_map.py

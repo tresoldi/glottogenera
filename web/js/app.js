@@ -899,65 +899,41 @@
   async function aboutPage(main) {
     const m = S.data.meta;
     main.innerHTML = `<h1>About</h1>
-      <p>Glottogenera defines genera by an explicit rule: on a rooted language tree, a genus is the largest clade whose divergence does
-      not exceed a threshold δ. The rule works on any tree, an expert classification or one estimated from data by neighbour-joining,
-      UPGMA or Bayesian inference, and with any divergence, from a distance between languages or a quantity of the clade such as its age
-      in a dated tree; the <span class="mono">glottogenera.tree</span> module of the package applies it. Every genus made this way is a
-      clade whose divergence is at most δ, below a clade that exceeds it: a common upper bound, not equal diversity. Genera are intended
-      as strata for genealogically balanced samples in typology.</p>
-      <h2>The released genera</h2>
-      <p>This site shows one instance of the rule, for every in-scope language of Glottolog ${esc(m.glottolog)}. Words of the 40-concept ASJP wordlists are compared by alignment with sound-correspondence scores learned from the data
-      (pointwise mutual information). The crown divergence of a Glottolog node is the mean distance between its languages on different
-      branches. Walking down the classification, a language's genus is the first node whose cut value is at most δ; a node without
-      a measurement takes the largest value of its sub-clades, and one with no measurement anywhere below it is kept whole. δ = ${m.delta}
-      maximizes the agreement with the WALS genera averaged over families; under resampling of families it lies between
-      ${m.resampling_range[0]} and ${m.resampling_range[2]}. The full method, its validation and its limitations are in the
-      <a href="${REPO}">repository</a> and the accompanying data descriptor, in preparation.</p>
-      <h2>Formal definition</h2>
-      <p class="note">From the Methods of the data descriptor in preparation.</p>
-      <div id="definition" class="definition-text"><p class="muted">Loading…</p></div>
-      <h2>This site</h2>
-      <p>The threshold control recuts the genera in your browser from the released cut values, exactly as
-      <span class="mono">glottogenera.genera_at(δ)</span> does. A genus's area is the merged Voronoi cells of its languages, drawn from
-      Glottolog's coordinates, one point per language, and clipped to land and to a distance from each language
-      that can be set from ${RADII[0]} to ${int(m.max_radius_km)} km (${m.radius_km} km by default). Areas show where the
-      sampled languages are, not where their speakers live. Genus names are Glottolog's except where a curated name is recorded,
-      with its reasons and sources.</p>
+      <p>Glottogenera sorts the world's languages into <i>genera</i>: groups of closely related languages, roughly as deep as
+      Germanic or Romance. Genera help build balanced samples of languages: taking one or a few languages per genus keeps large
+      families from dominating a study.</p>
+      <h2>How the genera are made</h2>
+      <p>A genus is the largest branch of the family tree whose languages are not more different from each other than a threshold, δ.
+      Here the tree is the Glottolog ${esc(m.glottolog)} classification, and the difference between languages is measured on their basic
+      vocabulary, the 40-word ASJP lists. The released threshold, δ = ${m.delta}, is the one that best matches the genera of WALS. Raising
+      δ merges genera, lowering it splits them; the threshold control on every page shows this live.</p>
       <figure class="about-figure">
         <img src="data/dravidian.png" alt="Four maps of South Asia showing the Dravidian genera at δ = 0.55, 0.65, 0.73 and 0.81" loading="lazy">
-        <figcaption>Genera of the Dravidian languages at four thresholds, with areas up to 150 km from each language; other families
-        are not shown. Each genus has its own colour, and the largest part of a split keeps the colour of the genus it comes from.
-        The 19 genera at δ = 0.55 merge into 10, then into 6 at δ = 0.73, which nearly reproduce the four WALS genera of the family (WALS also groups Brahui with Kurux-Malto), and at the released δ = 0.81 the family is a single genus (the counts include
-        Brahui, in Pakistan, outside the frame). <a href="${link("map")}">Explore the map</a> with the threshold control.</figcaption>
+        <figcaption>The Dravidian languages at four thresholds: 19 genera at δ = 0.55, six at 0.73 (close to the WALS genera), and a
+        single genus at the released 0.81. <a href="${link("map")}">Explore the map</a>.</figcaption>
       </figure>
+      <p>The same rule works on any language tree, including trees estimated from data, and with any measure of difference; the
+      <a href="${REPO}">Python package</a> applies it. The exact definition is in
+      <a href="${REPO}/blob/main/docs/definition.md">docs/definition.md</a> and the method in
+      <a href="${REPO}/blob/main/docs/methods.md">docs/methods.md</a>.</p>
+      <h2>Using the site</h2>
+      <ul>
+        <li>Browse genera, languages and families, and compare them with WALS.</li>
+        <li>On the map, a genus's area is drawn around its languages' Glottolog locations; it shows where the languages are
+        recorded, not where their speakers live.</li>
+        <li>Genus names are Glottolog's, except for a few curated ones.</li>
+        <li>Every table can be downloaded as CSV, and the areas as GeoJSON; the full dataset is on the
+        <a href="${link("downloads")}">Downloads</a> page.</li>
+      </ul>
+      <h2>Citation</h2>
+      <p>Tresoldi, Tiago. Glottogenera: genera defined by a divergence threshold on a language tree, with a release for Glottolog ${esc(m.glottolog)}, version ${esc(m.version)}. Zenodo, doi:<a href="https://doi.org/10.5281/zenodo.23979575">10.5281/zenodo.23979575</a>.
+      <a href="${REPO}">${REPO}</a>. Please also cite Glottolog (doi:${esc(m.glottolog_doi)}), ASJP and, if you use the comparison, WALS.
+      A paper describing the dataset is in preparation.</p>
       <h2>Author</h2>
       <p>Tiago Tresoldi, Department of Linguistics and Philology and Center for the Human Past, Uppsala University.</p>
-      <h2>Citation</h2>
-      <p>A paper describing the dataset is in preparation. Until then:</p>
-      <p>Tresoldi, Tiago. Glottogenera: genera defined by a divergence threshold on a language tree, with a release for Glottolog ${esc(m.glottolog)}, version ${esc(m.version)}. Zenodo, doi:<a href="https://doi.org/10.5281/zenodo.23979575">10.5281/zenodo.23979575</a>.
-      <a href="${REPO}">${REPO}</a>. Please also cite Glottolog (doi:${esc(m.glottolog_doi)}), ASJP and, if you use the comparison, WALS.</p>
-      <h2>Licences and sources</h2>
-      <ul>
-        <li>Data: CC BY 4.0, as required by Glottolog (CC BY 4.0); ASJP wordlists (CC BY 4.0, commit <span class="mono">${esc(m.asjp_commit.slice(0, 10))}</span>);
-        WALS ${esc(m.wals)} (CC BY 4.0).</li>
-        <li>Map outlines: Natural Earth ${esc(m.natural_earth)}, public domain.</li>
-        <li>Software of this site: Leaflet 1.9.4 (BSD-2-Clause), polygon-clipping 0.15.7 (MIT) with splaytree (MIT) and
-        robust-predicates (Unlicense). Glottogenera's code is MIT-licensed.</li>
-      </ul>`;
-    const def = $("#definition", main);
-    try {
-      def.innerHTML = await (await fetch("data/definition.html")).text();
-    } catch (e) {
-      def.innerHTML = '<p class="muted">The definition could not be loaded.</p>';
-    }
-    // citations link to in-page anchors, which the router would take for pages
-    def.addEventListener("click", (e) => {
-      const a = e.target.closest('a[href^="#"]');
-      if (!a) return;
-      e.preventDefault();
-      const target = document.getElementById(a.getAttribute("href").slice(1));
-      if (target) target.scrollIntoView({ behavior: "smooth", block: "center" });
-    });
+      <h2>Licences</h2>
+      <p>Data CC BY 4.0, from Glottolog, ASJP and WALS ${esc(m.wals)} (all CC BY 4.0); code MIT. Map outlines from Natural Earth
+      ${esc(m.natural_earth)} (public domain). The site uses Leaflet 1.9.4 (BSD-2-Clause) and polygon-clipping 0.15.7 (MIT).</p>`;
   }
 
   // ---------- shell ----------

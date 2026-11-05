@@ -8,9 +8,6 @@ Writes:
                                to RADIUS_KM around the language (the site cuts
                                them to the radius chosen there)
   web/data/world.json          country outlines for the basemap
-  web/data/definition.html     the formal definition of the genera, from
-                               docs/definition.md, with MathML (needs pandoc;
-                               kept as it is when pandoc is missing)
 
 Needs the fetched sources (`make fetch`) and the web extra
 (`pip install -e ".[web]"`); the Natural Earth outlines are downloaded to
@@ -24,9 +21,6 @@ from __future__ import annotations
 import csv
 import json
 import math
-import os
-import shutil
-import subprocess
 import sys
 from pathlib import Path
 
@@ -147,31 +141,6 @@ def world_outlines() -> dict:
     return {"type": "FeatureCollection", "features": features}
 
 
-DEFINITION = ROOT / "docs" / "definition.md"
-
-
-def definition() -> bool:
-    """
-    The definition of the genera (docs/definition.md, the text of the data
-    descriptor's Methods on the cut, the word distance and the calibration)
-    as an HTML fragment for the About page.
-    """
-    pandoc = os.environ.get("PANDOC") or shutil.which("pandoc")
-    if not pandoc:
-        print("pandoc not found; definition.html left as it is")
-        return False
-    text = DEFINITION.read_text(encoding="utf-8")
-    body = text[text.index("\n## "):].replace("\n## ", "\n### ")
-    source = body + "\n\n### References {.unnumbered}\n\n::: {#refs}\n:::\n"
-    html = subprocess.run(
-        [pandoc, "--from", "markdown", "--to", "html5", "--mathml", "--citeproc", "-M", "link-citations=true",
-         "--bibliography", str(DEFINITION.with_suffix(".bib"))],
-        input=source, capture_output=True, text=True, check=True,
-    ).stdout
-    (OUT / "definition.html").write_text(html, encoding="utf-8")
-    return True
-
-
 def main() -> int:
     OUT.mkdir(parents=True, exist_ok=True)
     fetch_natural_earth()
@@ -255,8 +224,7 @@ def main() -> int:
     (OUT / "cells.json").write_text(json.dumps({gc: rings(c) for gc, c in cells.items() if c is not None and not c.is_empty},
                                                separators=(",", ":")), encoding="utf-8")
     (OUT / "world.json").write_text(json.dumps(world_outlines(), ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
-    definition()
-    for f in ("glottogenera.json", "cells.json", "world.json", "definition.html"):
+    for f in ("glottogenera.json", "cells.json", "world.json"):
         print(f, f"{(OUT / f).stat().st_size / 1e6:.1f} MB")
     return 0
 

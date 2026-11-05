@@ -46,15 +46,6 @@ def main() -> int:
                 page.screenshot(path=str(SHOTS / f"{path.replace('/', '_') or 'home'}.png"))
             print("ok", path or "home", "|", h1)
 
-        # the formal definition renders with MathML, and its citation links stay on the page
-        page.goto(BASE + "#/about")
-        page.wait_for_selector("#definition math", timeout=20000)
-        assert page.locator("#definition math").count() > 50
-        page.locator('#definition a[href^="#ref-"]').first.click()
-        page.wait_for_timeout(300)
-        assert page.url.endswith("#/about"), page.url
-        print("ok definition")
-
         # the released threshold gives the released number of genera; another recuts
         page.goto(BASE + "#/")
         page.wait_for_selector(".stats")

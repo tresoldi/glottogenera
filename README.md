@@ -117,7 +117,7 @@ The CLDF dataset and the web explorer's data:
 ```bash
 pip install -e ".[cldf,web]"   # pycldf, shapely and matplotlib
 make cldf                      # rebuild cldf/ and validate it
-make web                       # rebuild web/data/ (downloads Natural Earth; needs pandoc for the About page)
+make web                       # rebuild web/data/ (downloads Natural Earth)
 make release                   # all three: make all, make cldf and make web
 ```
 
