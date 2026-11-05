@@ -926,7 +926,7 @@
         <a href="${link("downloads")}">Downloads</a> page.</li>
       </ul>
       <h2>Citation</h2>
-      <p>Tresoldi, Tiago. Glottogenera: genera defined by a divergence threshold on a language tree, with a release for Glottolog ${esc(m.glottolog)}, version ${esc(m.version)}. Zenodo, doi:<a href="https://doi.org/10.5281/zenodo.23979575">10.5281/zenodo.23979575</a>.
+      <p>Tresoldi, Tiago. Glottogenera: genera defined by a divergence threshold on a language tree, with a release for Glottolog ${esc(m.glottolog)}, version ${esc(m.version)}. Zenodo, doi:<a href="https://doi.org/10.5281/zenodo.23984192">10.5281/zenodo.23984192</a>.
       <a href="${REPO}">${REPO}</a>. Please also cite Glottolog (doi:${esc(m.glottolog_doi)}), ASJP and, if you use the comparison, WALS.
       A paper describing the dataset is in preparation.</p>
       <h2>Author</h2>
