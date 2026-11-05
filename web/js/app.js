@@ -934,7 +934,7 @@
       <p>Tiago Tresoldi, Department of Linguistics and Philology and Center for the Human Past, Uppsala University.</p>
       <h2>Citation</h2>
       <p>A paper describing the dataset is in preparation. Until then:</p>
-      <p>Tresoldi, Tiago. Glottogenera: genera defined by a divergence threshold on a language tree, with a release for Glottolog ${esc(m.glottolog)}, version ${esc(m.version)}.
+      <p>Tresoldi, Tiago. Glottogenera: genera defined by a divergence threshold on a language tree, with a release for Glottolog ${esc(m.glottolog)}, version ${esc(m.version)}. Zenodo, doi:<a href="https://doi.org/10.5281/zenodo.23979575">10.5281/zenodo.23979575</a>.
       <a href="${REPO}">${REPO}</a>. Please also cite Glottolog (doi:${esc(m.glottolog_doi)}), ASJP and, if you use the comparison, WALS.</p>
       <h2>Licences and sources</h2>
       <ul>

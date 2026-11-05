@@ -5,6 +5,7 @@ message: >-
 type: dataset
 title: "glottogenera: genera defined by a divergence threshold on a language tree, with a release for Glottolog 5.3"
 version: 1.0.0
+doi: 10.5281/zenodo.23979575
 date-released: "2026-11-05"
 license: CC-BY-4.0
 url: "https://glottogenera.tresoldi.org"
