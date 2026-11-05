@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.1.0 — unreleased
+
+- **Cognate judgements.** The expert cognate judgements on the 40 ASJP core
+  concepts from the twelve datasets used to select the word distance are now
+  included in `research/divergence/cognates/`, each file under the licence of
+  its source, so that the selection screen can be rerun. The released genera
+  are unchanged.
+
 ## 1.0.0 — 2026-11-05
 
 First public release, described in a data descriptor (MDPI *Data*, in

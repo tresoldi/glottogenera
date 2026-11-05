@@ -27,7 +27,7 @@ from typing import Dict, List, Optional
 
 from .config import PACKAGE_DATA
 
-__version__ = "1.0.0"
+__version__ = "1.1.0"
 
 __all__ = [
     "load_genera",

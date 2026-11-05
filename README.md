@@ -149,7 +149,7 @@ sensitivity, estimated trees) is in [`research/divergence/`](research/divergence
 | `docs/` | definition, methods, genus names, sources and attribution |
 | `scripts/` | builders of the CLDF dataset and the explorer's data, Glottolog update |
 | `web/` | the static web explorer |
-| `research/` | validation scripts and their results |
+| `research/` | validation scripts, their results and the expert cognate judgements they use |
 | `tests/` | unit, release-integrity and web parity tests |
 
 ## Citation

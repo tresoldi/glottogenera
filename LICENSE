@@ -36,3 +36,7 @@ Licensing note for this repository:
   It derives from Glottolog, ASJP and WALS, all under CC BY 4.0; see
   docs/sources.md for attribution. The map outlines in web/data/ derive from
   Natural Earth (public domain).
+* **Exception:** the expert cognate judgements in research/divergence/cognates/
+  keep the licences of the datasets they come from, listed in that folder's
+  README.md: nine are under CC BY 4.0, two under CC BY-NC 4.0 (no commercial
+  use), and one states no licence.

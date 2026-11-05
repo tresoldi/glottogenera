@@ -2,7 +2,7 @@
 The evidence for screening word distances, used by compare_sources.py and
 heldout_training.py: expert cognate distances between pairs of languages from
 the expert cognate judgements of twelve datasets on the 40 core concepts
-(COGNATE_DIR, one CSV per dataset, as deposited with the data descriptor:
+(cognates/ or COGNATE_DIR, one CSV per dataset:
 columns cognate_source, doculect, Glottocode, concept, Concepticon_ID, Cognacy
 and source_language_id), crown ages
 of the dated Phlorest trees (OUT/ages.json, from ages.py), and the scores
@@ -30,7 +30,7 @@ from glottogenera.glottolog import Glottolog  # noqa: E402
 import measures as ms  # noqa: E402
 
 OUT = Path(sys.argv[1])
-COGNATE_DIR = Path(os.environ.get("COGNATE_DIR", "cognates"))
+COGNATE_DIR = Path(os.environ.get("COGNATE_DIR", Path(__file__).parent / "cognates"))
 CORE_CONCEPTS = ["kin-i", "kin-you", "kin-we", "qua-one", "qua-two", "kin-person", "ani-fish", "ani-dog",
              "ani-louse", "agr-tree", "agr-leaf", "bod-skin", "bod-blood", "bod-bone", "bod-horn", "bod-ear",
              "bod-eye", "bod-nose", "bod-tooth", "bod-tongue", "bod-knee", "bod-hand", "bod-breast",
