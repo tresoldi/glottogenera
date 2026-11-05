@@ -1,6 +1,6 @@
 # Changelog
 
-## 1.1.0 — unreleased
+## 1.1.0 — 2026-11-05
 
 - **Cognate judgements.** The expert cognate judgements on the 40 ASJP core
   concepts from the twelve datasets used to select the word distance are now
