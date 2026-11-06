@@ -112,8 +112,8 @@ def family_of(nodes, node):
     return node
 
 
-def figure():
-    """The four-panel map, as a matplotlib figure."""
+def figure(width=7.2, title_size=9):
+    """The four-panel map, as a matplotlib figure ``width`` inches wide (the paper draws it at its printed size)."""
     data = json.loads((WEB / "glottogenera.json").read_text())
     cells = json.loads((WEB / "cells.json").read_text())
     world = json.loads((WEB / "world.json").read_text())
@@ -136,7 +136,7 @@ def figure():
     colour = colours(cuts, members)
     frame = box(x0 + 0.5, y0 + 0.5, x1 - 0.5, y1 - 0.5)
 
-    fig, axes = plt.subplots(2, 2, figsize=(7.2, 7.8))
+    fig, axes = plt.subplots(2, 2, figsize=(width, width * 7.8 / 7.2))
     for ax, d in zip(axes.flat, DELTAS):
         ax.set_facecolor("white")
         ax.grid(False)
@@ -164,7 +164,7 @@ def figure():
             s.set_color(MUTED)
         label = "δ* = " if d == data["meta"]["delta"] else "δ = "
         n = len(members[d])
-        ax.set_title(f"{label}{d:g}: {n} genus" if n == 1 else f"{label}{d:g}: {n} genera", fontsize=9)
+        ax.set_title(f"{label}{d:g}: {n} genus" if n == 1 else f"{label}{d:g}: {n} genera", fontsize=title_size)
     fig.tight_layout()
     return fig
 
