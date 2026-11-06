@@ -21,7 +21,7 @@ the browser from the files in `data/`.
   distance set with its slider (25–3,000 km, 150 km by default);
 - `data/world.json`: simplified country outlines for the basemap.
 - `data/dravidian.png`: the map of the Dravidian genera at four thresholds on
-  the About page (also Figure 4 of the data descriptor).
+  the About page (also Figure 5 of the data descriptor).
 
 Rebuild them whenever the release changes, and commit them: the Pages workflow
 (`.github/workflows/pages.yml`) only copies `web/`.

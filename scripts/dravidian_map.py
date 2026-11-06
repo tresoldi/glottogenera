@@ -3,7 +3,7 @@ Map of the genera of the Dravidian languages at four thresholds, drawn as on
 the web explorer: each genus is the merged Voronoi cells of its languages,
 cut at 150 km from each language, on land drawn without country borders. Needs the explorer's data (``make web``)
 and the web extra. Writes web/data/dravidian.png for the About page, or the
-file given with --out; Figure 4 of the data descriptor calls ``figure()``.
+file given with --out; Figure 5 of the data descriptor calls ``figure()``.
 
 Usage: python scripts/dravidian_map.py [--out PATH] [--dpi N]
 """
