@@ -10,12 +10,12 @@ not part of the release pipeline, and their results are committed in
 |---|---|---|
 | `fetch_phlorest.py OUT/phlorest` | the dated Phlorest trees (summary trees and tip metadata) | input of `ages.py` |
 | `ages.py OUT/phlorest OUT` | `ages.json`: crown ages of Glottolog nodes in the dated trees | input of the screen |
-| `compare_sources.py OUT` | `sources.json`, `sources_meta.json`; `source_values.pkl` | Table 7 (selection screen), the residual variance of log age between families (Limitations) |
+| `compare_sources.py OUT` | `sources.json`, `sources_meta.json`; `source_values.pkl` | Table 8 (selection screen), the residual variance of log age between families (Limitations) |
 | `measure_tests.py PKL BASE CANDIDATES…` | paired and blocked bootstrap of differences between distances | `source_tests.txt` (intervals in Validation) |
 | `heldout_training.py OUT OUT/source_values.pkl` | `heldout_training.json`; `heldout_values.pkl` | with `measure_tests.py`, `heldout_tests.txt` (correspondences learned without the evaluated family) |
-| `source_agreement.py OUT` | `source_agreement.json` | Table 9 (another distance or lexical source) |
+| `source_agreement.py OUT` | `source_agreement.json` | Table 10 (another distance or lexical source) |
 | `input_sensitivity.py OUT 8` | `input_sensitivity.json` | Uncertainty (relearned correspondences, other doculects) |
-| `estimated_trees.py OUT` | `estimated_trees.json`, `estimated_trees.nwk` | Table 10 (UPGMA and neighbour-joining trees) |
+| `estimated_trees.py OUT` | `estimated_trees.json`, `estimated_trees.nwk` | Table 11 (UPGMA and neighbour-joining trees) |
 
 Helper modules: `compare_measures.py` (the cognate and dated-tree evidence and
 its scoring), `measures.py` (alternative word distances and the GLED reader),
