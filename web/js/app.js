@@ -930,7 +930,7 @@
       <a href="${REPO}">${REPO}</a>. Please also cite Glottolog (doi:${esc(m.glottolog_doi)}), ASJP and, if you use the comparison, WALS.
       A paper describing the dataset is in preparation.</p>
       <h2>Author</h2>
-      <p>Tiago Tresoldi, Department of Linguistics and Philology and Center for the Human Past, Uppsala University.</p>
+      <p>Tiago Tresoldi, Department of Linguistics and Philology / Center for the Human Past, Uppsala University.</p>
       <h2>Licences</h2>
       <p>Data CC BY 4.0, from Glottolog, ASJP and WALS ${esc(m.wals)} (all CC BY 4.0); code MIT. Map outlines from Natural Earth
       ${esc(m.natural_earth)} (public domain). The site uses Leaflet 1.9.4 (BSD-2-Clause) and polygon-clipping 0.15.7 (MIT).</p>`;
