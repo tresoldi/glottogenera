@@ -3,8 +3,8 @@ aari1239,aari1239,genus,South Omotic,sout2845,,Glottolog;ASJP,divergence
 aasa1238,aasa1238,genus,South Cushitic,sout3054,,Glottolog;ASJP,divergence
 abad1241,abad1241,genus,Central Papuan Oceanic,cent2070,,Glottolog;ASJP,divergence
 abag1245,abag1245,genus,Kamano-Yagaria,kama1374,,Glottolog;ASJP,divergence
-abai1240,abai1240,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
-abai1241,abai1241,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
+abai1240,abai1240,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
+abai1241,abai1241,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
 aban1242,aban1242,genus,Ekoid-Mbe,ekoi1237,,Glottolog;ASJP,divergence
 abar1238,abar1238,genus,Yemne-Kimbi,yemn1234,,Glottolog;ASJP,divergence
 abau1245,abau1245,genus,Abau,abau1245,,Glottolog,single-language
@@ -290,7 +290,7 @@ anut1237,anut1237,genus,Central Pacific,cent2060,,Glottolog;ASJP,divergence
 anuu1241,anuu1241,genus,Mruic,mrui1235,,Glottolog,unmeasured-clade
 anyi1244,anyi1244,genus,Central Tano,cent2262,,Glottolog;ASJP,divergence
 anyi1245,anyi1245,genus,Central Tano,cent2262,,Glottolog;ASJP,divergence
-aohe1237,aohe1237,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
+aohe1237,aohe1237,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
 aona1235,aona1235,genus,Central Naga,aoic1235,,Glottolog;ASJP,divergence
 aore1237,aore1237,genus,North and Central Vanuatu,nort3195,,Glottolog;ASJP,divergence
 aoua1234,aoua1234,genus,Kra,kada1291,,Glottolog;ASJP,divergence
@@ -510,14 +510,14 @@ baga1273,baga1273,genus,Northern Mel,temn1245,,Glottolog;ASJP,divergence
 baga1275,baga1275,genus,Pukur,baga1275,,Glottolog,single-language
 bagh1251,bagh1251,genus,Indo-Aryan,indo1321,,Glottolog;ASJP,divergence
 bagi1244,bagi1244,genus,Fula,fula1264,,Glottolog;ASJP,divergence
-bagi1246,bagi1246,genus,Bongo-Bagirmi,sara1341,,Glottolog;ASJP,divergence
+bagi1246,bagi1246,genus,Sara-Bongo-Bagirmi,sara1341,,Glottolog;ASJP,divergence
 bago1245,bago1245,genus,East-West Grusi,east2740,,Glottolog;ASJP,divergence
 bagr1243,bagr1243,genus,Indo-Aryan,indo1321,,Glottolog;ASJP,divergence
 bagu1251,bagu1251,genus,Kwerba-Samarokena,kwer1240,,Glottolog;ASJP,divergence
 bagu1252,bagu1252,genus,Mabuso,mabu1247,,Glottolog;ASJP,divergence
 bagv1239,bagv1239,genus,Avar-Andic-Tsezic,avar1255,,Glottolog;ASJP,divergence
 baha1256,baha1256,genus,Kra,kada1291,,Glottolog;ASJP,divergence
-baha1257,baha1257,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
+baha1257,baha1257,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
 baha1258,baha1258,genus,Nuclear West Bomberai,nucl1641,,Glottolog;ASJP,divergence
 baha1259,baha1259,genus,Semitic,semi1276,,Glottolog;ASJP,divergence
 baha1260,baha1260,genus,Germanic,germ1287,,Glottolog;ASJP,divergence
@@ -539,7 +539,7 @@ baja1265,baja1265,genus,Germanic,germ1287,,Glottolog;ASJP,divergence
 baje1238,baje1238,genus,Iranian,iran1269,,Glottolog;ASJP,divergence
 baka1272,baka1272,genus,Mundu-Baka,ngba1292,,Glottolog;ASJP,divergence
 baka1273,baka1273,genus,North-West Bantu,bant1295,,Glottolog;ASJP,divergence
-baka1274,baka1274,genus,Bongo-Bagirmi,sara1341,,Glottolog;ASJP,divergence
+baka1274,baka1274,genus,Sara-Bongo-Bagirmi,sara1341,,Glottolog;ASJP,divergence
 baka1277,baka1277,genus,Cariban,cari1283,,Glottolog;ASJP,divergence
 bakh1245,bakh1245,genus,Iranian,iran1269,,Glottolog;ASJP,divergence
 baki1244,baki1244,genus,North and Central Vanuatu,nort3195,,Glottolog;ASJP,divergence
@@ -622,7 +622,7 @@ bara1361,bara1361,genus,Zandic,zand1246,,Glottolog;ASJP,divergence
 bara1362,bara1362,genus,Central-Western Bantu,cent2260,,Glottolog;ASJP,divergence
 bara1367,bara1367,genus,Aru,aruu1241,,Glottolog;ASJP,divergence
 bara1369,bara1369,genus,Basap-Greater Barito,basa1291,,Glottolog;ASJP,divergence
-bara1370,bara1370,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
+bara1370,bara1370,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
 bara1371,bara1371,genus,Celebic,cele1242,,Glottolog;ASJP,divergence
 bara1375,bara1375,genus,Geelvink Bay,geel1240,,Glottolog;ASJP,divergence
 bara1378,bara1378,genus,Nuclear Tirio,nucl1713,,Glottolog;ASJP,divergence
@@ -708,7 +708,7 @@ bebe1250,bebe1250,genus,Beboid,bebo1243,,Glottolog;ASJP,divergence
 bebe1252,bebe1252,genus,Bebeli,bebe1252,,Glottolog,single-language
 bebi1242,bebi1242,genus,North-West Bantu,bant1295,,Glottolog;ASJP,divergence
 bedi1235,bedi1235,genus,Tenda,tend1239,,Glottolog;ASJP,divergence
-bedj1245,bedj1245,genus,Bongo-Bagirmi,sara1341,,Glottolog;ASJP,divergence
+bedj1245,bedj1245,genus,Sara-Bongo-Bagirmi,sara1341,,Glottolog;ASJP,divergence
 bedo1237,bedo1237,genus,Tanimbar-Bomberai,tani1260,,Glottolog;ASJP,divergence
 beek1238,beek1238,genus,Central-Western Bantu,cent2260,,Glottolog;ASJP,divergence
 beel1236,beel1236,genus,West Chadic A.2-3,west2799,,Glottolog;ASJP,divergence
@@ -723,9 +723,9 @@ bekw1242,bekw1242,genus,North-West Bantu,bant1295,,Glottolog;ASJP,divergence
 bela1254,bela1254,genus,Balto-Slavic,balt1263,,Glottolog;ASJP,divergence
 bela1255,bela1255,genus,Sereic,sere1262,,Glottolog;ASJP,divergence
 bela1256,bela1256,genus,Western Nilotic,west2493,,Glottolog;ASJP,divergence
-bela1260,bela1260,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
+bela1260,bela1260,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
 belh1239,belh1239,genus,Kiranti,kira1253,,Glottolog;ASJP,divergence
-beli1257,beli1257,genus,Bongo-Bagirmi,sara1341,,Glottolog;ASJP,divergence
+beli1257,beli1257,genus,Sara-Bongo-Bagirmi,sara1341,,Glottolog;ASJP,divergence
 beli1258,beli1258,genus,Beli (Papua New Guinea),beli1258,,Glottolog,single-language
 beli1260,beli1260,genus,Germanic,germ1287,,Glottolog;ASJP,divergence
 bell1243,bell1243,genus,Bella Coola,bell1243,,Glottolog,single-language
@@ -751,7 +751,7 @@ beny1237,beny1237,genus,Land Dayak,land1261,,Glottolog;ASJP,divergence
 beot1247,beot1247,genus,Beothuk,beot1247,,Glottolog,isolate
 bepo1240,bepo1240,genus,Kumil-Tibor,kumi1250,,Glottolog;ASJP,divergence
 bera1259,bera1259,genus,Central-Western Bantu,cent2260,,Glottolog;ASJP,divergence
-bera1261,bera1261,genus,Bongo-Bagirmi,sara1341,,Glottolog;ASJP,divergence
+bera1261,bera1261,genus,Sara-Bongo-Bagirmi,sara1341,,Glottolog;ASJP,divergence
 bera1262,bera1262,genus,Malayo-Chamic,mala1554,,Glottolog;ASJP,divergence
 berb1259,berb1259,genus,Germanic,germ1287,,Glottolog;ASJP,divergence
 beri1253,beri1253,genus,Central-Eastern Sepik Hill,cent2425,,Glottolog;ASJP,divergence
@@ -833,7 +833,7 @@ bini1246,bini1246,genus,Edoid,edoi1239,,Glottolog;ASJP,divergence
 binj1249,binj1249,genus,Central-Western Bantu,cent2260,,Glottolog;ASJP,divergence
 bino1237,bino1237,genus,Northern Luzon,nort3238,,Glottolog;ASJP,divergence
 bint1245,bint1245,genus,Greater Central Philippine,grea1284,,Glottolog;ASJP,divergence
-bint1246,bint1246,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
+bint1246,bint1246,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
 binu1244,binu1244,genus,Greater Central Philippine,grea1284,,Glottolog;ASJP,divergence
 binu1245,binu1245,genus,Tairora,tair1260,,Glottolog;ASJP,divergence
 bipi1237,bipi1237,genus,Admiralty Islands,admi1239,,Glottolog;ASJP,divergence
@@ -896,7 +896,7 @@ bolo1261,bolo1261,genus,Central-Western Bantu,cent2260,,Glottolog;ASJP,divergenc
 bolo1262,bolo1262,genus,Central-Western Bantu,cent2260,,Glottolog;ASJP,divergence
 bolo1263,bolo1263,genus,Central-Western Bantu,cent2260,,Glottolog;ASJP,divergence
 bolo1266,bolo1266,genus,Western Mande,west2780,,Glottolog;ASJP,divergence
-bolo1268,bolo1268,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
+bolo1268,bolo1268,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
 boly1239,boly1239,genus,Pakanic,boly1240,,Glottolog;ASJP,divergence
 boma1246,boma1246,genus,Central-Western Bantu,cent2260,,Glottolog;ASJP,divergence
 boma1250,boma1250,genus,Central-Western Bantu,cent2260,,Glottolog;ASJP,divergence
@@ -917,14 +917,14 @@ bone1254,bone1254,genus,Celebic,cele1242,,Glottolog;ASJP,divergence
 bone1255,bone1255,genus,Tor,tora1268,,Glottolog;ASJP,divergence
 bong1282,bong1282,genus,Inland Bua,goul1243,,Glottolog;ASJP,divergence
 bong1284,bong1284,genus,Central-Western Bantu,cent2260,,Glottolog;ASJP,divergence
-bong1285,bong1285,genus,Bongo-Bagirmi,sara1341,,Glottolog;ASJP,divergence
+bong1285,bong1285,genus,Sara-Bongo-Bagirmi,sara1341,,Glottolog;ASJP,divergence
 bong1287,bong1287,genus,Sarmi,sarm1242,,Glottolog;ASJP,divergence
-bong1289,bong1289,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
+bong1289,bong1289,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
 bong1291,bong1291,genus,Mindjim,mind1258,,Glottolog;ASJP,divergence
 bonj1234,bonj1234,genus,Central-Western Bantu,cent2260,,Glottolog;ASJP,divergence
 bonk1243,bonk1243,genus,North-West Bantu,bant1295,,Glottolog;ASJP,divergence
 bonk1244,bonk1244,genus,Yupna,yupn1242,,Glottolog;ASJP,divergence
-book1241,book1241,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
+book1241,book1241,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
 boon1242,boon1242,genus,Unclassified East Cushitic,unun9873,,Glottolog,unmeasured-clade
 boor1242,boor1242,genus,East Chadic B.3,east2710,,Glottolog;ASJP,divergence
 bopa1235,bopa1235,genus,Western Left May,nucl1244,,Glottolog;ASJP,divergence
@@ -964,7 +964,7 @@ brok1249,brok1249,genus,Bodic,bodi1256,,Glottolog;ASJP,divergence
 broo1239,broo1239,genus,Greater Central Philippine,grea1284,,Glottolog;ASJP,divergence
 brun1235,brun1235,genus,South-Eastern Tasmanian,sout1293,,Glottolog,unmeasured-family
 brun1242,brun1242,genus,Malayo-Chamic,mala1554,,Glottolog;ASJP,divergence
-brun1245,brun1245,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
+brun1245,brun1245,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
 buaa1245,buaa1245,genus,Bua-Lua,bual1236,,Glottolog;ASJP,divergence
 bual1235,bual1235,genus,Kuki-Chin,kuki1246,,Glottolog;ASJP,divergence
 buam1238,buam1238,genus,Bwamu,bwam1247,,Glottolog;ASJP,divergence
@@ -988,10 +988,10 @@ buhi1245,buhi1245,genus,Greater Central Philippine,grea1284,,Glottolog;ASJP,dive
 buhu1237,buhu1237,genus,Nuclear Papuan Tip,nucl1744,,Glottolog;ASJP,divergence
 bujh1238,bujh1238,genus,Kham-Magar-Chepang,kham1285,,Glottolog;ASJP,divergence
 buka1257,buka1257,genus,Land Dayak,land1261,,Glottolog;ASJP,divergence
-buka1261,buka1261,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
+buka1261,buka1261,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
 bukh1238,bukh1238,genus,Iranian,iran1269,,Glottolog;ASJP,divergence
 buki1247,buki1247,genus,Malayo-Chamic,mala1554,,Glottolog;ASJP,divergence
-buki1248,buki1248,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
+buki1248,buki1248,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
 buki1249,buki1249,genus,Arapesh,arap1279,,Glottolog;ASJP,divergence
 buks1238,buks1238,genus,Indo-Aryan,indo1321,,Glottolog;ASJP,divergence
 buku1249,buku1249,genus,East Bantu,east2731,,Glottolog;ASJP,divergence
@@ -1041,7 +1041,7 @@ buru1296,buru1296,genus,Burushaski,buru1296,,Glottolog,isolate
 buru1299,buru1299,genus,Buru-Angwe,buru1299,,Glottolog,single-language
 buru1301,buru1301,genus,Western Nilotic,west2493,,Glottolog;ASJP,divergence
 buru1303,buru1303,genus,West Central Maluku,west2817,,Glottolog;ASJP,divergence
-buru1304,buru1304,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
+buru1304,buru1304,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
 buru1306,buru1306,genus,Western Huon,west2795,,Glottolog;ASJP,divergence
 buru1307,buru1307,genus,Ok,okkk1242,,Glottolog;ASJP,divergence
 buru1308,buru1308,genus,Sabakor,saba1280,,Glottolog,unmeasured-clade
@@ -1050,7 +1050,7 @@ buru1320,buru1320,genus,South Cushitic,sout3054,,Glottolog;ASJP,divergence
 busa1251,busa1251,genus,Wide Grassfields,wide1239,,Glottolog;ASJP,divergence
 busa1253,busa1253,genus,Eastern Mande,east2697,,Glottolog;ASJP,divergence
 busa1254,busa1254,genus,Yapen,yape1249,,Glottolog;ASJP,divergence
-busa1255,busa1255,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
+busa1255,busa1255,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
 bush1247,bush1247,genus,Central-Western Bantu,cent2260,,Glottolog;ASJP,divergence
 bush1250,bush1250,genus,Basap-Greater Barito,basa1291,,Glottolog;ASJP,divergence
 buso1238,buso1238,genus,Celebic,cele1242,,Glottolog;ASJP,divergence
@@ -1171,9 +1171,9 @@ cent2089,cent2089,genus,Greater Central Philippine,grea1284,,Glottolog;ASJP,dive
 cent2090,cent2090,genus,Greater Central Philippine,grea1284,,Glottolog;ASJP,divergence
 cent2091,cent2091,genus,Greater Central Philippine,grea1284,,Glottolog;ASJP,divergence
 cent2092,cent2092,genus,Basap-Greater Barito,basa1291,,Glottolog;ASJP,divergence
-cent2098,cent2098,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
-cent2100,cent2100,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
-cent2101,cent2101,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
+cent2098,cent2098,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
+cent2100,cent2100,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
+cent2101,cent2101,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
 cent2117,cent2117,genus,Asmat-Kamoro,asma1258,,Glottolog;ASJP,divergence
 cent2118,cent2118,genus,Awyu-Dumut,awyu1263,,Glottolog;ASJP,divergence
 cent2126,cent2126,genus,Japonic,japo1237,,Glottolog;ASJP,divergence
@@ -1438,7 +1438,7 @@ daga1272,daga1272,genus,Oti-Volta,otiv1239,,Glottolog;ASJP,divergence
 daga1275,daga1275,genus,Central Dagan,cent2401,,Glottolog;ASJP,divergence
 daga1277,daga1277,genus,Kam-Tai,kamt1241,,Glottolog;ASJP,divergence
 dagb1246,dagb1246,genus,Oti-Volta,otiv1239,,Glottolog;ASJP,divergence
-dagb1248,dagb1248,genus,Bongo-Bagirmi,sara1341,,Glottolog;ASJP,divergence
+dagb1248,dagb1248,genus,Sara-Bongo-Bagirmi,sara1341,,Glottolog;ASJP,divergence
 dagi1241,dagi1241,genus,Talodi,narr1279,,Glottolog;ASJP,divergence
 dago1245,dago1245,genus,Yangmanic,yang1287,,Glottolog;ASJP,divergence
 daha1245,daha1245,genus,Dahalo,daha1245,,Glottolog,single-language
@@ -1484,7 +1484,7 @@ dari1249,dari1249,genus,Iranian,iran1269,,Glottolog;ASJP,divergence
 darl1242,darl1242,genus,Kuki-Chin,kuki1246,,Glottolog;ASJP,divergence
 darl1243,darl1243,genus,Yarli-Baagandji,yarl1237,,Glottolog,unmeasured-clade
 darm1243,darm1243,genus,Bodic,bodi1256,,Glottolog;ASJP,divergence
-daro1239,daro1239,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
+daro1239,daro1239,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
 dars1235,dars1235,genus,Dajuic,daju1249,,Glottolog;ASJP,divergence
 dass1243,dass1243,genus,West Chadic B.3,west2800,,Glottolog;ASJP,divergence
 dato1239,dato1239,genus,Southern Nilotic,sout2830,,Glottolog;ASJP,divergence
@@ -1572,7 +1572,7 @@ dira1242,dira1242,genus,Mainstream Lowland East Cushitic,main1283,,Glottolog;ASJ
 diri1252,diri1252,genus,Central-Western Bantu,cent2260,,Glottolog;ASJP,divergence
 diri1253,diri1253,genus,Dakoid,dako1256,,Glottolog;ASJP,divergence
 diri1259,diri1259,genus,West Chadic B.2,west2712,,Glottolog;ASJP,divergence
-disa1239,disa1239,genus,Bongo-Bagirmi,sara1341,,Glottolog;ASJP,divergence
+disa1239,disa1239,genus,Sara-Bongo-Bagirmi,sara1341,,Glottolog;ASJP,divergence
 dita1238,dita1238,genus,Oti-Volta,otiv1239,,Glottolog;ASJP,divergence
 diti1235,diti1235,genus,Southern Wakashan,sout2981,,Glottolog;ASJP,divergence
 diuw1238,diuw1238,genus,Asmat-Kamoro,asma1258,,Glottolog;ASJP,divergence
@@ -1650,7 +1650,7 @@ duli1241,duli1241,genus,Unclassified Central Adamawa,uncl1524,,Glottolog,unmeasu
 duma1253,duma1253,genus,Central-Western Bantu,cent2260,,Glottolog;ASJP,divergence
 dumb1241,dumb1241,genus,Extreme Southern New Caledonian,extr1245,,Glottolog,unmeasured-clade
 dumi1241,dumi1241,genus,Kiranti,kira1253,,Glottolog;ASJP,divergence
-dump1242,dump1242,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
+dump1242,dump1242,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
 dump1243,dump1243,genus,Evapia,evap1240,,Glottolog;ASJP,divergence
 dumu1246,dumu1246,genus,Yaganon,yaga1258,,Glottolog;ASJP,divergence
 duna1248,duna1248,genus,Duna,duna1248,,Glottolog,isolate
@@ -1728,8 +1728,8 @@ east2462,east2462,genus,Timor-Babar,timo1265,,Glottolog;ASJP,divergence
 east2465,east2465,genus,Aru,aruu1241,,Glottolog;ASJP,divergence
 east2472,east2472,genus,Timor-Babar,timo1265,,Glottolog;ASJP,divergence
 east2482,east2482,genus,Greater Central Philippine,grea1284,,Glottolog;ASJP,divergence
-east2485,east2485,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
-east2486,east2486,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
+east2485,east2485,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
+east2486,east2486,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
 east2516,east2516,genus,Enga-Kewa-Huli,enga1254,,Glottolog;ASJP,divergence
 east2534,east2534,genus,Eskimo,eski1265,,Glottolog;ASJP,divergence
 east2538,east2538,genus,Aztecan,azte1234,,Glottolog;ASJP,divergence
@@ -1924,7 +1924,7 @@ fuli1240,fuli1240,genus,East Bantu,east2731,,Glottolog;ASJP,divergence
 fuln1247,fuln1247,genus,Fulniô,fuln1247,,Glottolog,isolate
 fung1245,fung1245,genus,Shiroro-Kamuku,shir1273,,Glottolog;ASJP,divergence
 furr1244,furr1244,genus,Furan,fura1235,,Glottolog;ASJP,divergence
-furu1242,furu1242,genus,Bongo-Bagirmi,sara1341,,Glottolog;ASJP,divergence
+furu1242,furu1242,genus,Sara-Bongo-Bagirmi,sara1341,,Glottolog;ASJP,divergence
 futu1245,futu1245,genus,Central Pacific,cent2060,,Glottolog;ASJP,divergence
 fuyu1242,fuyu1242,genus,Fuyug,fuyu1242,,Glottolog,isolate
 fwai1237,fwai1237,genus,Northern New Caledonian,nort3325,,Glottolog;ASJP,divergence
@@ -1975,7 +1975,7 @@ gamo1243,gamo1243,genus,Ta-Ne-Omotic,gong1255,,Glottolog;ASJP,divergence
 gana1268,gana1268,genus,Ganaic,gana1279,,Glottolog,unmeasured-clade
 gana1270,gana1270,genus,West-Central Benue-Congo Plateau,benu1249,,Glottolog;ASJP,divergence
 gana1274,gana1274,genus,Khoe,khoe1241,,Glottolog;ASJP,divergence
-gana1277,gana1277,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
+gana1277,gana1277,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
 gana1278,gana1278,genus,Ganaic,gana1279,,Glottolog,unmeasured-clade
 ganc1239,ganc1239,genus,Sinitic,sini1245,,Glottolog;ASJP,divergence
 gand1255,gand1255,genus,East Bantu,east2731,,Glottolog;ASJP,divergence
@@ -2103,7 +2103,7 @@ gora1262,gora1262,genus,Buang linkage,buan1245,,Glottolog;ASJP,divergence
 goro1259,goro1259,genus,Greater Central Philippine,grea1284,,Glottolog;ASJP,divergence
 goro1261,goro1261,genus,Agoan,agoa1234,,Glottolog;ASJP,divergence
 goro1270,goro1270,genus,South Cushitic,sout3054,,Glottolog;ASJP,divergence
-gorr1238,gorr1238,genus,Bongo-Bagirmi,sara1341,,Glottolog;ASJP,divergence
+gorr1238,gorr1238,genus,Sara-Bongo-Bagirmi,sara1341,,Glottolog;ASJP,divergence
 goth1244,goth1244,genus,Germanic,germ1287,,Glottolog;ASJP,divergence
 goun1238,goun1238,genus,Kim-Besme-Goundo,kimb1240,,Glottolog;ASJP,divergence
 gour1243,gour1243,genus,Oti-Volta,otiv1239,,Glottolog;ASJP,divergence
@@ -2161,9 +2161,9 @@ guiq1238,guiq1238,genus,Guiqiong,guiq1238,,Glottolog,single-language
 guja1252,guja1252,genus,Indo-Aryan,indo1321,,Glottolog;ASJP,divergence
 guja1253,guja1253,genus,Indo-Aryan,indo1321,,Glottolog;ASJP,divergence
 gula1265,gula1265,genus,Inland Bua,goul1243,,Glottolog;ASJP,divergence
-gula1266,gula1266,genus,Bongo-Bagirmi,sara1341,,Glottolog;ASJP,divergence
-gula1268,gula1268,genus,Bongo-Bagirmi,sara1341,,Glottolog;ASJP,divergence
-gula1269,gula1269,genus,Bongo-Bagirmi,sara1341,,Glottolog;ASJP,divergence
+gula1266,gula1266,genus,Sara-Bongo-Bagirmi,sara1341,,Glottolog;ASJP,divergence
+gula1268,gula1268,genus,Sara-Bongo-Bagirmi,sara1341,,Glottolog;ASJP,divergence
+gula1269,gula1269,genus,Sara-Bongo-Bagirmi,sara1341,,Glottolog;ASJP,divergence
 gula1270,gula1270,genus,Southeast Solomonic,sout2853,,Glottolog;ASJP,divergence
 gule1241,gule1241,genus,Gule,gule1241,,Glottolog,isolate
 gulf1241,gulf1241,genus,Semitic,semi1276,,Glottolog;ASJP,divergence
@@ -2344,11 +2344,11 @@ hooo1248,hooo1248,genus,Munda,mund1335,,Glottolog;ASJP,divergence
 hopi1249,hopi1249,genus,Northern Uto-Aztecan,nort2953,,Glottolog;ASJP,divergence
 horn1235,horn1235,genus,Hmongic,hmon1337,,Glottolog;ASJP,divergence
 horo1245,horo1245,genus,Southeastern Benue-Congo Plateau,sout2800,,Glottolog;ASJP,divergence
-horo1247,horo1247,genus,Bongo-Bagirmi,sara1341,,Glottolog;ASJP,divergence
+horo1247,horo1247,genus,Sara-Bongo-Bagirmi,sara1341,,Glottolog;ASJP,divergence
 horp1239,horp1239,genus,Qiangic,qian1263,,Glottolog;ASJP,divergence
 hote1245,hote1245,genus,Misim-Yamap,hote1244,,Glottolog;ASJP,divergence
 hoti1237,hoti1237,genus,Greater Seram Laut,grea1302,,Glottolog;ASJP,divergence
-hovo1239,hovo1239,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
+hovo1239,hovo1239,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
 hoya1235,hoya1235,genus,West Inland Gulf of Papua,west2867,,Glottolog;ASJP,divergence
 hozo1236,hozo1236,genus,Blue Nile Mao,maoo1243,,Glottolog;ASJP,divergence
 hpon1238,hpon1238,genus,Lolo-Burmese,lolo1265,,Glottolog;ASJP,divergence
@@ -2418,7 +2418,7 @@ ibuo1242,ibuo1242,genus,Lower Cross,obol1242,,Glottolog;ASJP,divergence
 ibuu1240,ibuu1240,genus,Northern North Halmahera,nort2924,,Glottolog;ASJP,divergence
 icel1247,icel1247,genus,Germanic,germ1287,,Glottolog;ASJP,divergence
 icev1238,icev1238,genus,Tivoid,tivo1239,,Glottolog;ASJP,divergence
-idaa1241,idaa1241,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
+idaa1241,idaa1241,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
 idak1243,idak1243,genus,East Bantu,east2731,,Glottolog;ASJP,divergence
 idat1237,idat1237,genus,Timor-Babar,timo1265,,Glottolog;ASJP,divergence
 ider1238,ider1238,genus,Lower Cross,obol1242,,Glottolog;ASJP,divergence
@@ -2595,7 +2595,7 @@ jaun1243,jaun1243,genus,Indo-Aryan,indo1321,,Glottolog;ASJP,divergence
 java1254,java1254,genus,Javanesic,java1253,,Glottolog;ASJP,divergence
 javi1237,javi1237,genus,Germanic,germ1287,,Glottolog;ASJP,divergence
 jawe1237,jawe1237,genus,Northern New Caledonian,nort3325,,Glottolog;ASJP,divergence
-jaya1242,jaya1242,genus,Bongo-Bagirmi,sara1341,,Glottolog;ASJP,divergence
+jaya1242,jaya1242,genus,Sara-Bongo-Bagirmi,sara1341,,Glottolog;ASJP,divergence
 jebe1250,jebe1250,genus,Cahuapanan,cahu1265,,Glottolog;ASJP,divergence
 jede1239,jede1239,genus,Aslian,asli1243,,Glottolog;ASJP,divergence
 jeha1242,jeha1242,genus,Aslian,asli1243,,Glottolog;ASJP,divergence
@@ -2657,7 +2657,7 @@ juqu1238,juqu1238,genus,Mixe-Zoque,mixe1284,,Glottolog;ASJP,divergence
 jura1242,jura1242,genus,Munda,mund1335,,Glottolog;ASJP,divergence
 jurc1239,jurc1239,genus,Tungusic,tung1282,,Glottolog;ASJP,divergence
 juri1235,juri1235,genus,Ticuna-Yuri,ticu1244,,Glottolog,unmeasured-family
-jurm1239,jurm1239,genus,Bongo-Bagirmi,sara1341,,Glottolog;ASJP,divergence
+jurm1239,jurm1239,genus,Sara-Bongo-Bagirmi,sara1341,,Glottolog;ASJP,divergence
 juru1256,juru1256,genus,Jurunic,yuru1262,,Glottolog;ASJP,divergence
 juti1236,juti1236,genus,Germanic,germ1287,,Glottolog;ASJP,divergence
 juuu1243,juuu1243,genus,West Chadic B.3,west2800,,Glottolog;ASJP,divergence
@@ -2670,7 +2670,7 @@ kaan1247,kaan1247,genus,Bena-Mboi,bena1258,,Glottolog;ASJP,divergence
 kaan1248,kaan1248,genus,Kuki-Chin,kuki1246,,Glottolog;ASJP,divergence
 kaba1276,kaba1276,genus,Iranian,iran1269,,Glottolog;ASJP,divergence
 kaba1278,kaba1278,genus,Circassian,circ1239,,Glottolog;ASJP,divergence
-kaba1281,kaba1281,genus,Bongo-Bagirmi,sara1341,,Glottolog;ASJP,divergence
+kaba1281,kaba1281,genus,Sara-Bongo-Bagirmi,sara1341,,Glottolog;ASJP,divergence
 kaba1292,kaba1292,genus,East Chadic A.2,east2645,,Glottolog;ASJP,divergence
 kabi1260,kabi1260,genus,Waka-Kabic,waka1283,,Glottolog;ASJP,divergence
 kabi1261,kabi1261,genus,East-West Grusi,east2740,,Glottolog;ASJP,divergence
@@ -2727,7 +2727,7 @@ kais1245,kais1245,genus,Brahmaputran,brah1260,,Glottolog;ASJP,divergence
 kaiw1246,kaiw1246,genus,Aweti-Guarani,awet1245,,Glottolog;ASJP,divergence
 kaiy1239,kaiy1239,genus,East Tariku,east2502,,Glottolog;ASJP,divergence
 kaja1247,kaja1247,genus,Iranian,iran1269,,Glottolog;ASJP,divergence
-kaja1250,kaja1250,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
+kaja1250,kaja1250,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
 kaja1254,kaja1254,genus,East Chadic B.1,east2709,,Glottolog;ASJP,divergence
 kajk1237,kajk1237,genus,Balto-Slavic,balt1263,,Glottolog;ASJP,divergence
 kajt1238,kajt1238,genus,Dargwic,darg1242,,Glottolog;ASJP,divergence
@@ -2750,7 +2750,7 @@ kala1381,kala1381,genus,Ijoid,ijoi1239,,Glottolog;ASJP,divergence
 kala1383,kala1383,genus,Northern Grusi,nort2782,,Glottolog;ASJP,divergence
 kala1384,kala1384,genus,East Bantu,east2731,,Glottolog;ASJP,divergence
 kala1388,kala1388,genus,Greater Central Philippine,grea1284,,Glottolog;ASJP,divergence
-kala1391,kala1391,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
+kala1391,kala1391,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
 kala1394,kala1394,genus,Celebic,cele1242,,Glottolog;ASJP,divergence
 kala1397,kala1397,genus,Kalam-Kobon,kala1404,,Glottolog;ASJP,divergence
 kala1399,kala1399,genus,Eskimo,eski1265,,Glottolog;ASJP,divergence
@@ -2819,7 +2819,7 @@ kanj1259,kanj1259,genus,Indo-Aryan,indo1321,,Glottolog;ASJP,divergence
 kanj1260,kanj1260,genus,Northeastern Pama,nort3256,,Glottolog;ASJP,divergence
 kank1243,kank1243,genus,Northern Luzon,nort3238,,Glottolog;ASJP,divergence
 kank1244,kank1244,genus,Arhuacic,arhu1241,,Glottolog;ASJP,divergence
-kano1244,kano1244,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
+kano1244,kano1244,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
 kano1245,kano1245,genus,Kanoê,kano1245,,Glottolog,isolate
 kans1243,kans1243,genus,Mississippi Valley,miss1254,,Glottolog;ASJP,divergence
 kant1249,kant1249,genus,Oti-Volta,otiv1239,,Glottolog;ASJP,divergence
@@ -2845,7 +2845,7 @@ kara1474,kara1474,genus,Avar-Andic-Tsezic,avar1255,,Glottolog;ASJP,divergence
 kara1476,kara1476,genus,Marrngu,marr1265,,Glottolog;ASJP,divergence
 kara1478,kara1478,genus,Mbumic,mbum1257,,Glottolog;ASJP,divergence
 kara1481,kara1481,genus,East Bantu,east2731,,Glottolog;ASJP,divergence
-kara1482,kara1482,genus,Bongo-Bagirmi,sara1341,,Glottolog;ASJP,divergence
+kara1482,kara1482,genus,Sara-Bongo-Bagirmi,sara1341,,Glottolog;ASJP,divergence
 kara1483,kara1483,genus,Eastern Nilotic,east2418,,Glottolog;ASJP,divergence
 kara1484,kara1484,genus,Maban,maba1274,,Glottolog;ASJP,divergence
 kara1486,kara1486,genus,Tungak-Nalik,tung1294,,Glottolog;ASJP,divergence
@@ -2920,8 +2920,8 @@ kaxa1239,kaxa1239,genus,Panoan,pano1256,,Glottolog;ASJP,divergence
 kaxu1237,kaxu1237,genus,Cariban,cari1283,,Glottolog;ASJP,divergence
 kaya1315,kaya1315,genus,Karenic,kare1337,,Glottolog;ASJP,divergence
 kaya1319,kaya1319,genus,Tangkic,tang1340,,Glottolog;ASJP,divergence
-kaya1324,kaya1324,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
-kaya1325,kaya1325,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
+kaya1324,kaya1324,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
+kaya1325,kaya1325,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
 kaya1328,kaya1328,genus,Kayagaric,kaya1327,,Glottolog;ASJP,divergence
 kaya1329,kaya1329,genus,Aweti-Guarani,awet1245,,Glottolog;ASJP,divergence
 kaya1330,kaya1330,genus,Cerrado,cerr1237,,Glottolog;ASJP,divergence
@@ -2943,7 +2943,7 @@ kein1239,kein1239,genus,Mabuso,mabu1247,,Glottolog;ASJP,divergence
 keiy1238,keiy1238,genus,Southern Nilotic,sout2830,,Glottolog;ASJP,divergence
 kekc1242,kekc1242,genus,Mayan,maya1287,,Glottolog;ASJP,divergence
 kela1255,kela1255,genus,North Huon Gulf,nort2858,,Glottolog;ASJP,divergence
-kela1258,kela1258,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
+kela1258,kela1258,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
 kele1255,kele1255,genus,Central-Western Bantu,cent2260,,Glottolog;ASJP,divergence
 kele1257,kele1257,genus,North-West Bantu,bant1295,,Glottolog;ASJP,divergence
 kele1258,kele1258,genus,Admiralty Islands,admi1239,,Glottolog;ASJP,divergence
@@ -2964,9 +2964,9 @@ kena1250,kena1250,genus,Unclassified Kainantu-Goroka,unun9974,,Glottolog,unmeasu
 kend1252,kend1252,genus,Mamfe,mamf1238,,Glottolog;ASJP,divergence
 kend1253,kend1253,genus,Maban,maba1274,,Glottolog;ASJP,divergence
 kend1254,kend1254,genus,Malayo-Chamic,mala1554,,Glottolog;ASJP,divergence
-keng1240,keng1240,genus,Bongo-Bagirmi,sara1341,,Glottolog;ASJP,divergence
+keng1240,keng1240,genus,Sara-Bongo-Bagirmi,sara1341,,Glottolog;ASJP,divergence
 keni1248,keni1248,genus,Malayo-Chamic,mala1554,,Glottolog;ASJP,divergence
-keni1249,keni1249,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
+keni1249,keni1249,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
 kens1248,kens1248,genus,Aslian,asli1243,,Glottolog;ASJP,divergence
 kens1251,kens1251,genus,Wide Grassfields,wide1239,,Glottolog;ASJP,divergence
 kenu1236,kenu1236,genus,Nile Nubian,nile1239,,Glottolog;ASJP,divergence
@@ -2980,7 +2980,7 @@ kera1248,kera1248,genus,Jola,jola1264,,Glottolog;ASJP,divergence
 kera1255,kera1255,genus,East Chadic A.3,east2641,,Glottolog;ASJP,divergence
 kere1280,kere1280,genus,Chukotian,chuk1272,,Glottolog;ASJP,divergence
 kere1283,kere1283,genus,East Bantu,east2731,,Glottolog;ASJP,divergence
-kere1285,kere1285,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
+kere1285,kere1285,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
 kere1286,kere1286,genus,Kiwaian,kiwa1251,,Glottolog;ASJP,divergence
 keri1250,keri1250,genus,Malayo-Chamic,mala1554,,Glottolog;ASJP,divergence
 kesa1244,kesa1244,genus,Evapia,evap1240,,Glottolog;ASJP,divergence
@@ -3045,7 +3045,7 @@ kile1243,kile1243,genus,Tungusic,tung1282,,Glottolog;ASJP,divergence
 kili1267,kili1267,genus,Kilivila-Muyuw,kili1271,,Glottolog;ASJP,divergence
 kili1268,kili1268,genus,Yuman,yuma1250,,Glottolog;ASJP,divergence
 kilm1241,kilm1241,genus,Bewani,bewa1242,,Glottolog;ASJP,divergence
-kima1244,kima1244,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
+kima1244,kima1244,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
 kima1246,kima1246,genus,Kimaama-Riantana,kima1245,,Glottolog;ASJP,divergence
 kimb1241,kimb1241,genus,Central-Western Bantu,cent2260,,Glottolog;ASJP,divergence
 kimb1242,kimb1242,genus,East Bantu,east2731,,Glottolog;ASJP,divergence
@@ -3066,7 +3066,7 @@ kion1242,kion1242,genus,Upper Cross,uppe1418,,Glottolog;ASJP,divergence
 kiow1264,kiow1264,genus,Athabaskan,atha1247,,Glottolog;ASJP,divergence
 kiow1266,kiow1266,genus,Kiowa-Tanoan,kiow1265,,Glottolog;ASJP,divergence
 kips1239,kips1239,genus,Southern Nilotic,sout2830,,Glottolog;ASJP,divergence
-kipu1237,kipu1237,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
+kipu1237,kipu1237,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
 kirb1236,kirb1236,genus,West Chadic B.3,west2800,,Glottolog;ASJP,divergence
 kire1240,kire1240,genus,Ruboni,kire1239,,Glottolog;ASJP,divergence
 kirg1245,kirg1245,genus,Turkic,turk1311,,Glottolog;ASJP,divergence
@@ -3089,7 +3089,7 @@ kitu1246,kitu1246,genus,Central-Western Bantu,cent2260,,Glottolog;ASJP,divergenc
 kiza1239,kiza1239,genus,Jos,josa1234,,Glottolog;ASJP,divergence
 klam1254,klam1254,genus,Klamath-Modoc,klam1254,,Glottolog,isolate
 klao1243,klao1243,genus,Kru,krua1234,,Glottolog;ASJP,divergence
-klia1235,klia1235,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
+klia1235,klia1235,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
 koal1240,koal1240,genus,Heibanic,heib1242,,Glottolog;ASJP,divergence
 koas1236,koas1236,genus,Muskogean,musk1252,,Glottolog;ASJP,divergence
 koba1240,koba1240,genus,Aru,aruu1241,,Glottolog;ASJP,divergence
@@ -3211,7 +3211,7 @@ kota1263,kota1263,genus,Dravidian,drav1251,,Glottolog;ASJP,divergence
 kota1272,kota1272,genus,Gbe,gbee1241,,Glottolog;ASJP,divergence
 kota1274,kota1274,genus,North-West Bantu,bant1295,,Glottolog;ASJP,divergence
 kota1275,kota1275,genus,Malayo-Chamic,mala1554,,Glottolog;ASJP,divergence
-kota1279,kota1279,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
+kota1279,kota1279,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
 koti1238,koti1238,genus,East Bantu,east2731,,Glottolog;ASJP,divergence
 kott1239,kott1239,genus,Yeniseian,yeni1252,,Glottolog;ASJP,divergence
 kouy1238,kouy1238,genus,Kru,krua1234,,Glottolog;ASJP,divergence
@@ -3264,7 +3264,7 @@ kuga1239,kuga1239,genus,Mumuye-Yandang,mumu1249,,Glottolog;ASJP,divergence
 kugb1241,kugb1241,genus,Central Delta,cent2028,,Glottolog;ASJP,divergence
 kuii1252,kuii1252,genus,Dravidian,drav1251,,Glottolog;ASJP,divergence
 kuii1253,kuii1253,genus,Kui (Indonesia),kuii1253,,Glottolog,single-language
-kuij1237,kuij1237,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
+kuij1237,kuij1237,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
 kuik1246,kuik1246,genus,Cariban,cari1283,,Glottolog;ASJP,divergence
 kuja1239,kuja1239,genus,Kujarge,kuja1239,,Glottolog,isolate
 kuka1246,kuka1246,genus,Wati,wati1241,,Glottolog;ASJP,divergence
@@ -3278,7 +3278,7 @@ kuku1283,kuku1283,genus,Kuku-Wik-Ep,kuku1276,,Glottolog;ASJP,divergence
 kuku1285,kuku1285,genus,Eastern Nilotic,east2418,,Glottolog;ASJP,divergence
 kula1280,kula1280,genus,East Alor,kola1286,,Glottolog;ASJP,divergence
 kule1247,kule1247,genus,West Chadic A.4,west2716,,Glottolog;ASJP,divergence
-kulf1238,kulf1238,genus,Bongo-Bagirmi,sara1341,,Glottolog;ASJP,divergence
+kulf1238,kulf1238,genus,Sara-Bongo-Bagirmi,sara1341,,Glottolog;ASJP,divergence
 kuli1254,kuli1254,genus,Celebic,cele1242,,Glottolog;ASJP,divergence
 kuli1255,kuli1255,genus,Panoan,pano1256,,Glottolog;ASJP,divergence
 kull1236,kull1236,genus,Indo-Aryan,indo1321,,Glottolog;ASJP,divergence
@@ -3414,7 +3414,7 @@ labi1245,labi1245,genus,Jarawan,jara1262,,Glottolog;ASJP,divergence
 labo1243,labo1243,genus,Lolo-Burmese,lolo1265,,Glottolog;ASJP,divergence
 labo1244,labo1244,genus,North and Central Vanuatu,nort3195,,Glottolog;ASJP,divergence
 labu1248,labu1248,genus,Markham,mark1257,,Glottolog;ASJP,divergence
-labu1249,labu1249,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
+labu1249,labu1249,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
 laca1243,laca1243,genus,Mayan,maya1287,,Glottolog;ASJP,divergence
 lach1248,lach1248,genus,Kra,kada1291,,Glottolog;ASJP,divergence
 lach1249,lach1249,genus,Zapotec,zapo1437,,Glottolog;ASJP,divergence
@@ -3429,14 +3429,14 @@ lagh1246,lagh1246,genus,West Santa Isabel,west2523,,Glottolog;ASJP,divergence
 lagw1237,lagw1237,genus,Kotoko-Buduma,koto1267,,Glottolog;ASJP,divergence
 laha1250,laha1250,genus,Kra,kada1291,,Glottolog;ASJP,divergence
 laha1251,laha1251,genus,Nunusaku,nunu1252,,Glottolog;ASJP,divergence
-laha1253,laha1253,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
+laha1253,laha1253,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
 lahu1250,lahu1250,genus,Indo-Aryan,indo1321,,Glottolog;ASJP,divergence
 lahu1252,lahu1252,genus,Lolo-Burmese,lolo1265,,Glottolog;ASJP,divergence
 lahu1253,lahu1253,genus,Lolo-Burmese,lolo1265,,Glottolog;ASJP,divergence
 laim1240,laim1240,genus,Wide Grassfields,wide1239,,Glottolog;ASJP,divergence
 lair1234,lair1234,genus,Tangkhul-Maring,tang1335,,Glottolog;ASJP,divergence
 laiy1246,laiy1246,genus,Celebic,cele1242,,Glottolog;ASJP,divergence
-laka1254,laka1254,genus,Bongo-Bagirmi,sara1341,,Glottolog;ASJP,divergence
+laka1254,laka1254,genus,Sara-Bongo-Bagirmi,sara1341,,Glottolog;ASJP,divergence
 laka1255,laka1255,genus,Timor-Babar,timo1265,,Glottolog;ASJP,divergence
 lake1258,lake1258,genus,Miwokan,miwo1275,,Glottolog;ASJP,divergence
 lakh1240,lakh1240,genus,Bodic,bodi1256,,Glottolog;ASJP,divergence
@@ -3475,7 +3475,7 @@ lamp1242,lamp1242,genus,Lampungic,lamp1241,,Glottolog;ASJP,divergence
 lamp1243,lamp1243,genus,Lampungic,lamp1241,,Glottolog;ASJP,divergence
 lamu1254,lamu1254,genus,Coastal Lamalamic,coas1321,,Glottolog;ASJP,divergence
 lamu1257,lamu1257,genus,Lolo-Burmese,lolo1265,,Glottolog;ASJP,divergence
-lana1236,lana1236,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
+lana1236,lana1236,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
 land1256,land1256,genus,Northern Mel,temn1245,,Glottolog;ASJP,divergence
 lang1316,lang1316,genus,Kra,kada1291,,Glottolog;ASJP,divergence
 lang1318,lang1318,genus,Bandaic,band1341,,Glottolog;ASJP,divergence
@@ -3542,7 +3542,7 @@ lein1237,lein1237,genus,Brahmaputran,brah1260,,Glottolog;ASJP,divergence
 leip1237,leip1237,genus,Admiralty Islands,admi1239,,Glottolog;ASJP,divergence
 leit1234,leit1234,genus,Skouic,skou1239,,Glottolog;ASJP,divergence
 leiz1236,leiz1236,genus,Sinitic,sini1245,,Glottolog;ASJP,divergence
-lela1246,lela1246,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
+lela1246,lela1246,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
 lele1264,lele1264,genus,Lelemic,lele1262,,Glottolog;ASJP,divergence
 lele1265,lele1265,genus,Central-Western Bantu,cent2260,,Glottolog;ASJP,divergence
 lele1266,lele1266,genus,Western Mande,west2780,,Glottolog;ASJP,divergence
@@ -3560,7 +3560,7 @@ lenc1243,lenc1243,genus,Lencan,lenc1239,,Glottolog;ASJP,divergence
 lend1245,lend1245,genus,Lenduic,lend1246,,Glottolog;ASJP,divergence
 leng1258,leng1258,genus,Central-Western Bantu,cent2260,,Glottolog;ASJP,divergence
 leng1259,leng1259,genus,Southeast Solomonic,sout2853,,Glottolog;ASJP,divergence
-leng1260,leng1260,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
+leng1260,leng1260,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
 leni1238,leni1238,genus,Linngithigh-Alngith,leni1237,,Glottolog,unmeasured-clade
 lenj1248,lenj1248,genus,East Bantu,east2731,,Glottolog;ASJP,divergence
 lenk1247,lenk1247,genus,Admiralty Islands,admi1239,,Glottolog;ASJP,divergence
@@ -3666,7 +3666,7 @@ long1375,long1375,genus,Central Naga,aoic1235,,Glottolog;ASJP,divergence
 long1387,long1387,genus,Southern Samba-Duru,sout3238,,Glottolog;ASJP,divergence
 long1389,long1389,genus,Longuda,long1389,,Glottolog,single-language
 long1395,long1395,genus,Southeast Solomonic,sout2853,,Glottolog;ASJP,divergence
-long1406,long1406,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
+long1406,long1406,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
 long1417,long1417,genus,Macro-Bai,macr1275,,Glottolog;ASJP,divergence
 loni1238,loni1238,genus,Admiralty Islands,admi1239,,Glottolog;ASJP,divergence
 lonw1238,lonw1238,genus,North and Central Vanuatu,nort3195,,Glottolog;ASJP,divergence
@@ -3679,7 +3679,7 @@ lore1244,lore1244,genus,North and Central Vanuatu,nort3195,,Glottolog;ASJP,diver
 lote1237,lote1237,genus,Mengenic,meng1266,,Glottolog;ASJP,divergence
 loth1237,loth1237,genus,Central Naga,aoic1235,,Glottolog;ASJP,divergence
 loto1240,loto1240,genus,North and Central Vanuatu,nort3195,,Glottolog;ASJP,divergence
-lotu1250,lotu1250,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
+lotu1250,lotu1250,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
 loui1240,loui1240,genus,Italic,ital1284,,Glottolog;ASJP,divergence
 loun1239,loun1239,genus,Nunusaku,nunu1252,,Glottolog;ASJP,divergence
 loup1243,loup1243,genus,Algonquian,algo1257,,Glottolog;ASJP,divergence
@@ -3726,7 +3726,7 @@ lumu1239,lumu1239,genus,Talodi,narr1279,,Glottolog;ASJP,divergence
 luna1243,luna1243,genus,Bodic,bodi1256,,Glottolog;ASJP,divergence
 luna1244,luna1244,genus,Central-Western Bantu,cent2260,,Glottolog;ASJP,divergence
 lund1266,lund1266,genus,Central-Western Bantu,cent2260,,Glottolog;ASJP,divergence
-lund1271,lund1271,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
+lund1271,lund1271,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
 lund1276,lund1276,genus,West Chadic B.3,west2800,,Glottolog;ASJP,divergence
 lung1249,lung1249,genus,New Georgia,newg1239,,Glottolog;ASJP,divergence
 luoc1235,luoc1235,genus,Mambiloid,mamb1309,,Glottolog;ASJP,divergence
@@ -3741,7 +3741,7 @@ lush1256,lush1256,genus,West Chadic B.3,west2800,,Glottolog;ASJP,divergence
 lusi1235,lusi1235,genus,Italic,ital1284,,Glottolog;ASJP,divergence
 lusi1240,lusi1240,genus,Ngero,nger1240,,Glottolog;ASJP,divergence
 lute1234,lute1234,genus,Heibanic,heib1242,,Glottolog;ASJP,divergence
-luto1241,luto1241,genus,Bongo-Bagirmi,sara1341,,Glottolog;ASJP,divergence
+luto1241,luto1241,genus,Sara-Bongo-Bagirmi,sara1341,,Glottolog;ASJP,divergence
 luuu1242,luuu1242,genus,Kam-Tai,kamt1241,,Glottolog;ASJP,divergence
 luva1239,luva1239,genus,Central-Western Bantu,cent2260,,Glottolog;ASJP,divergence
 luwa1238,luwa1238,genus,Indo-Aryan,indo1321,,Glottolog;ASJP,divergence
@@ -3822,7 +3822,7 @@ maii1238,maii1238,genus,North and Central Vanuatu,nort3195,,Glottolog;ASJP,diver
 mail1248,mail1248,genus,Mailuan,mail1249,,Glottolog;ASJP,divergence
 main1267,main1267,genus,Germanic,germ1287,,Glottolog;ASJP,divergence
 main1272,main1272,genus,East Bantu,east2731,,Glottolog;ASJP,divergence
-main1275,main1275,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
+main1275,main1275,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
 maip1247,maip1247,genus,Alto Orinoco,alto1249,,Glottolog;ASJP,divergence
 mais1250,mais1250,genus,Nuclear Papuan Tip,nucl1744,,Glottolog;ASJP,divergence
 mait1250,mait1250,genus,Indo-Aryan,indo1321,,Glottolog;ASJP,divergence
@@ -3946,7 +3946,7 @@ mang1383,mang1383,genus,Marrngu,marr1265,,Glottolog;ASJP,divergence
 mang1387,mang1387,genus,Sereic,sere1262,,Glottolog;ASJP,divergence
 mang1394,mang1394,genus,Mangbetu-Asua,mang1393,,Glottolog;ASJP,divergence
 mang1396,mang1396,genus,Mangbutu-Efe,mang1425,,Glottolog;ASJP,divergence
-mang1398,mang1398,genus,Bongo-Bagirmi,sara1341,,Glottolog;ASJP,divergence
+mang1398,mang1398,genus,Sara-Bongo-Bagirmi,sara1341,,Glottolog;ASJP,divergence
 mang1399,mang1399,genus,Kanuri-Kanembu,kanu1279,,Glottolog;ASJP,divergence
 mang1401,mang1401,genus,Central Pacific,cent2060,,Glottolog;ASJP,divergence
 mang1403,mang1403,genus,Mangseng,mang1403,,Glottolog,single-language
@@ -4120,7 +4120,7 @@ mbar1254,mbar1254,genus,Mbara-Yanga,mbar1254,,Glottolog,single-language
 mbar1260,mbar1260,genus,Musguic,bium1279,,Glottolog;ASJP,divergence
 mbat1247,mbat1247,genus,Potou,poto1250,,Glottolog;ASJP,divergence
 mbat1248,mbat1248,genus,Central-Western Bantu,cent2260,,Glottolog;ASJP,divergence
-mbay1241,mbay1241,genus,Bongo-Bagirmi,sara1341,,Glottolog;ASJP,divergence
+mbay1241,mbay1241,genus,Sara-Bongo-Bagirmi,sara1341,,Glottolog;ASJP,divergence
 mbed1242,mbed1242,genus,Dabaic,bium1274,,Glottolog;ASJP,divergence
 mbee1249,mbee1249,genus,Ekoid-Mbe,ekoi1237,,Glottolog;ASJP,divergence
 mbee1250,mbee1250,genus,Wide Grassfields,wide1239,,Glottolog;ASJP,divergence
@@ -4177,7 +4177,7 @@ melp1238,melp1238,genus,Chimbu-Wahgi,cent2120,,Glottolog;ASJP,divergence
 memo1238,memo1238,genus,Indo-Aryan,indo1321,,Glottolog;ASJP,divergence
 mend1261,mend1261,genus,Wide Grassfields,wide1239,,Glottolog;ASJP,divergence
 mend1266,mend1266,genus,Western Mande,west2780,,Glottolog;ASJP,divergence
-mend1267,mend1267,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
+mend1267,mend1267,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
 mend1268,mend1268,genus,Nukuma,nuku1256,,Glottolog;ASJP,divergence
 meng1264,meng1264,genus,Wide Grassfields,wide1239,,Glottolog;ASJP,divergence
 meng1267,meng1267,genus,Mengenic,meng1266,,Glottolog;ASJP,divergence
@@ -4268,7 +4268,7 @@ mini1253,mini1253,genus,Minidien,mini1253,,Glottolog,single-language
 mini1256,mini1256,genus,Huitotoan,huit1251,,Glottolog;ASJP,divergence
 mink1237,mink1237,genus,Minkin,mink1237,,Glottolog,isolate
 minn1241,minn1241,genus,Sinitic,sini1245,,Glottolog;ASJP,divergence
-mino1243,mino1243,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
+mino1243,mino1243,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
 minr1238,minr1238,genus,Aslian,asli1243,,Glottolog;ASJP,divergence
 mint1239,mint1239,genus,Aslian,asli1243,,Glottolog;ASJP,divergence
 minz1235,minz1235,genus,Sinitic,sini1245,,Glottolog;ASJP,divergence
@@ -4285,7 +4285,7 @@ misk1235,misk1235,genus,Mískito,misk1235,,Glottolog,single-language
 mith1236,mith1236,genus,Karnic,karn1253,,Glottolog;ASJP,divergence
 mitl1235,mitl1235,genus,Mixtec,mixt1427,,Glottolog;ASJP,divergence
 mitl1236,mitl1236,genus,Zapotec,zapo1437,,Glottolog;ASJP,divergence
-mitt1253,mitt1253,genus,Bongo-Bagirmi,sara1341,,Glottolog;ASJP,divergence
+mitt1253,mitt1253,genus,Sara-Bongo-Bagirmi,sara1341,,Glottolog;ASJP,divergence
 mitu1240,mitu1240,genus,East Bantu,east2731,,Glottolog;ASJP,divergence
 miuu1237,miuu1237,genus,Pasismanua,pasi1254,,Glottolog;ASJP,divergence
 miwa1242,miwa1242,genus,Worrorran,worr1236,,Glottolog;ASJP,divergence
@@ -4309,8 +4309,8 @@ moch1256,moch1256,genus,East Bantu,east2731,,Glottolog;ASJP,divergence
 moch1257,moch1257,genus,Mayan,maya1287,,Glottolog;ASJP,divergence
 moch1259,moch1259,genus,Mochica,moch1259,,Glottolog,isolate
 moco1246,moco1246,genus,Qom,qomm1235,,Glottolog;ASJP,divergence
-moda1242,moda1242,genus,Bongo-Bagirmi,sara1341,,Glottolog;ASJP,divergence
-moda1244,moda1244,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
+moda1242,moda1242,genus,Sara-Bongo-Bagirmi,sara1341,,Glottolog;ASJP,divergence
+moda1244,moda1244,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
 mode1248,mode1248,genus,Graeco-Phrygian,grae1234,,Glottolog;ASJP,divergence
 modo1249,modo1249,genus,Northern North Halmahera,nort2924,,Glottolog;ASJP,divergence
 moer1240,moer1240,genus,Kumil-Tibor,kumi1250,,Glottolog;ASJP,divergence
@@ -4382,8 +4382,8 @@ mori1271,mori1271,genus,Kiwaian,kiwa1251,,Glottolog;ASJP,divergence
 mori1273,mori1273,genus,Chamicuro-Morike,cham1317,,Glottolog,unmeasured-clade
 mori1278,mori1278,genus,Italic,ital1284,,Glottolog;ASJP,divergence
 morm1235,morm1235,genus,Mor (Mor Islands),morm1235,,Glottolog,single-language
-moro1281,moro1281,genus,Bongo-Bagirmi,sara1341,,Glottolog;ASJP,divergence
-moro1284,moro1284,genus,Bongo-Bagirmi,sara1341,,Glottolog;ASJP,divergence
+moro1281,moro1281,genus,Sara-Bongo-Bagirmi,sara1341,,Glottolog;ASJP,divergence
+moro1284,moro1284,genus,Sara-Bongo-Bagirmi,sara1341,,Glottolog;ASJP,divergence
 moro1285,moro1285,genus,Heibanic,heib1242,,Glottolog;ASJP,divergence
 moro1286,moro1286,genus,North and Central Vanuatu,nort3195,,Glottolog;ASJP,divergence
 moro1287,moro1287,genus,Celebic,cele1242,,Glottolog;ASJP,divergence
@@ -4465,7 +4465,7 @@ muns1251,muns1251,genus,Algonquian,algo1257,,Glottolog;ASJP,divergence
 muon1246,muon1246,genus,Vietic,viet1250,,Glottolog;ASJP,divergence
 mura1271,mura1271,genus,Nuclear Warup,nucl1777,,Glottolog;ASJP,divergence
 mure1235,mure1235,genus,Mure,mure1235,,Glottolog,isolate
-muri1259,muri1259,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
+muri1259,muri1259,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
 muri1260,muri1260,genus,Nor,norr1244,,Glottolog;ASJP,divergence
 murk1238,murk1238,genus,Lepki-Murkim-Kembra,lepk1239,,Glottolog;ASJP,divergence
 murl1244,murl1244,genus,South Surmic,sout2836,,Glottolog;ASJP,divergence
@@ -4508,7 +4508,7 @@ mzie1235,mzie1235,genus,Zemeic,zeme1241,,Glottolog;ASJP,divergence
 naaa1245,naaa1245,genus,Tani,tani1259,,Glottolog;ASJP,divergence
 naab1241,naab1241,genus,Bodic,bodi1256,,Glottolog;ASJP,divergence
 naas1242,naas1242,genus,Nasioiic,nasi1247,,Glottolog,unmeasured-clade
-naba1253,naba1253,genus,Bongo-Bagirmi,sara1341,,Glottolog;ASJP,divergence
+naba1253,naba1253,genus,Sara-Bongo-Bagirmi,sara1341,,Glottolog;ASJP,divergence
 naba1256,naba1256,genus,Western Huon,west2795,,Glottolog;ASJP,divergence
 nabi1239,nabi1239,genus,Nabi-Metan,nabi1239,,Glottolog,single-language
 nabi1240,nabi1240,genus,Oti-Volta,otiv1239,,Glottolog;ASJP,divergence
@@ -4577,7 +4577,7 @@ nara1263,nara1263,genus,North and Central Vanuatu,nort3195,,Glottolog;ASJP,diver
 nara1264,nara1264,genus,Chimbu-Wahgi,cent2120,,Glottolog;ASJP,divergence
 nari1240,nari1240,genus,South Surmic,sout2836,,Glottolog;ASJP,divergence
 naro1249,naro1249,genus,Khoe,khoe1241,,Glottolog;ASJP,divergence
-naro1251,naro1251,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
+naro1251,naro1251,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
 narp1239,narp1239,genus,Bodic,bodi1256,,Glottolog;ASJP,divergence
 narr1259,narr1259,genus,Lower Murray,lowe1401,,Glottolog,unmeasured-clade
 naru1238,naru1238,genus,Thura-Yura,thur1253,,Glottolog;ASJP,divergence
@@ -4686,8 +4686,8 @@ ngal1300,ngal1300,genus,Ndu,nduu1242,,Glottolog;ASJP,divergence
 ngal1301,ngal1301,genus,Kotoko-Buduma,koto1267,,Glottolog;ASJP,divergence
 ngam1265,ngam1265,genus,Karnic,karn1253,,Glottolog;ASJP,divergence
 ngam1267,ngam1267,genus,Wide Grassfields,wide1239,,Glottolog;ASJP,divergence
-ngam1268,ngam1268,genus,Bongo-Bagirmi,sara1341,,Glottolog;ASJP,divergence
-ngam1269,ngam1269,genus,Bongo-Bagirmi,sara1341,,Glottolog;ASJP,divergence
+ngam1268,ngam1268,genus,Sara-Bongo-Bagirmi,sara1341,,Glottolog;ASJP,divergence
+ngam1269,ngam1269,genus,Sara-Bongo-Bagirmi,sara1341,,Glottolog;ASJP,divergence
 ngam1282,ngam1282,genus,West Chadic A.2-3,west2799,,Glottolog;ASJP,divergence
 ngan1291,ngan1291,genus,Samoyedic,samo1298,,Glottolog;ASJP,divergence
 ngan1295,ngan1295,genus,Ngandi,ngan1295,,Glottolog,single-language
@@ -4934,7 +4934,7 @@ nort3139,nort3139,genus,Semitic,semi1276,,Glottolog;ASJP,divergence
 nort3142,nort3142,genus,Semitic,semi1276,,Glottolog;ASJP,divergence
 nort3247,nort3247,genus,Nyun-Buy,east2703,,Glottolog;ASJP,divergence
 nort3260,nort3260,genus,Northern Samba-Duru,nort3259,,Glottolog;ASJP,divergence
-nort3262,nort3262,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
+nort3262,nort3262,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
 nort3268,nort3268,genus,Sinitic,sini1245,,Glottolog;ASJP,divergence
 nort3270,nort3270,genus,Katuic,katu1271,,Glottolog;ASJP,divergence
 nort3286,nort3286,genus,Tangkhul-Maring,tang1335,,Glottolog;ASJP,divergence
@@ -5030,7 +5030,7 @@ nyam1271,nyam1271,genus,South-West Pama-Nyungan,sout3134,,Glottolog;ASJP,diverge
 nyam1275,nyam1275,genus,East Bantu,east2731,,Glottolog;ASJP,divergence
 nyam1276,nyam1276,genus,East Bantu,east2731,,Glottolog;ASJP,divergence
 nyam1277,nyam1277,genus,East Bantu,east2731,,Glottolog;ASJP,divergence
-nyam1279,nyam1279,genus,Bongo-Bagirmi,sara1341,,Glottolog;ASJP,divergence
+nyam1279,nyam1279,genus,Sara-Bongo-Bagirmi,sara1341,,Glottolog;ASJP,divergence
 nyam1285,nyam1285,genus,West Chadic A.2-3,west2799,,Glottolog;ASJP,divergence
 nyan1300,nyan1300,genus,Tangkic,tang1340,,Glottolog;ASJP,divergence
 nyan1301,nyan1301,genus,Marrngu,marr1265,,Glottolog;ASJP,divergence
@@ -5105,7 +5105,7 @@ okob1241,okob1241,genus,Lower Cross,obol1242,,Glottolog;ASJP,divergence
 okod1238,okod1238,genus,Ijoid,ijoi1239,,Glottolog;ASJP,divergence
 okoe1238,okoe1238,genus,Oko-Eni-Osayen,okoe1238,,Glottolog,single-language
 okoj1239,okoj1239,genus,Great Andamanese,grea1241,,Glottolog;ASJP,divergence
-okol1241,okol1241,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
+okol1241,okol1241,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
 okol1243,okol1243,genus,Eastern Nilotic,east2418,,Glottolog;ASJP,divergence
 okpa1238,okpa1238,genus,Edoid,edoi1239,,Glottolog;ASJP,divergence
 okpe1249,okpe1249,genus,Edoid,edoi1239,,Glottolog;ASJP,divergence
@@ -5276,7 +5276,7 @@ pall1244,pall1244,genus,Omosan,omos1240,,Glottolog;ASJP,divergence
 palm1241,palm1241,genus,Cariban,cari1283,,Glottolog;ASJP,divergence
 palo1243,palo1243,genus,Cangin,cang1245,,Glottolog;ASJP,divergence
 palu1252,palu1252,genus,Bima-Lembata,bima1248,,Glottolog;ASJP,divergence
-palu1253,palu1253,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
+palu1253,palu1253,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
 paly1238,paly1238,genus,Indo-Aryan,indo1321,,Glottolog;ASJP,divergence
 pamb1243,pamb1243,genus,Zandic,zand1246,,Glottolog;ASJP,divergence
 pamm1242,pamm1242,genus,Mbumic,mbum1257,,Glottolog;ASJP,divergence
@@ -5312,7 +5312,7 @@ pany1241,pany1241,genus,South-West Pama-Nyungan,sout3134,,Glottolog;ASJP,diverge
 paok1235,paok1235,genus,Karenic,kare1337,,Glottolog;ASJP,divergence
 papa1238,papa1238,genus,Totonacan,toto1251,,Glottolog;ASJP,divergence
 papa1265,papa1265,genus,North Bougainville Oceanic,neha1246,,Glottolog;ASJP,divergence
-papa1268,papa1268,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
+papa1268,papa1268,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
 papa1269,papa1269,genus,East Tariku,east2502,,Glottolog;ASJP,divergence
 pape1239,pape1239,genus,Manjaku-Mankanya-Pepel,manj1250,,Glottolog;ASJP,divergence
 papi1253,papi1253,genus,Italic,ital1284,,Glottolog;ASJP,divergence
@@ -5527,11 +5527,11 @@ pulu1242,pulu1242,genus,Western Micronesian,west2844,,Glottolog;ASJP,divergence
 puma1239,puma1239,genus,Kiranti,kira1253,,Glottolog;ASJP,divergence
 pume1238,pume1238,genus,Pumé,pume1238,,Glottolog,isolate
 pump1237,pump1237,genus,Yeniseian,yeni1252,,Glottolog;ASJP,divergence
-puna1266,puna1266,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
-puna1267,puna1267,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
-puna1268,puna1268,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
-puna1275,puna1275,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
-puna1278,puna1278,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
+puna1266,puna1266,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
+puna1267,puna1267,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
+puna1268,puna1268,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
+puna1275,puna1275,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
+puna1278,puna1278,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
 puni1241,puni1241,genus,Semitic,semi1276,,Glottolog;ASJP,divergence
 puno1238,puno1238,genus,Quechuan,quec1387,,Glottolog;ASJP,divergence
 punu1239,punu1239,genus,Central-Western Bantu,cent2260,,Glottolog;ASJP,divergence
@@ -5623,7 +5623,7 @@ raza1238,raza1238,genus,Iranian,iran1269,,Glottolog;ASJP,divergence
 redg1235,redg1235,genus,Kra,kada1291,,Glottolog;ASJP,divergence
 reel1238,reel1238,genus,Western Nilotic,west2493,,Glottolog;ASJP,divergence
 reja1240,reja1240,genus,Rejang,reja1240,,Glottolog,single-language
-reja1241,reja1241,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
+reja1241,reja1241,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
 reli1238,reli1238,genus,Indo-Aryan,indo1321,,Glottolog;ASJP,divergence
 rema1238,rema1238,genus,Tonda,tond1250,,Glottolog;ASJP,divergence
 remb1249,remb1249,genus,Jala,jala1236,,Glottolog;ASJP,divergence
@@ -5693,7 +5693,7 @@ rund1241,rund1241,genus,East Bantu,east2731,,Glottolog;ASJP,divergence
 rund1242,rund1242,genus,East Bantu,east2731,,Glottolog;ASJP,divergence
 rung1255,rung1255,genus,East Bantu,east2731,,Glottolog;ASJP,divergence
 rung1258,rung1258,genus,Maban,maba1274,,Glottolog;ASJP,divergence
-rung1259,rung1259,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
+rung1259,rung1259,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
 russ1263,russ1263,genus,Balto-Slavic,balt1263,,Glottolog;ASJP,divergence
 russ1264,russ1264,genus,Mongolic-Khitan,mong1349,,Glottolog;ASJP,divergence
 rusy1239,rusy1239,genus,Balto-Slavic,balt1263,,Glottolog;ASJP,divergence
@@ -5708,8 +5708,8 @@ saam1283,saam1283,genus,East Bantu,east2731,,Glottolog;ASJP,divergence
 saar1237,saar1237,genus,Tsouic,tsou1250,,Glottolog;ASJP,divergence
 saba1262,saba1262,genus,Southern Nilotic,sout2830,,Glottolog;ASJP,divergence
 saba1263,saba1263,genus,Malayo-Chamic,mala1554,,Glottolog;ASJP,divergence
-saba1265,saba1265,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
-saba1267,saba1267,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
+saba1265,saba1265,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
+saba1267,saba1267,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
 saba1268,saba1268,genus,Sabanê,saba1268,,Glottolog,single-language
 saba1276,saba1276,genus,East Chadic B.3,east2710,,Glottolog;ASJP,divergence
 saba1279,saba1279,genus,Semitic,semi1276,,Glottolog;ASJP,divergence
@@ -5732,7 +5732,7 @@ said1239,said1239,genus,Semitic,semi1276,,Glottolog;ASJP,divergence
 sain1246,sain1246,genus,Italic,ital1284,,Glottolog;ASJP,divergence
 sais1237,sais1237,genus,Northwest Formosan,nort2899,,Glottolog,unmeasured-clade
 saja1240,saja1240,genus,Miji,miji1239,,Glottolog,unmeasured-clade
-saja1241,saja1241,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
+saja1241,saja1241,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
 saka1283,saka1283,genus,Kuki-Chin,kuki1246,,Glottolog;ASJP,divergence
 saka1287,saka1287,genus,Central-Western Bantu,cent2260,,Glottolog;ASJP,divergence
 saka1289,saka1289,genus,North and Central Vanuatu,nort3195,,Glottolog;ASJP,divergence
@@ -5848,9 +5848,9 @@ sapo1251,sapo1251,genus,Kru,krua1234,,Glottolog;ASJP,divergence
 sapo1253,sapo1253,genus,North Bougainville Oceanic,neha1246,,Glottolog;ASJP,divergence
 sapo1254,sapo1254,genus,Saponi,sapo1254,,Glottolog,single-language
 sapu1248,sapu1248,genus,Bahnaric,bahn1264,,Glottolog;ASJP,divergence
-sara1319,sara1319,genus,Bongo-Bagirmi,sara1341,,Glottolog;ASJP,divergence
-sara1321,sara1321,genus,Bongo-Bagirmi,sara1341,,Glottolog;ASJP,divergence
-sara1322,sara1322,genus,Bongo-Bagirmi,sara1341,,Glottolog;ASJP,divergence
+sara1319,sara1319,genus,Sara-Bongo-Bagirmi,sara1341,,Glottolog;ASJP,divergence
+sara1321,sara1321,genus,Sara-Bongo-Bagirmi,sara1341,,Glottolog;ASJP,divergence
+sara1322,sara1322,genus,Sara-Bongo-Bagirmi,sara1341,,Glottolog;ASJP,divergence
 sara1323,sara1323,genus,Markham,mark1257,,Glottolog;ASJP,divergence
 sara1326,sara1326,genus,Bilic,bili1253,,Glottolog;ASJP,divergence
 sara1327,sara1327,genus,Greater Central Philippine,grea1284,,Glottolog;ASJP,divergence
@@ -5858,7 +5858,7 @@ sara1329,sara1329,genus,Land Dayak,land1261,,Glottolog;ASJP,divergence
 sara1331,sara1331,genus,Central-Eastern Maipuran,cent2413,,Glottolog;ASJP,divergence
 sara1340,sara1340,genus,Germanic,germ1287,,Glottolog;ASJP,divergence
 sari1246,sari1246,genus,Iranian,iran1269,,Glottolog;ASJP,divergence
-sarr1246,sarr1246,genus,Bongo-Bagirmi,sara1341,,Glottolog;ASJP,divergence
+sarr1246,sarr1246,genus,Sara-Bongo-Bagirmi,sara1341,,Glottolog;ASJP,divergence
 sarr1247,sarr1247,genus,West Alor-Straits-Pantar,west2994,,Glottolog;ASJP,divergence
 sars1236,sars1236,genus,Athabaskan,atha1247,,Glottolog;ASJP,divergence
 sart1249,sart1249,genus,Kho-Bwa,khob1235,,Glottolog;ASJP,divergence
@@ -5897,21 +5897,21 @@ sder1236,sder1236,genus,Bodic,bodi1256,,Glottolog;ASJP,divergence
 seba1247,seba1247,genus,East Bantu,east2731,,Glottolog;ASJP,divergence
 seba1251,seba1251,genus,Semitic,semi1276,,Glottolog;ASJP,divergence
 sebe1242,sebe1242,genus,Malayo-Chamic,mala1554,,Glottolog;ASJP,divergence
-sebo1238,sebo1238,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
+sebo1238,sebo1238,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
 sech1236,sech1236,genus,Sechuran,sech1236,,Glottolog,isolate
 sech1246,sech1246,genus,Central Salish,cent2129,,Glottolog;ASJP,divergence
 seco1241,seco1241,genus,Tucanoan,tuca1253,,Glottolog;ASJP,divergence
 seda1262,seda1262,genus,Bahnaric,bahn1264,,Glottolog;ASJP,divergence
 sedo1237,sedo1237,genus,Celebic,cele1242,,Glottolog;ASJP,divergence
 seek1238,seek1238,genus,Western Mande,west2780,,Glottolog;ASJP,divergence
-sega1243,sega1243,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
+sega1243,sega1243,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
 sege1235,sege1235,genus,West Bird's Head,west1493,,Glottolog;ASJP,divergence
 sege1246,sege1246,genus,East Bantu,east2731,,Glottolog;ASJP,divergence
 sehw1238,sehw1238,genus,Central Tano,cent2262,,Glottolog;ASJP,divergence
 seim1238,seim1238,genus,Admiralty Islands,admi1239,,Glottolog;ASJP,divergence
 seit1239,seit1239,genus,Nunusaku,nunu1252,,Glottolog;ASJP,divergence
 seka1247,seka1247,genus,Tanimbar-Bomberai,tani1260,,Glottolog;ASJP,divergence
-seka1248,seka1248,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
+seka1248,seka1248,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
 seka1250,seka1250,genus,Athabaskan,atha1247,,Glottolog;ASJP,divergence
 seke1240,seke1240,genus,Bodic,bodi1256,,Glottolog;ASJP,divergence
 seke1241,seke1241,genus,North and Central Vanuatu,nort3195,,Glottolog;ASJP,divergence
@@ -5925,11 +5925,11 @@ sele1249,sele1249,genus,Lelemic,lele1262,,Glottolog;ASJP,divergence
 sele1250,sele1250,genus,Western Huon,west2795,,Glottolog;ASJP,divergence
 selk1253,selk1253,genus,Samoyedic,samo1298,,Glottolog;ASJP,divergence
 selu1242,selu1242,genus,Timor-Babar,timo1265,,Glottolog;ASJP,divergence
-selu1243,selu1243,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
+selu1243,selu1243,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
 sema1265,sema1265,genus,Aslian,asli1243,,Glottolog;ASJP,divergence
 sema1266,sema1266,genus,Aslian,asli1243,,Glottolog;ASJP,divergence
 sema1269,sema1269,genus,Land Dayak,land1261,,Glottolog;ASJP,divergence
-semb1240,semb1240,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
+semb1240,semb1240,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
 seme1247,seme1247,genus,Aslian,asli1243,,Glottolog;ASJP,divergence
 semi1264,semi1264,genus,Mairasic,mair1253,,Glottolog;ASJP,divergence
 semn1249,semn1249,genus,Iranian,iran1269,,Glottolog;ASJP,divergence
@@ -5960,7 +5960,7 @@ seri1257,seri1257,genus,Seri,seri1257,,Glottolog,isolate
 serr1255,serr1255,genus,Northern Uto-Aztecan,nort2953,,Glottolog;ASJP,divergence
 seru1244,seru1244,genus,Yapen,yape1249,,Glottolog;ASJP,divergence
 seru1245,seru1245,genus,Timor-Babar,timo1265,,Glottolog;ASJP,divergence
-seru1246,seru1246,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
+seru1246,seru1246,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
 sese1246,sese1246,genus,Italic,ital1284,,Glottolog;ASJP,divergence
 seta1245,seta1245,genus,West Wapei,west2580,,Glottolog;ASJP,divergence
 seta1246,seta1246,genus,Ok,okkk1242,,Glottolog;ASJP,divergence
@@ -6030,13 +6030,13 @@ shwe1236,shwe1236,genus,Palaungic,pala1352,,Glottolog;ASJP,divergence
 sial1240,sial1240,genus,Kalasa,kala1410,,Glottolog;ASJP,divergence
 siam1242,siam1242,genus,Siamou,siam1242,,Glottolog,isolate
 sian1254,sian1254,genus,Basap-Greater Barito,basa1291,,Glottolog;ASJP,divergence
-sian1255,sian1255,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
+sian1255,sian1255,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
 sian1257,sian1257,genus,Siane,sian1257,,Glottolog,single-language
 siar1238,siar1238,genus,Siar-Lak,siar1238,,Glottolog,single-language
 siaw1243,siaw1243,genus,Amto-Musan,amto1249,,Glottolog;ASJP,divergence
 sibe1248,sibe1248,genus,Nasioiic,nasi1247,,Glottolog,unmeasured-clade
 sibe1250,sibe1250,genus,Turkic,turk1311,,Glottolog;ASJP,divergence
-sibu1258,sibu1258,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
+sibu1258,sibu1258,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
 sich1238,sich1238,genus,Lolo-Burmese,lolo1265,,Glottolog;ASJP,divergence
 sici1248,sici1248,genus,Italic,ital1284,,Glottolog;ASJP,divergence
 sici1249,sici1249,genus,Senufo,senu1239,,Glottolog;ASJP,divergence
@@ -6083,7 +6083,7 @@ sini1242,sini1242,genus,Western Mande,west2780,,Glottolog;ASJP,divergence
 sini1243,sini1243,genus,Mixtec,mixt1427,,Glottolog;ASJP,divergence
 sins1241,sins1241,genus,Evapia,evap1240,,Glottolog;ASJP,divergence
 sint1235,sint1235,genus,Indo-Aryan,indo1321,,Glottolog;ASJP,divergence
-siny1243,siny1243,genus,Bongo-Bagirmi,sara1341,,Glottolog;ASJP,divergence
+siny1243,siny1243,genus,Sara-Bongo-Bagirmi,sara1341,,Glottolog;ASJP,divergence
 sion1247,sion1247,genus,Tucanoan,tuca1253,,Glottolog;ASJP,divergence
 sioo1240,sioo1240,genus,Sio,sioo1240,,Glottolog,single-language
 sipa1247,sipa1247,genus,Mayan,maya1287,,Glottolog;ASJP,divergence
@@ -6263,7 +6263,7 @@ sout3129,sout3129,genus,Lolo-Burmese,lolo1265,,Glottolog;ASJP,divergence
 sout3210,sout3210,genus,Lolo-Burmese,lolo1265,,Glottolog;ASJP,divergence
 sout3226,sout3226,genus,Khanty,khan1279,,Glottolog,unmeasured-clade
 sout3236,sout3236,genus,Gumuz,gumu1250,,Glottolog,unmeasured-family
-sout3241,sout3241,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
+sout3241,sout3241,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
 sout3250,sout3250,genus,Sinitic,sini1245,,Glottolog;ASJP,divergence
 sout3251,sout3251,genus,Katuic,katu1271,,Glottolog;ASJP,divergence
 sout3253,sout3253,genus,Mansi,mans1269,,Glottolog,unmeasured-clade
@@ -6307,7 +6307,7 @@ sude1239,sude1239,genus,Sudest,sude1239,,Glottolog,single-language
 suen1241,suen1241,genus,Binanderean,bina1279,,Glottolog;ASJP,divergence
 suga1248,suga1248,genus,Mambiloid,mamb1309,,Glottolog;ASJP,divergence
 suga1249,suga1249,genus,Ok,okkk1242,,Glottolog;ASJP,divergence
-sugu1243,sugu1243,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
+sugu1243,sugu1243,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
 suii1243,suii1243,genus,Kam-Tai,kamt1241,,Glottolog;ASJP,divergence
 suki1245,suki1245,genus,Suki,suki1245,,Glottolog,single-language
 suku1259,suku1259,genus,Central-Western Bantu,cent2260,,Glottolog;ASJP,divergence
@@ -6382,7 +6382,7 @@ tafi1243,tafi1243,genus,Avatime-Nyangbo,avat1243,,Glottolog;ASJP,divergence
 taga1268,taga1268,genus,Greater Central Philippine,grea1284,,Glottolog;ASJP,divergence
 taga1270,taga1270,genus,Greater Central Philippine,grea1284,,Glottolog;ASJP,divergence
 taga1272,taga1272,genus,Greater Central Philippine,grea1284,,Glottolog;ASJP,divergence
-taga1273,taga1273,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
+taga1273,taga1273,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
 taga1278,taga1278,genus,Berber,berb1260,,Glottolog;ASJP,divergence
 taga1279,taga1279,genus,Central Alaya-Athima,cent2337,,Glottolog,unmeasured-clade
 tagb1255,tagb1255,genus,Sereic,sere1262,,Glottolog;ASJP,divergence
@@ -6455,7 +6455,7 @@ tamk1242,tamk1242,genus,East Chadic B.3,east2710,,Glottolog;ASJP,divergence
 tamn1235,tamn1235,genus,Asmat-Kamoro,asma1258,,Glottolog;ASJP,divergence
 tamp1251,tamp1251,genus,Bahnaric,bahn1264,,Glottolog;ASJP,divergence
 tamp1252,tamp1252,genus,East-West Grusi,east2740,,Glottolog;ASJP,divergence
-tamp1254,tamp1254,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
+tamp1254,tamp1254,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
 tana1281,tana1281,genus,Western Micronesian,west2844,,Glottolog;ASJP,divergence
 tana1288,tana1288,genus,Tanahmerah,tana1288,,Glottolog,isolate
 tana1289,tana1289,genus,Athabaskan,atha1247,,Glottolog;ASJP,divergence
@@ -6497,7 +6497,7 @@ tasa1240,tasa1240,genus,Songhay,song1307,,Glottolog;ASJP,divergence
 tase1235,tase1235,genus,Brahmaputran,brah1260,,Glottolog;ASJP,divergence
 tasm1246,tasm1246,genus,North and Central Vanuatu,nort3195,,Glottolog;ASJP,divergence
 tata1255,tata1255,genus,Turkic,turk1311,,Glottolog;ASJP,divergence
-tata1257,tata1257,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
+tata1257,tata1257,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
 tata1258,tata1258,genus,Chatino,chat1268,,Glottolog;ASJP,divergence
 tatu1247,tatu1247,genus,Tucanoan,tuca1253,,Glottolog;ASJP,divergence
 taua1242,taua1242,genus,Tauade,taua1242,,Glottolog,isolate
@@ -6672,7 +6672,7 @@ timn1235,timn1235,genus,Northern Mel,temn1245,,Glottolog;ASJP,divergence
 timo1237,timo1237,genus,Timote-Cuica,timo1237,,Glottolog,isolate
 timo1258,timo1258,genus,Italic,ital1284,,Glottolog;ASJP,divergence
 timu1245,timu1245,genus,Timucua,timu1245,,Glottolog,isolate
-timu1262,timu1262,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
+timu1262,timu1262,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
 tina1246,tina1246,genus,Bodic,bodi1256,,Glottolog;ASJP,divergence
 tina1248,tina1248,genus,Central Luzon,cent2080,,Glottolog;ASJP,divergence
 tind1238,tind1238,genus,Avar-Andic-Tsezic,avar1255,,Glottolog;ASJP,divergence
@@ -6708,7 +6708,7 @@ toba1280,toba1280,genus,East Chadic A.2,east2645,,Glottolog;ASJP,divergence
 toba1282,toba1282,genus,Germanic,germ1287,,Glottolog;ASJP,divergence
 tobe1252,tobe1252,genus,Northern North Halmahera,nort2924,,Glottolog;ASJP,divergence
 tobi1238,tobi1238,genus,Western Micronesian,west2844,,Glottolog;ASJP,divergence
-tobi1239,tobi1239,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
+tobi1239,tobi1239,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
 toca1235,toca1235,genus,Aweti-Guarani,awet1245,,Glottolog;ASJP,divergence
 toch1257,toch1257,genus,Talodi,narr1279,,Glottolog;ASJP,divergence
 toda1252,toda1252,genus,Dravidian,drav1251,,Glottolog;ASJP,divergence
@@ -6732,7 +6732,7 @@ tolo1259,tolo1259,genus,Athabaskan,atha1247,,Glottolog;ASJP,divergence
 toma1245,toma1245,genus,Western Mande,west2780,,Glottolog;ASJP,divergence
 toma1248,toma1248,genus,Celebic,cele1242,,Glottolog;ASJP,divergence
 tomb1243,tomb1243,genus,Sangiric-Minahasan,sang1348,,Glottolog;ASJP,divergence
-tomb1244,tomb1244,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
+tomb1244,tomb1244,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
 tomb1245,tomb1245,genus,Celebic,cele1242,,Glottolog;ASJP,divergence
 tomb1246,tomb1246,genus,North-West Bantu,bant1295,,Glottolog;ASJP,divergence
 tomi1243,tomi1243,genus,Celebic,cele1242,,Glottolog;ASJP,divergence
@@ -6786,7 +6786,7 @@ treg1243,treg1243,genus,Nuristani,nuri1243,,Glottolog;ASJP,divergence
 trie1243,trie1243,genus,Bahnaric,bahn1264,,Glottolog;ASJP,divergence
 trim1239,trim1239,genus,Kwerba-Samarokena,kwer1240,,Glottolog;ASJP,divergence
 trin1271,trin1271,genus,Land Dayak,land1261,,Glottolog;ASJP,divergence
-trin1273,trin1273,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
+trin1273,trin1273,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
 trin1274,trin1274,genus,Bolivia-Paraná,boli1260,,Glottolog;ASJP,divergence
 trin1276,trin1276,genus,Germanic,germ1287,,Glottolog;ASJP,divergence
 trio1238,trio1238,genus,Cariban,cari1283,,Glottolog;ASJP,divergence
@@ -6874,7 +6874,7 @@ turu1249,turu1249,genus,Kam-Tai,kamt1241,,Glottolog;ASJP,divergence
 turu1250,turu1250,genus,Doso-Turumsa,doso1238,,Glottolog,unmeasured-family
 tusc1257,tusc1257,genus,Northern Iroquoian,nort2947,,Glottolog;ASJP,divergence
 tute1247,tute1247,genus,Ohio Valley Siouan,ohio1234,,Glottolog;ASJP,divergence
-tuto1241,tuto1241,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
+tuto1241,tuto1241,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
 tuts1235,tuts1235,genus,Brahmaputran,brah1260,,Glottolog;ASJP,divergence
 tutu1241,tutu1241,genus,North and Central Vanuatu,nort3195,,Glottolog;ASJP,divergence
 tutu1242,tutu1242,genus,Athabaskan,atha1247,,Glottolog;ASJP,divergence
@@ -6921,7 +6921,7 @@ uisa1238,uisa1238,genus,Buinic,buin1247,,Glottolog;ASJP,divergence
 ujir1237,ujir1237,genus,Aru,aruu1241,,Glottolog;ASJP,divergence
 ukaa1243,ukaa1243,genus,Ukaan,ukaa1243,,Glottolog,single-language
 ukhw1241,ukhw1241,genus,North-West Bantu,bant1295,,Glottolog;ASJP,divergence
-ukit1237,ukit1237,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
+ukit1237,ukit1237,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
 ukpe1247,ukpe1247,genus,Bendic,bend1256,,Glottolog;ASJP,divergence
 ukpe1249,ukpe1249,genus,Upper Cross,uppe1418,,Glottolog;ASJP,divergence
 ukra1253,ukra1253,genus,Balto-Slavic,balt1263,,Glottolog;ASJP,divergence
@@ -6938,8 +6938,8 @@ uluk1257,uluk1257,genus,Defoid,defo1239,,Glottolog;ASJP,divergence
 ulum1237,ulum1237,genus,Greater South Sulawesi,sout2923,,Glottolog;ASJP,divergence
 ulwa1239,ulwa1239,genus,Sumuic,sumu1234,,Glottolog;ASJP,divergence
 umaa1242,umaa1242,genus,Celebic,cele1242,,Glottolog;ASJP,divergence
-umal1238,umal1238,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
-umal1239,umal1239,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
+umal1238,umal1238,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
+umal1239,umal1239,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
 uman1240,uman1240,genus,Umanakaina,uman1240,,Glottolog,single-language
 umat1237,umat1237,genus,Sahaptian,saha1239,,Glottolog;ASJP,divergence
 umbi1243,umbi1243,genus,Northeastern Pama,nort3256,,Glottolog;ASJP,divergence
@@ -6971,7 +6971,7 @@ uppe1395,uppe1395,genus,Balto-Slavic,balt1263,,Glottolog;ASJP,divergence
 uppe1400,uppe1400,genus,Germanic,germ1287,,Glottolog;ASJP,divergence
 uppe1406,uppe1406,genus,Katuic,katu1271,,Glottolog;ASJP,divergence
 uppe1415,uppe1415,genus,Lower Murray,lowe1401,,Glottolog,unmeasured-clade
-uppe1427,uppe1427,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
+uppe1427,uppe1427,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
 uppe1430,uppe1430,genus,Dani,dani1287,,Glottolog;ASJP,divergence
 uppe1436,uppe1436,genus,Athabaskan,atha1247,,Glottolog;ASJP,divergence
 uppe1437,uppe1437,genus,Athabaskan,atha1247,,Glottolog;ASJP,divergence
@@ -7029,7 +7029,7 @@ vagh1249,vagh1249,genus,Choiseul,choi1242,,Glottolog;ASJP,divergence
 vagl1239,vagl1239,genus,East-West Grusi,east2740,,Glottolog;ASJP,divergence
 vaii1241,vaii1241,genus,Western Mande,west2780,,Glottolog;ASJP,divergence
 vaip1239,vaip1239,genus,Kuki-Chin,kuki1246,,Glottolog;ASJP,divergence
-vale1250,vale1250,genus,Bongo-Bagirmi,sara1341,,Glottolog;ASJP,divergence
+vale1250,vale1250,genus,Sara-Bongo-Bagirmi,sara1341,,Glottolog;ASJP,divergence
 vall1252,vall1252,genus,Maiduan,maid1262,,Glottolog;ASJP,divergence
 vall1253,vall1253,genus,Chinantecan,chin1484,,Glottolog;ASJP,divergence
 valm1241,valm1241,genus,West Palai,west2788,,Glottolog;ASJP,divergence
@@ -7103,7 +7103,7 @@ wagd1238,wagd1238,genus,Indo-Aryan,indo1321,,Glottolog;ASJP,divergence
 wage1238,wage1238,genus,Wageman,wage1238,,Glottolog,isolate
 wagi1249,wagi1249,genus,Mabuso,mabu1247,,Glottolog;ASJP,divergence
 wagu1234,wagu1234,genus,Central-Eastern Sepik Hill,cent2425,,Glottolog;ASJP,divergence
-waha1238,waha1238,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
+waha1238,waha1238,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
 waig1243,waig1243,genus,Nuristani,nuri1243,,Glottolog;ASJP,divergence
 waig1244,waig1244,genus,Raja Ampat-South Halmahera,raja1255,,Glottolog;ASJP,divergence
 wail1242,wail1242,genus,North and Central Vanuatu,nort3195,,Glottolog;ASJP,divergence
@@ -7278,8 +7278,8 @@ west2555,west2555,genus,Greater Central Philippine,grea1284,,Glottolog;ASJP,dive
 west2557,west2557,genus,Greater Central Philippine,grea1284,,Glottolog;ASJP,divergence
 west2559,west2559,genus,Greater Central Philippine,grea1284,,Glottolog;ASJP,divergence
 west2560,west2560,genus,Basap-Greater Barito,basa1291,,Glottolog;ASJP,divergence
-west2563,west2563,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
-west2564,west2564,genus,North Borneo,nort3253,,Glottolog;ASJP,divergence
+west2563,west2563,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
+west2564,west2564,genus,North Borneo Malayo-Polynesian,nort3253,,Glottolog;ASJP,divergence
 west2594,west2594,genus,Dani,dani1287,,Glottolog;ASJP,divergence
 west2599,west2599,genus,Enga-Kewa-Huli,enga1254,,Glottolog;ASJP,divergence
 west2600,west2600,genus,West Makian,west2600,,Glottolog,single-language
@@ -7600,7 +7600,7 @@ yuki1243,yuki1243,genus,Yuki-Wappo,yuki1242,,Glottolog;ASJP,divergence
 yukp1241,yukp1241,genus,Cariban,cari1283,,Glottolog;ASJP,divergence
 yuku1243,yuku1243,genus,Yukubenic,yuku1244,,Glottolog;ASJP,divergence
 yulp1239,yulp1239,genus,Wati,wati1241,,Glottolog;ASJP,divergence
-yulu1243,yulu1243,genus,Bongo-Bagirmi,sara1341,,Glottolog;ASJP,divergence
+yulu1243,yulu1243,genus,Sara-Bongo-Bagirmi,sara1341,,Glottolog;ASJP,divergence
 yupu1235,yupu1235,genus,Albatross Bay,alba1272,,Glottolog,unmeasured-clade
 yuqu1240,yuqu1240,genus,Aweti-Guarani,awet1245,,Glottolog;ASJP,divergence
 yura1255,yura1255,genus,Yuracaré,yura1255,,Glottolog,isolate

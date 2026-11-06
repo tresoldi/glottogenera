@@ -8,7 +8,7 @@ nort3195,genus,North and Central Vanuatu,Glottolog node nort3195,North and Centr
 grea1284,genus,Greater Central Philippine,Glottolog node grea1284,Greater Central Philippine,Austronesian,96,divergence,0.5907,200,0.5907,0.8262,0.2193,0.0162,0.89,0.86
 iran1269,genus,Iranian,Glottolog node iran1269,Iranian,Indo-European,96,divergence,0.6946,197,0.6946,0.8382,0.1154,0.0282,0.86,0.81
 semi1276,genus,Semitic,Glottolog node semi1276,Semitic,Afro-Asiatic,96,divergence,0.7793,69,0.7793,0.9566,0.0307,0.1466,0.67,0.795
-nort3253,genus,North Borneo,Glottolog node nort3253,North Borneo Malayo-Polynesian,Austronesian,91,divergence,0.6975,200,0.6975,0.8262,0.1125,0.0162,0.88,0.86
+nort3253,genus,North Borneo Malayo-Polynesian,Glottolog node nort3253,North Borneo Malayo-Polynesian,Austronesian,91,divergence,0.6975,200,0.6975,0.8262,0.1125,0.0162,0.88,0.86
 ital1284,genus,Italic,Glottolog node ital1284,Italic,Indo-European,85,divergence,,,0.6476,0.9002,0.1624,0.0902,1.0,1.0
 bodi1256,genus,Bodic,Glottolog node bodi1256,Bodic,Sino-Tibetan,83,divergence,0.7488,195,0.7488,0.8756,0.0612,0.0656,0.84,0.95
 drav1251,genus,Dravidian,Glottolog node drav1251,Dravidian,Dravidian,82,divergence,0.7807,199,0.7807,,0.0293,,0.67,0.905
@@ -33,7 +33,7 @@ quec1387,genus,Quechuan,Glottolog node quec1387,Quechuan,Quechuan,43,divergence,
 turk1311,genus,Turkic,Glottolog node turk1311,Turkic,Turkic,43,divergence,0.7581,36,0.7581,,0.0519,,0.82,0.935
 brah1260,genus,Brahmaputran,Glottolog node brah1260,Brahmaputran,Sino-Tibetan,42,divergence,0.8034,188,0.8034,0.8756,0.0066,0.0656,0.355,0.545
 cari1283,genus,Cariban,Glottolog node cari1283,Cariban,Cariban,42,divergence,0.7352,197,0.7352,,0.0748,,0.95,1.0
-sara1341,genus,Bongo-Bagirmi,Glottolog node sara1341,Sara-Bongo-Bagirmi,Central Sudanic,39,divergence,0.7288,169,0.7288,0.9124,0.0812,0.1024,0.94,0.98
+sara1341,genus,Sara-Bongo-Bagirmi,Glottolog node sara1341,Sara-Bongo-Bagirmi,Central Sudanic,39,divergence,0.7288,169,0.7288,0.9124,0.0812,0.1024,0.94,0.98
 hmon1337,genus,Hmongic,Glottolog node hmon1337,Hmongic,Hmong-Mien,38,divergence,0.7907,44,0.7907,0.8452,0.0193,0.0352,0.485,0.695
 krua1234,genus,Kru,Glottolog node krua1234,Kru,Kru,38,divergence,0.7573,64,0.7573,,0.0527,,0.785,0.885
 pano1256,genus,Panoan,Glottolog node pano1256,Panoan,Pano-Tacanan,38,divergence,0.754,44,0.754,0.8969,0.056,0.0869,0.795,0.915

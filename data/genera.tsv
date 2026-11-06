@@ -3,8 +3,8 @@ aari1239	Aari	South Omotic	sout2845	South Omotic	South Omotic	divergence
 aasa1238	Aasax	Afro-Asiatic	sout3054	South Cushitic	South Cushitic	divergence
 abad1241	Abadi	Austronesian	cent2070	Central Papuan Oceanic	Central Papuan Oceanic	divergence
 abag1245	Abaga	Nuclear Trans New Guinea	kama1374	Kamano-Yagaria	Kamano-Yagaria	divergence
-abai1240	Abai Sungai	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
-abai1241	Abai Tubu-Abai Sembuak	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
+abai1240	Abai Sungai	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
+abai1241	Abai Tubu-Abai Sembuak	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
 aban1242	Abanyom	Atlantic-Congo	ekoi1237	Ekoid-Mbe	Ekoid-Mbe	divergence
 abar1238	Mungbam	Atlantic-Congo	yemn1234	Yemne-Kimbi	Yemne-Kimbi	divergence
 abau1245	Abau	Sepik	abau1245	Abau	Abau	single-language
@@ -290,7 +290,7 @@ anut1237	Anuta	Austronesian	cent2060	Central Pacific	Central Pacific linkage	div
 anuu1241	Anu-Hkongso	Sino-Tibetan	mrui1235	Mruic	Mruic	unmeasured-clade
 anyi1244	Anyin Morofo	Atlantic-Congo	cent2262	Central Tano	Central Tano	divergence
 anyi1245	Anyin	Atlantic-Congo	cent2262	Central Tano	Central Tano	divergence
-aohe1237	Aoheng-Seputan	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
+aohe1237	Aoheng-Seputan	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
 aona1235	Ao Naga	Sino-Tibetan	aoic1235	Central Naga	Central Naga	divergence
 aore1237	Aore	Austronesian	nort3195	North and Central Vanuatu	North and Central Vanuatu	divergence
 aoua1234	A'ou	Tai-Kadai	kada1291	Kra	Kadaic	divergence
@@ -510,14 +510,14 @@ baga1273	Baga Koga	Atlantic-Congo	temn1245	Northern Mel	Northern Mel	divergence
 baga1275	Pukur	Atlantic-Congo	baga1275	Pukur	Pukur	single-language
 bagh1251	Bagheli	Indo-European	indo1321	Indo-Aryan	Indo-Aryan	divergence
 bagi1244	Bagirmi Fulfulde	Atlantic-Congo	fula1264	Fula	Fula	divergence
-bagi1246	Bagirmi	Central Sudanic	sara1341	Bongo-Bagirmi	Sara-Bongo-Bagirmi	divergence
+bagi1246	Bagirmi	Central Sudanic	sara1341	Sara-Bongo-Bagirmi	Sara-Bongo-Bagirmi	divergence
 bago1245	Bago-Kusuntu	Atlantic-Congo	east2740	East-West Grusi	East-West Grusi	divergence
 bagr1243	Bagri	Indo-European	indo1321	Indo-Aryan	Indo-Aryan	divergence
 bagu1251	Bagusa	Greater Kwerba	kwer1240	Kwerba-Samarokena	Kwerba-Samarokena	divergence
 bagu1252	Bagupi	Nuclear Trans New Guinea	mabu1247	Mabuso	Mabuso	divergence
 bagv1239	Bagvalal	Nakh-Daghestanian	avar1255	Avar-Andic-Tsezic	Avar-Andic-Tsezic	divergence
 baha1256	Baha Buyang	Tai-Kadai	kada1291	Kra	Kadaic	divergence
-baha1257	Bahau	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
+baha1257	Bahau	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
 baha1258	Baham	West Bomberai	nucl1641	Nuclear West Bomberai	Nuclear West Bomberai	divergence
 baha1259	Baharna Arabic	Afro-Asiatic	semi1276	Semitic	Semitic	divergence
 baha1260	Bahamas Creole English	Indo-European	germ1287	Germanic	Germanic	divergence
@@ -539,7 +539,7 @@ baja1265	Bajan	Indo-European	germ1287	Germanic	Germanic	divergence
 baje1238	Bajelani	Indo-European	iran1269	Iranian	Iranian	divergence
 baka1272	Baka (Cameroon)	Atlantic-Congo	ngba1292	Mundu-Baka	Mundu-Baka	divergence
 baka1273	Bakaka	Atlantic-Congo	bant1295	North-West Bantu	Bantu A-B10-B20-B30	divergence
-baka1274	Baka (South Sudan)	Central Sudanic	sara1341	Bongo-Bagirmi	Sara-Bongo-Bagirmi	divergence
+baka1274	Baka (South Sudan)	Central Sudanic	sara1341	Sara-Bongo-Bagirmi	Sara-Bongo-Bagirmi	divergence
 baka1277	Bakairí	Cariban	cari1283	Cariban	Cariban	divergence
 bakh1245	Bakhtiari	Indo-European	iran1269	Iranian	Iranian	divergence
 baki1244	Baki	Austronesian	nort3195	North and Central Vanuatu	North and Central Vanuatu	divergence
@@ -622,7 +622,7 @@ bara1361	Barambu	Atlantic-Congo	zand1246	Zandic	Zandic	divergence
 bara1362	Barama	Atlantic-Congo	cent2260	Central-Western Bantu	Central-Western Bantu	divergence
 bara1367	Barakai	Austronesian	aruu1241	Aru	Aru	divergence
 bara1369	Bara Malagasy	Austronesian	basa1291	Basap-Greater Barito	Basap-Greater Barito	divergence
-bara1370	Baram Kayan	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
+bara1370	Baram Kayan	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
 bara1371	Baras	Austronesian	cele1242	Celebic	Celebic	divergence
 bara1375	Barapasi	Geelvink Bay	geel1240	Geelvink Bay	Geelvink Bay	divergence
 bara1378	Baramu	Anim	nucl1713	Nuclear Tirio	Nuclear Tirio	divergence
@@ -708,7 +708,7 @@ bebe1250	Bebe	Atlantic-Congo	bebo1243	Beboid	Beboid	divergence
 bebe1252	Bebeli	Austronesian	bebe1252	Bebeli	Bebeli	single-language
 bebi1242	Bebil	Atlantic-Congo	bant1295	North-West Bantu	Bantu A-B10-B20-B30	divergence
 bedi1235	Bedik	Atlantic-Congo	tend1239	Tenda	Tenda	divergence
-bedj1245	Nangnda	Central Sudanic	sara1341	Bongo-Bagirmi	Sara-Bongo-Bagirmi	divergence
+bedj1245	Nangnda	Central Sudanic	sara1341	Sara-Bongo-Bagirmi	Sara-Bongo-Bagirmi	divergence
 bedo1237	Mbaruan	Austronesian	tani1260	Tanimbar-Bomberai	Tanimbar-Bomberai	divergence
 beek1238	Beeke	Atlantic-Congo	cent2260	Central-Western Bantu	Central-Western Bantu	divergence
 beel1236	Beele	Afro-Asiatic	west2799	West Chadic A.2-3	West Chadic A.2-3	divergence
@@ -723,9 +723,9 @@ bekw1242	Bekwil	Atlantic-Congo	bant1295	North-West Bantu	Bantu A-B10-B20-B30	div
 bela1254	Belarusian	Indo-European	balt1263	Balto-Slavic	Balto-Slavic	divergence
 bela1255	Belanda Viri	Atlantic-Congo	sere1262	Sereic	Sereic	divergence
 bela1256	Belanda Bor	Nilotic	west2493	Western Nilotic	Western Nilotic	divergence
-bela1260	Lemeting	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
+bela1260	Lemeting	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
 belh1239	Belhariya	Sino-Tibetan	kira1253	Kiranti	Kiranti	divergence
-beli1257	Beli (South Sudan)	Central Sudanic	sara1341	Bongo-Bagirmi	Sara-Bongo-Bagirmi	divergence
+beli1257	Beli (South Sudan)	Central Sudanic	sara1341	Sara-Bongo-Bagirmi	Sara-Bongo-Bagirmi	divergence
 beli1258	Beli (Papua New Guinea)	Nuclear Torricelli	beli1258	Beli (Papua New Guinea)	Beli (Papua New Guinea)	single-language
 beli1260	Belize Kriol English	Indo-European	germ1287	Germanic	Germanic	divergence
 bell1243	Bella Coola	Salishan	bell1243	Bella Coola	Bella Coola	single-language
@@ -751,7 +751,7 @@ beny1237	Benyadu'	Austronesian	land1261	Land Dayak	Land Dayak	divergence
 beot1247	Beothuk	Beothuk	beot1247	Beothuk	Beothuk	isolate
 bepo1240	Bepour	Nuclear Trans New Guinea	kumi1250	Kumil-Tibor	Kumil-Tibor	divergence
 bera1259	Bera	Atlantic-Congo	cent2260	Central-Western Bantu	Central-Western Bantu	divergence
-bera1261	Berakou	Central Sudanic	sara1341	Bongo-Bagirmi	Sara-Bongo-Bagirmi	divergence
+bera1261	Berakou	Central Sudanic	sara1341	Sara-Bongo-Bagirmi	Sara-Bongo-Bagirmi	divergence
 bera1262	Berau Malay	Austronesian	mala1554	Malayo-Chamic	Malayo-Chamic	divergence
 berb1259	Berbice Creole Dutch	Indo-European	germ1287	Germanic	Germanic	divergence
 beri1253	Berinomo	Sepik	cent2425	Central-Eastern Sepik Hill	Central-Eastern Sepik Hill	divergence
@@ -833,7 +833,7 @@ bini1246	Bini	Atlantic-Congo	edoi1239	Edoid	Edoid	divergence
 binj1249	Binji	Atlantic-Congo	cent2260	Central-Western Bantu	Central-Western Bantu	divergence
 bino1237	Binongan Itneg	Austronesian	nort3238	Northern Luzon	Northern Luzon	divergence
 bint1245	Bintauna	Austronesian	grea1284	Greater Central Philippine	Greater Central Philippine	divergence
-bint1246	Bintulu	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
+bint1246	Bintulu	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
 binu1244	Talaandig-Binukid	Austronesian	grea1284	Greater Central Philippine	Greater Central Philippine	divergence
 binu1245	Binumarien	Nuclear Trans New Guinea	tair1260	Tairora	Tairora	divergence
 bipi1237	Bipi	Austronesian	admi1239	Admiralty Islands	Admiralty Islands	divergence
@@ -896,7 +896,7 @@ bolo1261	Kibala	Atlantic-Congo	cent2260	Central-Western Bantu	Central-Western Ba
 bolo1262	Boloki	Atlantic-Congo	cent2260	Central-Western Bantu	Central-Western Bantu	divergence
 bolo1263	Bolondo	Atlantic-Congo	cent2260	Central-Western Bantu	Central-Western Bantu	divergence
 bolo1266	Bolon	Mande	west2780	Western Mande	Western Mande	divergence
-bolo1268	Bolongan	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
+bolo1268	Bolongan	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
 boly1239	Bolyu	Austroasiatic	boly1240	Pakanic	Pakanic	divergence
 boma1246	Boma Yumu	Atlantic-Congo	cent2260	Central-Western Bantu	Central-Western Bantu	divergence
 boma1250	Boma Nkuu	Atlantic-Congo	cent2260	Central-Western Bantu	Central-Western Bantu	divergence
@@ -917,14 +917,14 @@ bone1254	Bonerate	Austronesian	cele1242	Celebic	Celebic	divergence
 bone1255	Bonerif	Tor-Orya	tora1268	Tor	Tor	divergence
 bong1282	Bon Gula	Atlantic-Congo	goul1243	Inland Bua	Inland Bua	divergence
 bong1284	Bongili	Atlantic-Congo	cent2260	Central-Western Bantu	Central-Western Bantu	divergence
-bong1285	Bongo	Central Sudanic	sara1341	Bongo-Bagirmi	Sara-Bongo-Bagirmi	divergence
+bong1285	Bongo	Central Sudanic	sara1341	Sara-Bongo-Bagirmi	Sara-Bongo-Bagirmi	divergence
 bong1287	Bonggo	Austronesian	sarm1242	Sarmi	Sarmi	divergence
-bong1289	Bonggi	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
+bong1289	Bonggi	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
 bong1291	Bongu	Nuclear Trans New Guinea	mind1258	Mindjim	Mindjim	divergence
 bonj1234	Impfondo	Atlantic-Congo	cent2260	Central-Western Bantu	Central-Western Bantu	divergence
 bonk1243	Bonkeng	Atlantic-Congo	bant1295	North-West Bantu	Bantu A-B10-B20-B30	divergence
 bonk1244	Bonkiman	Nuclear Trans New Guinea	yupn1242	Yupna	Yupna	divergence
-book1241	Bookan	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
+book1241	Bookan	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
 boon1242	Boon	Afro-Asiatic	unun9873	Unclassified East Cushitic	Unclassified East Cushitic	unmeasured-clade
 boor1242	Boor	Afro-Asiatic	east2710	East Chadic B.3	East Chadic B.3	divergence
 bopa1235	Bo (Papua New Guinea)	Left May	nucl1244	Western Left May	Western Left May	divergence
@@ -964,7 +964,7 @@ brok1249	Dur Brokkat	Sino-Tibetan	bodi1256	Bodic	Bodic	divergence
 broo1239	Brooke's Point Palawano	Austronesian	grea1284	Greater Central Philippine	Greater Central Philippine	divergence
 brun1235	Bruny Island	South-Eastern Tasmanian	sout1293	South-Eastern Tasmanian	South-Eastern Tasmanian	unmeasured-family
 brun1242	Brunei	Austronesian	mala1554	Malayo-Chamic	Malayo-Chamic	divergence
-brun1245	Brunei Bisaya-Dusun	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
+brun1245	Brunei Bisaya-Dusun	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
 buaa1245	Bua	Atlantic-Congo	bual1236	Bua-Lua	Bua-Lua	divergence
 bual1235	Bualkhaw Chin	Sino-Tibetan	kuki1246	Kuki-Chin	Kuki-Chin	divergence
 buam1238	Buamu	Atlantic-Congo	bwam1247	Bwamu	Bwamu	divergence
@@ -988,10 +988,10 @@ buhi1245	Buhid	Austronesian	grea1284	Greater Central Philippine	Greater Central 
 buhu1237	Buhutu	Austronesian	nucl1744	Nuclear Papuan Tip	Nuclear Papuan Tip linkage	divergence
 bujh1238	Bujhyal	Sino-Tibetan	kham1285	Kham-Magar-Chepang	Kham-Magar-Chepang	divergence
 buka1257	Bukar-Sadung Bidayuh	Austronesian	land1261	Land Dayak	Land Dayak	divergence
-buka1261	Bukat	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
+buka1261	Bukat	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
 bukh1238	Bukharic	Indo-European	iran1269	Iranian	Iranian	divergence
 buki1247	Bukit Malay	Austronesian	mala1554	Malayo-Chamic	Malayo-Chamic	divergence
-buki1248	Bukitan	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
+buki1248	Bukitan	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
 buki1249	Bukiyip	Nuclear Torricelli	arap1279	Arapesh	Arapesh	divergence
 buks1238	Buksa	Indo-European	indo1321	Indo-Aryan	Indo-Aryan	divergence
 buku1249	Bukusu	Atlantic-Congo	east2731	East Bantu	East Bantu	divergence
@@ -1041,7 +1041,7 @@ buru1296	Burushaski	Burushaski	buru1296	Burushaski	Burushaski	isolate
 buru1299	Buru-Angwe	Atlantic-Congo	buru1299	Buru-Angwe	Buru-Angwe	single-language
 buru1301	Northern Burun	Nilotic	west2493	Western Nilotic	Western Nilotic	divergence
 buru1303	Buru (Indonesia)	Austronesian	west2817	West Central Maluku	West Central Maluku	divergence
-buru1304	Burusu	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
+buru1304	Burusu	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
 buru1306	Burum-Mindik	Nuclear Trans New Guinea	west2795	Western Huon	Western Huon	divergence
 buru1307	Burumakok	Nuclear Trans New Guinea	okkk1242	Ok	Ok	divergence
 buru1308	Buruwai	Nuclear Trans New Guinea	saba1280	Sabakor	Sabakor	unmeasured-clade
@@ -1050,7 +1050,7 @@ buru1320	Burunge	Afro-Asiatic	sout3054	South Cushitic	South Cushitic	divergence
 busa1251	Busam	Atlantic-Congo	wide1239	Wide Grassfields	Wide Grassfields	divergence
 busa1253	Busa	Mande	east2697	Eastern Mande	Eastern Mande	divergence
 busa1254	Busami	Austronesian	yape1249	Yapen	Yapen	divergence
-busa1255	Busang Kayan	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
+busa1255	Busang Kayan	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
 bush1247	Bushoong	Atlantic-Congo	cent2260	Central-Western Bantu	Central-Western Bantu	divergence
 bush1250	Kibosy Kiantalaotsy-Majunga	Austronesian	basa1291	Basap-Greater Barito	Basap-Greater Barito	divergence
 buso1238	Busoa	Austronesian	cele1242	Celebic	Celebic	divergence
@@ -1171,9 +1171,9 @@ cent2089	Central Subanen	Austronesian	grea1284	Greater Central Philippine	Greate
 cent2090	Central Tagbanwa	Austronesian	grea1284	Greater Central Philippine	Greater Central Philippine	divergence
 cent2091	Central Palawano	Austronesian	grea1284	Greater Central Philippine	Greater Central Philippine	divergence
 cent2092	Central Sama	Austronesian	basa1291	Basap-Greater Barito	Basap-Greater Barito	divergence
-cent2098	Central Berawan	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
-cent2100	Kadazan Dusun	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
-cent2101	Central Melanau	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
+cent2098	Central Berawan	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
+cent2100	Kadazan Dusun	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
+cent2101	Central Melanau	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
 cent2117	Central Asmat	Nuclear Trans New Guinea	asma1258	Asmat-Kamoro	Asmat-Kamoro	divergence
 cent2118	Central Awyu	Nuclear Trans New Guinea	awyu1263	Awyu-Dumut	Awyu-Dumut	divergence
 cent2126	Central Okinawan	Japonic	japo1237	Japonic	Japonic	divergence
@@ -1438,7 +1438,7 @@ daga1272	Dagaari Dioula	Atlantic-Congo	otiv1239	Oti-Volta	Oti-Volta	divergence
 daga1275	Daga	Dagan	cent2401	Central Dagan	Central Dagan	divergence
 daga1277	Dagang-Baoshan-Liangcun	Tai-Kadai	kamt1241	Kam-Tai	Kam-Tai	divergence
 dagb1246	Dagbani	Atlantic-Congo	otiv1239	Oti-Volta	Oti-Volta	divergence
-dagb1248	Dagba	Central Sudanic	sara1341	Bongo-Bagirmi	Sara-Bongo-Bagirmi	divergence
+dagb1248	Dagba	Central Sudanic	sara1341	Sara-Bongo-Bagirmi	Sara-Bongo-Bagirmi	divergence
 dagi1241	Dagik	Narrow Talodi	narr1279	Talodi	Narrow Talodi	divergence
 dago1245	Dagoman	Yangmanic	yang1287	Yangmanic	Yangmanic	divergence
 daha1245	Dahalo	Afro-Asiatic	daha1245	Dahalo	Dahalo	single-language
@@ -1484,7 +1484,7 @@ dari1249	Dari	Indo-European	iran1269	Iranian	Iranian	divergence
 darl1242	Darlong	Sino-Tibetan	kuki1246	Kuki-Chin	Kuki-Chin	divergence
 darl1243	Paakantyi	Pama-Nyungan	yarl1237	Yarli-Baagandji	Yarli-Baagandji	unmeasured-clade
 darm1243	Darma	Sino-Tibetan	bodi1256	Bodic	Bodic	divergence
-daro1239	Daro-Matu Melanau	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
+daro1239	Daro-Matu Melanau	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
 dars1235	Dar Sila Daju	Dajuic	daju1249	Dajuic	Dajuic	divergence
 dass1243	Dass	Afro-Asiatic	west2800	West Chadic B.3	West Chadic B.3	divergence
 dato1239	Barabayiiga-Gisamjanga	Nilotic	sout2830	Southern Nilotic	Southern Nilotic	divergence
@@ -1572,7 +1572,7 @@ dira1242	Dirasha	Afro-Asiatic	main1283	Mainstream Lowland East Cushitic	Mainstre
 diri1252	Diriku-Shambyu	Atlantic-Congo	cent2260	Central-Western Bantu	Central-Western Bantu	divergence
 diri1253	Jirim	Atlantic-Congo	dako1256	Dakoid	Dakoid	divergence
 diri1259	Diri	Afro-Asiatic	west2712	West Chadic B.2	West Chadic B.2	divergence
-disa1239	Dissa-Canton Mufa	Central Sudanic	sara1341	Bongo-Bagirmi	Sara-Bongo-Bagirmi	divergence
+disa1239	Dissa-Canton Mufa	Central Sudanic	sara1341	Sara-Bongo-Bagirmi	Sara-Bongo-Bagirmi	divergence
 dita1238	Ditammari	Atlantic-Congo	otiv1239	Oti-Volta	Oti-Volta	divergence
 diti1235	Ditidaht	Wakashan	sout2981	Southern Wakashan	Southern Wakashan	divergence
 diuw1238	Diuwe	Nuclear Trans New Guinea	asma1258	Asmat-Kamoro	Asmat-Kamoro	divergence
@@ -1650,7 +1650,7 @@ duli1241	Duli-Gewe	Atlantic-Congo	uncl1524	Unclassified Central Adamawa	Unclassi
 duma1253	Duma	Atlantic-Congo	cent2260	Central-Western Bantu	Central-Western Bantu	divergence
 dumb1241	Dumbea	Austronesian	extr1245	Extreme Southern New Caledonian	Extreme Southern New Caledonian	unmeasured-clade
 dumi1241	Dumi	Sino-Tibetan	kira1253	Kiranti	Kiranti	divergence
-dump1242	Dumpas	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
+dump1242	Dumpas	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
 dump1243	Dumpu	Nuclear Trans New Guinea	evap1240	Evapia	Evapia	divergence
 dumu1246	Dumun	Nuclear Trans New Guinea	yaga1258	Yaganon	Yaganon	divergence
 duna1248	Duna	Duna	duna1248	Duna	Duna	isolate
@@ -1728,8 +1728,8 @@ east2462	East Masela	Austronesian	timo1265	Timor-Babar	Timor-Babar	divergence
 east2465	East Tarangan	Austronesian	aruu1241	Aru	Aru	divergence
 east2472	East Damar	Austronesian	timo1265	Timor-Babar	Timor-Babar	divergence
 east2482	Eastern Tawbuid	Austronesian	grea1284	Greater Central Philippine	Greater Central Philippine	divergence
-east2485	Eastern Penan	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
-east2486	East Berawan	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
+east2485	Eastern Penan	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
+east2486	East Berawan	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
 east2516	East Kewa	Nuclear Trans New Guinea	enga1254	Enga-Kewa-Huli	Enga-Kewa-Huli	divergence
 east2534	Eastern Canadian Inuktitut	Eskimo-Aleut	eski1265	Eskimo	Eskimo	divergence
 east2538	Eastern Huasteca Nahuatl	Uto-Aztecan	azte1234	Aztecan	Aztec	divergence
@@ -1924,7 +1924,7 @@ fuli1240	Fuliiru	Atlantic-Congo	east2731	East Bantu	East Bantu	divergence
 fuln1247	Fulniô	Fulniô	fuln1247	Fulniô	Fulniô	isolate
 fung1245	Fungwa	Atlantic-Congo	shir1273	Shiroro-Kamuku	Shiroro-Kamuku	divergence
 furr1244	Fur	Furan	fura1235	Furan	Furan	divergence
-furu1242	Furu	Central Sudanic	sara1341	Bongo-Bagirmi	Sara-Bongo-Bagirmi	divergence
+furu1242	Furu	Central Sudanic	sara1341	Sara-Bongo-Bagirmi	Sara-Bongo-Bagirmi	divergence
 futu1245	Futuna-Aniwa	Austronesian	cent2060	Central Pacific	Central Pacific linkage	divergence
 fuyu1242	Fuyug	Fuyug	fuyu1242	Fuyug	Fuyug	isolate
 fwai1237	Fwâi	Austronesian	nort3325	Northern New Caledonian	Northern New Caledonian	divergence
@@ -1975,7 +1975,7 @@ gamo1243	Gamo	Ta-Ne-Omotic	gong1255	Ta-Ne-Omotic	Ta-Ne-Omotic	divergence
 gana1268	Birrdhawal	Pama-Nyungan	gana1279	Ganaic	Ganaic	unmeasured-clade
 gana1270	Ganang	Atlantic-Congo	benu1249	West-Central Benue-Congo Plateau	West-Central Benue-Congo Plateau	divergence
 gana1274	//Gana	Khoe-Kwadi	khoe1241	Khoe	Khoe	divergence
-gana1277	Gana	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
+gana1277	Gana	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
 gana1278	Ganai	Pama-Nyungan	gana1279	Ganaic	Ganaic	unmeasured-clade
 ganc1239	Gan Chinese	Sino-Tibetan	sini1245	Sinitic	Sinitic	divergence
 gand1255	Ganda	Atlantic-Congo	east2731	East Bantu	East Bantu	divergence
@@ -2103,7 +2103,7 @@ gora1262	Gorakor	Austronesian	buan1245	Buang linkage	Buang linkage	divergence
 goro1259	Gorontalo	Austronesian	grea1284	Greater Central Philippine	Greater Central Philippine	divergence
 goro1261	Gorovu	Ramu	agoa1234	Agoan	Agoan	divergence
 goro1270	Gorowa	Afro-Asiatic	sout3054	South Cushitic	South Cushitic	divergence
-gorr1238	Gor	Central Sudanic	sara1341	Bongo-Bagirmi	Sara-Bongo-Bagirmi	divergence
+gorr1238	Gor	Central Sudanic	sara1341	Sara-Bongo-Bagirmi	Sara-Bongo-Bagirmi	divergence
 goth1244	Gothic	Indo-European	germ1287	Germanic	Germanic	divergence
 goun1238	Goundo	Atlantic-Congo	kimb1240	Kim-Besme-Goundo	Kim-Besme-Goundo	divergence
 gour1243	Gourmanchéma	Atlantic-Congo	otiv1239	Oti-Volta	Oti-Volta	divergence
@@ -2161,9 +2161,9 @@ guiq1238	Guiqiong	Sino-Tibetan	guiq1238	Guiqiong	Guiqiong	single-language
 guja1252	Gujarati	Indo-European	indo1321	Indo-Aryan	Indo-Aryan	divergence
 guja1253	Gujari	Indo-European	indo1321	Indo-Aryan	Indo-Aryan	divergence
 gula1265	Gula Iro	Atlantic-Congo	goul1243	Inland Bua	Inland Bua	divergence
-gula1266	Gula (Central African Republic)	Central Sudanic	sara1341	Bongo-Bagirmi	Sara-Bongo-Bagirmi	divergence
-gula1268	Gulay	Central Sudanic	sara1341	Bongo-Bagirmi	Sara-Bongo-Bagirmi	divergence
-gula1269	Gula (Chad)	Central Sudanic	sara1341	Bongo-Bagirmi	Sara-Bongo-Bagirmi	divergence
+gula1266	Gula (Central African Republic)	Central Sudanic	sara1341	Sara-Bongo-Bagirmi	Sara-Bongo-Bagirmi	divergence
+gula1268	Gulay	Central Sudanic	sara1341	Sara-Bongo-Bagirmi	Sara-Bongo-Bagirmi	divergence
+gula1269	Gula (Chad)	Central Sudanic	sara1341	Sara-Bongo-Bagirmi	Sara-Bongo-Bagirmi	divergence
 gula1270	Gula'alaa	Austronesian	sout2853	Southeast Solomonic	Southeast Solomonic	divergence
 gule1241	Gule	Gule	gule1241	Gule	Gule	isolate
 gulf1241	Gulf Arabic	Afro-Asiatic	semi1276	Semitic	Semitic	divergence
@@ -2344,11 +2344,11 @@ hooo1248	Ho	Austroasiatic	mund1335	Munda	Mundaic	divergence
 hopi1249	Hopi	Uto-Aztecan	nort2953	Northern Uto-Aztecan	Northern Uto-Aztecan	divergence
 horn1235	Horned Miao	Hmong-Mien	hmon1337	Hmongic	Hmongic	divergence
 horo1245	Horom	Atlantic-Congo	sout2800	Southeastern Benue-Congo Plateau	Southeastern Benue-Congo Plateau	divergence
-horo1247	Horo	Central Sudanic	sara1341	Bongo-Bagirmi	Sara-Bongo-Bagirmi	divergence
+horo1247	Horo	Central Sudanic	sara1341	Sara-Bongo-Bagirmi	Sara-Bongo-Bagirmi	divergence
 horp1239	Stau-Dgebshes	Sino-Tibetan	qian1263	Qiangic	Qiangic	divergence
 hote1245	Hote	Austronesian	hote1244	Misim-Yamap	Misim-Yamap	divergence
 hoti1237	Hoti of East Seram	Austronesian	grea1302	Greater Seram Laut	Greater Seram Laut	divergence
-hovo1239	Hobongan	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
+hovo1239	Hobongan	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
 hoya1235	Hoyahoya-Matakaia	Anim	west2867	West Inland Gulf of Papua	West Inland Gulf of Papua	divergence
 hozo1236	Hozo	Blue Nile Mao	maoo1243	Blue Nile Mao	Blue Nile Mao	divergence
 hpon1238	Hpon	Sino-Tibetan	lolo1265	Lolo-Burmese	Lolo-Burmese	divergence
@@ -2418,7 +2418,7 @@ ibuo1242	Ibuoro	Atlantic-Congo	obol1242	Lower Cross	Lower Cross	divergence
 ibuu1240	Ibu	North Halmahera	nort2924	Northern North Halmahera	Northern North Halmahera	divergence
 icel1247	Icelandic	Indo-European	germ1287	Germanic	Germanic	divergence
 icev1238	Iceve-Maci	Atlantic-Congo	tivo1239	Tivoid	Tivoid	divergence
-idaa1241	Ida'an	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
+idaa1241	Ida'an	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
 idak1243	Idakho-Isukha-Tiriki	Atlantic-Congo	east2731	East Bantu	East Bantu	divergence
 idat1237	Idaté	Austronesian	timo1265	Timor-Babar	Timor-Babar	divergence
 ider1238	Idere	Atlantic-Congo	obol1242	Lower Cross	Lower Cross	divergence
@@ -2595,7 +2595,7 @@ jaun1243	Jaunsari	Indo-European	indo1321	Indo-Aryan	Indo-Aryan	divergence
 java1254	Javanese	Austronesian	java1253	Javanesic	Javanesic	divergence
 javi1237	Javindo	Indo-European	germ1287	Germanic	Germanic	divergence
 jawe1237	Jawe	Austronesian	nort3325	Northern New Caledonian	Northern New Caledonian	divergence
-jaya1242	Jaya	Central Sudanic	sara1341	Bongo-Bagirmi	Sara-Bongo-Bagirmi	divergence
+jaya1242	Jaya	Central Sudanic	sara1341	Sara-Bongo-Bagirmi	Sara-Bongo-Bagirmi	divergence
 jebe1250	Jebero	Cahuapanan	cahu1265	Cahuapanan	Cahuapanan	divergence
 jede1239	Jedek	Austroasiatic	asli1243	Aslian	Aslian	divergence
 jeha1242	Jehai	Austroasiatic	asli1243	Aslian	Aslian	divergence
@@ -2657,7 +2657,7 @@ juqu1238	Juquila Mixe	Mixe-Zoque	mixe1284	Mixe-Zoque	Mixe-Zoque	divergence
 jura1242	Juray	Austroasiatic	mund1335	Munda	Mundaic	divergence
 jurc1239	Jurchen	Tungusic	tung1282	Tungusic	Tungusic	divergence
 juri1235	Juri	Ticuna-Yuri	ticu1244	Ticuna-Yuri	Ticuna-Yuri	unmeasured-family
-jurm1239	Jur Modo	Central Sudanic	sara1341	Bongo-Bagirmi	Sara-Bongo-Bagirmi	divergence
+jurm1239	Jur Modo	Central Sudanic	sara1341	Sara-Bongo-Bagirmi	Sara-Bongo-Bagirmi	divergence
 juru1256	Yudja	Tupian	yuru1262	Jurunic	Jurunic	divergence
 juti1236	Jutish	Indo-European	germ1287	Germanic	Germanic	divergence
 juuu1243	Ju	Afro-Asiatic	west2800	West Chadic B.3	West Chadic B.3	divergence
@@ -2670,7 +2670,7 @@ kaan1247	Kaan	Atlantic-Congo	bena1258	Bena-Mboi	Bena-Mboi	divergence
 kaan1248	Kaang Chin	Sino-Tibetan	kuki1246	Kuki-Chin	Kuki-Chin	divergence
 kaba1276	Kabatei	Indo-European	iran1269	Iranian	Iranian	divergence
 kaba1278	Kabardian	Abkhaz-Adyge	circ1239	Circassian	Circassian	divergence
-kaba1281	Kaba	Central Sudanic	sara1341	Bongo-Bagirmi	Sara-Bongo-Bagirmi	divergence
+kaba1281	Kaba	Central Sudanic	sara1341	Sara-Bongo-Bagirmi	Sara-Bongo-Bagirmi	divergence
 kaba1292	Kabalai	Afro-Asiatic	east2645	East Chadic A.2	East Chadic A.2	divergence
 kabi1260	Kabikabi	Pama-Nyungan	waka1283	Waka-Kabic	Waka-Kabic	divergence
 kabi1261	Kabiyé	Atlantic-Congo	east2740	East-West Grusi	East-West Grusi	divergence
@@ -2727,7 +2727,7 @@ kais1245	Kaisanic	Sino-Tibetan	brah1260	Brahmaputran	Brahmaputran	divergence
 kaiw1246	Kaiwá	Tupian	awet1245	Aweti-Guarani	Aweti-Guarani	divergence
 kaiy1239	Kaiy	Lakes Plain	east2502	East Tariku	East Tariku	divergence
 kaja1247	Kajali	Indo-European	iran1269	Iranian	Iranian	divergence
-kaja1250	Kajaman	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
+kaja1250	Kajaman	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
 kaja1254	Kajakse	Afro-Asiatic	east2709	East Chadic B.1	East Chadic B.1	divergence
 kajk1237	Kajkavian	Indo-European	balt1263	Balto-Slavic	Balto-Slavic	divergence
 kajt1238	Kajtak	Nakh-Daghestanian	darg1242	Dargwic	Dargwic	divergence
@@ -2750,7 +2750,7 @@ kala1381	Kalabari	Ijoid	ijoi1239	Ijoid	Ijoid	divergence
 kala1383	Kalamsé	Atlantic-Congo	nort2782	Northern Grusi	Northern Grusi	divergence
 kala1384	Kalanga	Atlantic-Congo	east2731	East Bantu	East Bantu	divergence
 kala1388	Kalagan	Austronesian	grea1284	Greater Central Philippine	Greater Central Philippine	divergence
-kala1391	Kalabakan	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
+kala1391	Kalabakan	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
 kala1394	Kalao	Austronesian	cele1242	Celebic	Celebic	divergence
 kala1397	Kalam	Nuclear Trans New Guinea	kala1404	Kalam-Kobon	Kalam-Kobon	divergence
 kala1399	Kalaallisut	Eskimo-Aleut	eski1265	Eskimo	Eskimo	divergence
@@ -2819,7 +2819,7 @@ kanj1259	Kanjari	Indo-European	indo1321	Indo-Aryan	Indo-Aryan	divergence
 kanj1260	Kanju	Pama-Nyungan	nort3256	Northeastern Pama	Northeastern Pama	divergence
 kank1243	Kankanaey	Austronesian	nort3238	Northern Luzon	Northern Luzon	divergence
 kank1244	Kankuamo	Chibchan	arhu1241	Arhuacic	Arhuacic	divergence
-kano1244	Kanowit-Tanjong Melanau	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
+kano1244	Kanowit-Tanjong Melanau	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
 kano1245	Kanoê	Kanoê	kano1245	Kanoê	Kanoê	isolate
 kans1243	Kansa	Siouan	miss1254	Mississippi Valley	Mississippi Valley	divergence
 kant1249	Kantosi	Atlantic-Congo	otiv1239	Oti-Volta	Oti-Volta	divergence
@@ -2845,7 +2845,7 @@ kara1474	Karata-Tukita	Nakh-Daghestanian	avar1255	Avar-Andic-Tsezic	Avar-Andic-T
 kara1476	Karadjeri	Pama-Nyungan	marr1265	Marrngu	Marrngu	divergence
 kara1478	Karang	Atlantic-Congo	mbum1257	Mbumic	Mbumic	divergence
 kara1481	Kara (Tanzania)	Atlantic-Congo	east2731	East Bantu	East Bantu	divergence
-kara1482	Kara (Central African Republic)	Central Sudanic	sara1341	Bongo-Bagirmi	Sara-Bongo-Bagirmi	divergence
+kara1482	Kara (Central African Republic)	Central Sudanic	sara1341	Sara-Bongo-Bagirmi	Sara-Bongo-Bagirmi	divergence
 kara1483	Karamojong	Nilotic	east2418	Eastern Nilotic	Eastern Nilotic	divergence
 kara1484	Karanga	Maban	maba1274	Maban	Maban	divergence
 kara1486	Kara (Papua New Guinea)	Austronesian	tung1294	Tungak-Nalik	Tungak-Nalik	divergence
@@ -2920,8 +2920,8 @@ kaxa1239	Kaxararí	Pano-Tacanan	pano1256	Panoan	Panoan	divergence
 kaxu1237	Kaxuiâna	Cariban	cari1283	Cariban	Cariban	divergence
 kaya1315	Kayan Lahwi	Sino-Tibetan	kare1337	Karenic	Karenic	divergence
 kaya1319	Kayardild	Tangkic	tang1340	Tangkic	Tangkic	divergence
-kaya1324	Kayan Mahakam	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
-kaya1325	Kayan River Kayan	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
+kaya1324	Kayan Mahakam	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
+kaya1325	Kayan River Kayan	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
 kaya1328	Kayagar	Kayagaric	kaya1327	Kayagaric	Kayagaric	divergence
 kaya1329	Kayabí	Tupian	awet1245	Aweti-Guarani	Aweti-Guarani	divergence
 kaya1330	Mebengokre	Nuclear-Macro-Je	cerr1237	Cerrado	Cerrado	divergence
@@ -2943,7 +2943,7 @@ kein1239	Kein	Nuclear Trans New Guinea	mabu1247	Mabuso	Mabuso	divergence
 keiy1238	Keiyo	Nilotic	sout2830	Southern Nilotic	Southern Nilotic	divergence
 kekc1242	Q'eqchi'	Mayan	maya1287	Mayan	Mayan	divergence
 kela1255	Kela (Papua New Guinea)	Austronesian	nort2858	North Huon Gulf	North Huon Gulf linkage	divergence
-kela1258	Kelabit	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
+kela1258	Kelabit	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
 kele1255	Kele-Foma	Atlantic-Congo	cent2260	Central-Western Bantu	Central-Western Bantu	divergence
 kele1257	Kélé	Atlantic-Congo	bant1295	North-West Bantu	Bantu A-B10-B20-B30	divergence
 kele1258	Kele (Papua New Guinea)	Austronesian	admi1239	Admiralty Islands	Admiralty Islands	divergence
@@ -2964,9 +2964,9 @@ kena1250	Kenati	Nuclear Trans New Guinea	unun9974	Unclassified Kainantu-Goroka	U
 kend1252	Kendem	Atlantic-Congo	mamf1238	Mamfe	Mamfe	divergence
 kend1253	Kendeje	Maban	maba1274	Maban	Maban	divergence
 kend1254	Kendayan-Belangin	Austronesian	mala1554	Malayo-Chamic	Malayo-Chamic	divergence
-keng1240	Kenga	Central Sudanic	sara1341	Bongo-Bagirmi	Sara-Bongo-Bagirmi	divergence
+keng1240	Kenga	Central Sudanic	sara1341	Sara-Bongo-Bagirmi	Sara-Bongo-Bagirmi	divergence
 keni1248	Keninjal	Austronesian	mala1554	Malayo-Chamic	Malayo-Chamic	divergence
-keni1249	Keningau Murut	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
+keni1249	Keningau Murut	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
 kens1248	Kensiu	Austroasiatic	asli1243	Aslian	Aslian	divergence
 kens1251	Kenswei Nsei	Atlantic-Congo	wide1239	Wide Grassfields	Wide Grassfields	divergence
 kenu1236	Kenuzi-Dongola	Nubian	nile1239	Nile Nubian	Nile Nubian	divergence
@@ -2980,7 +2980,7 @@ kera1248	Keerak	Atlantic-Congo	jola1264	Jola	Jola	divergence
 kera1255	Kera	Afro-Asiatic	east2641	East Chadic A.3	East Chadic A.3	divergence
 kere1280	Kerek	Chukotko-Kamchatkan	chuk1272	Chukotian	Chukotian	divergence
 kere1283	Kerewe	Atlantic-Congo	east2731	East Bantu	East Bantu	divergence
-kere1285	Kereho	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
+kere1285	Kereho	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
 kere1286	Kerewo	Kiwaian	kiwa1251	Kiwaian	Kiwaian	divergence
 keri1250	Kerinci	Austronesian	mala1554	Malayo-Chamic	Malayo-Chamic	divergence
 kesa1244	Kesawai	Nuclear Trans New Guinea	evap1240	Evapia	Evapia	divergence
@@ -3045,7 +3045,7 @@ kile1243	Kilen	Tungusic	tung1282	Tungusic	Tungusic	divergence
 kili1267	Kilivila	Austronesian	kili1271	Kilivila-Muyuw	Kilivila-Muyuw	divergence
 kili1268	Kiliwa	Cochimi-Yuman	yuma1250	Yuman	Yuman	divergence
 kilm1241	Kilmeri	Border	bewa1242	Bewani	Bewani	divergence
-kima1244	Kimaragang	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
+kima1244	Kimaragang	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
 kima1246	Kimaama	Kolopom	kima1245	Kimaama-Riantana	Kimaama-Riantana	divergence
 kimb1241	Kimbundu	Atlantic-Congo	cent2260	Central-Western Bantu	Central-Western Bantu	divergence
 kimb1242	Kimbu	Atlantic-Congo	east2731	East Bantu	East Bantu	divergence
@@ -3066,7 +3066,7 @@ kion1242	Kiong	Atlantic-Congo	uppe1418	Upper Cross	Upper Cross	divergence
 kiow1264	Kiowa Apache	Athabaskan-Eyak-Tlingit	atha1247	Athabaskan	Athabaskan	divergence
 kiow1266	Kiowa	Kiowa-Tanoan	kiow1265	Kiowa-Tanoan	Kiowa-Tanoan	divergence
 kips1239	Kipsigis	Nilotic	sout2830	Southern Nilotic	Southern Nilotic	divergence
-kipu1237	Kiput	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
+kipu1237	Kiput	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
 kirb1236	Kir-Balar	Afro-Asiatic	west2800	West Chadic B.3	West Chadic B.3	divergence
 kire1240	Kire	Ramu	kire1239	Ruboni	Ruboni	divergence
 kirg1245	Kirghiz	Turkic	turk1311	Turkic	Turkic	divergence
@@ -3089,7 +3089,7 @@ kitu1246	Kituba (Democratic Republic of Congo)	Atlantic-Congo	cent2260	Central-W
 kiza1239	Kizamani	Atlantic-Congo	josa1234	Jos	Jos	divergence
 klam1254	Klamath-Modoc	Klamath-Modoc	klam1254	Klamath-Modoc	Klamath-Modoc	isolate
 klao1243	Klao	Kru	krua1234	Kru	Kru	divergence
-klia1235	Klias River Kadazan	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
+klia1235	Klias River Kadazan	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
 koal1240	Koalib-Rere	Heibanic	heib1242	Heibanic	Heibanic	divergence
 koas1236	Koasati	Muskogean	musk1252	Muskogean	Muskogean	divergence
 koba1240	Koba	Austronesian	aruu1241	Aru	Aru	divergence
@@ -3211,7 +3211,7 @@ kota1263	Kota (India)	Dravidian	drav1251	Dravidian	Dravidian	divergence
 kota1272	Kotafon Gbe	Atlantic-Congo	gbee1241	Gbe	Gbe	divergence
 kota1274	Kota (Gabon)	Atlantic-Congo	bant1295	North-West Bantu	Bantu A-B10-B20-B30	divergence
 kota1275	Kota Bangun Kutai Malay	Austronesian	mala1554	Malayo-Chamic	Malayo-Chamic	divergence
-kota1279	Kota Marudu Talantang	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
+kota1279	Kota Marudu Talantang	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
 koti1238	Koti	Atlantic-Congo	east2731	East Bantu	East Bantu	divergence
 kott1239	Kott-Assan	Yeniseian	yeni1252	Yeniseian	Yeniseian	divergence
 kouy1238	Kouya	Kru	krua1234	Kru	Kru	divergence
@@ -3264,7 +3264,7 @@ kuga1239	Gengle-Kugama	Atlantic-Congo	mumu1249	Mumuye-Yandang	Mumuye-Yandang	div
 kugb1241	Kugbo	Atlantic-Congo	cent2028	Central Delta	Central Delta	divergence
 kuii1252	Kui (India)	Dravidian	drav1251	Dravidian	Dravidian	divergence
 kuii1253	Kui (Indonesia)	Timor-Alor-Pantar	kuii1253	Kui (Indonesia)	Kui (Indonesia)	single-language
-kuij1237	Kuijau	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
+kuij1237	Kuijau	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
 kuik1246	Kuikúro-Kalapálo	Cariban	cari1283	Cariban	Cariban	divergence
 kuja1239	Kujarge	Kujarge	kuja1239	Kujarge	Kujarge	isolate
 kuka1246	Kukatja	Pama-Nyungan	wati1241	Wati	Wati	divergence
@@ -3278,7 +3278,7 @@ kuku1283	Kuku-Muminh	Pama-Nyungan	kuku1276	Kuku-Wik-Ep	Kuku-Wik-Ep	divergence
 kuku1285	Kuku	Nilotic	east2418	Eastern Nilotic	Eastern Nilotic	divergence
 kula1280	Kula (Indonesia)	Timor-Alor-Pantar	kola1286	East Alor	East Alor	divergence
 kule1247	Kulere	Afro-Asiatic	west2716	West Chadic A.4	West Chadic A.4	divergence
-kulf1238	Kulfa	Central Sudanic	sara1341	Bongo-Bagirmi	Sara-Bongo-Bagirmi	divergence
+kulf1238	Kulfa	Central Sudanic	sara1341	Sara-Bongo-Bagirmi	Sara-Bongo-Bagirmi	divergence
 kuli1254	Kulisusu	Austronesian	cele1242	Celebic	Celebic	divergence
 kuli1255	Kulina Pano	Pano-Tacanan	pano1256	Panoan	Panoan	divergence
 kull1236	Kullu Pahari	Indo-European	indo1321	Indo-Aryan	Indo-Aryan	divergence
@@ -3414,7 +3414,7 @@ labi1245	Labir	Atlantic-Congo	jara1262	Jarawan	Jarawan	divergence
 labo1243	Labo Phowa	Sino-Tibetan	lolo1265	Lolo-Burmese	Lolo-Burmese	divergence
 labo1244	Ninde	Austronesian	nort3195	North and Central Vanuatu	North and Central Vanuatu	divergence
 labu1248	Labu	Austronesian	mark1257	Markham	Markham	divergence
-labu1249	Labuk-Kinabatangan Kadazan	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
+labu1249	Labuk-Kinabatangan Kadazan	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
 laca1243	Lacandon	Mayan	maya1287	Mayan	Mayan	divergence
 lach1248	Lachi	Tai-Kadai	kada1291	Kra	Kadaic	divergence
 lach1249	Lachixío Zapotec	Otomanguean	zapo1437	Zapotec	Zapotec	divergence
@@ -3429,14 +3429,14 @@ lagh1246	Laghu	Austronesian	west2523	West Santa Isabel	West Santa Isabel	diverge
 lagw1237	Lagwan	Afro-Asiatic	koto1267	Kotoko-Buduma	Kotoko-Buduma	divergence
 laha1250	Laha (Viet Nam)	Tai-Kadai	kada1291	Kra	Kadaic	divergence
 laha1251	Laha (Indonesia)	Austronesian	nunu1252	Nunusaku	Nunusaku	divergence
-laha1253	Lahanan	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
+laha1253	Lahanan	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
 lahu1250	Lahul Lohar	Indo-European	indo1321	Indo-Aryan	Indo-Aryan	divergence
 lahu1252	Lahu Shi	Sino-Tibetan	lolo1265	Lolo-Burmese	Lolo-Burmese	divergence
 lahu1253	Lahu	Sino-Tibetan	lolo1265	Lolo-Burmese	Lolo-Burmese	divergence
 laim1240	Laimbue	Atlantic-Congo	wide1239	Wide Grassfields	Wide Grassfields	divergence
 lair1234	Lairamlo	Sino-Tibetan	tang1335	Tangkhul-Maring	Tangkhul-Maring	divergence
 laiy1246	Laiyolo	Austronesian	cele1242	Celebic	Celebic	divergence
-laka1254	Laka (Chad)	Central Sudanic	sara1341	Bongo-Bagirmi	Sara-Bongo-Bagirmi	divergence
+laka1254	Laka (Chad)	Central Sudanic	sara1341	Sara-Bongo-Bagirmi	Sara-Bongo-Bagirmi	divergence
 laka1255	Lakalei	Austronesian	timo1265	Timor-Babar	Timor-Babar	divergence
 lake1258	Lake Miwok	Miwok-Costanoan	miwo1275	Miwokan	Miwokan	divergence
 lakh1240	Lakha	Sino-Tibetan	bodi1256	Bodic	Bodic	divergence
@@ -3475,7 +3475,7 @@ lamp1242	Lampung Nyo	Austronesian	lamp1241	Lampungic	Lampungic	divergence
 lamp1243	Lampung Api	Austronesian	lamp1241	Lampungic	Lampungic	divergence
 lamu1254	Lamalama	Pama-Nyungan	coas1321	Coastal Lamalamic	Coastal Lamalamic	divergence
 lamu1257	Lamu	Sino-Tibetan	lolo1265	Lolo-Burmese	Lolo-Burmese	divergence
-lana1236	Lanas Lobu	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
+lana1236	Lanas Lobu	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
 land1256	Landoma	Atlantic-Congo	temn1245	Northern Mel	Northern Mel	divergence
 lang1316	Langnian Buyang	Tai-Kadai	kada1291	Kra	Kadaic	divergence
 lang1318	Langbashe	Atlantic-Congo	band1341	Bandaic	Bandaic	divergence
@@ -3542,7 +3542,7 @@ lein1237	Lainong Naga	Sino-Tibetan	brah1260	Brahmaputran	Brahmaputran	divergence
 leip1237	Leipon	Austronesian	admi1239	Admiralty Islands	Admiralty Islands	divergence
 leit1234	Leitre	Sko	skou1239	Skouic	Skouic	divergence
 leiz1236	Leizhou Chinese	Sino-Tibetan	sini1245	Sinitic	Sinitic	divergence
-lela1246	Lelak	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
+lela1246	Lelak	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
 lele1264	Lelemi	Atlantic-Congo	lele1262	Lelemic	Lelemic	divergence
 lele1265	Lele (Democratic Republic of Congo)	Atlantic-Congo	cent2260	Central-Western Bantu	Central-Western Bantu	divergence
 lele1266	Lele (Guinea)	Mande	west2780	Western Mande	Western Mande	divergence
@@ -3560,7 +3560,7 @@ lenc1243	Lenca-Salvador	Lencan	lenc1239	Lencan	Lencan	divergence
 lend1245	Lendu	Central Sudanic	lend1246	Lenduic	Lenduic	divergence
 leng1258	Lengola	Atlantic-Congo	cent2260	Central-Western Bantu	Central-Western Bantu	divergence
 leng1259	Lengo	Austronesian	sout2853	Southeast Solomonic	Southeast Solomonic	divergence
-leng1260	Lengilu	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
+leng1260	Lengilu	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
 leni1238	Linngithigh	Pama-Nyungan	leni1237	Linngithigh-Alngith	Linngithigh-Alngith	unmeasured-clade
 lenj1248	Lenje	Atlantic-Congo	east2731	East Bantu	East Bantu	divergence
 lenk1247	Lenkau	Austronesian	admi1239	Admiralty Islands	Admiralty Islands	divergence
@@ -3666,7 +3666,7 @@ long1375	Long Phuri Naga	Sino-Tibetan	aoic1235	Central Naga	Central Naga	diverge
 long1387	Longto	Atlantic-Congo	sout3238	Southern Samba-Duru	Southern Samba-Duru	divergence
 long1389	Longuda	Atlantic-Congo	long1389	Longuda	Longuda	single-language
 long1395	Longgu	Austronesian	sout2853	Southeast Solomonic	Southeast Solomonic	divergence
-long1406	Western Lowland Kenyah	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
+long1406	Western Lowland Kenyah	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
 long1417	Longjia	Sino-Tibetan	macr1275	Macro-Bai	Macro-Bai	divergence
 loni1238	Loniu	Austronesian	admi1239	Admiralty Islands	Admiralty Islands	divergence
 lonw1238	Lonwolwol	Austronesian	nort3195	North and Central Vanuatu	North and Central Vanuatu	divergence
@@ -3679,7 +3679,7 @@ lore1244	Nethalp	Austronesian	nort3195	North and Central Vanuatu	North and Centr
 lote1237	Lote	Austronesian	meng1266	Mengenic	Mengenic	divergence
 loth1237	Lotha Naga	Sino-Tibetan	aoic1235	Central Naga	Central Naga	divergence
 loto1240	Lo-Toga	Austronesian	nort3195	North and Central Vanuatu	North and Central Vanuatu	divergence
-lotu1250	Lotud	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
+lotu1250	Lotud	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
 loui1240	Louisiana Creole French	Indo-European	ital1284	Italic	Italic	divergence
 loun1239	Loun	Austronesian	nunu1252	Nunusaku	Nunusaku	divergence
 loup1243	Nipmuck	Algic	algo1257	Algonquian	Algonquian	divergence
@@ -3726,7 +3726,7 @@ lumu1239	Lumun	Narrow Talodi	narr1279	Talodi	Narrow Talodi	divergence
 luna1243	Lunanakha	Sino-Tibetan	bodi1256	Bodic	Bodic	divergence
 luna1244	Luna	Atlantic-Congo	cent2260	Central-Western Bantu	Central-Western Bantu	divergence
 lund1266	Lunda	Atlantic-Congo	cent2260	Central-Western Bantu	Central-Western Bantu	divergence
-lund1271	Lundayeh	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
+lund1271	Lundayeh	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
 lund1276	Dir-Nyamzak-Mbarimi	Afro-Asiatic	west2800	West Chadic B.3	West Chadic B.3	divergence
 lung1249	Lungga	Austronesian	newg1239	New Georgia	New Georgia	divergence
 luoc1235	Luo (Cameroon)	Atlantic-Congo	mamb1309	Mambiloid	Mambiloid	divergence
@@ -3741,7 +3741,7 @@ lush1256	Dokshi	Afro-Asiatic	west2800	West Chadic B.3	West Chadic B.3	divergence
 lusi1235	Lusitanian	Indo-European	ital1284	Italic	Italic	divergence
 lusi1240	Lusi	Austronesian	nger1240	Ngero	Ngero	divergence
 lute1234	Lute	Heibanic	heib1242	Heibanic	Heibanic	divergence
-luto1241	Lutos	Central Sudanic	sara1341	Bongo-Bagirmi	Sara-Bongo-Bagirmi	divergence
+luto1241	Lutos	Central Sudanic	sara1341	Sara-Bongo-Bagirmi	Sara-Bongo-Bagirmi	divergence
 luuu1242	Lü	Tai-Kadai	kamt1241	Kam-Tai	Kam-Tai	divergence
 luva1239	Luvale	Atlantic-Congo	cent2260	Central-Western Bantu	Central-Western Bantu	divergence
 luwa1238	Luwati	Indo-European	indo1321	Indo-Aryan	Indo-Aryan	divergence
@@ -3822,7 +3822,7 @@ maii1238	Maii	Austronesian	nort3195	North and Central Vanuatu	North and Central 
 mail1248	Mailu	Mailuan	mail1249	Mailuan	Mailuan	divergence
 main1267	Ostfränkisch	Indo-European	germ1287	Germanic	Germanic	divergence
 main1272	Maindo	Atlantic-Congo	east2731	East Bantu	East Bantu	divergence
-main1275	Usun Apau Kenyah	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
+main1275	Usun Apau Kenyah	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
 maip1247	Maipure-Avane	Arawakan	alto1249	Alto Orinoco	Alto Orinoco	divergence
 mais1250	Maisin	Austronesian	nucl1744	Nuclear Papuan Tip	Nuclear Papuan Tip linkage	divergence
 mait1250	Maithili	Indo-European	indo1321	Indo-Aryan	Indo-Aryan	divergence
@@ -3946,7 +3946,7 @@ mang1383	Mangala	Pama-Nyungan	marr1265	Marrngu	Marrngu	divergence
 mang1387	Mangayat	Atlantic-Congo	sere1262	Sereic	Sereic	divergence
 mang1394	Mangbetu	Central Sudanic	mang1393	Mangbetu-Asua	Mangbetu-Asua	divergence
 mang1396	Mangbutu	Central Sudanic	mang1425	Mangbutu-Efe	Mangbutu-Efe	divergence
-mang1398	Mango	Central Sudanic	sara1341	Bongo-Bagirmi	Sara-Bongo-Bagirmi	divergence
+mang1398	Mango	Central Sudanic	sara1341	Sara-Bongo-Bagirmi	Sara-Bongo-Bagirmi	divergence
 mang1399	Manga-Dagera Kanuri	Saharan	kanu1279	Kanuri-Kanembu	Kanuri-Kanembu	divergence
 mang1401	Mangareva	Austronesian	cent2060	Central Pacific	Central Pacific linkage	divergence
 mang1403	Mangseng	Austronesian	mang1403	Mangseng	Mangseng	single-language
@@ -4120,7 +4120,7 @@ mbar1254	Mbara-Yanga	Pama-Nyungan	mbar1254	Mbara-Yanga	Mbara-Yanga	single-langua
 mbar1260	Mbara (Chad)	Afro-Asiatic	bium1279	Musguic	Musguic	divergence
 mbat1247	Mbato	Atlantic-Congo	poto1250	Potou	Potou	divergence
 mbat1248	Mbati	Atlantic-Congo	cent2260	Central-Western Bantu	Central-Western Bantu	divergence
-mbay1241	Mbay	Central Sudanic	sara1341	Bongo-Bagirmi	Sara-Bongo-Bagirmi	divergence
+mbay1241	Mbay	Central Sudanic	sara1341	Sara-Bongo-Bagirmi	Sara-Bongo-Bagirmi	divergence
 mbed1242	Mbedam	Afro-Asiatic	bium1274	Dabaic	Dabaic	divergence
 mbee1249	Mbe	Atlantic-Congo	ekoi1237	Ekoid-Mbe	Ekoid-Mbe	divergence
 mbee1250	Mbe'	Atlantic-Congo	wide1239	Wide Grassfields	Wide Grassfields	divergence
@@ -4177,7 +4177,7 @@ melp1238	Melpa	Nuclear Trans New Guinea	cent2120	Chimbu-Wahgi	Chimbu-Wahgi	diver
 memo1238	Memoni	Indo-European	indo1321	Indo-Aryan	Indo-Aryan	divergence
 mend1261	Mendankwe-Nkwen	Atlantic-Congo	wide1239	Wide Grassfields	Wide Grassfields	divergence
 mend1266	Mende (Sierra Leone)	Mande	west2780	Western Mande	Western Mande	divergence
-mend1267	Mendalam Kayan	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
+mend1267	Mendalam Kayan	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
 mend1268	Mende (Papua New Guinea)	Sepik	nuku1256	Nukuma	Nukuma	divergence
 meng1264	Mengaka	Atlantic-Congo	wide1239	Wide Grassfields	Wide Grassfields	divergence
 meng1267	Mengen	Austronesian	meng1266	Mengenic	Mengenic	divergence
@@ -4268,7 +4268,7 @@ mini1253	Minidien	Nuclear Torricelli	mini1253	Minidien	Minidien	single-language
 mini1256	Minica Huitoto	Huitotoan	huit1251	Huitotoan	Huitotoan	divergence
 mink1237	Minkin	Minkin	mink1237	Minkin	Minkin	isolate
 minn1241	Min Nan Chinese	Sino-Tibetan	sini1245	Sinitic	Sinitic	divergence
-mino1243	Minokok	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
+mino1243	Minokok	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
 minr1238	Minriq	Austroasiatic	asli1243	Aslian	Aslian	divergence
 mint1239	Mintil	Austroasiatic	asli1243	Aslian	Aslian	divergence
 minz1235	Min Zhong Chinese	Sino-Tibetan	sini1245	Sinitic	Sinitic	divergence
@@ -4285,7 +4285,7 @@ misk1235	Mískito	Misumalpan	misk1235	Mískito	Mískito	single-language
 mith1236	Mithaka	Pama-Nyungan	karn1253	Karnic	Karnic	divergence
 mitl1235	Mitlatongo Mixtec	Otomanguean	mixt1427	Mixtec	Mixtec	divergence
 mitl1236	Mitla Zapotec	Otomanguean	zapo1437	Zapotec	Zapotec	divergence
-mitt1253	Mittu	Central Sudanic	sara1341	Bongo-Bagirmi	Sara-Bongo-Bagirmi	divergence
+mitt1253	Mittu	Central Sudanic	sara1341	Sara-Bongo-Bagirmi	Sara-Bongo-Bagirmi	divergence
 mitu1240	Mituku	Atlantic-Congo	east2731	East Bantu	East Bantu	divergence
 miuu1237	Miu	Austronesian	pasi1254	Pasismanua	Pasismanua	divergence
 miwa1242	Miwa	Worrorran	worr1236	Worrorran	Worrorran	divergence
@@ -4309,8 +4309,8 @@ moch1256	Mochi	Atlantic-Congo	east2731	East Bantu	East Bantu	divergence
 moch1257	Mocho	Mayan	maya1287	Mayan	Mayan	divergence
 moch1259	Mochica	Mochica	moch1259	Mochica	Mochica	isolate
 moco1246	Mocoví	Guaicuruan	qomm1235	Qom	Qom	divergence
-moda1242	Mo'da	Central Sudanic	sara1341	Bongo-Bagirmi	Sara-Bongo-Bagirmi	divergence
-moda1244	Modang	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
+moda1242	Mo'da	Central Sudanic	sara1341	Sara-Bongo-Bagirmi	Sara-Bongo-Bagirmi	divergence
+moda1244	Modang	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
 mode1248	Modern Greek	Indo-European	grae1234	Graeco-Phrygian	Graeco-Phrygian	divergence
 modo1249	Modole	North Halmahera	nort2924	Northern North Halmahera	Northern North Halmahera	divergence
 moer1240	Moere	Nuclear Trans New Guinea	kumi1250	Kumil-Tibor	Kumil-Tibor	divergence
@@ -4382,8 +4382,8 @@ mori1271	Morigi	Kiwaian	kiwa1251	Kiwaian	Kiwaian	divergence
 mori1273	Morike	Arawakan	cham1317	Chamicuro-Morike	Chamicuro-Morike	unmeasured-clade
 mori1278	Morisyen	Indo-European	ital1284	Italic	Italic	divergence
 morm1235	Mor (Mor Islands)	Austronesian	morm1235	Mor (Mor Islands)	Mor (Mor Islands)	single-language
-moro1281	Morom	Central Sudanic	sara1341	Bongo-Bagirmi	Sara-Bongo-Bagirmi	divergence
-moro1284	Morokodo	Central Sudanic	sara1341	Bongo-Bagirmi	Sara-Bongo-Bagirmi	divergence
+moro1281	Morom	Central Sudanic	sara1341	Sara-Bongo-Bagirmi	Sara-Bongo-Bagirmi	divergence
+moro1284	Morokodo	Central Sudanic	sara1341	Sara-Bongo-Bagirmi	Sara-Bongo-Bagirmi	divergence
 moro1285	Moro	Heibanic	heib1242	Heibanic	Heibanic	divergence
 moro1286	Ande	Austronesian	nort3195	North and Central Vanuatu	North and Central Vanuatu	divergence
 moro1287	Moronene	Austronesian	cele1242	Celebic	Celebic	divergence
@@ -4465,7 +4465,7 @@ muns1251	Munsee	Algic	algo1257	Algonquian	Algonquian	divergence
 muon1246	Muong	Austroasiatic	viet1250	Vietic	Vietic	divergence
 mura1271	Muratayak	Nuclear Trans New Guinea	nucl1777	Nuclear Warup	Nuclear Warup	divergence
 mure1235	Mure	Mure	mure1235	Mure	Mure	isolate
-muri1259	Murik (Malaysia)	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
+muri1259	Murik (Malaysia)	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
 muri1260	Murik (Papua New Guinea)	Lower Sepik	norr1244	Nor	Nor	divergence
 murk1238	Murkim	Lepki-Murkim-Kembra	lepk1239	Lepki-Murkim-Kembra	Lepki-Murkim-Kembra	divergence
 murl1244	Murle	Surmic	sout2836	South Surmic	South Surmic	divergence
@@ -4508,7 +4508,7 @@ mzie1235	Mzieme Naga	Sino-Tibetan	zeme1241	Zemeic	Zemeic	divergence
 naaa1245	Na	Sino-Tibetan	tani1259	Tani	Tani	divergence
 naab1241	Naaba	Sino-Tibetan	bodi1256	Bodic	Bodic	divergence
 naas1242	Naasioi	South Bougainville	nasi1247	Nasioiic	Nasioiic	unmeasured-clade
-naba1253	Naba	Central Sudanic	sara1341	Bongo-Bagirmi	Sara-Bongo-Bagirmi	divergence
+naba1253	Naba	Central Sudanic	sara1341	Sara-Bongo-Bagirmi	Sara-Bongo-Bagirmi	divergence
 naba1256	Nabak	Nuclear Trans New Guinea	west2795	Western Huon	Western Huon	divergence
 nabi1239	Nabi-Metan	Nuclear Torricelli	nabi1239	Nabi-Metan	Nabi-Metan	single-language
 nabi1240	Nabit	Atlantic-Congo	otiv1239	Oti-Volta	Oti-Volta	divergence
@@ -4577,7 +4577,7 @@ nara1263	Narango	Austronesian	nort3195	North and Central Vanuatu	North and Centr
 nara1264	Narak	Nuclear Trans New Guinea	cent2120	Chimbu-Wahgi	Chimbu-Wahgi	divergence
 nari1240	Narim	Surmic	sout2836	South Surmic	South Surmic	divergence
 naro1249	Naro	Khoe-Kwadi	khoe1241	Khoe	Khoe	divergence
-naro1251	Narom	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
+naro1251	Narom	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
 narp1239	Nar Phu	Sino-Tibetan	bodi1256	Bodic	Bodic	divergence
 narr1259	Narrinyeri	Pama-Nyungan	lowe1401	Lower Murray	Lower Murray	unmeasured-clade
 naru1238	Narungga	Pama-Nyungan	thur1253	Thura-Yura	Thura-Yura	divergence
@@ -4686,8 +4686,8 @@ ngal1300	Ngala	Ndu	nduu1242	Ndu	Ndu	divergence
 ngal1301	Ngala of Lake Chad	Afro-Asiatic	koto1267	Kotoko-Buduma	Kotoko-Buduma	divergence
 ngam1265	Ngamini-Yarluyandi-Karangura	Pama-Nyungan	karn1253	Karnic	Karnic	divergence
 ngam1267	Ngamambo	Atlantic-Congo	wide1239	Wide Grassfields	Wide Grassfields	divergence
-ngam1268	Ngambay	Central Sudanic	sara1341	Bongo-Bagirmi	Sara-Bongo-Bagirmi	divergence
-ngam1269	Ngam	Central Sudanic	sara1341	Bongo-Bagirmi	Sara-Bongo-Bagirmi	divergence
+ngam1268	Ngambay	Central Sudanic	sara1341	Sara-Bongo-Bagirmi	Sara-Bongo-Bagirmi	divergence
+ngam1269	Ngam	Central Sudanic	sara1341	Sara-Bongo-Bagirmi	Sara-Bongo-Bagirmi	divergence
 ngam1282	Ngamo	Afro-Asiatic	west2799	West Chadic A.2-3	West Chadic A.2-3	divergence
 ngan1291	Nganasan	Uralic	samo1298	Samoyedic	Samoyedic	divergence
 ngan1295	Ngandi	Gunwinyguan	ngan1295	Ngandi	Ngandi	single-language
@@ -4934,7 +4934,7 @@ nort3139	Levantine Arabic	Afro-Asiatic	semi1276	Semitic	Semitic	divergence
 nort3142	North Mesopotamian Arabic	Afro-Asiatic	semi1276	Semitic	Semitic	divergence
 nort3247	Northeast Bainounk	Atlantic-Congo	east2703	Nyun-Buy	Nyun	divergence
 nort3260	Northern Alantika Vere	Atlantic-Congo	nort3259	Northern Samba-Duru	Northern Samba-Duru	divergence
-nort3262	Northern Tidung	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
+nort3262	Northern Tidung	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
 nort3268	Northern Pinghua	Sino-Tibetan	sini1245	Sinitic	Sinitic	divergence
 nort3270	Northern Katang	Austroasiatic	katu1271	Katuic	Katuic	divergence
 nort3286	Northern Tangkhul Naga	Sino-Tibetan	tang1335	Tangkhul-Maring	Tangkhul-Maring	divergence
@@ -5030,7 +5030,7 @@ nyam1271	Nyamal	Pama-Nyungan	sout3134	South-West Pama-Nyungan	South-West Pama-Ny
 nyam1275	Nyamwanga	Atlantic-Congo	east2731	East Bantu	East Bantu	divergence
 nyam1276	Nyamwezi	Atlantic-Congo	east2731	East Bantu	East Bantu	divergence
 nyam1277	Nyambo	Atlantic-Congo	east2731	East Bantu	East Bantu	divergence
-nyam1279	Nyamusa-Molo	Central Sudanic	sara1341	Bongo-Bagirmi	Sara-Bongo-Bagirmi	divergence
+nyam1279	Nyamusa-Molo	Central Sudanic	sara1341	Sara-Bongo-Bagirmi	Sara-Bongo-Bagirmi	divergence
 nyam1285	Nyam	Afro-Asiatic	west2799	West Chadic A.2-3	West Chadic A.2-3	divergence
 nyan1300	Yangkaal	Tangkic	tang1340	Tangkic	Tangkic	divergence
 nyan1301	Nyangumarta	Pama-Nyungan	marr1265	Marrngu	Marrngu	divergence
@@ -5105,7 +5105,7 @@ okob1241	Okobo	Atlantic-Congo	obol1242	Lower Cross	Lower Cross	divergence
 okod1238	Okodia	Ijoid	ijoi1239	Ijoid	Ijoid	divergence
 okoe1238	Oko-Eni-Osayen	Atlantic-Congo	okoe1238	Oko-Eni-Osayen	Oko-Eni-Osayen	single-language
 okoj1239	Okojuwoi	Great Andamanese	grea1241	Great Andamanese	Great Andamanese	divergence
-okol1241	Okolod	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
+okol1241	Okolod	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
 okol1243	Okolie	Nilotic	east2418	Eastern Nilotic	Eastern Nilotic	divergence
 okpa1238	Okpamheri	Atlantic-Congo	edoi1239	Edoid	Edoid	divergence
 okpe1249	Okpe (Northwestern Edo)	Atlantic-Congo	edoi1239	Edoid	Edoid	divergence
@@ -5276,7 +5276,7 @@ pall1244	Pal	Nuclear Trans New Guinea	omos1240	Omosan	Omosan	divergence
 palm1241	Palmela	Cariban	cari1283	Cariban	Cariban	divergence
 palo1243	Palor	Atlantic-Congo	cang1245	Cangin	Cangin	divergence
 palu1252	Palu'e	Austronesian	bima1248	Bima-Lembata	Bima-Lembata	divergence
-palu1253	Paluan	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
+palu1253	Paluan	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
 paly1238	Palya Bareli	Indo-European	indo1321	Indo-Aryan	Indo-Aryan	divergence
 pamb1243	Pambia	Atlantic-Congo	zand1246	Zandic	Zandic	divergence
 pamm1242	Pam (Cameroon)	Atlantic-Congo	mbum1257	Mbumic	Mbumic	divergence
@@ -5312,7 +5312,7 @@ pany1241	Panytyima	Pama-Nyungan	sout3134	South-West Pama-Nyungan	South-West Pama
 paok1235	Pa'o Karen	Sino-Tibetan	kare1337	Karenic	Karenic	divergence
 papa1238	Papantla Totonac	Totonacan	toto1251	Totonacan	Totonacan	divergence
 papa1265	Papapana	Austronesian	neha1246	North Bougainville Oceanic	North Bougainville Oceanic	divergence
-papa1268	Papar	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
+papa1268	Papar	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
 papa1269	Papasena	Lakes Plain	east2502	East Tariku	East Tariku	divergence
 pape1239	Papel	Atlantic-Congo	manj1250	Manjaku-Mankanya-Pepel	Manjaku-Mankanya-Pepel	divergence
 papi1253	Papiamento	Indo-European	ital1284	Italic	Italic	divergence
@@ -5527,11 +5527,11 @@ pulu1242	Puluwatese	Austronesian	west2844	Western Micronesian	Western Micronesia
 puma1239	Puma	Sino-Tibetan	kira1253	Kiranti	Kiranti	divergence
 pume1238	Pumé	Pumé	pume1238	Pumé	Pumé	isolate
 pump1237	Pumpokol	Yeniseian	yeni1252	Yeniseian	Yeniseian	divergence
-puna1266	Punan Tubu	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
-puna1267	Punan Aput	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
-puna1268	Punan Merah	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
-puna1275	Punan Bah-Biau	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
-puna1278	Punan Batu 1	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
+puna1266	Punan Tubu	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
+puna1267	Punan Aput	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
+puna1268	Punan Merah	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
+puna1275	Punan Bah-Biau	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
+puna1278	Punan Batu 1	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
 puni1241	Punic	Afro-Asiatic	semi1276	Semitic	Semitic	divergence
 puno1238	Puno Quechua	Quechuan	quec1387	Quechuan	Quechuan	divergence
 punu1239	Punu	Atlantic-Congo	cent2260	Central-Western Bantu	Central-Western Bantu	divergence
@@ -5623,7 +5623,7 @@ raza1238	Razajerdi	Indo-European	iran1269	Iranian	Iranian	divergence
 redg1235	Red Gelao	Tai-Kadai	kada1291	Kra	Kadaic	divergence
 reel1238	Reel	Nilotic	west2493	Western Nilotic	Western Nilotic	divergence
 reja1240	Rejang	Austronesian	reja1240	Rejang	Rejang	single-language
-reja1241	Rejang Kayan	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
+reja1241	Rejang Kayan	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
 reli1238	Reli	Indo-European	indo1321	Indo-Aryan	Indo-Aryan	divergence
 rema1238	Rema	Yam	tond1250	Tonda	Tonda	divergence
 remb1249	Rembarrnga	Gunwinyguan	jala1236	Jala	Jala	divergence
@@ -5693,7 +5693,7 @@ rund1241	Rundi-Kitwa	Atlantic-Congo	east2731	East Bantu	East Bantu	divergence
 rund1242	Rundi	Atlantic-Congo	east2731	East Bantu	East Bantu	divergence
 rung1255	Rungwa	Atlantic-Congo	east2731	East Bantu	East Bantu	divergence
 rung1258	Runga	Maban	maba1274	Maban	Maban	divergence
-rung1259	Rungus	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
+rung1259	Rungus	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
 russ1263	Russian	Indo-European	balt1263	Balto-Slavic	Balto-Slavic	divergence
 russ1264	Russia Buriat	Mongolic-Khitan	mong1349	Mongolic-Khitan	Mongolic-Khitan	divergence
 rusy1239	Rusyn	Indo-European	balt1263	Balto-Slavic	Balto-Slavic	divergence
@@ -5708,8 +5708,8 @@ saam1283	Saamia	Atlantic-Congo	east2731	East Bantu	East Bantu	divergence
 saar1237	Saaroa	Austronesian	tsou1250	Tsouic	Tsouic	divergence
 saba1262	Sabaot	Nilotic	sout2830	Southern Nilotic	Southern Nilotic	divergence
 saba1263	Sabah Malay	Austronesian	mala1554	Malayo-Chamic	Malayo-Chamic	divergence
-saba1265	Sa'ban	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
-saba1267	Sabah Bisaya	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
+saba1265	Sa'ban	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
+saba1267	Sabah Bisaya	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
 saba1268	Sabanê	Nambiquaran	saba1268	Sabanê	Sabanê	single-language
 saba1276	Saba	Afro-Asiatic	east2710	East Chadic B.3	East Chadic B.3	divergence
 saba1279	Sabaic	Afro-Asiatic	semi1276	Semitic	Semitic	divergence
@@ -5732,7 +5732,7 @@ said1239	Saidi Arabic	Afro-Asiatic	semi1276	Semitic	Semitic	divergence
 sain1246	Saint Lucian Creole French	Indo-European	ital1284	Italic	Italic	divergence
 sais1237	Saisiyat	Austronesian	nort2899	Northwest Formosan	Northwest Formosan	unmeasured-clade
 saja1240	Sajolang	Sino-Tibetan	miji1239	Miji	Miji	unmeasured-clade
-saja1241	Sajau-Latti	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
+saja1241	Sajau-Latti	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
 saka1283	Sakachep-Chorei	Sino-Tibetan	kuki1246	Kuki-Chin	Kuki-Chin	divergence
 saka1287	Sakata	Atlantic-Congo	cent2260	Central-Western Bantu	Central-Western Bantu	divergence
 saka1289	Wanohe	Austronesian	nort3195	North and Central Vanuatu	North and Central Vanuatu	divergence
@@ -5848,9 +5848,9 @@ sapo1251	Sapo	Kru	krua1234	Kru	Kru	divergence
 sapo1253	Saposa	Austronesian	neha1246	North Bougainville Oceanic	North Bougainville Oceanic	divergence
 sapo1254	Saponi	Lakes Plain	sapo1254	Saponi	Saponi	single-language
 sapu1248	Sapuan	Austroasiatic	bahn1264	Bahnaric	Bahnaric	divergence
-sara1319	Sara Kaba	Central Sudanic	sara1341	Bongo-Bagirmi	Sara-Bongo-Bagirmi	divergence
-sara1321	Sara Kaba Náà	Central Sudanic	sara1341	Bongo-Bagirmi	Sara-Bongo-Bagirmi	divergence
-sara1322	Sara Kaba Deme	Central Sudanic	sara1341	Bongo-Bagirmi	Sara-Bongo-Bagirmi	divergence
+sara1319	Sara Kaba	Central Sudanic	sara1341	Sara-Bongo-Bagirmi	Sara-Bongo-Bagirmi	divergence
+sara1321	Sara Kaba Náà	Central Sudanic	sara1341	Sara-Bongo-Bagirmi	Sara-Bongo-Bagirmi	divergence
+sara1322	Sara Kaba Deme	Central Sudanic	sara1341	Sara-Bongo-Bagirmi	Sara-Bongo-Bagirmi	divergence
 sara1323	Sarasira	Austronesian	mark1257	Markham	Markham	divergence
 sara1326	Sarangani Blaan	Austronesian	bili1253	Bilic	Bilic	divergence
 sara1327	Sarangani Manobo	Austronesian	grea1284	Greater Central Philippine	Greater Central Philippine	divergence
@@ -5858,7 +5858,7 @@ sara1329	Sara Bakati'	Austronesian	land1261	Land Dayak	Land Dayak	divergence
 sara1331	Saraveca	Arawakan	cent2413	Central-Eastern Maipuran	Central-Eastern Maipuran	divergence
 sara1340	Saramaccan	Indo-European	germ1287	Germanic	Germanic	divergence
 sari1246	Sarikoli	Indo-European	iran1269	Iranian	Iranian	divergence
-sarr1246	Sar	Central Sudanic	sara1341	Bongo-Bagirmi	Sara-Bongo-Bagirmi	divergence
+sarr1246	Sar	Central Sudanic	sara1341	Sara-Bongo-Bagirmi	Sara-Bongo-Bagirmi	divergence
 sarr1247	Sar (Indonesia)	Timor-Alor-Pantar	west2994	West Alor-Straits-Pantar	West Alor-Straits-Pantar	divergence
 sars1236	Sarsi	Athabaskan-Eyak-Tlingit	atha1247	Athabaskan	Athabaskan	divergence
 sart1249	Sartang	Sino-Tibetan	khob1235	Kho-Bwa	Kho-Bwa	divergence
@@ -5897,21 +5897,21 @@ sder1236	Derong-nJol Tibetan	Sino-Tibetan	bodi1256	Bodic	Bodic	divergence
 seba1247	Seba	Atlantic-Congo	east2731	East Bantu	East Bantu	divergence
 seba1251	Sebat Bet Gurage	Afro-Asiatic	semi1276	Semitic	Semitic	divergence
 sebe1242	Seberuang	Austronesian	mala1554	Malayo-Chamic	Malayo-Chamic	divergence
-sebo1238	Sebop	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
+sebo1238	Sebop	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
 sech1236	Sechuran	Sechuran	sech1236	Sechuran	Sechuran	isolate
 sech1246	Sechelt	Salishan	cent2129	Central Salish	Central Salish	divergence
 seco1241	Secoya	Tucanoan	tuca1253	Tucanoan	Tucanoan	divergence
 seda1262	Sedang	Austroasiatic	bahn1264	Bahnaric	Bahnaric	divergence
 sedo1237	Sedoa	Austronesian	cele1242	Celebic	Celebic	divergence
 seek1238	Seeku	Mande	west2780	Western Mande	Western Mande	divergence
-sega1243	Segai	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
+sega1243	Segai	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
 sege1235	Seget	West Bird's Head	west1493	West Bird's Head	West Bird's Head	divergence
 sege1246	Segeju	Atlantic-Congo	east2731	East Bantu	East Bantu	divergence
 sehw1238	Sehwi	Atlantic-Congo	cent2262	Central Tano	Central Tano	divergence
 seim1238	Seimat	Austronesian	admi1239	Admiralty Islands	Admiralty Islands	divergence
 seit1239	Seit-Kaitetu	Austronesian	nunu1252	Nunusaku	Nunusaku	divergence
 seka1247	Sekar	Austronesian	tani1260	Tanimbar-Bomberai	Tanimbar-Bomberai	divergence
-seka1248	Sekapan	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
+seka1248	Sekapan	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
 seka1250	Sekani	Athabaskan-Eyak-Tlingit	atha1247	Athabaskan	Athabaskan	divergence
 seke1240	Seke (Nepal)	Sino-Tibetan	bodi1256	Bodic	Bodic	divergence
 seke1241	Seke (Vanuatu)	Austronesian	nort3195	North and Central Vanuatu	North and Central Vanuatu	divergence
@@ -5925,11 +5925,11 @@ sele1249	Selee	Atlantic-Congo	lele1262	Lelemic	Lelemic	divergence
 sele1250	Selepet	Nuclear Trans New Guinea	west2795	Western Huon	Western Huon	divergence
 selk1253	Selkup	Uralic	samo1298	Samoyedic	Samoyedic	divergence
 selu1242	Seluwasan	Austronesian	timo1265	Timor-Babar	Timor-Babar	divergence
-selu1243	Selungai Murut	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
+selu1243	Selungai Murut	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
 sema1265	Semaq Beri	Austroasiatic	asli1243	Aslian	Aslian	divergence
 sema1266	Semai	Austroasiatic	asli1243	Aslian	Aslian	divergence
 sema1269	Onya Darat	Austronesian	land1261	Land Dayak	Land Dayak	divergence
-semb1240	Sembakung Murut	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
+semb1240	Sembakung Murut	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
 seme1247	Semelai	Austroasiatic	asli1243	Aslian	Aslian	divergence
 semi1264	Semimi	Mairasic	mair1253	Mairasic	Mairasic	divergence
 semn1249	Semnani-Biyabuneki	Indo-European	iran1269	Iranian	Iranian	divergence
@@ -5960,7 +5960,7 @@ seri1257	Seri	Seri	seri1257	Seri	Seri	isolate
 serr1255	Serrano	Uto-Aztecan	nort2953	Northern Uto-Aztecan	Northern Uto-Aztecan	divergence
 seru1244	Serui-Laut	Austronesian	yape1249	Yapen	Yapen	divergence
 seru1245	Serua	Austronesian	timo1265	Timor-Babar	Timor-Babar	divergence
-seru1246	Serudung Murut	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
+seru1246	Serudung Murut	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
 sese1246	Seselwa Creole French	Indo-European	ital1284	Italic	Italic	divergence
 seta1245	Seta	Nuclear Torricelli	west2580	West Wapei	West Wapei	divergence
 seta1246	Setaman	Nuclear Trans New Guinea	okkk1242	Ok	Ok	divergence
@@ -6030,13 +6030,13 @@ shwe1236	Shwe Palaung	Austroasiatic	pala1352	Palaungic	Palaungic	divergence
 sial1240	Sialum	Nuclear Trans New Guinea	kala1410	Kalasa	Kalasa	divergence
 siam1242	Siamou	Siamou	siam1242	Siamou	Siamou	isolate
 sian1254	Siang	Austronesian	basa1291	Basap-Greater Barito	Basap-Greater Barito	divergence
-sian1255	Sihan	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
+sian1255	Sihan	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
 sian1257	Siane	Nuclear Trans New Guinea	sian1257	Siane	Siane	single-language
 siar1238	Siar-Lak	Austronesian	siar1238	Siar-Lak	Siar-Lak	single-language
 siaw1243	Siawi	Amto-Musan	amto1249	Amto-Musan	Amto-Musan	divergence
 sibe1248	Sibe (Nasioi)	South Bougainville	nasi1247	Nasioiic	Nasioiic	unmeasured-clade
 sibe1250	Siberian Tatar	Turkic	turk1311	Turkic	Turkic	divergence
-sibu1258	Sibu Melanau	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
+sibu1258	Sibu Melanau	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
 sich1238	Sichuan Yi	Sino-Tibetan	lolo1265	Lolo-Burmese	Lolo-Burmese	divergence
 sici1248	Sicilian	Indo-European	ital1284	Italic	Italic	divergence
 sici1249	Sìcìté Sénoufo	Atlantic-Congo	senu1239	Senufo	Senufo	divergence
@@ -6083,7 +6083,7 @@ sini1242	Sininkere	Mande	west2780	Western Mande	Western Mande	divergence
 sini1243	Sinicahua Mixtec	Otomanguean	mixt1427	Mixtec	Mixtec	divergence
 sins1241	Kou	Nuclear Trans New Guinea	evap1240	Evapia	Evapia	divergence
 sint1235	Sinte-Manus Romani	Indo-European	indo1321	Indo-Aryan	Indo-Aryan	divergence
-siny1243	Sinyar	Central Sudanic	sara1341	Bongo-Bagirmi	Sara-Bongo-Bagirmi	divergence
+siny1243	Sinyar	Central Sudanic	sara1341	Sara-Bongo-Bagirmi	Sara-Bongo-Bagirmi	divergence
 sion1247	Siona-Tetete	Tucanoan	tuca1253	Tucanoan	Tucanoan	divergence
 sioo1240	Sio	Austronesian	sioo1240	Sio	Sio	single-language
 sipa1247	Sipacapense	Mayan	maya1287	Mayan	Mayan	divergence
@@ -6263,7 +6263,7 @@ sout3129	Southern Lolopo	Sino-Tibetan	lolo1265	Lolo-Burmese	Lolo-Burmese	diverge
 sout3210	Southern Lalo	Sino-Tibetan	lolo1265	Lolo-Burmese	Lolo-Burmese	divergence
 sout3226	Southern Khanty	Uralic	khan1279	Khanty	Khantyic	unmeasured-clade
 sout3236	Southern Gumuz	Gumuz	gumu1250	Gumuz	Gumuz	unmeasured-family
-sout3241	Southern Tidung	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
+sout3241	Southern Tidung	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
 sout3250	Southern Pinghua	Sino-Tibetan	sini1245	Sinitic	Sinitic	divergence
 sout3251	Southern Katang	Austroasiatic	katu1271	Katuic	Katuic	divergence
 sout3253	Southern Mansi	Uralic	mans1269	Mansi	Mansic	unmeasured-clade
@@ -6307,7 +6307,7 @@ sude1239	Sudest	Austronesian	sude1239	Sudest	Sudest	single-language
 suen1241	Suena	Nuclear Trans New Guinea	bina1279	Binanderean	Binanderean	divergence
 suga1248	Nizaa	Atlantic-Congo	mamb1309	Mambiloid	Mambiloid	divergence
 suga1249	Suganga	Nuclear Trans New Guinea	okkk1242	Ok	Ok	divergence
-sugu1243	Sugut Dusun	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
+sugu1243	Sugut Dusun	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
 suii1243	Sui	Tai-Kadai	kamt1241	Kam-Tai	Kam-Tai	divergence
 suki1245	Suki	Suki-Gogodala	suki1245	Suki	Suki	single-language
 suku1259	Suku	Atlantic-Congo	cent2260	Central-Western Bantu	Central-Western Bantu	divergence
@@ -6382,7 +6382,7 @@ tafi1243	Tafi	Atlantic-Congo	avat1243	Avatime-Nyangbo	Avatime-Nyangbo	divergence
 taga1268	Tagakaulu Kalagan	Austronesian	grea1284	Greater Central Philippine	Greater Central Philippine	divergence
 taga1270	Tagalog	Austronesian	grea1284	Greater Central Philippine	Greater Central Philippine	divergence
 taga1272	Tagabawa	Austronesian	grea1284	Greater Central Philippine	Greater Central Philippine	divergence
-taga1273	Tagal Murut	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
+taga1273	Tagal Murut	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
 taga1278	Ouargli	Afro-Asiatic	berb1260	Berber	Berber	divergence
 taga1279	Tagalaka	Pama-Nyungan	cent2337	Central Alaya-Athima	Central Alaya-Athima	unmeasured-clade
 tagb1255	Tagbu	Atlantic-Congo	sere1262	Sereic	Sereic	divergence
@@ -6455,7 +6455,7 @@ tamk1242	Tamki	Afro-Asiatic	east2710	East Chadic B.3	East Chadic B.3	divergence
 tamn1235	Tamnim Citak	Nuclear Trans New Guinea	asma1258	Asmat-Kamoro	Asmat-Kamoro	divergence
 tamp1251	Tampuan	Austroasiatic	bahn1264	Bahnaric	Bahnaric	divergence
 tamp1252	Tampulma	Atlantic-Congo	east2740	East-West Grusi	East-West Grusi	divergence
-tamp1254	Tampias Lobu	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
+tamp1254	Tampias Lobu	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
 tana1281	Tanapag	Austronesian	west2844	Western Micronesian	Western Micronesian	divergence
 tana1288	Tanahmerah	Tanahmerah	tana1288	Tanahmerah	Tanahmerah	isolate
 tana1289	Dena'ina	Athabaskan-Eyak-Tlingit	atha1247	Athabaskan	Athabaskan	divergence
@@ -6497,7 +6497,7 @@ tasa1240	Tasawaq	Songhay	song1307	Songhay	Songhay	divergence
 tase1235	Pangwa Naga	Sino-Tibetan	brah1260	Brahmaputran	Brahmaputran	divergence
 tasm1246	Tasmate	Austronesian	nort3195	North and Central Vanuatu	North and Central Vanuatu	divergence
 tata1255	Tatar	Turkic	turk1311	Turkic	Turkic	divergence
-tata1257	Tatana	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
+tata1257	Tatana	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
 tata1258	Tataltepec Chatino	Otomanguean	chat1268	Chatino	Chatino	divergence
 tatu1247	Tatuyo	Tucanoan	tuca1253	Tucanoan	Tucanoan	divergence
 taua1242	Tauade	Tauade	taua1242	Tauade	Tauade	isolate
@@ -6672,7 +6672,7 @@ timn1235	Timne	Atlantic-Congo	temn1245	Northern Mel	Northern Mel	divergence
 timo1237	Timote-Cuica	Timote-Cuica	timo1237	Timote-Cuica	Timote-Cuica	isolate
 timo1258	Timor Pidgin	Indo-European	ital1284	Italic	Italic	divergence
 timu1245	Timucua	Timucua	timu1245	Timucua	Timucua	isolate
-timu1262	Timugon Murut	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
+timu1262	Timugon Murut	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
 tina1246	Tinani	Sino-Tibetan	bodi1256	Bodic	Bodic	divergence
 tina1248	Tinà Sambal	Austronesian	cent2080	Central Luzon	Central Luzon	divergence
 tind1238	Tindi	Nakh-Daghestanian	avar1255	Avar-Andic-Tsezic	Avar-Andic-Tsezic	divergence
@@ -6708,7 +6708,7 @@ toba1280	Tobanga	Afro-Asiatic	east2645	East Chadic A.2	East Chadic A.2	divergenc
 toba1282	Tobagonian Creole English	Indo-European	germ1287	Germanic	Germanic	divergence
 tobe1252	Tobelo	North Halmahera	nort2924	Northern North Halmahera	Northern North Halmahera	divergence
 tobi1238	Tobian	Austronesian	west2844	Western Micronesian	Western Micronesian	divergence
-tobi1239	Tobilung	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
+tobi1239	Tobilung	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
 toca1235	Tocantins Asurini	Tupian	awet1245	Aweti-Guarani	Aweti-Guarani	divergence
 toch1257	Tocho	Narrow Talodi	narr1279	Talodi	Narrow Talodi	divergence
 toda1252	Toda	Dravidian	drav1251	Dravidian	Dravidian	divergence
@@ -6732,7 +6732,7 @@ tolo1259	Tolowa-Chetco	Athabaskan-Eyak-Tlingit	atha1247	Athabaskan	Athabaskan	di
 toma1245	Toma	Mande	west2780	Western Mande	Western Mande	divergence
 toma1248	Tomadino	Austronesian	cele1242	Celebic	Celebic	divergence
 tomb1243	Tombulu	Austronesian	sang1348	Sangiric-Minahasan	Sangiric-Minahasan	divergence
-tomb1244	Tombonuo	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
+tomb1244	Tombonuo	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
 tomb1245	Tombelala	Austronesian	cele1242	Celebic	Celebic	divergence
 tomb1246	Tombidi	Atlantic-Congo	bant1295	North-West Bantu	Bantu A-B10-B20-B30	divergence
 tomi1243	Tomini	Austronesian	cele1242	Celebic	Celebic	divergence
@@ -6786,7 +6786,7 @@ treg1243	Tregami	Indo-European	nuri1243	Nuristani	Nuristani	divergence
 trie1243	Trieng	Austroasiatic	bahn1264	Bahnaric	Bahnaric	divergence
 trim1239	Trimuris	Greater Kwerba	kwer1240	Kwerba-Samarokena	Kwerba-Samarokena	divergence
 trin1271	Tringgus-Sembaan Bidayuh	Austronesian	land1261	Land Dayak	Land Dayak	divergence
-trin1273	Tring	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
+trin1273	Tring	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
 trin1274	Trinitario-Javeriano-Loretano	Arawakan	boli1260	Bolivia-Paraná	Bolivian Arawakan	divergence
 trin1276	Trinidadian Creole English	Indo-European	germ1287	Germanic	Germanic	divergence
 trio1238	Trió	Cariban	cari1283	Cariban	Cariban	divergence
@@ -6874,7 +6874,7 @@ turu1249	Turung	Tai-Kadai	kamt1241	Kam-Tai	Kam-Tai	divergence
 turu1250	Turumsa	Doso-Turumsa	doso1238	Doso-Turumsa	Doso-Turumsa	unmeasured-family
 tusc1257	Tuscarora	Iroquoian	nort2947	Northern Iroquoian	Northern Iroquoian	divergence
 tute1247	Tutelo	Siouan	ohio1234	Ohio Valley Siouan	Ohio Valley Siouan	divergence
-tuto1241	Tutong	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
+tuto1241	Tutong	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
 tuts1235	Tutsa Naga	Sino-Tibetan	brah1260	Brahmaputran	Brahmaputran	divergence
 tutu1241	Tutuba	Austronesian	nort3195	North and Central Vanuatu	North and Central Vanuatu	divergence
 tutu1242	Tututni	Athabaskan-Eyak-Tlingit	atha1247	Athabaskan	Athabaskan	divergence
@@ -6921,7 +6921,7 @@ uisa1238	Uisai	South Bougainville	buin1247	Buinic	Buinic	divergence
 ujir1237	Ujir	Austronesian	aruu1241	Aru	Aru	divergence
 ukaa1243	Ukaan	Atlantic-Congo	ukaa1243	Ukaan	Ukaan	single-language
 ukhw1241	Ukhwejo	Atlantic-Congo	bant1295	North-West Bantu	Bantu A-B10-B20-B30	divergence
-ukit1237	Ukit	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
+ukit1237	Ukit	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
 ukpe1247	Ukpe-Bayobiri	Atlantic-Congo	bend1256	Bendic	Bendic	divergence
 ukpe1249	Ukpet-Ehom	Atlantic-Congo	uppe1418	Upper Cross	Upper Cross	divergence
 ukra1253	Ukrainian	Indo-European	balt1263	Balto-Slavic	Balto-Slavic	divergence
@@ -6938,8 +6938,8 @@ uluk1257	Ulukwumi	Atlantic-Congo	defo1239	Defoid	Defoid	divergence
 ulum1237	Ulumanda'	Austronesian	sout2923	Greater South Sulawesi	Greater South Sulawesi	divergence
 ulwa1239	Ulwa	Misumalpan	sumu1234	Sumuic	Sumuic	divergence
 umaa1242	Uma	Austronesian	cele1242	Celebic	Celebic	divergence
-umal1238	Uma' Lung	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
-umal1239	Uma' Lasan	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
+umal1238	Uma' Lung	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
+umal1239	Uma' Lasan	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
 uman1240	Umanakaina	Dagan	uman1240	Umanakaina	Umanakaina	single-language
 umat1237	Umatilla	Sahaptian	saha1239	Sahaptian	Sahaptian	divergence
 umbi1243	Umbindhamu	Pama-Nyungan	nort3256	Northeastern Pama	Northeastern Pama	divergence
@@ -6971,7 +6971,7 @@ uppe1395	Upper Sorbian	Indo-European	balt1263	Balto-Slavic	Balto-Slavic	divergen
 uppe1400	Central East Middle German	Indo-European	germ1287	Germanic	Germanic	divergence
 uppe1406	Upper Ta'oih	Austroasiatic	katu1271	Katuic	Katuic	divergence
 uppe1415	Upper Riverland	Pama-Nyungan	lowe1401	Lower Murray	Lower Murray	unmeasured-clade
-uppe1427	Upper Kinabatangan	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
+uppe1427	Upper Kinabatangan	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
 uppe1430	Upper Grand Valley Dani	Nuclear Trans New Guinea	dani1287	Dani	Dani	divergence
 uppe1436	Upper Umpqua	Athabaskan-Eyak-Tlingit	atha1247	Athabaskan	Athabaskan	divergence
 uppe1437	Upper Tanana	Athabaskan-Eyak-Tlingit	atha1247	Athabaskan	Athabaskan	divergence
@@ -7029,7 +7029,7 @@ vagh1249	Vaghua	Austronesian	choi1242	Choiseul	Choiseul	divergence
 vagl1239	Vagla	Atlantic-Congo	east2740	East-West Grusi	East-West Grusi	divergence
 vaii1241	Vai	Mande	west2780	Western Mande	Western Mande	divergence
 vaip1239	Vaiphei	Sino-Tibetan	kuki1246	Kuki-Chin	Kuki-Chin	divergence
-vale1250	Vale	Central Sudanic	sara1341	Bongo-Bagirmi	Sara-Bongo-Bagirmi	divergence
+vale1250	Vale	Central Sudanic	sara1341	Sara-Bongo-Bagirmi	Sara-Bongo-Bagirmi	divergence
 vall1252	Valley Maidu	Maiduan	maid1262	Maiduan	Maiduan	divergence
 vall1253	Valle Nacional Chinantec	Otomanguean	chin1484	Chinantecan	Chinantecan	divergence
 valm1241	Walman	Nuclear Torricelli	west2788	West Palai	West Palai	divergence
@@ -7103,7 +7103,7 @@ wagd1238	Wagdi	Indo-European	indo1321	Indo-Aryan	Indo-Aryan	divergence
 wage1238	Wageman	Wageman	wage1238	Wageman	Wageman	isolate
 wagi1249	Wagi (Papua New Guinea)	Nuclear Trans New Guinea	mabu1247	Mabuso	Mabuso	divergence
 wagu1234	Wagu	Sepik	cent2425	Central-Eastern Sepik Hill	Central-Eastern Sepik Hill	divergence
-waha1238	Eastern Lowland Kenyah	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
+waha1238	Eastern Lowland Kenyah	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
 waig1243	Nuristani Kalasha	Indo-European	nuri1243	Nuristani	Nuristani	divergence
 waig1244	Ambel	Austronesian	raja1255	Raja Ampat-South Halmahera	Raja Ampat-South Halmahera	divergence
 wail1242	Ale	Austronesian	nort3195	North and Central Vanuatu	North and Central Vanuatu	divergence
@@ -7278,8 +7278,8 @@ west2555	Western Bukidnon Manobo	Austronesian	grea1284	Greater Central Philippin
 west2557	Western Subanon	Austronesian	grea1284	Greater Central Philippine	Greater Central Philippine	divergence
 west2559	Western Tawbuid	Austronesian	grea1284	Greater Central Philippine	Greater Central Philippine	divergence
 west2560	West Coast Bajau	Austronesian	basa1291	Basap-Greater Barito	Basap-Greater Barito	divergence
-west2563	Western Penan	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
-west2564	West Berawan	Austronesian	nort3253	North Borneo	North Borneo Malayo-Polynesian	divergence
+west2563	Western Penan	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
+west2564	West Berawan	Austronesian	nort3253	North Borneo Malayo-Polynesian	North Borneo Malayo-Polynesian	divergence
 west2594	Western Dani	Nuclear Trans New Guinea	dani1287	Dani	Dani	divergence
 west2599	West Kewa	Nuclear Trans New Guinea	enga1254	Enga-Kewa-Huli	Enga-Kewa-Huli	divergence
 west2600	West Makian	North Halmahera	west2600	West Makian	West Makian	single-language
@@ -7600,7 +7600,7 @@ yuki1243	Northern Yukian	Yuki-Wappo	yuki1242	Yuki-Wappo	Yuki-Wappo	divergence
 yukp1241	Yukpa	Cariban	cari1283	Cariban	Cariban	divergence
 yuku1243	Yukuben	Atlantic-Congo	yuku1244	Yukubenic	Yukubenic	divergence
 yulp1239	Yulparija	Pama-Nyungan	wati1241	Wati	Wati	divergence
-yulu1243	Yulu-Binga	Central Sudanic	sara1341	Bongo-Bagirmi	Sara-Bongo-Bagirmi	divergence
+yulu1243	Yulu-Binga	Central Sudanic	sara1341	Sara-Bongo-Bagirmi	Sara-Bongo-Bagirmi	divergence
 yupu1235	Yuputhimri	Pama-Nyungan	alba1272	Albatross Bay	Albatross Bay	unmeasured-clade
 yuqu1240	Yuqui	Tupian	awet1245	Aweti-Guarani	Aweti-Guarani	divergence
 yura1255	Yuracaré	Yuracaré	yura1255	Yuracaré	Yuracaré	isolate

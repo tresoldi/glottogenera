@@ -84,8 +84,8 @@ choice and the learned correspondences are held fixed there, and varied
 separately in `research/divergence/input_sensitivity.py`; the classification is
 taken as given.
 
-**Why PMI alignment on ASJP.** Against expert cognate judgements from twelve
-datasets and crown ages from 18 dated phylogenies, PMI alignment tracked
+**Why PMI alignment on ASJP.** Against expert cognate judgements from sixteen
+datasets and crown ages from 16 dated phylogenies, PMI alignment tracked
 lexical change better than LDND and every seqsim distance, on ASJP and on GLED
 alike; ASJP was preferred for its coverage. See
 [`../research/divergence/`](../research/divergence/).

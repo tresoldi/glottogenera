@@ -87,7 +87,7 @@ DELTA_GRID = tree.DELTA_GRID
 # Half-width of the window over which the calibration objective is averaged, so
 # that delta does not hinge on the crossing of single nodes.
 SMOOTHING = tree.SMOOTHING
-CURVE_STEP = 5  # the curve in params.json keeps every 5th grid value
+CURVE_STEP = 1  # the curve in params.json keeps every grid value (the figure draws its steps)
 PERMUTATIONS = 20  # crown divergence shuffled across nodes: the null for the calibration
 YARDSTICK_FAMILY = "indo1319"  # reported separately: Dryer's reference family
 FAMILY_REPLICATES = 1000  # family resampling of the calibration
@@ -524,6 +524,7 @@ def run(data_dir: Path) -> int:
                 "margin_above",
                 "stability",
                 "stability_fixed_delta",
+                "unclassified_node",
             ]
         )
         for node, langs in sorted(members.items(), key=lambda kv: (-len(kv[1]), kv[0])):
@@ -544,6 +545,8 @@ def run(data_dir: Path) -> int:
                     round(top - delta, 4) if top != "" else "",
                     round(stability[node], 3),
                     round(stability_fixed[node], 3),
+                    # an "Unclassified" node collects languages not placed in a subgroup: a residual group
+                    int(glottolog.name(node).startswith("Unclassified")),
                 ]
             )
     node_path = data_dir / "nodes.tsv"

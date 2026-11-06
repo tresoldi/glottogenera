@@ -44,7 +44,7 @@ and GeoJSON (see [`web/`](web/)).
   the data, scored with ASymCat) tracks expert cognate judgements and dated
   phylogenies better than LDND, and most genera survive a change of distance
   or lexical source (ASJP or GLED).
-- 32 genera carry a curated name where Glottolog's node name is a
+- 30 genera carry a curated name where Glottolog's node name is a
   bookkeeping label, a coinage or misleading
   ([`docs/genus-names.md`](docs/genus-names.md)).
 

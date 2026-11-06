@@ -91,14 +91,26 @@ def colours(cuts, members):
 def place_label(ax, text, x, y, placed):
     """
     Writes ``text`` at (x, y), or moved up or down by a line or two when it
-    would overlap a label already ``placed``; dropped when no place is free.
+    would overlap a label already ``placed``, and sideways to stay inside the
+    panel; dropped when no place is free.
     """
+    renderer = ax.figure.canvas.get_renderer()
+    frame = ax.get_window_extent(renderer)
     for shift in (0, -1, 1, -2, 2):
         t = ax.annotate(text, (x, y), xytext=(0, 9 * shift), textcoords="offset points", ha="center",
                         va="center", fontsize=6.5, color=INK, zorder=4,
                         path_effects=[withStroke(linewidth=2, foreground="white")])
-        renderer = ax.figure.canvas.get_renderer()
         t.update_positions(renderer)
+        extent = t.get_window_extent(renderer)
+        # keep the label inside the panel, with a small margin (points to pixels)
+        margin = 3 * ax.figure.dpi / 72
+        dx = max(0, frame.x0 + margin - extent.x0) - max(0, extent.x1 - (frame.x1 - margin))
+        if dx:
+            t.remove()
+            t = ax.annotate(text, (x, y), xytext=(dx * 72 / ax.figure.dpi, 9 * shift), textcoords="offset points",
+                            ha="center", va="center", fontsize=6.5, color=INK, zorder=4,
+                            path_effects=[withStroke(linewidth=2, foreground="white")])
+            t.update_positions(renderer)
         extent = t.get_window_extent(renderer).expanded(1.05, 1.1)
         if not any(extent.overlaps(other) for other in placed):
             placed.append(extent)

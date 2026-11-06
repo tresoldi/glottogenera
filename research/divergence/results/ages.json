@@ -1,0 +1,9572 @@
+[
+{
+"repo": "atkinson2006",
+"node": "maya1287",
+"name": "Mayan",
+"family": "Mayan",
+"age_years": 6554.152,
+"leaves": 30,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "atkinson2006",
+"node": "huas1241",
+"name": "Huastecan Mayan",
+"family": "Mayan",
+"age_years": 1300.8190000000006,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "atkinson2006",
+"node": "core1254",
+"name": "Core Mayan",
+"family": "Mayan",
+"age_years": 4171.553,
+"leaves": 28,
+"branches": 3,
+"monophyletic": true
+},
+{
+"repo": "atkinson2006",
+"node": "west2865",
+"name": "Western Mayan",
+"family": "Mayan",
+"age_years": 4171.553,
+"leaves": 10,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "atkinson2006",
+"node": "kanj1262",
+"name": "Kanjobalan",
+"family": "Mayan",
+"age_years": 1990.0859999999998,
+"leaves": 4,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "atkinson2006",
+"node": "kanj1263",
+"name": "Kanjobal-Jacaltec",
+"family": "Mayan",
+"age_years": 1261.425,
+"leaves": 3,
+"branches": 3,
+"monophyletic": true
+},
+{
+"repo": "atkinson2006",
+"node": "quic1274",
+"name": "Quichean-Mamean",
+"family": "Mayan",
+"age_years": 2560.7560000000003,
+"leaves": 14,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "atkinson2006",
+"node": "grea1276",
+"name": "Greater Quichean",
+"family": "Mayan",
+"age_years": 1888.6510000000003,
+"leaves": 10,
+"branches": 4,
+"monophyletic": true
+},
+{
+"repo": "atkinson2006",
+"node": "core1251",
+"name": "Core Quichean",
+"family": "Mayan",
+"age_years": 985.2290000000004,
+"leaves": 6,
+"branches": 4,
+"monophyletic": true
+},
+{
+"repo": "atkinson2006",
+"node": "quic1275",
+"name": "Quiche-Achi",
+"family": "Mayan",
+"age_years": 985.2290000000004,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "atkinson2006",
+"node": "cakc1244",
+"name": "Cakchiquel-Tzutujil",
+"family": "Mayan",
+"age_years": 656.9250000000002,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "atkinson2006",
+"node": "poco1241",
+"name": "Poqom",
+"family": "Mayan",
+"age_years": 699.1469999999999,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "atkinson2006",
+"node": "grea1277",
+"name": "Greater Mamean",
+"family": "Mayan",
+"age_years": 2242.926000000001,
+"leaves": 4,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "atkinson2006",
+"node": "ixil1250",
+"name": "Ixilan",
+"family": "Mayan",
+"age_years": 1664.5650000000005,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "atkinson2006",
+"node": "mame1240",
+"name": "Mamean",
+"family": "Mayan",
+"age_years": 1228.3840000000002,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "atkinson2006",
+"node": "chol1286",
+"name": "Cholan-Tzeltalan",
+"family": "Mayan",
+"age_years": 3123.5460000000003,
+"leaves": 6,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "atkinson2006",
+"node": "chol1287",
+"name": "Cholan",
+"family": "Mayan",
+"age_years": 2504.72,
+"leaves": 4,
+"branches": 3,
+"monophyletic": false
+},
+{
+"repo": "atkinson2006",
+"node": "chol1281",
+"name": "Chol-Chontal",
+"family": "Mayan",
+"age_years": 1615.9309999999998,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "atkinson2006",
+"node": "yuca1252",
+"name": "Yucatecan",
+"family": "Mayan",
+"age_years": 1362.6229999999991,
+"leaves": 4,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "atkinson2006",
+"node": "nucl1844",
+"name": "Nuclear Yucatecan",
+"family": "Mayan",
+"age_years": 1362.6229999999991,
+"leaves": 3,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "atkinson2006",
+"node": "yuca1253",
+"name": "Yucatec-Lacandon",
+"family": "Mayan",
+"age_years": 1362.6229999999991,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "atkinson2006",
+"node": "tzel1253",
+"name": "Tzeltalan",
+"family": "Mayan",
+"age_years": 974.5439999999999,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "birchall_et_al2016",
+"node": "chap1271",
+"name": "Chapacuran",
+"family": "Chapacuran",
+"age_years": 998.4147457347135,
+"leaves": 10,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "birchall_et_al2016",
+"node": "more1263",
+"name": "Moreic-Waric",
+"family": "Chapacuran",
+"age_years": 683.0470436879245,
+"leaves": 8,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "birchall_et_al2016",
+"node": "more1264",
+"name": "Moreic",
+"family": "Chapacuran",
+"age_years": 486.41024210846683,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "birchall_et_al2016",
+"node": "nucl1662",
+"name": "Kujubim-More",
+"family": "Chapacuran",
+"age_years": 258.01530265870315,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "birchall_et_al2016",
+"node": "wari1269",
+"name": "Waric",
+"family": "Chapacuran",
+"age_years": 534.2127582597212,
+"leaves": 5,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "birchall_et_al2016",
+"node": "urup1244",
+"name": "Urupa-Yaru",
+"family": "Chapacuran",
+"age_years": 274.3342836455703,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "birchall_et_al2016",
+"node": "wanh1234",
+"name": "Wanham-Wari-Oro Win",
+"family": "Chapacuran",
+"age_years": 465.5290759749905,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "birchall_et_al2016",
+"node": "wari1267",
+"name": "Wari-Oro Win",
+"family": "Chapacuran",
+"age_years": 286.7558371585035,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "birchall_et_al2016",
+"node": "tapa1264",
+"name": "Tapakuric",
+"family": "Chapacuran",
+"age_years": 455.6127994069391,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2012",
+"node": "indo1319",
+"name": "Indo-European",
+"family": "Indo-European",
+"age_years": 8466.22317443329,
+"leaves": 103,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2012",
+"node": "clas1257",
+"name": "Classical Indo-European",
+"family": "Indo-European",
+"age_years": 6831.952917326689,
+"leaves": 100,
+"branches": 9,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2012",
+"node": "ital1284",
+"name": "Italic",
+"family": "Indo-European",
+"age_years": 3541.8918122505893,
+"leaves": 18,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2012",
+"node": "impe1234",
+"name": "Imperial Latin",
+"family": "Indo-European",
+"age_years": 2352.90391079449,
+"leaves": 16,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2012",
+"node": "roma1334",
+"name": "Romance",
+"family": "Indo-European",
+"age_years": 1989.3912336364292,
+"leaves": 15,
+"branches": 3,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2012",
+"node": "ital1285",
+"name": "Italo-Western Romance",
+"family": "Indo-European",
+"age_years": 1566.8427528797401,
+"leaves": 10,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2012",
+"node": "ital1287",
+"name": "Italian Romance",
+"family": "Indo-European",
+"age_years": 903.61848136554,
+"leaves": 3,
+"branches": 3,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2012",
+"node": "shif1234",
+"name": "Shifted Western Romance",
+"family": "Indo-European",
+"age_years": 1566.8427528797401,
+"leaves": 7,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2012",
+"node": "gall1280",
+"name": "Gallo-Rhaetian",
+"family": "Indo-European",
+"age_years": 1566.8427528797401,
+"leaves": 3,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2012",
+"node": "sard1257",
+"name": "Southern Romance",
+"family": "Indo-European",
+"age_years": 546.7282027578894,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2012",
+"node": "oila1234",
+"name": "Oil",
+"family": "Indo-European",
+"age_years": 273.7709631756243,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2012",
+"node": "sout3183",
+"name": "Southwestern Shifted Romance",
+"family": "Indo-European",
+"age_years": 1328.595944637489,
+"leaves": 4,
+"branches": 3,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2012",
+"node": "west2838",
+"name": "West Ibero-Romance",
+"family": "Indo-European",
+"age_years": 472.97657012458967,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2012",
+"node": "east2714",
+"name": "Eastern Romance",
+"family": "Indo-European",
+"age_years": 802.8560149208888,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2012",
+"node": "sabe1249",
+"name": "Sabellic",
+"family": "Indo-European",
+"age_years": 2631.199713282789,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2012",
+"node": "insu1254",
+"name": "Insular Celtic",
+"family": "Indo-European",
+"age_years": 2871.0792500159896,
+"leaves": 9,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2012",
+"node": "bryt1239",
+"name": "Brythonic",
+"family": "Indo-European",
+"age_years": 1547.8217191920394,
+"leaves": 6,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2012",
+"node": "midd1379",
+"name": "Middle-Modern Southwestern Brythonic",
+"family": "Indo-European",
+"age_years": 1029.1976771617901,
+"leaves": 4,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2012",
+"node": "goid1240",
+"name": "Goidelic",
+"family": "Indo-European",
+"age_years": 1844.2384912582893,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2012",
+"node": "mode1265",
+"name": "Modern Goidelic",
+"family": "Indo-European",
+"age_years": 916.3099730004906,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2012",
+"node": "germ1287",
+"name": "Germanic",
+"family": "Indo-European",
+"age_years": 2436.4377347127556,
+"leaves": 17,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2012",
+"node": "nort3152",
+"name": "Northwest Germanic",
+"family": "Indo-European",
+"age_years": 1896.3226173804906,
+"leaves": 16,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2012",
+"node": "west2793",
+"name": "West Germanic",
+"family": "Indo-European",
+"age_years": 1565.5686251689913,
+"leaves": 8,
+"branches": 3,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2012",
+"node": "high1289",
+"name": "High German",
+"family": "Indo-European",
+"age_years": 1226.1256785134728,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2012",
+"node": "high1286",
+"name": "Upper German",
+"family": "Indo-European",
+"age_years": 1226.1256785134728,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2012",
+"node": "mode1257",
+"name": "Modern Dutch",
+"family": "Indo-European",
+"age_years": 304.57498525748997,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2012",
+"node": "nort3175",
+"name": "North Sea Germanic",
+"family": "Indo-European",
+"age_years": 1565.5686251689913,
+"leaves": 3,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2012",
+"node": "angl1265",
+"name": "Anglic",
+"family": "Indo-European",
+"age_years": 1145.8083211619596,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2012",
+"node": "nort3160",
+"name": "North Germanic",
+"family": "Indo-European",
+"age_years": 1313.0962716352406,
+"leaves": 8,
+"branches": 3,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2012",
+"node": "west2805",
+"name": "West Scandinavian",
+"family": "Indo-European",
+"age_years": 1313.0962716352406,
+"leaves": 4,
+"branches": 3,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2012",
+"node": "icel1246",
+"name": "Icelandic-Faroese",
+"family": "Indo-European",
+"age_years": 354.78266388458906,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2012",
+"node": "balt1263",
+"name": "Balto-Slavic",
+"family": "Indo-European",
+"age_years": 3119.605331281189,
+"leaves": 17,
+"branches": 3,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2012",
+"node": "slav1255",
+"name": "Slavic",
+"family": "Indo-European",
+"age_years": 1611.9261964814395,
+"leaves": 14,
+"branches": 3,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2012",
+"node": "west2792",
+"name": "West Slavic",
+"family": "Indo-European",
+"age_years": 1211.2926204524101,
+"leaves": 6,
+"branches": 3,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2012",
+"node": "czec1260",
+"name": "Czech-Slovak",
+"family": "Indo-European",
+"age_years": 489.34775915924,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2012",
+"node": "sorb1249",
+"name": "Sorbian",
+"family": "Indo-European",
+"age_years": 90.47612975849006,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2012",
+"node": "east1426",
+"name": "East Slavic",
+"family": "Indo-European",
+"age_years": 955.4955712153496,
+"leaves": 3,
+"branches": 3,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2012",
+"node": "sout3147",
+"name": "South Slavic",
+"family": "Indo-European",
+"age_years": 1368.1233357376896,
+"leaves": 5,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2012",
+"node": "east2269",
+"name": "Eastern South Slavic",
+"family": "Indo-European",
+"age_years": 1266.463232409451,
+"leaves": 3,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2012",
+"node": "mace1252",
+"name": "Macedo-Bulgarian",
+"family": "Indo-European",
+"age_years": 526.8250607916107,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2012",
+"node": "west2804",
+"name": "Western South Slavic",
+"family": "Indo-European",
+"age_years": 1368.1233357376896,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2012",
+"node": "east2280",
+"name": "Eastern Baltic",
+"family": "Indo-European",
+"age_years": 1347.0921482103658,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2012",
+"node": "indo1320",
+"name": "Indo-Iranian",
+"family": "Indo-European",
+"age_years": 4884.193128078889,
+"leaves": 27,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2012",
+"node": "indo1321",
+"name": "Indo-Aryan",
+"family": "Indo-European",
+"age_years": 4446.361410035591,
+"leaves": 16,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2012",
+"node": "midd1375",
+"name": "Middle-Modern Indo-Aryan",
+"family": "Indo-European",
+"age_years": 3554.3451913383406,
+"leaves": 15,
+"branches": 3,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2012",
+"node": "cont1248",
+"name": "Continental Indo-Aryan",
+"family": "Indo-European",
+"age_years": 3554.3451913383406,
+"leaves": 13,
+"branches": 4,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2012",
+"node": "sind1278",
+"name": "Sindhi-Lahnda",
+"family": "Indo-European",
+"age_years": 1981.21008345892,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2012",
+"node": "midl1245",
+"name": "Midlands Indo-Aryan",
+"family": "Indo-European",
+"age_years": 3554.3451913383406,
+"leaves": 7,
+"branches": 3,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2012",
+"node": "shau1239",
+"name": "Shaurasenic",
+"family": "Indo-European",
+"age_years": 3554.3451913383406,
+"leaves": 4,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2012",
+"node": "indo1322",
+"name": "Indo-Aryan Central zone",
+"family": "Indo-European",
+"age_years": 3554.3451913383406,
+"leaves": 3,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2012",
+"node": "hind1270",
+"name": "Hindustani",
+"family": "Indo-European",
+"age_years": 786.0426159951785,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2012",
+"node": "guja1255",
+"name": "Gujarati-Rajasthani",
+"family": "Indo-European",
+"age_years": 1981.21008345892,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2012",
+"node": "oriy1254",
+"name": "Oriya-Gauda-Kamrupa",
+"family": "Indo-European",
+"age_years": 1144.01130939639,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2012",
+"node": "gaud1237",
+"name": "Gauda-Kamrupa",
+"family": "Indo-European",
+"age_years": 1144.01130939639,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2012",
+"node": "iran1269",
+"name": "Iranian",
+"family": "Indo-European",
+"age_years": 3824.8267201664394,
+"leaves": 11,
+"branches": 5,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2012",
+"node": "sout3157",
+"name": "Southwestern Iranian",
+"family": "Indo-European",
+"age_years": 3570.5790250308455,
+"leaves": 3,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2012",
+"node": "fars1255",
+"name": "Farsic",
+"family": "Indo-European",
+"age_years": 703.1700641238967,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2012",
+"node": "cent2317",
+"name": "Central Iranian PBS",
+"family": "Indo-European",
+"age_years": 3824.8267201664394,
+"leaves": 4,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2012",
+"node": "nort3177",
+"name": "Northwestern Iranian",
+"family": "Indo-European",
+"age_years": 1289.1544239937402,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2012",
+"node": "nucl1276",
+"name": "Nuclear Pashto",
+"family": "Indo-European",
+"age_years": 640.2689257470902,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2012",
+"node": "osse1243",
+"name": "Modern Ossetic",
+"family": "Indo-European",
+"age_years": 229.32552134287107,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2012",
+"node": "alba1267",
+"name": "Albanian",
+"family": "Indo-European",
+"age_years": 899.7030950921389,
+"leaves": 4,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2012",
+"node": "alba1268",
+"name": "Albanian-Tosk",
+"family": "Indo-European",
+"age_years": 899.7030950921389,
+"leaves": 3,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2012",
+"node": "sout3378",
+"name": "Southern Tosk",
+"family": "Indo-European",
+"age_years": 643.4926963997386,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2012",
+"node": "gree1276",
+"name": "Greek",
+"family": "Indo-European",
+"age_years": 3440.51614474519,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2012",
+"node": "cent2404",
+"name": "Central Greek",
+"family": "Indo-European",
+"age_years": 3440.51614474519,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2012",
+"node": "arme1241",
+"name": "Armenic",
+"family": "Indo-European",
+"age_years": 1985.65041797089,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2012",
+"node": "tokh1241",
+"name": "Tokharian",
+"family": "Indo-European",
+"age_years": 1784.3599138273403,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2012",
+"node": "anat1257",
+"name": "Anatolian",
+"family": "Indo-European",
+"age_years": 5298.19975887869,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2012",
+"node": "luvi1234",
+"name": "Luvic",
+"family": "Indo-European",
+"age_years": 3817.74427114244,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "pama1250",
+"name": "Pama-Nyungan",
+"family": "Pama-Nyungan",
+"age_years": 5670.748555000001,
+"leaves": 296,
+"branches": 20,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "aran1266",
+"name": "Arandic-Thura-Yura",
+"family": "Pama-Nyungan",
+"age_years": 4471.204426000001,
+"leaves": 13,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "thur1253",
+"name": "Thura-Yura",
+"family": "Pama-Nyungan",
+"age_years": 2971.602747000001,
+"leaves": 8,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "core1260",
+"name": "Core Thura Yura",
+"family": "Pama-Nyungan",
+"age_years": 2184.2141740000006,
+"leaves": 7,
+"branches": 3,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "nort2752",
+"name": "Northern Thura-Yura",
+"family": "Pama-Nyungan",
+"age_years": 1709.2071580000006,
+"leaves": 3,
+"branches": 3,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "sout2760",
+"name": "Southern Thura-Yura",
+"family": "Pama-Nyungan",
+"age_years": 1468.3998430000001,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "unun9967",
+"name": "Unclassified Core Thura-Yura",
+"family": "Pama-Nyungan",
+"age_years": 1738.1963030000006,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "aran1267",
+"name": "Arandic",
+"family": "Pama-Nyungan",
+"age_years": 1905.538723000001,
+"leaves": 5,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "aran1263",
+"name": "Upper Arrernte",
+"family": "Pama-Nyungan",
+"age_years": 1100.437914000001,
+"leaves": 4,
+"branches": 4,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "sout3134",
+"name": "South-West Pama-Nyungan",
+"family": "Pama-Nyungan",
+"age_years": 3239.8975200000014,
+"leaves": 34,
+"branches": 5,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "kart1249",
+"name": "Kartu-Nhanda",
+"family": "Pama-Nyungan",
+"age_years": 2297.489464000001,
+"leaves": 7,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "kart1250",
+"name": "Kartu",
+"family": "Pama-Nyungan",
+"age_years": 2297.489464000001,
+"leaves": 5,
+"branches": 3,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "mirn1243",
+"name": "Mirning",
+"family": "Pama-Nyungan",
+"age_years": 2855.9871660000013,
+"leaves": 4,
+"branches": 3,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "pilb1234",
+"name": "Pilbara",
+"family": "Pama-Nyungan",
+"age_years": 2469.3437380000014,
+"leaves": 15,
+"branches": 3,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "mant1266",
+"name": "Mantharta",
+"family": "Pama-Nyungan",
+"age_years": 631.5237960000022,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "wari1270",
+"name": "Wariyangga-Dhargari",
+"family": "Pama-Nyungan",
+"age_years": 631.5237960000022,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "kany1246",
+"name": "Kanyara",
+"family": "Pama-Nyungan",
+"age_years": 831.0667370000019,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "thal1243",
+"name": "Thalanyji-Burduna",
+"family": "Pama-Nyungan",
+"age_years": 554.093216000002,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "ngay1241",
+"name": "Ngayarda",
+"family": "Pama-Nyungan",
+"age_years": 1903.8100660000014,
+"leaves": 9,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "cent2248",
+"name": "Central Ngayarda",
+"family": "Pama-Nyungan",
+"age_years": 1903.8100660000014,
+"leaves": 7,
+"branches": 4,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "ngar1293",
+"name": "Ngarluma-Kariyarra",
+"family": "Pama-Nyungan",
+"age_years": 601.4654260000007,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "yind1249",
+"name": "Yindjibarndi-Kurrama",
+"family": "Pama-Nyungan",
+"age_years": 671.202623000001,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "nort3178",
+"name": "Northern Ngayarda",
+"family": "Pama-Nyungan",
+"age_years": 1088.2321260000008,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "dese1234",
+"name": "Desert Nyungic",
+"family": "Pama-Nyungan",
+"age_years": 3312.366917000001,
+"leaves": 35,
+"branches": 4,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "ngum1251",
+"name": "Ngumpin-Yapa",
+"family": "Pama-Nyungan",
+"age_years": 2450.344621000001,
+"leaves": 16,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "ngum1256",
+"name": "Ngumpin",
+"family": "Pama-Nyungan",
+"age_years": 2450.344621000001,
+"leaves": 13,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "guri1250",
+"name": "Eastern Ngumpin",
+"family": "Pama-Nyungan",
+"age_years": 1291.118214000001,
+"leaves": 6,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "ngum1257",
+"name": "Ngumpit",
+"family": "Pama-Nyungan",
+"age_years": 1291.118214000001,
+"leaves": 4,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "west3005",
+"name": "Western Ngumpin",
+"family": "Pama-Nyungan",
+"age_years": 2450.344621000001,
+"leaves": 7,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "ngar1289",
+"name": "Yapa",
+"family": "Pama-Nyungan",
+"age_years": 2156.621175000001,
+"leaves": 3,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "marr1265",
+"name": "Marrngu",
+"family": "Pama-Nyungan",
+"age_years": 1990.771924000001,
+"leaves": 7,
+"branches": 3,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "wati1241",
+"name": "Wati",
+"family": "Pama-Nyungan",
+"age_years": 2462.9725810000014,
+"leaves": 11,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "warn1245",
+"name": "Warnman-Wangka",
+"family": "Pama-Nyungan",
+"age_years": 2104.643777000001,
+"leaves": 6,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "pint1254",
+"name": "Pintupic",
+"family": "Pama-Nyungan",
+"age_years": 2462.9725810000014,
+"leaves": 5,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "nucl1724",
+"name": "Nuclear Pintupic",
+"family": "Pama-Nyungan",
+"age_years": 1333.7944040000011,
+"leaves": 4,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "wang1300",
+"name": "Wangkatja-Tjarra",
+"family": "Pama-Nyungan",
+"age_years": 1085.2187170000016,
+"leaves": 3,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "tjar1234",
+"name": "Tjarra",
+"family": "Pama-Nyungan",
+"age_years": 1085.2187170000016,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "karn1253",
+"name": "Karnic",
+"family": "Pama-Nyungan",
+"age_years": 3265.1360560000007,
+"leaves": 23,
+"branches": 4,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "palk1239",
+"name": "Palku",
+"family": "Pama-Nyungan",
+"age_years": 2231.9306180000003,
+"leaves": 6,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "arab1266",
+"name": "Arabana-Wangganguru",
+"family": "Pama-Nyungan",
+"age_years": 809.8037130000002,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "pitt1246",
+"name": "Pitta-Pitta",
+"family": "Pama-Nyungan",
+"age_years": 1468.599593,
+"leaves": 4,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "badj1246",
+"name": "Badjiri-Eastern Karnic",
+"family": "Pama-Nyungan",
+"age_years": 3265.1360560000007,
+"leaves": 6,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "grea1282",
+"name": "Greater Maric",
+"family": "Pama-Nyungan",
+"age_years": 5648.068708000001,
+"leaves": 24,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "guwa1245",
+"name": "Guwa-Maric",
+"family": "Pama-Nyungan",
+"age_years": 5648.068708000001,
+"leaves": 23,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "guwa1241",
+"name": "Guwa-Yanda",
+"family": "Pama-Nyungan",
+"age_years": 1262.356707,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "cent2016",
+"name": "Central Karnic",
+"family": "Pama-Nyungan",
+"age_years": 1801.5541630000007,
+"leaves": 9,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "west2438",
+"name": "Western Central Karnic",
+"family": "Pama-Nyungan",
+"age_years": 1692.674665000001,
+"leaves": 7,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "yand1252",
+"name": "Yandruwandhic",
+"family": "Pama-Nyungan",
+"age_years": 1150.400168000001,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "dier1240",
+"name": "Dieric",
+"family": "Pama-Nyungan",
+"age_years": 1251.1541810000008,
+"leaves": 4,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "mith1235",
+"name": "Mithaka-Karuwali",
+"family": "Pama-Nyungan",
+"age_years": 948.5485460000009,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "east2872",
+"name": "Eastern Karnic",
+"family": "Pama-Nyungan",
+"age_years": 1779.3920330000005,
+"leaves": 5,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "pirr1239",
+"name": "Pirriya-Kungkari",
+"family": "Pama-Nyungan",
+"age_years": 1289.0387260000007,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "yarl1237",
+"name": "Yarli-Baagandji",
+"family": "Pama-Nyungan",
+"age_years": 2102.8340780000008,
+"leaves": 5,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "pama1251",
+"name": "Paman",
+"family": "Pama-Nyungan",
+"age_years": 5076.516394000001,
+"leaves": 47,
+"branches": 8,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "alay1234",
+"name": "Alaya-Athima",
+"family": "Pama-Nyungan",
+"age_years": 2355.1881170000015,
+"leaves": 6,
+"branches": 3,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "cent2337",
+"name": "Central Alaya-Athima",
+"family": "Pama-Nyungan",
+"age_years": 1515.9911770000017,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "norm1247",
+"name": "Norman Pama",
+"family": "Pama-Nyungan",
+"age_years": 3244.682802000001,
+"leaves": 4,
+"branches": 3,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "comp1236",
+"name": "Compromise Middle Pama",
+"family": "Pama-Nyungan",
+"age_years": 3026.3119220000012,
+"leaves": 12,
+"branches": 3,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "nort3256",
+"name": "Northeastern Pama",
+"family": "Pama-Nyungan",
+"age_years": 3026.3119220000012,
+"leaves": 5,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "umbi1242",
+"name": "Umbindhamuic",
+"family": "Pama-Nyungan",
+"age_years": 3026.3119220000012,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "wika1239",
+"name": "Wik",
+"family": "Pama-Nyungan",
+"age_years": 3026.3119220000012,
+"leaves": 6,
+"branches": 3,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "flin1248",
+"name": "Flinders-Barrow",
+"family": "Pama-Nyungan",
+"age_years": 2445.973033000001,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "nort2758",
+"name": "Northern Pama",
+"family": "Pama-Nyungan",
+"age_years": 2068.9491170000015,
+"leaves": 13,
+"branches": 7,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "leni1237",
+"name": "Linngithigh-Alngith",
+"family": "Pama-Nyungan",
+"age_years": 1021.4654640000017,
+"leaves": 3,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "alba1272",
+"name": "Albatross Bay",
+"family": "Pama-Nyungan",
+"age_years": 841.4268920000013,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "guda1246",
+"name": "Gudang-Northeast Paman",
+"family": "Pama-Nyungan",
+"age_years": 1505.7385870000016,
+"leaves": 4,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "nort3278",
+"name": "Northeast Paman",
+"family": "Pama-Nyungan",
+"age_years": 872.8004320000018,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "yadh1238",
+"name": "Yadhaykenu-Angkamuthi",
+"family": "Pama-Nyungan",
+"age_years": 737.9797020000015,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "kuku1277",
+"name": "Kuku-Wik",
+"family": "Pama-Nyungan",
+"age_years": 1118.1820660000012,
+"leaves": 3,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "mung1276",
+"name": "Mungkanic",
+"family": "Pama-Nyungan",
+"age_years": 1118.1820660000012,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "nort2759",
+"name": "Umpilaic",
+"family": "Pama-Nyungan",
+"age_years": 813.9430510000011,
+"leaves": 3,
+"branches": 3,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "sout3141",
+"name": "Southwest Pama",
+"family": "Pama-Nyungan",
+"age_years": 3244.682802000001,
+"leaves": 3,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "coas1313",
+"name": "Coastal Southwest Paman",
+"family": "Pama-Nyungan",
+"age_years": 3244.682802000001,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "yimi1234",
+"name": "Yimidhirr-Yalanji-Yidinic",
+"family": "Pama-Nyungan",
+"age_years": 2934.673844000001,
+"leaves": 4,
+"branches": 3,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "yidi1249",
+"name": "Yidinic",
+"family": "Pama-Nyungan",
+"age_years": 1198.962867000001,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "fina1240",
+"name": "Finasleigh Pama",
+"family": "Pama-Nyungan",
+"age_years": 4254.427778000001,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "mari1445",
+"name": "Maric",
+"family": "Pama-Nyungan",
+"age_years": 3533.8120850000014,
+"leaves": 21,
+"branches": 4,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "east2716",
+"name": "Eastern Maric",
+"family": "Pama-Nyungan",
+"age_years": 1833.0491980000015,
+"leaves": 7,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "sout2765",
+"name": "Southern Maric",
+"family": "Pama-Nyungan",
+"age_years": 1589.8191580000012,
+"leaves": 10,
+"branches": 5,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "marg1252",
+"name": "Margany-Gunya",
+"family": "Pama-Nyungan",
+"age_years": 554.7153920000019,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "nyaw1248",
+"name": "Nyawaygic",
+"family": "Pama-Nyungan",
+"age_years": 3049.8228330000015,
+"leaves": 3,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "nort2757",
+"name": "Northern Maric",
+"family": "Pama-Nyungan",
+"age_years": 1651.7936020000016,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "waru1263",
+"name": "Warungu-Gugu Badhun",
+"family": "Pama-Nyungan",
+"age_years": 1651.7936020000016,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "rock1234",
+"name": "Rockhampton-Gladstone",
+"family": "Pama-Nyungan",
+"age_years": 5602.642796000001,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "galg1238",
+"name": "Kalkatungic",
+"family": "Pama-Nyungan",
+"age_years": 1923.421585000001,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "maya1279",
+"name": "Mayabic",
+"family": "Pama-Nyungan",
+"age_years": 1687.262556000001,
+"leaves": 6,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "nucl1332",
+"name": "Nuclear Mayabic",
+"family": "Pama-Nyungan",
+"age_years": 1438.6277230000014,
+"leaves": 5,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "yuul1239",
+"name": "Yuulngu",
+"family": "Pama-Nyungan",
+"age_years": 2282.951322000001,
+"leaves": 14,
+"branches": 3,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "sout3142",
+"name": "Southern Yolngu",
+"family": "Pama-Nyungan",
+"age_years": 1311.4551150000007,
+"leaves": 11,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "sout3149",
+"name": "Southern-Eastern Yolngu",
+"family": "Pama-Nyungan",
+"age_years": 1311.4551150000007,
+"leaves": 10,
+"branches": 3,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "dhuw1248",
+"name": "Dhuwal-Dhuwala",
+"family": "Pama-Nyungan",
+"age_years": 1311.4551150000007,
+"leaves": 7,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "west2439",
+"name": "Western Dhuwal-Dhuwala",
+"family": "Pama-Nyungan",
+"age_years": 1311.4551150000007,
+"leaves": 5,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "tang1340",
+"name": "Tangkic",
+"family": "Tangkic",
+"age_years": 952.9997230000008,
+"leaves": 6,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "sout2758",
+"name": "Southern Tangkic",
+"family": "Tangkic",
+"age_years": 952.9997230000008,
+"leaves": 5,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "kaya1318",
+"name": "Kayardild-Yangkaal",
+"family": "Tangkic",
+"age_years": 952.9997230000008,
+"leaves": 3,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "sout3135",
+"name": "Southeastern Pama-Nyungan",
+"family": "Pama-Nyungan",
+"age_years": 4514.310351000001,
+"leaves": 69,
+"branches": 4,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "news1235",
+"name": "New South Wales Pama-Nyungan",
+"family": "Pama-Nyungan",
+"age_years": 4039.7317550000007,
+"leaves": 25,
+"branches": 3,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "yuin1243",
+"name": "Yuin-Kuri",
+"family": "Pama-Nyungan",
+"age_years": 2851.6711910000013,
+"leaves": 18,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "kuri1270",
+"name": "Kuri",
+"family": "Pama-Nyungan",
+"age_years": 2254.782250000001,
+"leaves": 10,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "hunt1235",
+"name": "Hunter-Hastings",
+"family": "Pama-Nyungan",
+"age_years": 1878.683763000001,
+"leaves": 5,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "sydn1235",
+"name": "Sydney-Hawkesbury",
+"family": "Pama-Nyungan",
+"age_years": 2047.6322800000012,
+"leaves": 5,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "yuin1242",
+"name": "Yuin",
+"family": "Pama-Nyungan",
+"age_years": 2399.4103270000014,
+"leaves": 8,
+"branches": 3,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "nort2761",
+"name": "Northern Costal Yuin",
+"family": "Pama-Nyungan",
+"age_years": 1916.5509150000016,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "wira1261",
+"name": "Wiradhuric",
+"family": "Pama-Nyungan",
+"age_years": 2104.9719600000008,
+"leaves": 6,
+"branches": 3,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "band1357",
+"name": "Greater Bandjalangic",
+"family": "Pama-Nyungan",
+"age_years": 2768.435057000001,
+"leaves": 6,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "band1339",
+"name": "Bandjalangic",
+"family": "Pama-Nyungan",
+"age_years": 1069.3530470000014,
+"leaves": 5,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "coas1320",
+"name": "Coastal Bandjalang",
+"family": "Pama-Nyungan",
+"age_years": 1069.3530470000014,
+"leaves": 4,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "east2770",
+"name": "East Queensland Border Pama Nyungan",
+"family": "Pama-Nyungan",
+"age_years": 3451.0066650000012,
+"leaves": 9,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "yuga1243",
+"name": "Yugambal-Bigambal",
+"family": "Pama-Nyungan",
+"age_years": 3451.0066650000012,
+"leaves": 4,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "nort3154",
+"name": "North Coast Pama-Nyungan",
+"family": "Pama-Nyungan",
+"age_years": 3523.027946000001,
+"leaves": 10,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "waka1283",
+"name": "Waka-Kabic",
+"family": "Pama-Nyungan",
+"age_years": 2422.396895000001,
+"leaves": 8,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "east2717",
+"name": "Eastern Waka-Kabic",
+"family": "Pama-Nyungan",
+"age_years": 2422.396895000001,
+"leaves": 3,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "gumb1242",
+"name": "Gumbaynggiric",
+"family": "Pama-Nyungan",
+"age_years": 1002.8349310000012,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "vict1234",
+"name": "Victorian Pama-Nyungan",
+"family": "Pama-Nyungan",
+"age_years": 4090.293357000001,
+"leaves": 28,
+"branches": 3,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "lowe1401",
+"name": "Lower Murray",
+"family": "Pama-Nyungan",
+"age_years": 3346.152141000001,
+"leaves": 8,
+"branches": 3,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "yara1253",
+"name": "Yaraldi-Keramin-Yitha",
+"family": "Pama-Nyungan",
+"age_years": 3346.152141000001,
+"leaves": 6,
+"branches": 3,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "kuli1256",
+"name": "Kulin-Bunganditj",
+"family": "Pama-Nyungan",
+"age_years": 2876.441131000001,
+"leaves": 16,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "warr1256",
+"name": "Warrnambool-Bunganditj",
+"family": "Pama-Nyungan",
+"age_years": 2010.719020000001,
+"leaves": 5,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "kuli1251",
+"name": "Kulin",
+"family": "Pama-Nyungan",
+"age_years": 2765.736730000001,
+"leaves": 11,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "nucl1335",
+"name": "Nuclear Kulin",
+"family": "Pama-Nyungan",
+"age_years": 2765.736730000001,
+"leaves": 10,
+"branches": 3,
+"monophyletic": false
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "east2706",
+"name": "Eastern Victoria",
+"family": "Pama-Nyungan",
+"age_years": 2725.674890000001,
+"leaves": 4,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "dhud1237",
+"name": "Dhudhuroa-Pallanganmiddang",
+"family": "Pama-Nyungan",
+"age_years": 1253.0531530000017,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "ngar1290",
+"name": "Ngarna",
+"family": "Pama-Nyungan",
+"age_years": 3390.072701000001,
+"leaves": 5,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "sout2766",
+"name": "Southern Ngarna",
+"family": "Pama-Nyungan",
+"age_years": 2107.180659000001,
+"leaves": 4,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "thaw1238",
+"name": "Thawa",
+"family": "Pama-Nyungan",
+"age_years": 1308.6055480000014,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "bouckaert_et_al2018",
+"node": "ngar1291",
+"name": "Ngarru",
+"family": "Pama-Nyungan",
+"age_years": 1152.473731000001,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "cathcart_et_al2020",
+"node": "indo1320",
+"name": "Indo-Iranian",
+"family": "Indo-European",
+"age_years": 3843.0059730000003,
+"leaves": 63,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "cathcart_et_al2020",
+"node": "indo1321",
+"name": "Indo-Aryan",
+"family": "Indo-European",
+"age_years": 3843.0059730000003,
+"leaves": 35,
+"branches": 4,
+"monophyletic": false
+},
+{
+"repo": "cathcart_et_al2020",
+"node": "midd1375",
+"name": "Middle-Modern Indo-Aryan",
+"family": "Indo-European",
+"age_years": 3843.0059730000003,
+"leaves": 32,
+"branches": 3,
+"monophyletic": false
+},
+{
+"repo": "cathcart_et_al2020",
+"node": "cont1248",
+"name": "Continental Indo-Aryan",
+"family": "Indo-European",
+"age_years": 3843.0059730000003,
+"leaves": 25,
+"branches": 4,
+"monophyletic": false
+},
+{
+"repo": "cathcart_et_al2020",
+"node": "midl1245",
+"name": "Midlands Indo-Aryan",
+"family": "Indo-European",
+"age_years": 3843.0059730000003,
+"leaves": 16,
+"branches": 3,
+"monophyletic": false
+},
+{
+"repo": "cathcart_et_al2020",
+"node": "shau1239",
+"name": "Shaurasenic",
+"family": "Indo-European",
+"age_years": 2790.8674989999995,
+"leaves": 8,
+"branches": 3,
+"monophyletic": false
+},
+{
+"repo": "cathcart_et_al2020",
+"node": "indo1322",
+"name": "Indo-Aryan Central zone",
+"family": "Indo-European",
+"age_years": 1991.316164,
+"leaves": 4,
+"branches": 4,
+"monophyletic": true
+},
+{
+"repo": "cathcart_et_al2020",
+"node": "apab1234",
+"name": "Apabhramsic",
+"family": "Indo-European",
+"age_years": 3843.0059730000003,
+"leaves": 7,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "cathcart_et_al2020",
+"node": "guja1255",
+"name": "Gujarati-Rajasthani",
+"family": "Indo-European",
+"age_years": 2546.605811,
+"leaves": 6,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "cathcart_et_al2020",
+"node": "raja1256",
+"name": "Rajasthani",
+"family": "Indo-European",
+"age_years": 1932.6817659999997,
+"leaves": 4,
+"branches": 4,
+"monophyletic": true
+},
+{
+"repo": "cathcart_et_al2020",
+"node": "sind1278",
+"name": "Sindhi-Lahnda",
+"family": "Indo-European",
+"age_years": 1879.1112699999999,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "cathcart_et_al2020",
+"node": "lahn1241",
+"name": "Greater Panjabic",
+"family": "Indo-European",
+"age_years": 1671.9275939999998,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "cathcart_et_al2020",
+"node": "oriy1254",
+"name": "Oriya-Gauda-Kamrupa",
+"family": "Indo-European",
+"age_years": 1807.4371454999998,
+"leaves": 3,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "cathcart_et_al2020",
+"node": "gaud1237",
+"name": "Gauda-Kamrupa",
+"family": "Indo-European",
+"age_years": 1100.0938019999994,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "cathcart_et_al2020",
+"node": "biha1245",
+"name": "Bihari",
+"family": "Indo-European",
+"age_years": 2790.8674989999995,
+"leaves": 3,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "cathcart_et_al2020",
+"node": "mait1254",
+"name": "Magadhan",
+"family": "Indo-European",
+"age_years": 1174.4947889999999,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "cathcart_et_al2020",
+"node": "indo1325",
+"name": "Indo-Aryan Southern zone",
+"family": "Indo-European",
+"age_years": 2571.149641,
+"leaves": 3,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "cathcart_et_al2020",
+"node": "mode1268",
+"name": "Modern Marathi",
+"family": "Indo-European",
+"age_years": 1934.5094719999997,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "cathcart_et_al2020",
+"node": "guja1256",
+"name": "Gujaratic",
+"family": "Indo-European",
+"age_years": 2129.8888459999994,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "cathcart_et_al2020",
+"node": "sinh1245",
+"name": "Dhivehi-Sinhala",
+"family": "Indo-European",
+"age_years": 1493.1413199999997,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "cathcart_et_al2020",
+"node": "dard1244",
+"name": "Eastern Dardic",
+"family": "Indo-European",
+"age_years": 2328.2213890000003,
+"leaves": 5,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "cathcart_et_al2020",
+"node": "nucl1819",
+"name": "Nuclear Eastern Dardic",
+"family": "Indo-European",
+"age_years": 2059.2568509999996,
+"leaves": 4,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "cathcart_et_al2020",
+"node": "kohi1251",
+"name": "Kohistani",
+"family": "Indo-European",
+"age_years": 1715.968148,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "cathcart_et_al2020",
+"node": "shin1270",
+"name": "Shinaic",
+"family": "Indo-European",
+"age_years": 2059.2568509999996,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "cathcart_et_al2020",
+"node": "iran1269",
+"name": "Iranian",
+"family": "Indo-European",
+"age_years": 3416.858488,
+"leaves": 28,
+"branches": 7,
+"monophyletic": false
+},
+{
+"repo": "cathcart_et_al2020",
+"node": "cent2317",
+"name": "Central Iranian PBS",
+"family": "Indo-European",
+"age_years": 3014.4526575,
+"leaves": 14,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "cathcart_et_al2020",
+"node": "cent2318",
+"name": "Central Iranian PB",
+"family": "Indo-European",
+"age_years": 3014.4526575,
+"leaves": 10,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "cathcart_et_al2020",
+"node": "sogd1247",
+"name": "Sogdic-Ossetic",
+"family": "Indo-European",
+"age_years": 2932.382649,
+"leaves": 4,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "cathcart_et_al2020",
+"node": "sogd1248",
+"name": "Sogdic",
+"family": "Indo-European",
+"age_years": 2932.382649,
+"leaves": 3,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "cathcart_et_al2020",
+"node": "sogd1246",
+"name": "Sogdian-Yagnobi",
+"family": "Indo-European",
+"age_years": 1651.1370580000003,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "cathcart_et_al2020",
+"node": "shug1253",
+"name": "Shughnic",
+"family": "Indo-European",
+"age_years": 1570.3805979999997,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "cathcart_et_al2020",
+"node": "saka1303",
+"name": "Saka-Wakhi",
+"family": "Indo-European",
+"age_years": 1640.68012,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "cathcart_et_al2020",
+"node": "nort3177",
+"name": "Northwestern Iranian",
+"family": "Indo-European",
+"age_years": 3014.4526575,
+"leaves": 9,
+"branches": 6,
+"monophyletic": false
+},
+{
+"repo": "cathcart_et_al2020",
+"node": "casp1236",
+"name": "Caspian",
+"family": "Indo-European",
+"age_years": 2932.382649,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "cathcart_et_al2020",
+"node": "tati1243",
+"name": "Adharic",
+"family": "Indo-European",
+"age_years": 3014.4526575,
+"leaves": 3,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "cathcart_et_al2020",
+"node": "tati1244",
+"name": "Tatic",
+"family": "Indo-European",
+"age_years": 2932.382649,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "cathcart_et_al2020",
+"node": "sout3157",
+"name": "Southwestern Iranian",
+"family": "Indo-European",
+"age_years": 2601.8808019999997,
+"leaves": 6,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "cathcart_et_al2020",
+"node": "midd1352",
+"name": "Middle-Modern Persian",
+"family": "Indo-European",
+"age_years": 2601.8808019999997,
+"leaves": 5,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "cathcart_et_al2020",
+"node": "mode1259",
+"name": "Modern Southwestern Iranian",
+"family": "Indo-European",
+"age_years": 2601.8808019999997,
+"leaves": 4,
+"branches": 3,
+"monophyletic": false
+},
+{
+"repo": "cathcart_et_al2020",
+"node": "fars1254",
+"name": "Farsic-Caucasian Tat",
+"family": "Indo-European",
+"age_years": 2601.8808019999997,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "cathcart_et_al2020",
+"node": "ormu1249",
+"name": "Ormuri-Parachi",
+"family": "Indo-European",
+"age_years": 1904.2171380000004,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "chang_et_al2015",
+"node": "indo1319",
+"name": "Indo-European",
+"family": "Indo-European",
+"age_years": 6007.94155200376,
+"leaves": 52,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "chang_et_al2015",
+"node": "clas1257",
+"name": "Classical Indo-European",
+"family": "Indo-European",
+"age_years": 5358.099879027897,
+"leaves": 51,
+"branches": 8,
+"monophyletic": true
+},
+{
+"repo": "chang_et_al2015",
+"node": "arme1241",
+"name": "Armenic",
+"family": "Indo-European",
+"age_years": 1550.138217801461,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "chang_et_al2015",
+"node": "cent2404",
+"name": "Central Greek",
+"family": "Indo-European",
+"age_years": 2449.3196255995877,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "chang_et_al2015",
+"node": "indo1320",
+"name": "Indo-Iranian",
+"family": "Indo-European",
+"age_years": 3738.2807232279088,
+"leaves": 16,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "chang_et_al2015",
+"node": "indo1321",
+"name": "Indo-Aryan",
+"family": "Indo-European",
+"age_years": 3234.5048856371836,
+"leaves": 15,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "chang_et_al2015",
+"node": "midd1375",
+"name": "Middle-Modern Indo-Aryan",
+"family": "Indo-European",
+"age_years": 1882.832005078516,
+"leaves": 14,
+"branches": 3,
+"monophyletic": true
+},
+{
+"repo": "chang_et_al2015",
+"node": "cont1248",
+"name": "Continental Indo-Aryan",
+"family": "Indo-European",
+"age_years": 1665.7367389542915,
+"leaves": 12,
+"branches": 4,
+"monophyletic": false
+},
+{
+"repo": "chang_et_al2015",
+"node": "midl1245",
+"name": "Midlands Indo-Aryan",
+"family": "Indo-European",
+"age_years": 1665.7367389542915,
+"leaves": 6,
+"branches": 3,
+"monophyletic": false
+},
+{
+"repo": "chang_et_al2015",
+"node": "oriy1254",
+"name": "Oriya-Gauda-Kamrupa",
+"family": "Indo-European",
+"age_years": 864.4047922263308,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "chang_et_al2015",
+"node": "gaud1237",
+"name": "Gauda-Kamrupa",
+"family": "Indo-European",
+"age_years": 864.4047922263308,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "chang_et_al2015",
+"node": "shau1239",
+"name": "Shaurasenic",
+"family": "Indo-European",
+"age_years": 1665.7367389542915,
+"leaves": 4,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "chang_et_al2015",
+"node": "indo1322",
+"name": "Indo-Aryan Central zone",
+"family": "Indo-European",
+"age_years": 1665.7367389542915,
+"leaves": 3,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "chang_et_al2015",
+"node": "hind1270",
+"name": "Hindustani",
+"family": "Indo-European",
+"age_years": 507.20032322642965,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "chang_et_al2015",
+"node": "lahn1241",
+"name": "Greater Panjabic",
+"family": "Indo-European",
+"age_years": 236.42863164697428,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "chang_et_al2015",
+"node": "goid1240",
+"name": "Goidelic",
+"family": "Indo-European",
+"age_years": 1212.4487079528353,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "chang_et_al2015",
+"node": "mode1265",
+"name": "Modern Goidelic",
+"family": "Indo-European",
+"age_years": 461.34470748902095,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "chang_et_al2015",
+"node": "impe1234",
+"name": "Imperial Latin",
+"family": "Indo-European",
+"age_years": 2148.240991101289,
+"leaves": 14,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "chang_et_al2015",
+"node": "roma1334",
+"name": "Romance",
+"family": "Indo-European",
+"age_years": 1033.7272172043376,
+"leaves": 13,
+"branches": 3,
+"monophyletic": true
+},
+{
+"repo": "chang_et_al2015",
+"node": "sard1257",
+"name": "Southern Romance",
+"family": "Indo-European",
+"age_years": 358.0814770696252,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "chang_et_al2015",
+"node": "ital1285",
+"name": "Italo-Western Romance",
+"family": "Indo-European",
+"age_years": 813.2136797284975,
+"leaves": 10,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "chang_et_al2015",
+"node": "shif1234",
+"name": "Shifted Western Romance",
+"family": "Indo-European",
+"age_years": 813.2136797284975,
+"leaves": 7,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "chang_et_al2015",
+"node": "sout3183",
+"name": "Southwestern Shifted Romance",
+"family": "Indo-European",
+"age_years": 813.2136797284975,
+"leaves": 4,
+"branches": 3,
+"monophyletic": false
+},
+{
+"repo": "chang_et_al2015",
+"node": "gall1280",
+"name": "Gallo-Rhaetian",
+"family": "Indo-European",
+"age_years": 714.0895144727983,
+"leaves": 3,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "chang_et_al2015",
+"node": "oila1234",
+"name": "Oil",
+"family": "Indo-European",
+"age_years": 215.1370870251485,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "chang_et_al2015",
+"node": "ital1287",
+"name": "Italian Romance",
+"family": "Indo-European",
+"age_years": 603.85594119712,
+"leaves": 3,
+"branches": 3,
+"monophyletic": false
+},
+{
+"repo": "chang_et_al2015",
+"node": "west2838",
+"name": "West Ibero-Romance",
+"family": "Indo-European",
+"age_years": 390.7299048348559,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "chang_et_al2015",
+"node": "germ1287",
+"name": "Germanic",
+"family": "Indo-European",
+"age_years": 1982.0789033950232,
+"leaves": 11,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "chang_et_al2015",
+"node": "nort3152",
+"name": "Northwest Germanic",
+"family": "Indo-European",
+"age_years": 1593.2824586937722,
+"leaves": 10,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "chang_et_al2015",
+"node": "west2793",
+"name": "West Germanic",
+"family": "Indo-European",
+"age_years": 1451.2862382507637,
+"leaves": 6,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "chang_et_al2015",
+"node": "angl1265",
+"name": "Anglic",
+"family": "Indo-European",
+"age_years": 1003.4007869660245,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "chang_et_al2015",
+"node": "high1289",
+"name": "High German",
+"family": "Indo-European",
+"age_years": 1143.9715543439934,
+"leaves": 4,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "chang_et_al2015",
+"node": "high1286",
+"name": "Upper German",
+"family": "Indo-European",
+"age_years": 1143.9715543439934,
+"leaves": 3,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "chang_et_al2015",
+"node": "mode1258",
+"name": "Modern High German",
+"family": "Indo-European",
+"age_years": 273.3564098831457,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "chang_et_al2015",
+"node": "west2805",
+"name": "West Scandinavian",
+"family": "Indo-European",
+"age_years": 800.7258827097066,
+"leaves": 4,
+"branches": 3,
+"monophyletic": true
+},
+{
+"repo": "chang_et_al2015",
+"node": "icel1246",
+"name": "Icelandic-Faroese",
+"family": "Indo-European",
+"age_years": 246.90600064681166,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "aust1307",
+"name": "Austronesian",
+"family": "Austronesian",
+"age_years": 4347.836000000002,
+"leaves": 397,
+"branches": 10,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "atay1246",
+"name": "Atayalic",
+"family": "Austronesian",
+"age_years": 2973.5700000000015,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "nort2899",
+"name": "Northwest Formosan",
+"family": "Austronesian",
+"age_years": 2996.0430000000015,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "west2572",
+"name": "Western Plains Austronesian",
+"family": "Austronesian",
+"age_years": 2996.0430000000015,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "east2493",
+"name": "East Formosan",
+"family": "Austronesian",
+"age_years": 4347.836000000002,
+"leaves": 4,
+"branches": 3,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "nort2900",
+"name": "Northern East Formosan",
+"family": "Austronesian",
+"age_years": 2194.971000000002,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "mala1545",
+"name": "Malayo-Polynesian",
+"family": "Austronesian",
+"age_years": 4141.322000000002,
+"leaves": 379,
+"branches": 31,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "bali1277",
+"name": "Bali-Sasak-Sumbawa",
+"family": "Austronesian",
+"age_years": 1897.9010000000014,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "suma1277",
+"name": "Sumatran",
+"family": "Austronesian",
+"age_years": 4141.310000000001,
+"leaves": 3,
+"branches": 3,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "pesi1234",
+"name": "Pesisir",
+"family": "Austronesian",
+"age_years": 1899.9960000000015,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "mala1554",
+"name": "Malayo-Chamic",
+"family": "Austronesian",
+"age_years": 2970.1210000000015,
+"leaves": 13,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "mala1538",
+"name": "Malayic",
+"family": "Austronesian",
+"age_years": 541.487000000001,
+"leaves": 10,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "nucl1806",
+"name": "Nuclear Malayic",
+"family": "Austronesian",
+"age_years": 541.487000000001,
+"leaves": 9,
+"branches": 5,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "keri1253",
+"name": "Kerinci-Minangkabau",
+"family": "Austronesian",
+"age_years": 188.0960000000007,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "stan1327",
+"name": "Standard Malay-Indonesian",
+"family": "Austronesian",
+"age_years": 173.29900000000097,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "banj1240",
+"name": "Banjar-Berau-Brunei Malay",
+"family": "Austronesian",
+"age_years": 541.487000000001,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "cham1330",
+"name": "Chamic",
+"family": "Austronesian",
+"age_years": 2405.295000000002,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "chru1238",
+"name": "Chru-Northern Cham",
+"family": "Austronesian",
+"age_years": 1340.889000000002,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "aruu1241",
+"name": "Aru",
+"family": "Austronesian",
+"age_years": 1319.0710000000015,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "keit1238",
+"name": "Nuclear Tanimbar-Bomberai",
+"family": "Austronesian",
+"age_years": 3457.915000000002,
+"leaves": 4,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "grea1302",
+"name": "Greater Seram Laut",
+"family": "Austronesian",
+"age_years": 3457.915000000002,
+"leaves": 8,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "gese1239",
+"name": "Seran Laut",
+"family": "Austronesian",
+"age_years": 3457.915000000002,
+"leaves": 4,
+"branches": 3,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "east2748",
+"name": "East Rivers Seram",
+"family": "Austronesian",
+"age_years": 972.9440000000013,
+"leaves": 4,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "nunu1252",
+"name": "Nunusaku",
+"family": "Austronesian",
+"age_years": 533.1630000000018,
+"leaves": 4,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "sole1243",
+"name": "Solehua",
+"family": "Austronesian",
+"age_years": 531.144000000002,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "cele1242",
+"name": "Celebic",
+"family": "Austronesian",
+"age_years": 3548.0970000000016,
+"leaves": 9,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "east2488",
+"name": "Eastern Celebic",
+"family": "Austronesian",
+"age_years": 3548.0970000000016,
+"leaves": 7,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "salu1251",
+"name": "Saluan-Banggai",
+"family": "Austronesian",
+"age_years": 3548.0970000000016,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "timo1265",
+"name": "Timor-Babar",
+"family": "Austronesian",
+"age_years": 3457.915000000002,
+"leaves": 26,
+"branches": 4,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "sout3382",
+"name": "Southwest Maluku",
+"family": "Austronesian",
+"age_years": 3457.915000000002,
+"leaves": 17,
+"branches": 4,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "baba1274",
+"name": "Babar",
+"family": "Austronesian",
+"age_years": 1018.8430000000017,
+"leaves": 10,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "nort2859",
+"name": "North Babaric",
+"family": "Austronesian",
+"age_years": 962.3420000000018,
+"leaves": 3,
+"branches": 3,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "sout2881",
+"name": "South Babar",
+"family": "Austronesian",
+"age_years": 555.0160000000019,
+"leaves": 7,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "mase1249",
+"name": "Masela-South Babar",
+"family": "Austronesian",
+"age_years": 480.37000000000154,
+"leaves": 4,
+"branches": 4,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "sout2882",
+"name": "Southwest Babar",
+"family": "Austronesian",
+"age_years": 386.3680000000018,
+"leaves": 3,
+"branches": 3,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "luan1261",
+"name": "Luangic-Kisaric",
+"family": "Austronesian",
+"age_years": 1496.5480000000016,
+"leaves": 3,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "luan1262",
+"name": "Luangic",
+"family": "Austronesian",
+"age_years": 1016.3380000000016,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "teun1242",
+"name": "Teun-Nila-Serua",
+"family": "Austronesian",
+"age_years": 1017.5650000000016,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "nila1243",
+"name": "Nila-Serua",
+"family": "Austronesian",
+"age_years": 0.0020000000020559128,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "weta1246",
+"name": "Wetar-Atauro",
+"family": "Austronesian",
+"age_years": 1108.245000000002,
+"leaves": 6,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "weta1245",
+"name": "Wetar",
+"family": "Austronesian",
+"age_years": 1108.245000000002,
+"leaves": 5,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "pera1258",
+"name": "Perai-Tugun-Aputai",
+"family": "Austronesian",
+"age_years": 111.68300000000198,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "pera1259",
+"name": "Perai-Aputai",
+"family": "Austronesian",
+"age_years": 111.68300000000198,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "west2945",
+"name": "Central Timor",
+"family": "Austronesian",
+"age_years": 866.0160000000019,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "rote1234",
+"name": "Rote-Meto",
+"family": "Austronesian",
+"age_years": 1224.4030000000018,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "yamd1241",
+"name": "Yamdena-Onin",
+"family": "Austronesian",
+"age_years": 2204.6660000000015,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "koiw1244",
+"name": "Koiwai-Irarutu",
+"family": "Austronesian",
+"age_years": 3457.915000000002,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "east2712",
+"name": "Eastern Malayo-Polynesian",
+"family": "Austronesian",
+"age_years": 3432.722000000002,
+"leaves": 179,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "ocea1241",
+"name": "Oceanic",
+"family": "Austronesian",
+"age_years": 3408.3610000000017,
+"leaves": 169,
+"branches": 9,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "admi1239",
+"name": "Admiralty Islands",
+"family": "Austronesian",
+"age_years": 2775.6440000000016,
+"leaves": 8,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "east2459",
+"name": "Eastern Admiralty Islands",
+"family": "Austronesian",
+"age_years": 2691.5410000000015,
+"leaves": 6,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "manu1262",
+"name": "Manus",
+"family": "Austronesian",
+"age_years": 1491.1170000000018,
+"leaves": 4,
+"branches": 3,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "liku1245",
+"name": "Likum-Levei",
+"family": "Austronesian",
+"age_years": 1480.5140000000017,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "sout2879",
+"name": "South-East Admiralty",
+"family": "Austronesian",
+"age_years": 2.1260000000014045,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "west2532",
+"name": "Western Admiralty Islands",
+"family": "Austronesian",
+"age_years": 2128.973000000002,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "cent2060",
+"name": "Central Pacific linkage",
+"family": "Austronesian",
+"age_years": 2396.4920000000016,
+"leaves": 33,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "east2445",
+"name": "Tokalau Fijian",
+"family": "Austronesian",
+"age_years": 2396.4920000000016,
+"leaves": 32,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "poly1242",
+"name": "Polynesian",
+"family": "Austronesian",
+"age_years": 1778.9970000000012,
+"leaves": 31,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "nucl1485",
+"name": "Nuclear Polynesian",
+"family": "Austronesian",
+"age_years": 1778.9970000000012,
+"leaves": 29,
+"branches": 9,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "nort3246",
+"name": "Northern Outlier Polynesian-East Polynesian",
+"family": "Austronesian",
+"age_years": 1437.9910000000011,
+"leaves": 15,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "solo1260",
+"name": "Solomons Northern Outlier Polynesian-East Polynesian",
+"family": "Austronesian",
+"age_years": 1437.9910000000011,
+"leaves": 13,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "cent2298",
+"name": "Central Northern Outlier Polynesian-East Polynesian",
+"family": "Austronesian",
+"age_years": 1437.9910000000011,
+"leaves": 12,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "east2449",
+"name": "East Polynesian",
+"family": "Austronesian",
+"age_years": 1431.0800000000015,
+"leaves": 10,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "east2895",
+"name": "East Polynesian Distal",
+"family": "Austronesian",
+"age_years": 672.7360000000014,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "fare1245",
+"name": "Far East Polynesian",
+"family": "Austronesian",
+"age_years": 672.7360000000014,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "east2896",
+"name": "East Polynesian Proximal",
+"family": "Austronesian",
+"age_years": 529.9060000000013,
+"leaves": 7,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "sout3383",
+"name": "Southern East Polynesian Proximal",
+"family": "Austronesian",
+"age_years": 529.9060000000013,
+"leaves": 6,
+"branches": 5,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "tahi1244",
+"name": "Tahitian-Austral",
+"family": "Austronesian",
+"age_years": 31.668000000001584,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "elli1239",
+"name": "Ellicean",
+"family": "Austronesian",
+"age_years": 1778.9970000000012,
+"leaves": 3,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "samo1310",
+"name": "Samoan-Tokelauan",
+"family": "Austronesian",
+"age_years": 1778.9970000000012,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "nort3235",
+"name": "Carolinean Outlier Polynesian",
+"family": "Austronesian",
+"age_years": 226.89000000000092,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "cent2299",
+"name": "Central Northern Outlier Polynesian",
+"family": "Austronesian",
+"age_years": 225.41500000000082,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "tong1324",
+"name": "Tongic",
+"family": "Austronesian",
+"age_years": 1778.9970000000012,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "vanu1245",
+"name": "Vanuatu-Loyalty Outliers",
+"family": "Austronesian",
+"age_years": 1492.6380000000013,
+"leaves": 5,
+"branches": 3,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "mele1252",
+"name": "Mele-Futuna",
+"family": "Austronesian",
+"age_years": 1383.3780000000013,
+"leaves": 3,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "micr1243",
+"name": "Micronesian",
+"family": "Austronesian",
+"age_years": 1900.0020000000015,
+"leaves": 16,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "cent2276",
+"name": "Central Micronesian",
+"family": "Austronesian",
+"age_years": 1900.0020000000015,
+"leaves": 15,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "west2844",
+"name": "Western Micronesian",
+"family": "Austronesian",
+"age_years": 1234.2180000000017,
+"leaves": 14,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "pona1247",
+"name": "Chuukic-Ponapeic",
+"family": "Austronesian",
+"age_years": 1234.2180000000017,
+"leaves": 12,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "pona1248",
+"name": "Ponapeic",
+"family": "Austronesian",
+"age_years": 1232.9820000000016,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "truk1243",
+"name": "Trukic",
+"family": "Austronesian",
+"age_years": 851.5430000000017,
+"leaves": 10,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "nucl1749",
+"name": "Nuclear Trukic",
+"family": "Austronesian",
+"age_years": 851.5430000000017,
+"leaves": 9,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "cent2290",
+"name": "Central Trukic",
+"family": "Austronesian",
+"age_years": 851.5430000000017,
+"leaves": 7,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "east2764",
+"name": "Eastern Trukic",
+"family": "Austronesian",
+"age_years": 851.5430000000017,
+"leaves": 4,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "mort1238",
+"name": "Mortlockese-Trukese",
+"family": "Austronesian",
+"age_years": 851.5430000000017,
+"leaves": 3,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "sata1238",
+"name": "Satawalese-Carolinian",
+"family": "Austronesian",
+"age_years": 851.5430000000017,
+"leaves": 3,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "temo1244",
+"name": "Temotu",
+"family": "Austronesian",
+"age_years": 3247.5170000000016,
+"leaves": 11,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "utup1237",
+"name": "Utupua-Vanikoro",
+"family": "Austronesian",
+"age_years": 1109.3170000000016,
+"leaves": 7,
+"branches": 4,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "utup1238",
+"name": "Utupua",
+"family": "Austronesian",
+"age_years": 977.5530000000017,
+"leaves": 3,
+"branches": 3,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "reef1242",
+"name": "Reefs-Santa Cruz",
+"family": "Austronesian",
+"age_years": 3000.0020000000018,
+"leaves": 4,
+"branches": 3,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "sout3173",
+"name": "Southern Melanesian",
+"family": "Austronesian",
+"age_years": 2906.664000000002,
+"leaves": 12,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "newc1243",
+"name": "New Caledonian",
+"family": "Austronesian",
+"age_years": 2890.9510000000014,
+"leaves": 6,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "loya1239",
+"name": "Loyalty Islands",
+"family": "Austronesian",
+"age_years": 2486.2060000000015,
+"leaves": 3,
+"branches": 3,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "main1286",
+"name": "Mainland New Caledonian",
+"family": "Austronesian",
+"age_years": 2890.9510000000014,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "nort3325",
+"name": "Northern New Caledonian",
+"family": "Austronesian",
+"age_years": 0.0010000000010279564,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "nort3195",
+"name": "North and Central Vanuatu",
+"family": "Austronesian",
+"age_years": 2214.2230000000013,
+"leaves": 20,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "nort3205",
+"name": "Northern Vanuatu",
+"family": "Austronesian",
+"age_years": 2214.2230000000013,
+"leaves": 7,
+"branches": 4,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "torr1262",
+"name": "Torres-Banks linkage",
+"family": "Austronesian",
+"age_years": 933.6240000000014,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "espi1234",
+"name": "Espiritu Santo",
+"family": "Austronesian",
+"age_years": 1525.6370000000015,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "sout3339",
+"name": "South Santo",
+"family": "Austronesian",
+"age_years": 1525.6370000000015,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "cent2269",
+"name": "Central Vanuatu",
+"family": "Austronesian",
+"age_years": 2214.2230000000013,
+"leaves": 13,
+"branches": 4,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "mala1539",
+"name": "Malakula",
+"family": "Austronesian",
+"age_years": 1460.1040000000012,
+"leaves": 7,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "west2871",
+"name": "Western Malakula linkage",
+"family": "Austronesian",
+"age_years": 1029.2500000000011,
+"leaves": 6,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "peri1262",
+"name": "Peripheral Western Malakula",
+"family": "Austronesian",
+"age_years": 1029.2500000000011,
+"leaves": 4,
+"branches": 3,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "cent2316",
+"name": "Central-Western Malakula",
+"family": "Austronesian",
+"age_years": 558.5560000000012,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "sout3240",
+"name": "Southwestern Malakula",
+"family": "Austronesian",
+"age_years": 1029.2500000000011,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "ambr1240",
+"name": "Ambrym",
+"family": "Austronesian",
+"age_years": 1291.2010000000014,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "efat1241",
+"name": "Efate-Shepherds",
+"family": "Austronesian",
+"age_years": 2211.8130000000015,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "efat1236",
+"name": "Efate",
+"family": "Austronesian",
+"age_years": 2179.008000000001,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "sout2868",
+"name": "Southern Vanuatu",
+"family": "Austronesian",
+"age_years": 1843.3240000000017,
+"leaves": 6,
+"branches": 3,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "erro1239",
+"name": "Erromanga",
+"family": "Austronesian",
+"age_years": 1828.803000000002,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "tann1242",
+"name": "Tanna",
+"family": "Austronesian",
+"age_years": 1180.681000000002,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "sout3195",
+"name": "Southern Tanna",
+"family": "Austronesian",
+"age_years": 1180.681000000002,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "sout2853",
+"name": "Southeast Solomonic",
+"family": "Austronesian",
+"age_years": 2644.4140000000016,
+"leaves": 10,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "guad1241",
+"name": "Guadalcanal-Nggelic",
+"family": "Austronesian",
+"age_years": 2624.0580000000014,
+"leaves": 4,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "nucl1470",
+"name": "Nuclear Guadalcanal-Nggelic",
+"family": "Austronesian",
+"age_years": 2624.0580000000014,
+"leaves": 3,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "ngge1240",
+"name": "Nggelic",
+"family": "Austronesian",
+"age_years": 0.20300000000172957,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "mala1540",
+"name": "Malaita-Makira",
+"family": "Austronesian",
+"age_years": 1431.1240000000014,
+"leaves": 6,
+"branches": 3,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "nort2833",
+"name": "Central-Northern Malaita",
+"family": "Austronesian",
+"age_years": 795.0500000000015,
+"leaves": 4,
+"branches": 3,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "nort3284",
+"name": "North Malaitan",
+"family": "Austronesian",
+"age_years": 795.0500000000015,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "west2818",
+"name": "Western Oceanic linkage",
+"family": "Austronesian",
+"age_years": 3408.3610000000017,
+"leaves": 58,
+"branches": 3,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "meso1253",
+"name": "Meso Melanesian linkage",
+"family": "Austronesian",
+"age_years": 3408.3610000000017,
+"leaves": 33,
+"branches": 3,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "newi1242",
+"name": "New Ireland-Northwest Solomonic linkage",
+"family": "Austronesian",
+"age_years": 1283.9160000000013,
+"leaves": 29,
+"branches": 3,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "tung1294",
+"name": "Tungak-Nalik",
+"family": "Austronesian",
+"age_years": 724.1570000000017,
+"leaves": 5,
+"branches": 5,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "stge1234",
+"name": "St George linkage",
+"family": "Austronesian",
+"age_years": 1283.9160000000013,
+"leaves": 22,
+"branches": 3,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "patp1244",
+"name": "Patpatar-Minigir-Tolai",
+"family": "Austronesian",
+"age_years": 654.3280000000018,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "mini1257",
+"name": "Minigir-Tolai",
+"family": "Austronesian",
+"age_years": 652.2380000000019,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "nort3225",
+"name": "Northwest Solomonic",
+"family": "Austronesian",
+"age_years": 1155.0300000000013,
+"leaves": 18,
+"branches": 6,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "choi1242",
+"name": "Choiseul",
+"family": "Austronesian",
+"age_years": 636.9860000000011,
+"leaves": 5,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "east2760",
+"name": "East Choiseul",
+"family": "Austronesian",
+"age_years": 315.71300000000144,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "west2856",
+"name": "West Choiseul",
+"family": "Austronesian",
+"age_years": 0.007000000000978446,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "newg1239",
+"name": "New Georgia",
+"family": "Austronesian",
+"age_years": 631.7320000000013,
+"leaves": 4,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "east2761",
+"name": "East New Georgia",
+"family": "Austronesian",
+"age_years": 400.1230000000016,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "rovi1239",
+"name": "Rovianic",
+"family": "Austronesian",
+"age_years": 400.1230000000016,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "sant1458",
+"name": "Santa Isabel",
+"family": "Austronesian",
+"age_years": 315.74600000000163,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "cent2063",
+"name": "Central Santa Isabel",
+"family": "Austronesian",
+"age_years": 315.74600000000163,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "nucl1750",
+"name": "Nuclear North Bougainville Oceanic",
+"family": "Austronesian",
+"age_years": 941.9050000000011,
+"leaves": 4,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "sapo1252",
+"name": "Saposa-Tinputz",
+"family": "Austronesian",
+"age_years": 26.49400000000135,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "nort3206",
+"name": "North New Guinea linkage",
+"family": "Austronesian",
+"age_years": 1954.2360000000017,
+"leaves": 13,
+"branches": 3,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "nger1241",
+"name": "Ngero-Vitiaz linkage",
+"family": "Austronesian",
+"age_years": 1036.9000000000015,
+"leaves": 9,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "viti1243",
+"name": "Vitiaz linkage",
+"family": "Austronesian",
+"age_years": 1036.9000000000015,
+"leaves": 8,
+"branches": 3,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "sout2874",
+"name": "Southwest New Britain linkage",
+"family": "Austronesian",
+"age_years": 601.9500000000013,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "nucl1510",
+"name": "Western Bel",
+"family": "Austronesian",
+"age_years": 629.8060000000012,
+"leaves": 4,
+"branches": 4,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "kair1261",
+"name": "Kairiru-Manam",
+"family": "Austronesian",
+"age_years": 1274.7690000000018,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "mana1294",
+"name": "Manamic linkage",
+"family": "Austronesian",
+"age_years": 171.10300000000223,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "papu1253",
+"name": "Papuan Tip linkage",
+"family": "Austronesian",
+"age_years": 1231.3410000000017,
+"leaves": 12,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "nucl1744",
+"name": "Nuclear Papuan Tip linkage",
+"family": "Austronesian",
+"age_years": 1159.4130000000016,
+"leaves": 8,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "nort2848",
+"name": "North Papuan Mainland-D'Entrecasteaux linkage",
+"family": "Austronesian",
+"age_years": 1159.4130000000016,
+"leaves": 6,
+"branches": 3,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "arei1235",
+"name": "Are linkage",
+"family": "Austronesian",
+"age_years": 756.1560000000017,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "bwai1241",
+"name": "Bwaidoga linkage",
+"family": "Austronesian",
+"age_years": 1066.2710000000018,
+"leaves": 3,
+"branches": 3,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "suau1244",
+"name": "Suau chain",
+"family": "Austronesian",
+"age_years": 0.0030000000013075123,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "peri1258",
+"name": "Peripheral Papuan Tip linkage",
+"family": "Austronesian",
+"age_years": 1231.3410000000017,
+"leaves": 4,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "cent2070",
+"name": "Central Papuan Oceanic",
+"family": "Austronesian",
+"age_years": 1231.3410000000017,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "west2850",
+"name": "West Central Papuan linkage",
+"family": "Austronesian",
+"age_years": 992.0790000000017,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "sout3229",
+"name": "South Halmahera-West New Guinea",
+"family": "Austronesian",
+"age_years": 2181.8360000000016,
+"leaves": 10,
+"branches": 4,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "raja1255",
+"name": "Raja Ampat-South Halmahera",
+"family": "Austronesian",
+"age_years": 1909.0750000000014,
+"leaves": 5,
+"branches": 3,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "sout3231",
+"name": "South Halmahera",
+"family": "Austronesian",
+"age_years": 1909.0750000000014,
+"leaves": 3,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "gebe1238",
+"name": "Gebeic",
+"family": "Austronesian",
+"age_years": 1909.0750000000014,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "cend1238",
+"name": "Cenderawasih Bay",
+"family": "Austronesian",
+"age_years": 932.6000000000012,
+"leaves": 3,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "ansu1238",
+"name": "Ansus-Ambai",
+"family": "Austronesian",
+"age_years": 777.0680000000012,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "bima1248",
+"name": "Bima-Lembata",
+"family": "Austronesian",
+"age_years": 2757.1310000000017,
+"leaves": 21,
+"branches": 3,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "sumb1242",
+"name": "Sumba-Hawu",
+"family": "Austronesian",
+"age_years": 1892.8450000000016,
+"leaves": 13,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "sumb1243",
+"name": "Sumba",
+"family": "Austronesian",
+"age_years": 1872.2640000000017,
+"leaves": 12,
+"branches": 3,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "kamb1320",
+"name": "Central-East Sumbanese",
+"family": "Austronesian",
+"age_years": 828.0220000000016,
+"leaves": 8,
+"branches": 3,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "cent2307",
+"name": "Central Sumbanese",
+"family": "Austronesian",
+"age_years": 828.0220000000016,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "wewe1239",
+"name": "Wewewa-Laboya",
+"family": "Austronesian",
+"age_years": 890.5330000000018,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "flor1244",
+"name": "Flores",
+"family": "Austronesian",
+"age_years": 2757.1310000000017,
+"leaves": 7,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "flor1241",
+"name": "West-Central Flores",
+"family": "Austronesian",
+"age_years": 2737.4600000000014,
+"leaves": 4,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "ngad1266",
+"name": "Central Flores",
+"family": "Austronesian",
+"age_years": 2733.6620000000016,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "flor1239",
+"name": "Flores-Lembata",
+"family": "Austronesian",
+"age_years": 2610.4570000000017,
+"leaves": 3,
+"branches": 3,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "sout2928",
+"name": "Southeastern Celebic",
+"family": "Austronesian",
+"age_years": 2447.7290000000016,
+"leaves": 5,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "kail1255",
+"name": "Kaili-Wolio",
+"family": "Austronesian",
+"age_years": 2447.7290000000016,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "muna1246",
+"name": "Muna-Buton",
+"family": "Austronesian",
+"age_years": 2439.4990000000016,
+"leaves": 4,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "tuka1246",
+"name": "Tukangbesi-Bonerate",
+"family": "Austronesian",
+"age_years": 0.0010000000010279564,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "sang1348",
+"name": "Sangiric-Minahasan",
+"family": "Austronesian",
+"age_years": 2515.641000000002,
+"leaves": 5,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "sang1335",
+"name": "Sangiric",
+"family": "Austronesian",
+"age_years": 810.3010000000017,
+"leaves": 4,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "nort2871",
+"name": "Sangil-Sangir",
+"family": "Austronesian",
+"age_years": 800.1110000000016,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "sout3413",
+"name": "South Sulawesi",
+"family": "Austronesian",
+"age_years": 4141.310000000001,
+"leaves": 4,
+"branches": 3,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "bugi1243",
+"name": "Tamanic-Bugis",
+"family": "Austronesian",
+"age_years": 4141.310000000001,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "grea1283",
+"name": "Greater Barito linkage",
+"family": "Austronesian",
+"age_years": 4141.322000000002,
+"leaves": 10,
+"branches": 4,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "sout2919",
+"name": "Southeast Barito",
+"family": "Austronesian",
+"age_years": 1100.0010000000016,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "nort3253",
+"name": "North Borneo Malayo-Polynesian",
+"family": "Austronesian",
+"age_years": 4131.675000000001,
+"leaves": 13,
+"branches": 4,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "kaya1335",
+"name": "Kayan-Murik-Modang",
+"family": "Austronesian",
+"age_years": 1102.3050000000017,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "moda1243",
+"name": "Modang-Segai",
+"family": "Austronesian",
+"age_years": 339.5190000000019,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "sara1342",
+"name": "Central Sarawak",
+"family": "Austronesian",
+"age_years": 2349.929000000002,
+"leaves": 3,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "mela1262",
+"name": "Melanau-Kajang",
+"family": "Austronesian",
+"age_years": 2349.929000000002,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "nort3171",
+"name": "North Sarawakan",
+"family": "Austronesian",
+"age_years": 2349.929000000002,
+"leaves": 5,
+"branches": 4,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "bera1263",
+"name": "Berawan-Lower Baram",
+"family": "Austronesian",
+"age_years": 1107.1950000000018,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "land1261",
+"name": "Land Dayak",
+"family": "Austronesian",
+"age_years": 2514.0680000000016,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "saba1285",
+"name": "Sabahan",
+"family": "Austronesian",
+"age_years": 2829.5410000000015,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "tbol1241",
+"name": "Tboli-Blaan",
+"family": "Austronesian",
+"age_years": 415.5320000000016,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "blaa1241",
+"name": "Blaan",
+"family": "Austronesian",
+"age_years": 415.5320000000016,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "grea1284",
+"name": "Greater Central Philippine",
+"family": "Austronesian",
+"age_years": 2119.2000000000016,
+"leaves": 28,
+"branches": 7,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "mano1276",
+"name": "Manobo",
+"family": "Austronesian",
+"age_years": 349.1680000000006,
+"leaves": 9,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "cent2255",
+"name": "Central and Southern Manobo",
+"family": "Austronesian",
+"age_years": 349.1680000000006,
+"leaves": 8,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "east2778",
+"name": "East-West-Central Manobo",
+"family": "Austronesian",
+"age_years": 125.89400000000062,
+"leaves": 6,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "east2742",
+"name": "East and Central Manobo",
+"family": "Austronesian",
+"age_years": 87.8950000000005,
+"leaves": 4,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "cent2088",
+"name": "Central Manobo",
+"family": "Austronesian",
+"age_years": 87.69400000000083,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "west2554",
+"name": "WBM-Livunganen-Ilianen",
+"family": "Austronesian",
+"age_years": 125.89400000000062,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "sara1347",
+"name": "Sarangani-Tasaday-Cotabato",
+"family": "Austronesian",
+"age_years": 306.23100000000034,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "suba1253",
+"name": "Subanen",
+"family": "Austronesian",
+"age_years": 415.2140000000006,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "cent2246",
+"name": "Central Philippine",
+"family": "Austronesian",
+"age_years": 631.7560000000011,
+"leaves": 9,
+"branches": 5,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "bisa1268",
+"name": "Bisayan",
+"family": "Austronesian",
+"age_years": 553.802000000001,
+"leaves": 4,
+"branches": 3,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "sout3175",
+"name": "South Bisayan",
+"family": "Austronesian",
+"age_years": 553.802000000001,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "mans1261",
+"name": "Mansakan",
+"family": "Austronesian",
+"age_years": 0.007000000000978446,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "pala1357",
+"name": "Palawanic-Kalamian",
+"family": "Austronesian",
+"age_years": 359.8550000000014,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "nort3185",
+"name": "Northern Palawanic",
+"family": "Austronesian",
+"age_years": 130.08500000000112,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "bata1315",
+"name": "Batanic",
+"family": "Austronesian",
+"age_years": 733.2450000000015,
+"leaves": 8,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "yami1257",
+"name": "Yami-Itbayat",
+"family": "Austronesian",
+"age_years": 733.2450000000015,
+"leaves": 7,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "nort3238",
+"name": "Northern Luzon",
+"family": "Austronesian",
+"age_years": 695.2230000000017,
+"leaves": 20,
+"branches": 4,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "caga1241",
+"name": "Cagayan Valley",
+"family": "Austronesian",
+"age_years": 139.7370000000011,
+"leaves": 5,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "iban1268",
+"name": "Ibanagic",
+"family": "Austronesian",
+"age_years": 138.91600000000093,
+"leaves": 4,
+"branches": 3,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "gadd1245",
+"name": "Gaddangic",
+"family": "Austronesian",
+"age_years": 138.91600000000093,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "sout3211",
+"name": "South-Central Cordilleran",
+"family": "Austronesian",
+"age_years": 691.1710000000015,
+"leaves": 13,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "cent2296",
+"name": "Central Cordilleran",
+"family": "Austronesian",
+"age_years": 691.1710000000015,
+"leaves": 7,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "kali1310",
+"name": "Kalinga-Itneg",
+"family": "Austronesian",
+"age_years": 0.006000000001726846,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "nucl1754",
+"name": "Nuclear Cordilleran",
+"family": "Austronesian",
+"age_years": 284.43400000000184,
+"leaves": 5,
+"branches": 3,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "bont1246",
+"name": "Bontok-Kankanay",
+"family": "Austronesian",
+"age_years": 0.0030000000021956907,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "ifug1247",
+"name": "Ifugaw",
+"family": "Austronesian",
+"age_years": 160.16800000000143,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "sout2907",
+"name": "Southern Cordilleran",
+"family": "Austronesian",
+"age_years": 691.1710000000015,
+"leaves": 6,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "west2550",
+"name": "West Southern Cordilleran",
+"family": "Austronesian",
+"age_years": 691.1710000000015,
+"leaves": 5,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "nucl1542",
+"name": "Nuclear Southern Cordilleran",
+"family": "Austronesian",
+"age_years": 691.1710000000015,
+"leaves": 4,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "kall1244",
+"name": "Kalanguya",
+"family": "Austronesian",
+"age_years": 691.1710000000015,
+"leaves": 3,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "cent2080",
+"name": "Central Luzon",
+"family": "Austronesian",
+"age_years": 1165.4430000000016,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "goro1257",
+"name": "Gorontalo-Mongondow",
+"family": "Austronesian",
+"age_years": 2117.308000000002,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "goro1273",
+"name": "Gorontalic",
+"family": "Austronesian",
+"age_years": 0.12200000000195388,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "sama1302",
+"name": "Sama-Bajaw",
+"family": "Austronesian",
+"age_years": 1626.0200000000013,
+"leaves": 5,
+"branches": 3,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "sulu1242",
+"name": "Sulu-Borneo",
+"family": "Austronesian",
+"age_years": 1606.3340000000012,
+"leaves": 3,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "born1254",
+"name": "Borneo Coast Bajaw",
+"family": "Austronesian",
+"age_years": 1606.3340000000012,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "gray_et_al2009",
+"node": "tsou1250",
+"name": "Tsouic",
+"family": "Austronesian",
+"age_years": 1640.4730000000018,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "gray_et_al2009",
+"node": "kana1292",
+"name": "Kanakanavu-Saaroa",
+"family": "Austronesian",
+"age_years": 5.350000000001742,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "greenhill_et_al2023",
+"node": "utoa1244",
+"name": "Uto-Aztecan",
+"family": "Uto-Aztecan",
+"age_years": 3991.444339525691,
+"leaves": 34,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "greenhill_et_al2023",
+"node": "sout3136",
+"name": "Southern Uto-Aztecan",
+"family": "Uto-Aztecan",
+"age_years": 3243.5794622337708,
+"leaves": 17,
+"branches": 6,
+"monophyletic": true
+},
+{
+"repo": "greenhill_et_al2023",
+"node": "cora1261",
+"name": "Corachol-Aztecan",
+"family": "Uto-Aztecan",
+"age_years": 2867.807281112502,
+"leaves": 6,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "greenhill_et_al2023",
+"node": "azte1234",
+"name": "Aztec",
+"family": "Uto-Aztecan",
+"age_years": 1625.6555640078127,
+"leaves": 4,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "greenhill_et_al2023",
+"node": "cent2258",
+"name": "Central Nahuatl",
+"family": "Uto-Aztecan",
+"age_years": 852.0985966139115,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "greenhill_et_al2023",
+"node": "east2720",
+"name": "Eastern Nahuatl",
+"family": "Uto-Aztecan",
+"age_years": 1625.6555640078127,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "greenhill_et_al2023",
+"node": "cora1259",
+"name": "Corachol",
+"family": "Uto-Aztecan",
+"age_years": 1423.935498386155,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "greenhill_et_al2023",
+"node": "opat1247",
+"name": "Opata-Eudeve",
+"family": "Uto-Aztecan",
+"age_years": 970.6341061140938,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "greenhill_et_al2023",
+"node": "cahi1243",
+"name": "Cahitan",
+"family": "Uto-Aztecan",
+"age_years": 185.16823527899396,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "greenhill_et_al2023",
+"node": "tara1326",
+"name": "Tarahumara-Guarijio",
+"family": "Uto-Aztecan",
+"age_years": 545.2529767867063,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "greenhill_et_al2023",
+"node": "tepi1240",
+"name": "Tepiman",
+"family": "Uto-Aztecan",
+"age_years": 1008.5371992469645,
+"leaves": 4,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "greenhill_et_al2023",
+"node": "tepe1281",
+"name": "Tepehuan",
+"family": "Uto-Aztecan",
+"age_years": 1008.5371992469645,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "greenhill_et_al2023",
+"node": "pima1249",
+"name": "Piman",
+"family": "Uto-Aztecan",
+"age_years": 517.9844832707331,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "greenhill_et_al2023",
+"node": "nort2953",
+"name": "Northern Uto-Aztecan",
+"family": "Uto-Aztecan",
+"age_years": 3463.5525046665334,
+"leaves": 17,
+"branches": 4,
+"monophyletic": true
+},
+{
+"repo": "greenhill_et_al2023",
+"node": "taki1254",
+"name": "Takic",
+"family": "Uto-Aztecan",
+"age_years": 2820.0581736697445,
+"leaves": 6,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "greenhill_et_al2023",
+"node": "cupa1239",
+"name": "Cupan",
+"family": "Uto-Aztecan",
+"age_years": 1720.0967201731555,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "greenhill_et_al2023",
+"node": "cahu1263",
+"name": "Cahuilla-Cupeno",
+"family": "Uto-Aztecan",
+"age_years": 821.6451959674805,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "greenhill_et_al2023",
+"node": "serr1254",
+"name": "Serran",
+"family": "Uto-Aztecan",
+"age_years": 2261.7354971684745,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "greenhill_et_al2023",
+"node": "numi1242",
+"name": "Numic",
+"family": "Uto-Aztecan",
+"age_years": 1345.7700023154039,
+"leaves": 9,
+"branches": 3,
+"monophyletic": true
+},
+{
+"repo": "greenhill_et_al2023",
+"node": "sout2968",
+"name": "Southern Numic",
+"family": "Uto-Aztecan",
+"age_years": 571.1046825257199,
+"leaves": 4,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "greenhill_et_al2023",
+"node": "cent2130",
+"name": "Central Numic",
+"family": "Uto-Aztecan",
+"age_years": 480.5945238980612,
+"leaves": 3,
+"branches": 3,
+"monophyletic": true
+},
+{
+"repo": "greenhill_et_al2023",
+"node": "west2621",
+"name": "Western Numic",
+"family": "Uto-Aztecan",
+"age_years": 614.4177462693169,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "greenhill_et_al2023",
+"node": "kiow1265",
+"name": "Kiowa-Tanoan",
+"family": "Kiowa-Tanoan",
+"age_years": 2076.5471011769896,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "sout3152",
+"name": "Southern Bantoid",
+"family": "Atlantic-Congo",
+"age_years": 6929.699010655273,
+"leaves": 425,
+"branches": 4,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "narr1281",
+"name": "Narrow Bantu",
+"family": "Atlantic-Congo",
+"age_years": 4846.4976367123945,
+"leaves": 410,
+"branches": 4,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "bant1295",
+"name": "Bantu A-B10-B20-B30",
+"family": "Atlantic-Congo",
+"age_years": 4846.4976367123945,
+"leaves": 72,
+"branches": 9,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "leko1248",
+"name": "Greater Manenguba",
+"family": "Atlantic-Congo",
+"age_years": 2159.5072411544697,
+"leaves": 12,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "ngoe1239",
+"name": "Bafaw-Balong-Manenguba",
+"family": "Atlantic-Congo",
+"age_years": 2159.5072411544697,
+"leaves": 11,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "bafa1251",
+"name": "Bafawic-Bakweric",
+"family": "Atlantic-Congo",
+"age_years": 2159.5072411544697,
+"leaves": 5,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "bafa1252",
+"name": "Bafawic",
+"family": "Atlantic-Congo",
+"age_years": 2159.5072411544697,
+"leaves": 4,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "mane1268",
+"name": "Manenguba",
+"family": "Atlantic-Congo",
+"age_years": 1243.4490400541827,
+"leaves": 6,
+"branches": 3,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "cent2284",
+"name": "Central Manenguba",
+"family": "Atlantic-Congo",
+"age_years": 1243.4490400541827,
+"leaves": 4,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "sawa1251",
+"name": "Sawabantu",
+"family": "Atlantic-Congo",
+"age_years": 2038.032301426365,
+"leaves": 5,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "dual1245",
+"name": "Duala-Malimba",
+"family": "Atlantic-Congo",
+"age_years": 684.1594444823204,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "beng1289",
+"name": "Bengaic",
+"family": "Atlantic-Congo",
+"age_years": 1356.2995391212644,
+"leaves": 3,
+"branches": 3,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "basa1292",
+"name": "Basaa-Yaunde (A40-70)",
+"family": "Atlantic-Congo",
+"age_years": 2185.4842150632903,
+"leaves": 13,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "basa1283",
+"name": "Basaa (A.40)",
+"family": "Atlantic-Congo",
+"age_years": 1729.8385399116614,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "abob1234",
+"name": "Abo-Barombi",
+"family": "Atlantic-Congo",
+"age_years": 525.9998920309608,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "yaun1239",
+"name": "Yaunde-Fang (A.70)",
+"family": "Atlantic-Congo",
+"age_years": 1684.6409763020674,
+"leaves": 10,
+"branches": 4,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "ewon1241",
+"name": "Ewondo-Bebele",
+"family": "Atlantic-Congo",
+"age_years": 1684.6409763020674,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "mbam1254",
+"name": "Mbam-Bubi",
+"family": "Atlantic-Congo",
+"age_years": 3748.0422472301398,
+"leaves": 12,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "nige1254",
+"name": "Nigerian Jarawan",
+"family": "Atlantic-Congo",
+"age_years": 1439.412342420087,
+"leaves": 6,
+"branches": 3,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "numa1256",
+"name": "Numan",
+"family": "Atlantic-Congo",
+"age_years": 1014.9454715285501,
+"leaves": 4,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "mbam1252",
+"name": "Mbam",
+"family": "Atlantic-Congo",
+"age_years": 2254.9136505963943,
+"leaves": 11,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "nucl1802",
+"name": "Nuclear Mbam",
+"family": "Atlantic-Congo",
+"age_years": 2254.9136505963943,
+"leaves": 10,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "sana1299",
+"name": "Sanaga-West Mbam (A.40)",
+"family": "Atlantic-Congo",
+"age_years": 2254.9136505963943,
+"leaves": 5,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "west2826",
+"name": "West Mbam (A.40)",
+"family": "Atlantic-Congo",
+"age_years": 2254.9136505963943,
+"leaves": 4,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "mand1474",
+"name": "Mandi-Nyokon",
+"family": "Atlantic-Congo",
+"age_years": 2254.9136505963943,
+"leaves": 3,
+"branches": 3,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "nucl1746",
+"name": "Yambassa (A.60)",
+"family": "Atlantic-Congo",
+"age_years": 1267.558514729084,
+"leaves": 5,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "mmal1234",
+"name": "Mmala-Elip-Gunu",
+"family": "Atlantic-Congo",
+"age_years": 1267.558514729084,
+"leaves": 3,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "elip1240",
+"name": "Elip-Gunu",
+"family": "Atlantic-Congo",
+"age_years": 1267.558514729084,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "bafi1244",
+"name": "Bafia (A.50)",
+"family": "Atlantic-Congo",
+"age_years": 1722.2189913179009,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "maka1327",
+"name": "Makaa-Kako (A.80-90)",
+"family": "Atlantic-Congo",
+"age_years": 1947.795176957572,
+"leaves": 12,
+"branches": 3,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "maka1323",
+"name": "Makaa-Njem (A.80)",
+"family": "Atlantic-Congo",
+"age_years": 1408.1306765925865,
+"leaves": 10,
+"branches": 3,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "west2967",
+"name": "Western A80",
+"family": "Atlantic-Congo",
+"age_years": 944.4264463915997,
+"leaves": 4,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "mvum1239",
+"name": "Mvumboic",
+"family": "Atlantic-Congo",
+"age_years": 551.5469169531561,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "maka1324",
+"name": "Makaaic",
+"family": "Atlantic-Congo",
+"age_years": 859.2660821625186,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "mpoi1234",
+"name": "Mpoic",
+"family": "Atlantic-Congo",
+"age_years": 1036.8922067837157,
+"leaves": 5,
+"branches": 3,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "njem1234",
+"name": "Njemic",
+"family": "Atlantic-Congo",
+"age_years": 149.2663177447521,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "kele1262",
+"name": "Bantu B20B",
+"family": "Atlantic-Congo",
+"age_years": 1675.805823785753,
+"leaves": 9,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "nucl1803",
+"name": "Nuclear Ngomic",
+"family": "Atlantic-Congo",
+"age_years": 1675.805823785753,
+"leaves": 8,
+"branches": 3,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "sake1249",
+"name": "Sake-Ndambomo",
+"family": "Atlantic-Congo",
+"age_years": 665.602572246502,
+"leaves": 4,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "akel1234",
+"name": "Akeleic",
+"family": "Atlantic-Congo",
+"age_years": 546.641314937574,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "b10b1234",
+"name": "B10-B30",
+"family": "Atlantic-Congo",
+"age_years": 2113.4306651962597,
+"leaves": 11,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "tsog1242",
+"name": "Okani (B.30)",
+"family": "Atlantic-Congo",
+"age_years": 2113.4306651962597,
+"leaves": 6,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "nort3213",
+"name": "Northern Okani",
+"family": "Atlantic-Congo",
+"age_years": 467.2737703246312,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "himb1234",
+"name": "Himba-Pinji",
+"family": "Atlantic-Congo",
+"age_years": 467.2737703246312,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "sout3191",
+"name": "Southern Okani",
+"family": "Atlantic-Congo",
+"age_years": 2113.4306651962597,
+"leaves": 3,
+"branches": 3,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "grea1288",
+"name": "Bantu B20A",
+"family": "Atlantic-Congo",
+"age_years": 1815.4232578080046,
+"leaves": 6,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "sigu1235",
+"name": "Siguic",
+"family": "Atlantic-Congo",
+"age_years": 756.4673524901864,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "ndas1240",
+"name": "Ndasa-Wumbvu",
+"family": "Atlantic-Congo",
+"age_years": 182.7745116029837,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "kota1283",
+"name": "Kotaic",
+"family": "Atlantic-Congo",
+"age_years": 1086.3400751959398,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "kota1281",
+"name": "Kota-Mahongwe",
+"family": "Atlantic-Congo",
+"age_years": 433.09704901015994,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "cent2260",
+"name": "Central-Western Bantu",
+"family": "Atlantic-Congo",
+"age_years": 3917.7663790047986,
+"leaves": 152,
+"branches": 5,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "west2968",
+"name": "West-Coastal Bantu",
+"family": "Atlantic-Congo",
+"age_years": 3243.423093014042,
+"leaves": 63,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "nzad1235",
+"name": "Nzadic",
+"family": "Atlantic-Congo",
+"age_years": 3243.423093014042,
+"leaves": 62,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "lwer1234",
+"name": "Lweric",
+"family": "Atlantic-Congo",
+"age_years": 3243.423093014042,
+"leaves": 61,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "ding1244",
+"name": "Dingic",
+"family": "Atlantic-Congo",
+"age_years": 3243.423093014042,
+"leaves": 60,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "loan1238",
+"name": "Loange-Atlantic",
+"family": "Atlantic-Congo",
+"age_years": 3243.423093014042,
+"leaves": 57,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "klce1234",
+"name": "KLC Extended",
+"family": "Atlantic-Congo",
+"age_years": 3243.423093014042,
+"leaves": 34,
+"branches": 3,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "kiko1235",
+"name": "Kikongo Language Cluster",
+"family": "Atlantic-Congo",
+"age_years": 2510.088535996956,
+"leaves": 30,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "nucl1804",
+"name": "Nuclear KLC",
+"family": "Atlantic-Congo",
+"age_years": 2510.088535996956,
+"leaves": 29,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "kiko1234",
+"name": "Kikongoic",
+"family": "Atlantic-Congo",
+"age_years": 2510.088535996956,
+"leaves": 27,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "kamb1321",
+"name": "Kambakunyic Kikongo",
+"family": "Atlantic-Congo",
+"age_years": 2510.088535996956,
+"leaves": 26,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "kila1239",
+"name": "Kilaadic Kikongo",
+"family": "Atlantic-Congo",
+"age_years": 2510.088535996956,
+"leaves": 25,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "sout3249",
+"name": "Central-Southern Kikongo",
+"family": "Atlantic-Congo",
+"age_years": 2510.088535996956,
+"leaves": 22,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "west2874",
+"name": "West Kikongo",
+"family": "Atlantic-Congo",
+"age_years": 2510.088535996956,
+"leaves": 13,
+"branches": 3,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "vili1240",
+"name": "Vilic",
+"family": "Atlantic-Congo",
+"age_years": 2021.5626291628214,
+"leaves": 8,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "lumb1251",
+"name": "Lumbuic",
+"family": "Atlantic-Congo",
+"age_years": 1570.4628091636769,
+"leaves": 6,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "ngub1240",
+"name": "Ngubi-Sangu-Sira-Punu",
+"family": "Atlantic-Congo",
+"age_years": 1203.8294311605514,
+"leaves": 5,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "sang1341",
+"name": "Sangu-Sira-Punu",
+"family": "Atlantic-Congo",
+"age_years": 786.0684261579063,
+"leaves": 4,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "sang1345",
+"name": "Sangu-Sira",
+"family": "Atlantic-Congo",
+"age_years": 786.0684261579063,
+"leaves": 3,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "nort3267",
+"name": "Nuclear Northern Kikongo",
+"family": "Atlantic-Congo",
+"age_years": 1096.2302872121109,
+"leaves": 3,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "sout3353",
+"name": "Southeastern Kikongo",
+"family": "Atlantic-Congo",
+"age_years": 1424.4777311258613,
+"leaves": 9,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "yaka1278",
+"name": "Yaka-Suku",
+"family": "Atlantic-Congo",
+"age_years": 714.8785444627501,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "kwil1238",
+"name": "Kwilu-Ngounie",
+"family": "Atlantic-Congo",
+"age_years": 2837.3132005274497,
+"leaves": 23,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "kasa1251",
+"name": "Kasai-Ngounie",
+"family": "Atlantic-Congo",
+"age_years": 2837.3132005274497,
+"leaves": 22,
+"branches": 3,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "inte1264",
+"name": "Interior Kasai-Ngounie",
+"family": "Atlantic-Congo",
+"age_years": 2144.835540098833,
+"leaves": 17,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "nort3377",
+"name": "Northwest Kasai-Ngounie",
+"family": "Atlantic-Congo",
+"age_years": 2144.835540098833,
+"leaves": 16,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "njeb1244",
+"name": "Njebi (B.50)",
+"family": "Atlantic-Congo",
+"age_years": 1435.6735262662341,
+"leaves": 7,
+"branches": 3,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "ndja1235",
+"name": "Ndjavi B",
+"family": "Atlantic-Congo",
+"age_years": 979.8298701766089,
+"leaves": 4,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "ndja1234",
+"name": "Ndjavi A",
+"family": "Atlantic-Congo",
+"age_years": 350.62311946905083,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "mber1262",
+"name": "Mbere (B.60)",
+"family": "Atlantic-Congo",
+"age_years": 1248.7835668897023,
+"leaves": 9,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "tsit1235",
+"name": "Tsitsekeic",
+"family": "Atlantic-Congo",
+"age_years": 1248.7835668897023,
+"leaves": 6,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "leka1234",
+"name": "Lekaningic",
+"family": "Atlantic-Congo",
+"age_years": 1248.7835668897023,
+"leaves": 5,
+"branches": 3,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "plat1262",
+"name": "Plateau Kasai-Ngounie",
+"family": "Atlantic-Congo",
+"age_years": 1165.907345145275,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "saka1301",
+"name": "Sakata-Tiinic",
+"family": "Atlantic-Congo",
+"age_years": 2168.806314829075,
+"leaves": 3,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "boma1248",
+"name": "Tiinic",
+"family": "Atlantic-Congo",
+"age_years": 2168.806314829075,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "nson1239",
+"name": "Nsong-Mpiin-Ngong",
+"family": "Atlantic-Congo",
+"age_years": 1075.1463475849969,
+"leaves": 3,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "east2731",
+"name": "East Bantu",
+"family": "Atlantic-Congo",
+"age_years": 2740.395679311184,
+"leaves": 174,
+"branches": 12,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "nyan1317",
+"name": "Greater Lega",
+"family": "Atlantic-Congo",
+"age_years": 2407.628782509082,
+"leaves": 8,
+"branches": 4,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "mitu1241",
+"name": "Mituku-Lega",
+"family": "Atlantic-Congo",
+"age_years": 1791.9878845467947,
+"leaves": 4,
+"branches": 3,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "mitu1242",
+"name": "Mitukuic",
+"family": "Atlantic-Congo",
+"age_years": 1682.2153587265839,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "nort3376",
+"name": "North Zaire River",
+"family": "Atlantic-Congo",
+"age_years": 3917.7663790047986,
+"leaves": 61,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "rive1266",
+"name": "Rivers Bantu",
+"family": "Atlantic-Congo",
+"age_years": 3917.7663790047986,
+"leaves": 41,
+"branches": 3,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "ngir1248",
+"name": "Ngiri",
+"family": "Atlantic-Congo",
+"age_years": 3917.7663790047986,
+"leaves": 27,
+"branches": 3,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "ngir1250",
+"name": "Ngiri Terrien",
+"family": "Atlantic-Congo",
+"age_years": 3917.7663790047986,
+"leaves": 19,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "ngom1276",
+"name": "Ngombe-Ababuan",
+"family": "Atlantic-Congo",
+"age_years": 3917.7663790047986,
+"leaves": 15,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "abab1240",
+"name": "Ababuan",
+"family": "Atlantic-Congo",
+"age_years": 3917.7663790047986,
+"leaves": 14,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "oldb1234",
+"name": "Old Bomokandian",
+"family": "Atlantic-Congo",
+"age_years": 3917.7663790047986,
+"leaves": 13,
+"branches": 3,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "komo1265",
+"name": "Komoic",
+"family": "Atlantic-Congo",
+"age_years": 3917.7663790047986,
+"leaves": 6,
+"branches": 3,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "nort3203",
+"name": "Northeast Savanna Bantu",
+"family": "Atlantic-Congo",
+"age_years": 2407.7680355943085,
+"leaves": 112,
+"branches": 7,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "cent2274",
+"name": "Central Kenya Bantu",
+"family": "Atlantic-Congo",
+"age_years": 1866.311608204248,
+"leaves": 19,
+"branches": 4,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "giku1234",
+"name": "Gikuyu-Temi",
+"family": "Atlantic-Congo",
+"age_years": 1524.7083294537588,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "east2901",
+"name": "Eastern Kirinyaga",
+"family": "Atlantic-Congo",
+"age_years": 1866.311608204248,
+"leaves": 11,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "nort3413",
+"name": "Northern Kirinyaga",
+"family": "Atlantic-Congo",
+"age_years": 1866.311608204248,
+"leaves": 10,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "nith1234",
+"name": "Nithi-Meru",
+"family": "Atlantic-Congo",
+"age_years": 1866.311608204248,
+"leaves": 9,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "kamb1323",
+"name": "Kamba-Dhaisu",
+"family": "Atlantic-Congo",
+"age_years": 1306.626395343389,
+"leaves": 4,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "kili1269",
+"name": "Kilimanjaro-Taita",
+"family": "Atlantic-Congo",
+"age_years": 1866.311608204248,
+"leaves": 13,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "nort3209",
+"name": "Northeast Coastal Bantu",
+"family": "Atlantic-Congo",
+"age_years": 2144.2906309930113,
+"leaves": 31,
+"branches": 3,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "ruvu1235",
+"name": "Ruvu",
+"family": "Atlantic-Congo",
+"age_years": 2144.2906309930113,
+"leaves": 13,
+"branches": 3,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "west2846",
+"name": "West Ruvu",
+"family": "Atlantic-Congo",
+"age_years": 2144.2906309930113,
+"leaves": 6,
+"branches": 3,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "chag1248",
+"name": "Kilimanjaro Bantu",
+"family": "Atlantic-Congo",
+"age_years": 1484.466231957098,
+"leaves": 12,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "chag1250",
+"name": "Chaga",
+"family": "Atlantic-Congo",
+"age_years": 1328.8612125104228,
+"leaves": 11,
+"branches": 3,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "cent2286",
+"name": "Central Kilimanjaro",
+"family": "Atlantic-Congo",
+"age_years": 929.3078296650529,
+"leaves": 5,
+"branches": 3,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "pare1274",
+"name": "Pare-Taveta",
+"family": "Atlantic-Congo",
+"age_years": 907.4032670486949,
+"leaves": 4,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "coas1317",
+"name": "Coastal NEC Bantu",
+"family": "Atlantic-Congo",
+"age_years": 1546.4074653442103,
+"leaves": 14,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "saba1282",
+"name": "Sabaki-Swahili",
+"family": "Atlantic-Congo",
+"age_years": 1546.4074653442103,
+"leaves": 8,
+"branches": 3,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "miji1240",
+"name": "Mijikenda-Pokomo-Comorian",
+"family": "Atlantic-Congo",
+"age_years": 1546.4074653442103,
+"leaves": 6,
+"branches": 3,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "miji1238",
+"name": "Mijikenda",
+"family": "Atlantic-Congo",
+"age_years": 600.193634733464,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "swah1254",
+"name": "Swahili (G.40)",
+"family": "Atlantic-Congo",
+"age_years": 1079.7487576764825,
+"leaves": 6,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "como1260",
+"name": "Comorian Bantu",
+"family": "Atlantic-Congo",
+"age_years": 537.2505514419136,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "shin1269",
+"name": "Shindzwani-Shimaore",
+"family": "Atlantic-Congo",
+"age_years": 262.2661775921242,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "east2756",
+"name": "East Ruvu",
+"family": "Atlantic-Congo",
+"age_years": 1453.5278236035347,
+"leaves": 6,
+"branches": 3,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "cent2287",
+"name": "Central East Ruvu",
+"family": "Atlantic-Congo",
+"age_years": 1005.1041424417972,
+"leaves": 4,
+"branches": 3,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "kutu1267",
+"name": "Kutu-Zaramo",
+"family": "Atlantic-Congo",
+"age_years": 438.19019125631075,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "seut1234",
+"name": "Seuta",
+"family": "Atlantic-Congo",
+"age_years": 940.8766639766518,
+"leaves": 4,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "bond1249",
+"name": "Bondei-Shambala",
+"family": "Atlantic-Congo",
+"age_years": 363.6258269441414,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "zigu1243",
+"name": "Zigua-Nguu",
+"family": "Atlantic-Congo",
+"age_years": 940.8766639766518,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "pogo1242",
+"name": "Kilombero",
+"family": "Atlantic-Congo",
+"age_years": 1174.0071984182814,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "west3018",
+"name": "West Kilombero",
+"family": "Atlantic-Congo",
+"age_years": 769.4944735892832,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "sout3185",
+"name": "Southern Tanzania Highlands Bantu",
+"family": "Atlantic-Congo",
+"age_years": 1483.7735410523692,
+"leaves": 8,
+"branches": 5,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "wanj1243",
+"name": "Wanji-Sangu",
+"family": "Atlantic-Congo",
+"age_years": 611.7096898571745,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "bena1273",
+"name": "Bena-Hehe",
+"family": "Atlantic-Congo",
+"age_years": 491.97058623918383,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "mand1475",
+"name": "Manda-Ngoni",
+"family": "Atlantic-Congo",
+"age_years": 671.2497324715132,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "rufi1235",
+"name": "Rufiji-Ruvuma",
+"family": "Atlantic-Congo",
+"age_years": 1577.36180814396,
+"leaves": 10,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "rufi1236",
+"name": "Rufijic",
+"family": "Atlantic-Congo",
+"age_years": 1235.0714345638353,
+"leaves": 6,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "mate1263",
+"name": "Matengo-Rufiji",
+"family": "Atlantic-Congo",
+"age_years": 1235.0714345638353,
+"leaves": 5,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "mate1261",
+"name": "South Mbinda",
+"family": "Atlantic-Congo",
+"age_years": 545.6572190148036,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "matu1263",
+"name": "Matandu",
+"family": "Atlantic-Congo",
+"age_years": 694.0029540119713,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "ruvu1234",
+"name": "Ruvuma",
+"family": "Atlantic-Congo",
+"age_years": 1180.547943935314,
+"leaves": 4,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "yaoi1234",
+"name": "Yaoic",
+"family": "Atlantic-Congo",
+"age_years": 598.0085755911214,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "sout3387",
+"name": "Southern Bantu",
+"family": "Atlantic-Congo",
+"age_years": 1641.3816029139261,
+"leaves": 11,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "nucl1826",
+"name": "Nuclear Southern Bantu",
+"family": "Atlantic-Congo",
+"age_years": 1453.7187411382947,
+"leaves": 9,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "dims1234",
+"name": "Dimsuffix Southern Bantu",
+"family": "Atlantic-Congo",
+"age_years": 1264.8301688139964,
+"leaves": 8,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "west2997",
+"name": "Western Sotho-Tswana",
+"family": "Atlantic-Congo",
+"age_years": 1041.8819903350468,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "cent2406",
+"name": "Central Sotho-Tswana",
+"family": "Atlantic-Congo",
+"age_years": 1041.8819903350468,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "ngun1280",
+"name": "Nguni-Tsonga-Copi",
+"family": "Atlantic-Congo",
+"age_years": 930.6581755669813,
+"leaves": 5,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "ngun1267",
+"name": "Southern Ndebele-Lowland",
+"family": "Atlantic-Congo",
+"age_years": 450.8520897487806,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "tswa1254",
+"name": "Tswa-Ronga (S.50)",
+"family": "Atlantic-Congo",
+"age_years": 276.75741196597664,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "shon1250",
+"name": "Shona (S.10)",
+"family": "Atlantic-Congo",
+"age_years": 858.4446748910168,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "tumb1253",
+"name": "Tumbuka-Sena-Nyanja",
+"family": "Atlantic-Congo",
+"age_years": 1578.8422054660032,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "sena1271",
+"name": "Sena-Nyanja",
+"family": "Atlantic-Congo",
+"age_years": 755.0156193206813,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "maku1279",
+"name": "Makua-Lomwe",
+"family": "Atlantic-Congo",
+"age_years": 390.77512827354167,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "suku1274",
+"name": "Sukuma-Nyamwezi (F.20)",
+"family": "Atlantic-Congo",
+"age_years": 1776.7388818517302,
+"leaves": 5,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "nyam1286",
+"name": "Nyamwezic",
+"family": "Atlantic-Congo",
+"age_years": 1465.1295622447851,
+"leaves": 4,
+"branches": 3,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "nyat1247",
+"name": "Nyaturu-Nilamba",
+"family": "Atlantic-Congo",
+"age_years": 1144.618722434494,
+"leaves": 3,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "corr1234",
+"name": "Corridor Bantu",
+"family": "Atlantic-Congo",
+"age_years": 1904.369936601037,
+"leaves": 14,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "mboz1235",
+"name": "Mbozi",
+"family": "Atlantic-Congo",
+"age_years": 1904.369936601037,
+"leaves": 12,
+"branches": 3,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "mwik1240",
+"name": "Mwika",
+"family": "Atlantic-Congo",
+"age_years": 1904.369936601037,
+"leaves": 8,
+"branches": 3,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "nyak1264",
+"name": "Nyakyusa-Ndali",
+"family": "Atlantic-Congo",
+"age_years": 734.2500343624606,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "nyik1250",
+"name": "Nyika-Lambya",
+"family": "Atlantic-Congo",
+"age_years": 991.0041986883089,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "mbey1234",
+"name": "Mbeya",
+"family": "Atlantic-Congo",
+"age_years": 414.18354399527016,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "fipa1240",
+"name": "Fipaic",
+"family": "Atlantic-Congo",
+"age_years": 1314.75060623625,
+"leaves": 6,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "malu1251",
+"name": "Maluwawaru",
+"family": "Atlantic-Congo",
+"age_years": 1314.75060623625,
+"leaves": 5,
+"branches": 4,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "grea1289",
+"name": "Great Lakes Bantu",
+"family": "Atlantic-Congo",
+"age_years": 2200.4416731416277,
+"leaves": 35,
+"branches": 4,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "kivu1239",
+"name": "Kivu",
+"family": "Atlantic-Congo",
+"age_years": 1662.7248140410393,
+"leaves": 6,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "rwan1241",
+"name": "West Highlands Kivu",
+"family": "Atlantic-Congo",
+"age_years": 974.1000984643024,
+"leaves": 5,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "rund1244",
+"name": "Rundic",
+"family": "Atlantic-Congo",
+"age_years": 974.1000984643024,
+"leaves": 4,
+"branches": 3,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "hang1264",
+"name": "Hangaza-Shubi",
+"family": "Atlantic-Congo",
+"age_years": 288.5200624434556,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "west2841",
+"name": "West Nyanza",
+"family": "Atlantic-Congo",
+"age_years": 1806.5963306703607,
+"leaves": 11,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "ruta1242",
+"name": "Rutara",
+"family": "Atlantic-Congo",
+"age_years": 1263.0201887152634,
+"leaves": 8,
+"branches": 4,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "nkor1240",
+"name": "Nkore-Kiga-Nyoro-Tooro",
+"family": "Atlantic-Congo",
+"age_years": 668.9334110943346,
+"leaves": 4,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "nyor1247",
+"name": "Nyoro-Tooro",
+"family": "Atlantic-Congo",
+"age_years": 358.9143989258773,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "nkor1241",
+"name": "Nkore-Kiga",
+"family": "Atlantic-Congo",
+"age_years": 342.40773099071885,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "sout3202",
+"name": "South Rutara",
+"family": "Atlantic-Congo",
+"age_years": 404.5236980817954,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "nort3220",
+"name": "North Nyanza",
+"family": "Atlantic-Congo",
+"age_years": 1020.1703429194349,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "sout3420",
+"name": "South Kyoga",
+"family": "Atlantic-Congo",
+"age_years": 932.7487528801248,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "grea1291",
+"name": "Greater Luyia",
+"family": "Atlantic-Congo",
+"age_years": 1160.8470362126163,
+"leaves": 5,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "saam1284",
+"name": "Saamia-Wanga-Bukusu",
+"family": "Atlantic-Congo",
+"age_years": 1160.8470362126163,
+"leaves": 4,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "nort3404",
+"name": "Northern Luyia",
+"family": "Atlantic-Congo",
+"age_years": 544.2994493652104,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "east2750",
+"name": "East Nyanza",
+"family": "Atlantic-Congo",
+"age_years": 1669.427650808403,
+"leaves": 13,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "sugu1245",
+"name": "Suguti",
+"family": "Atlantic-Congo",
+"age_years": 872.9660787358762,
+"leaves": 3,
+"branches": 3,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "nyan1318",
+"name": "Nyanza Mara",
+"family": "Atlantic-Congo",
+"age_years": 1229.8569065328447,
+"leaves": 10,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "sout3201",
+"name": "South Mara",
+"family": "Atlantic-Congo",
+"age_years": 1229.8569065328447,
+"leaves": 5,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "west2987",
+"name": "Western Serengeti",
+"family": "Atlantic-Congo",
+"age_years": 1229.8569065328447,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "nort3227",
+"name": "North Mara",
+"family": "Atlantic-Congo",
+"age_years": 923.1281580553741,
+"leaves": 5,
+"branches": 3,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "sout3373",
+"name": "Southwest Mara",
+"family": "Atlantic-Congo",
+"age_years": 743.6445569553271,
+"leaves": 3,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "malu1252",
+"name": "Malungu-Central Sabi",
+"family": "Atlantic-Congo",
+"age_years": 1286.3282325396667,
+"leaves": 4,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "cent2321",
+"name": "Central Sabi",
+"family": "Atlantic-Congo",
+"age_years": 707.193809428034,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "bisa1262",
+"name": "Bisa-Lamba (M.50)",
+"family": "Atlantic-Congo",
+"age_years": 293.42005795229124,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "lenj1247",
+"name": "Greater Eastern Botatwe",
+"family": "Atlantic-Congo",
+"age_years": 1115.737251686066,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "kafu1239",
+"name": "Kafue",
+"family": "Atlantic-Congo",
+"age_years": 1115.737251686066,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "luba1253",
+"name": "Luban",
+"family": "Atlantic-Congo",
+"age_years": 3519.3912179954395,
+"leaves": 9,
+"branches": 3,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "luba1254",
+"name": "Luba-Kaonde",
+"family": "Atlantic-Congo",
+"age_years": 2103.6565479245637,
+"leaves": 7,
+"branches": 3,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "kaon1242",
+"name": "Kaonde-Shaba-Sanga",
+"family": "Atlantic-Congo",
+"age_years": 1440.676806477436,
+"leaves": 3,
+"branches": 3,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "luba1255",
+"name": "Lubaic",
+"family": "Atlantic-Congo",
+"age_years": 2103.6565479245637,
+"leaves": 3,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "bang1371",
+"name": "Bangubangu-Kasai",
+"family": "Atlantic-Congo",
+"age_years": 2103.6565479245637,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "ngbe1239",
+"name": "Ngbele-Ngenda",
+"family": "Atlantic-Congo",
+"age_years": 3917.7663790047986,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "njil1234",
+"name": "Njila",
+"family": "Atlantic-Congo",
+"age_years": 3519.3912179954395,
+"leaves": 18,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "sout3233",
+"name": "Southern Njila",
+"family": "Atlantic-Congo",
+"age_years": 2723.5115043921633,
+"leaves": 12,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "chok1246",
+"name": "Chokwe-Lunda",
+"family": "Atlantic-Congo",
+"age_years": 2723.5115043921633,
+"leaves": 6,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "chok1244",
+"name": "Chokwe-Ngangela-Nyemba (K.20)",
+"family": "Atlantic-Congo",
+"age_years": 1292.797623249342,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "chok1247",
+"name": "Chokwe-Lwena",
+"family": "Atlantic-Congo",
+"age_years": 968.2580695921888,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "kune1234",
+"name": "Kunene",
+"family": "Atlantic-Congo",
+"age_years": 1619.5724007964236,
+"leaves": 6,
+"branches": 3,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "kwan1288",
+"name": "Kwangali-Diriku",
+"family": "Atlantic-Congo",
+"age_years": 783.0929376397262,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "cimb1239",
+"name": "Cimbebasia",
+"family": "Atlantic-Congo",
+"age_years": 1156.7361823666224,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "ndon1253",
+"name": "Ndonga (R.20)",
+"family": "Atlantic-Congo",
+"age_years": 782.2624651902697,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "ruun1239",
+"name": "Ruund-Salampasu",
+"family": "Atlantic-Congo",
+"age_years": 1638.248535632074,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "lund1275",
+"name": "Lunda-Ruund-Kete",
+"family": "Atlantic-Congo",
+"age_years": 1512.5771979015717,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "nort3257",
+"name": "Northern Njila",
+"family": "Atlantic-Congo",
+"age_years": 2099.8405007122747,
+"leaves": 6,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "mbal1259",
+"name": "Mbala-Holu-Sondi (K.10)",
+"family": "Atlantic-Congo",
+"age_years": 2099.8405007122747,
+"leaves": 5,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "holu1246",
+"name": "Holu (K.10)",
+"family": "Atlantic-Congo",
+"age_years": 2099.8405007122747,
+"leaves": 3,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "phee1234",
+"name": "Pheende-Kwezo",
+"family": "Atlantic-Congo",
+"age_years": 2099.8405007122747,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "mbal1260",
+"name": "Mbala-Sondi",
+"family": "Atlantic-Congo",
+"age_years": 1381.9491647948998,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "liko1251",
+"name": "Likouala-Sangha",
+"family": "Atlantic-Congo",
+"age_years": 2432.3836222769287,
+"leaves": 5,
+"branches": 4,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "ngir1252",
+"name": "Ngiri Riverain Ubangi",
+"family": "Atlantic-Congo",
+"age_years": 2883.5773427071495,
+"leaves": 5,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "ngir1254",
+"name": "Ngiri Riverain Ubangi-Ripuaire",
+"family": "Atlantic-Congo",
+"age_years": 2883.5773427071495,
+"leaves": 4,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "boba1248",
+"name": "Bobangic",
+"family": "Atlantic-Congo",
+"age_years": 2883.5773427071495,
+"leaves": 3,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "boba1250",
+"name": "Bobangi-Bangala-Lingala",
+"family": "Atlantic-Congo",
+"age_years": 2883.5773427071495,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "koyo1244",
+"name": "Mboshi (C.20)",
+"family": "Atlantic-Congo",
+"age_years": 1016.0111294842709,
+"leaves": 9,
+"branches": 3,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "koyo1245",
+"name": "Koyo-Mboshi",
+"family": "Atlantic-Congo",
+"age_years": 1016.0111294842709,
+"leaves": 7,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "bamw1239",
+"name": "Bamweic",
+"family": "Atlantic-Congo",
+"age_years": 903.6132483166184,
+"leaves": 4,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "ngir1251",
+"name": "Ngiri Riverain Mongala",
+"family": "Atlantic-Congo",
+"age_years": 1537.630775872737,
+"leaves": 3,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "mote1237",
+"name": "Motemboic",
+"family": "Atlantic-Congo",
+"age_years": 1537.630775872737,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "midd1348",
+"name": "Middle Bomokandian",
+"family": "Atlantic-Congo",
+"age_years": 2482.3214523020506,
+"leaves": 5,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "paga1238",
+"name": "Pagabeteic",
+"family": "Atlantic-Congo",
+"age_years": 2482.3214523020506,
+"leaves": 4,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "bila1258",
+"name": "Bilaic",
+"family": "Atlantic-Congo",
+"age_years": 1276.3510169941537,
+"leaves": 4,
+"branches": 3,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "inne1246",
+"name": "Inner Basin Bantu",
+"family": "Atlantic-Congo",
+"age_years": 3444.659866738065,
+"leaves": 20,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "kele1263",
+"name": "Kele-Poke",
+"family": "Atlantic-Congo",
+"age_years": 3149.6496729119135,
+"leaves": 13,
+"branches": 3,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "sole1244",
+"name": "So-Lebonya",
+"family": "Atlantic-Congo",
+"age_years": 3149.6496729119135,
+"leaves": 10,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "lebo1246",
+"name": "Lebonya",
+"family": "Atlantic-Congo",
+"age_years": 3149.6496729119135,
+"leaves": 8,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "nyal1255",
+"name": "Bantu D33",
+"family": "Atlantic-Congo",
+"age_years": 1340.4447403019394,
+"leaves": 7,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "budu1266",
+"name": "Budu-Ndaka-Mbo",
+"family": "Atlantic-Congo",
+"age_years": 1340.4447403019394,
+"leaves": 5,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "vanu1247",
+"name": "Vanuma-Nyali",
+"family": "Atlantic-Congo",
+"age_years": 1281.313091087627,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "ndak1244",
+"name": "Ndaka-Mbo",
+"family": "Atlantic-Congo",
+"age_years": 467.6774091003381,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "kele1265",
+"name": "Kele-Lombo",
+"family": "Atlantic-Congo",
+"age_years": 1570.309059820669,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "vieu1234",
+"name": "Cuvette",
+"family": "Atlantic-Congo",
+"age_years": 2403.4792415859065,
+"leaves": 7,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "nkut1239",
+"name": "Nkutsuic",
+"family": "Atlantic-Congo",
+"age_years": 2403.4792415859065,
+"leaves": 5,
+"branches": 4,
+"monophyletic": false
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "bush1251",
+"name": "Bushoong-Wongo-Lele",
+"family": "Atlantic-Congo",
+"age_years": 751.4367614542507,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "narr1282",
+"name": "Narrow Grassfields",
+"family": "Atlantic-Congo",
+"age_years": 3081.544292102464,
+"leaves": 8,
+"branches": 3,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "cent2385",
+"name": "Center-West Ring",
+"family": "Atlantic-Congo",
+"age_years": 1213.2715589361542,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "komk1239",
+"name": "Komic",
+"family": "Atlantic-Congo",
+"age_years": 407.6738180204702,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "sout3350",
+"name": "Southern Mbam-Nkam",
+"family": "Atlantic-Congo",
+"age_years": 826.2949721109526,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "mbam1253",
+"name": "Mbam-Nkam Nun",
+"family": "Atlantic-Congo",
+"age_years": 536.2248489583344,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "grollemund_et_al2015",
+"node": "momo1242",
+"name": "Momo",
+"family": "Atlantic-Congo",
+"age_years": 715.6798556790227,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "honkola_et_al2013",
+"node": "ural1272",
+"name": "Uralic",
+"family": "Uralic",
+"age_years": 5266.0540829908,
+"leaves": 17,
+"branches": 9,
+"monophyletic": true
+},
+{
+"repo": "honkola_et_al2013",
+"node": "samo1298",
+"name": "Samoyedic",
+"family": "Uralic",
+"age_years": 2094.7669771746873,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "honkola_et_al2013",
+"node": "perm1256",
+"name": "Permian",
+"family": "Uralic",
+"age_years": 1192.679751849802,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "honkola_et_al2013",
+"node": "saam1281",
+"name": "Saami",
+"family": "Uralic",
+"age_years": 805.3288073145197,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "honkola_et_al2013",
+"node": "west2390",
+"name": "Western Saami",
+"family": "Uralic",
+"age_years": 473.56571266266343,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "honkola_et_al2013",
+"node": "coas1319",
+"name": "Coastal Finnic",
+"family": "Uralic",
+"age_years": 1206.5852943204277,
+"leaves": 5,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "honkola_et_al2013",
+"node": "neva1234",
+"name": "Neva",
+"family": "Uralic",
+"age_years": 1206.5852943204277,
+"leaves": 4,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "honkola_et_al2013",
+"node": "nort3282",
+"name": "North Finnic",
+"family": "Uralic",
+"age_years": 795.0596173942827,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "honkola_et_al2013",
+"node": "lado1234",
+"name": "Ladogan",
+"family": "Uralic",
+"age_years": 459.92841935788033,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "hruschka_et_al2015",
+"node": "turk1311",
+"name": "Turkic",
+"family": "Turkic",
+"age_years": 2194.6720163640503,
+"leaves": 26,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "hruschka_et_al2015",
+"node": "comm1245",
+"name": "Common Turkic",
+"family": "Turkic",
+"age_years": 2038.4171392845,
+"leaves": 25,
+"branches": 6,
+"monophyletic": true
+},
+{
+"repo": "hruschka_et_al2015",
+"node": "kipc1240",
+"name": "Kipchak-Turkestan",
+"family": "Turkic",
+"age_years": 2038.4171392845,
+"leaves": 11,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "hruschka_et_al2015",
+"node": "kipc1239",
+"name": "Kipchak",
+"family": "Turkic",
+"age_years": 2038.4171392845,
+"leaves": 9,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "hruschka_et_al2015",
+"node": "sout3396",
+"name": "Southeast Kipchak",
+"family": "Turkic",
+"age_years": 2038.4171392845,
+"leaves": 5,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "hruschka_et_al2015",
+"node": "east2791",
+"name": "East Kipchak",
+"family": "Turkic",
+"age_years": 2038.4171392845,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "hruschka_et_al2015",
+"node": "yeni1256",
+"name": "Sayan-Yenisei Turkic",
+"family": "Turkic",
+"age_years": 1527.4822401756,
+"leaves": 4,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "hruschka_et_al2015",
+"node": "yeni1251",
+"name": "Yenisey Turkic",
+"family": "Turkic",
+"age_years": 482.7789684622501,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "hruschka_et_al2015",
+"node": "nort2688",
+"name": "Sakha-Dolgan",
+"family": "Turkic",
+"age_years": 224.56865657370054,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "hruschka_et_al2015",
+"node": "saya1244",
+"name": "Sayan",
+"family": "Turkic",
+"age_years": 464.79424127675,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "hruschka_et_al2015",
+"node": "oghu1243",
+"name": "Oghuz",
+"family": "Turkic",
+"age_years": 1769.2947553168997,
+"leaves": 6,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "hruschka_et_al2015",
+"node": "nucl1769",
+"name": "Nuclear Oghuz",
+"family": "Turkic",
+"age_years": 1769.2947553168997,
+"leaves": 5,
+"branches": 3,
+"monophyletic": false
+},
+{
+"repo": "hruschka_et_al2015",
+"node": "west2406",
+"name": "West Oghuz",
+"family": "Turkic",
+"age_years": 1769.2947553168997,
+"leaves": 3,
+"branches": 3,
+"monophyletic": false
+},
+{
+"repo": "hruschka_et_al2015",
+"node": "nort3424",
+"name": "Northwest Kipchak",
+"family": "Turkic",
+"age_years": 1769.2947553168997,
+"leaves": 4,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "hruschka_et_al2015",
+"node": "west1472",
+"name": "West Kipchak",
+"family": "Turkic",
+"age_years": 1769.2947553168997,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "hruschka_et_al2015",
+"node": "uygh1240",
+"name": "Modern Turkestan",
+"family": "Turkic",
+"age_years": 919.0644953150004,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "hruschka_et_al2015",
+"node": "bash1267",
+"name": "Bashkiric",
+"family": "Turkic",
+"age_years": 376.69667403564995,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "hruschka_et_al2015",
+"node": "sout2701",
+"name": "South Kipchak",
+"family": "Turkic",
+"age_years": 513.8219860407999,
+"leaves": 3,
+"branches": 3,
+"monophyletic": true
+},
+{
+"repo": "kitchen_et_al2009",
+"node": "semi1276",
+"name": "Semitic",
+"family": "Afro-Asiatic",
+"age_years": 5756.836560989343,
+"leaves": 25,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "kitchen_et_al2009",
+"node": "west2786",
+"name": "West Semitic",
+"family": "Afro-Asiatic",
+"age_years": 5306.0162223307825,
+"leaves": 24,
+"branches": 3,
+"monophyletic": true
+},
+{
+"repo": "kitchen_et_al2009",
+"node": "ethi1244",
+"name": "Ethiosemitic",
+"family": "Afro-Asiatic",
+"age_years": 2818.804920694631,
+"leaves": 15,
+"branches": 4,
+"monophyletic": true
+},
+{
+"repo": "kitchen_et_al2009",
+"node": "sout3078",
+"name": "South Ethiopic",
+"family": "Afro-Asiatic",
+"age_years": 2077.9583230782787,
+"leaves": 12,
+"branches": 3,
+"monophyletic": true
+},
+{
+"repo": "kitchen_et_al2009",
+"node": "oute1258",
+"name": "Outer South Ethiopic",
+"family": "Afro-Asiatic",
+"age_years": 2077.9583230782787,
+"leaves": 7,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "kitchen_et_al2009",
+"node": "ngro1237",
+"name": "N-Group",
+"family": "Afro-Asiatic",
+"age_years": 2077.9583230782787,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "kitchen_et_al2009",
+"node": "ttgr1237",
+"name": "TT-Group",
+"family": "Afro-Asiatic",
+"age_years": 969.3879010705305,
+"leaves": 5,
+"branches": 3,
+"monophyletic": true
+},
+{
+"repo": "kitchen_et_al2009",
+"node": "inor1239",
+"name": "Peripheral Western Gurage",
+"family": "Afro-Asiatic",
+"age_years": 457.2061185934326,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "kitchen_et_al2009",
+"node": "hara1270",
+"name": "Harari-East Gurage",
+"family": "Afro-Asiatic",
+"age_years": 1223.6693492709646,
+"leaves": 3,
+"branches": 3,
+"monophyletic": true
+},
+{
+"repo": "kitchen_et_al2009",
+"node": "amha1244",
+"name": "Amharic-Argobba",
+"family": "Afro-Asiatic",
+"age_years": 942.3929222404995,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "kitchen_et_al2009",
+"node": "mode1252",
+"name": "Modern South Arabian",
+"family": "Afro-Asiatic",
+"age_years": 2041.0211981852276,
+"leaves": 4,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "kitchen_et_al2009",
+"node": "west2859",
+"name": "Western MSA",
+"family": "Afro-Asiatic",
+"age_years": 1055.6562345426337,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "kitchen_et_al2009",
+"node": "east2766",
+"name": "Eastern MSA",
+"family": "Afro-Asiatic",
+"age_years": 1445.1304029886978,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "kitchen_et_al2009",
+"node": "cent2236",
+"name": "Central Semitic",
+"family": "Afro-Asiatic",
+"age_years": 4472.03963559164,
+"leaves": 5,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "kitchen_et_al2009",
+"node": "nort3165",
+"name": "Northwest Semitic",
+"family": "Afro-Asiatic",
+"age_years": 4076.6801998561386,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "kitchen_et_al2009",
+"node": "cana1267",
+"name": "Canaanite",
+"family": "Afro-Asiatic",
+"age_years": 4076.6801998561386,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "kitchen_et_al2009",
+"node": "arab1395",
+"name": "Arabic",
+"family": "Afro-Asiatic",
+"age_years": 850.0630321717636,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "kolipakam_et_al2018",
+"node": "drav1251",
+"name": "Dravidian",
+"family": "Dravidian",
+"age_years": 4433.066443550723,
+"leaves": 20,
+"branches": 3,
+"monophyletic": true
+},
+{
+"repo": "kolipakam_et_al2018",
+"node": "sout3133",
+"name": "South Dravidian",
+"family": "Dravidian",
+"age_years": 4433.066443550723,
+"leaves": 14,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "kolipakam_et_al2018",
+"node": "sout3138",
+"name": "South Dravidian I",
+"family": "Dravidian",
+"age_years": 2559.907044038622,
+"leaves": 10,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "kolipakam_et_al2018",
+"node": "tami1291",
+"name": "Tamil-Kannada",
+"family": "Dravidian",
+"age_years": 2133.303730062448,
+"leaves": 9,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "kolipakam_et_al2018",
+"node": "bada1263",
+"name": "Badaga-Kannada",
+"family": "Dravidian",
+"age_years": 2133.303730062448,
+"leaves": 3,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "kolipakam_et_al2018",
+"node": "kann1259",
+"name": "Kannadoid",
+"family": "Dravidian",
+"age_years": 2133.303730062448,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "kolipakam_et_al2018",
+"node": "tami1292",
+"name": "Tamil-Kota",
+"family": "Dravidian",
+"age_years": 2133.303730062448,
+"leaves": 6,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "kolipakam_et_al2018",
+"node": "tami1293",
+"name": "Tamil-Toda",
+"family": "Dravidian",
+"age_years": 2133.303730062448,
+"leaves": 5,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "kolipakam_et_al2018",
+"node": "tami1297",
+"name": "Tamil-Kodagu",
+"family": "Dravidian",
+"age_years": 1694.2495668779984,
+"leaves": 4,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "kolipakam_et_al2018",
+"node": "tami1298",
+"name": "Tamil-Malayalam",
+"family": "Dravidian",
+"age_years": 1694.2495668779984,
+"leaves": 3,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "kolipakam_et_al2018",
+"node": "mala1541",
+"name": "Malayalamoid",
+"family": "Dravidian",
+"age_years": 1694.2495668779984,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "kolipakam_et_al2018",
+"node": "nort2698",
+"name": "North Dravidian",
+"family": "Dravidian",
+"age_years": 1942.7854180687223,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "kolipakam_et_al2018",
+"node": "kuru1300",
+"name": "Kurux-Malto",
+"family": "Dravidian",
+"age_years": 879.1286031751893,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "kolipakam_et_al2018",
+"node": "cent2227",
+"name": "Central Dravidian",
+"family": "Dravidian",
+"age_years": 3558.8876679234004,
+"leaves": 3,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "kolipakam_et_al2018",
+"node": "parj1243",
+"name": "Parji-Ollari-Gadaba",
+"family": "Dravidian",
+"age_years": 1435.0642913773681,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "kolipakam_et_al2018",
+"node": "sout3139",
+"name": "South Dravidian II",
+"family": "Dravidian",
+"age_years": 2409.5808146265877,
+"leaves": 4,
+"branches": 3,
+"monophyletic": true
+},
+{
+"repo": "kolipakam_et_al2018",
+"node": "gond1265",
+"name": "Gondi",
+"family": "Dravidian",
+"age_years": 2409.5808146265877,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "lee2015",
+"node": "kore1284",
+"name": "Koreanic",
+"family": "Koreanic",
+"age_years": 622.700339,
+"leaves": 15,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "lee_and_hasegawa2011",
+"node": "japo1237",
+"name": "Japonic",
+"family": "Japonic",
+"age_years": 2181.78430457955,
+"leaves": 58,
+"branches": 3,
+"monophyletic": true
+},
+{
+"repo": "lee_and_hasegawa2011",
+"node": "ryuk1243",
+"name": "Ryukyuan",
+"family": "Japonic",
+"age_years": 2181.78430457955,
+"leaves": 11,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "lee_and_hasegawa2011",
+"node": "ryuk1244",
+"name": "Southern Ryukyu",
+"family": "Japonic",
+"age_years": 570.7246643784358,
+"leaves": 8,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "lee_and_hasegawa2011",
+"node": "macr1267",
+"name": "Macro-Yaeyama",
+"family": "Japonic",
+"age_years": 388.8166903732422,
+"leaves": 4,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "lee_and_hasegawa2011",
+"node": "nort3255",
+"name": "Northern Ryukyuan",
+"family": "Japonic",
+"age_years": 2181.78430457955,
+"leaves": 3,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "lee_and_hasegawa2011",
+"node": "japa1256",
+"name": "Japanesic",
+"family": "Japonic",
+"age_years": 1435.8771947849798,
+"leaves": 46,
+"branches": 3,
+"monophyletic": false
+},
+{
+"repo": "lee_and_hasegawa2013",
+"node": "ainu1252",
+"name": "Ainu",
+"family": "Ainu",
+"age_years": 1235.200954874226,
+"leaves": 19,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "sagart_et_al2019",
+"node": "sino1245",
+"name": "Sino-Tibetan",
+"family": "Sino-Tibetan",
+"age_years": 7184.53484263676,
+"leaves": 50,
+"branches": 9,
+"monophyletic": true
+},
+{
+"repo": "sagart_et_al2019",
+"node": "bodi1256",
+"name": "Bodic",
+"family": "Sino-Tibetan",
+"age_years": 5675.7134819677385,
+"leaves": 9,
+"branches": 3,
+"monophyletic": false
+},
+{
+"repo": "sagart_et_al2019",
+"node": "mish1241",
+"name": "Digarish",
+"family": "Sino-Tibetan",
+"age_years": 1290.807329452754,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "sagart_et_al2019",
+"node": "maha1306",
+"name": "Mahakiranti",
+"family": "Sino-Tibetan",
+"age_years": 5415.994523360946,
+"leaves": 8,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "sagart_et_al2019",
+"node": "kira1253",
+"name": "Kiranti",
+"family": "Sino-Tibetan",
+"age_years": 3647.939858490434,
+"leaves": 7,
+"branches": 4,
+"monophyletic": true
+},
+{
+"repo": "sagart_et_al2019",
+"node": "nort2730",
+"name": "Northwestern Kiranti",
+"family": "Sino-Tibetan",
+"age_years": 3647.939858490434,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "sagart_et_al2019",
+"node": "east2719",
+"name": "Eastern Kiranti",
+"family": "Sino-Tibetan",
+"age_years": 3152.934356582909,
+"leaves": 3,
+"branches": 3,
+"monophyletic": false
+},
+{
+"repo": "sagart_et_al2019",
+"node": "burm1265",
+"name": "Burmo-Qiangic",
+"family": "Sino-Tibetan",
+"age_years": 4284.03409891553,
+"leaves": 15,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "sagart_et_al2019",
+"node": "lolo1265",
+"name": "Lolo-Burmese",
+"family": "Sino-Tibetan",
+"age_years": 2921.3794202306394,
+"leaves": 9,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "sagart_et_al2019",
+"node": "burm1266",
+"name": "Burmish",
+"family": "Sino-Tibetan",
+"age_years": 2090.07268424479,
+"leaves": 8,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "sagart_et_al2019",
+"node": "sout3159",
+"name": "Southern Burmish",
+"family": "Sino-Tibetan",
+"age_years": 2090.07268424479,
+"leaves": 4,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "sagart_et_al2019",
+"node": "maru1254",
+"name": "Maruic",
+"family": "Sino-Tibetan",
+"age_years": 659.1366076171212,
+"leaves": 4,
+"branches": 4,
+"monophyletic": true
+},
+{
+"repo": "sagart_et_al2019",
+"node": "nucl1811",
+"name": "Nuclear Mranmaic",
+"family": "Sino-Tibetan",
+"age_years": 924.5728117330909,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "sagart_et_al2019",
+"node": "qian1263",
+"name": "Qiangic",
+"family": "Sino-Tibetan",
+"age_years": 3220.663845212782,
+"leaves": 6,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "sagart_et_al2019",
+"node": "rgya1241",
+"name": "Gyalrongic",
+"family": "Sino-Tibetan",
+"age_years": 2382.5753497766405,
+"leaves": 5,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "sagart_et_al2019",
+"node": "west2973",
+"name": "West Gyalrongic",
+"family": "Sino-Tibetan",
+"age_years": 2203.247041271439,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "sagart_et_al2019",
+"node": "nucl1851",
+"name": "Nuclear West Gyalrongic",
+"family": "Sino-Tibetan",
+"age_years": 1705.1537590515436,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "sagart_et_al2019",
+"node": "core1262",
+"name": "Core Gyalrong",
+"family": "Sino-Tibetan",
+"age_years": 1401.964531567729,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "sagart_et_al2019",
+"node": "oldm1245",
+"name": "Early Old Tibetan",
+"family": "Sino-Tibetan",
+"age_years": 1200.0000000000562,
+"leaves": 5,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "sagart_et_al2019",
+"node": "tibe1276",
+"name": "Middle Old Tibetan",
+"family": "Sino-Tibetan",
+"age_years": 706.4162528070979,
+"leaves": 4,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "sagart_et_al2019",
+"node": "late1253",
+"name": "Late Old Tibetan",
+"family": "Sino-Tibetan",
+"age_years": 533.9956026044152,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "sagart_et_al2019",
+"node": "east2777",
+"name": "Eastern West Himalayish",
+"family": "Sino-Tibetan",
+"age_years": 3444.521779509557,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "sagart_et_al2019",
+"node": "cent2311",
+"name": "Central-Eastern West Himalayish",
+"family": "Sino-Tibetan",
+"age_years": 3444.521779509557,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "sagart_et_al2019",
+"node": "kuki1245",
+"name": "Kuki-Chin-Naga",
+"family": "Sino-Tibetan",
+"age_years": 5049.2672992535045,
+"leaves": 4,
+"branches": 3,
+"monophyletic": true
+},
+{
+"repo": "sagart_et_al2019",
+"node": "cent2005",
+"name": "Core Central Kuki-Chin",
+"family": "Sino-Tibetan",
+"age_years": 1655.334453010542,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "sagart_et_al2019",
+"node": "brah1260",
+"name": "Brahmaputran",
+"family": "Sino-Tibetan",
+"age_years": 4743.126847457886,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "sagart_et_al2019",
+"node": "bodo1279",
+"name": "Bodo-Garo",
+"family": "Sino-Tibetan",
+"age_years": 2138.5141098888516,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "sagart_et_al2019",
+"node": "sini1245",
+"name": "Sinitic",
+"family": "Sino-Tibetan",
+"age_years": 2549.9999999996003,
+"leaves": 7,
+"branches": 3,
+"monophyletic": true
+},
+{
+"repo": "sagart_et_al2019",
+"node": "midd1354",
+"name": "Middle-Modern Sinitic",
+"family": "Sino-Tibetan",
+"age_years": 2059.9443484248586,
+"leaves": 4,
+"branches": 3,
+"monophyletic": false
+},
+{
+"repo": "zhang_et_al2019",
+"node": "sino1245",
+"name": "Sino-Tibetan",
+"family": "Sino-Tibetan",
+"age_years": 5871.029591,
+"leaves": 109,
+"branches": 10,
+"monophyletic": true
+},
+{
+"repo": "zhang_et_al2019",
+"node": "burm1265",
+"name": "Burmo-Qiangic",
+"family": "Sino-Tibetan",
+"age_years": 2755.7246720000003,
+"leaves": 48,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "zhang_et_al2019",
+"node": "lolo1265",
+"name": "Lolo-Burmese",
+"family": "Sino-Tibetan",
+"age_years": 1932.0681210000002,
+"leaves": 32,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "zhang_et_al2019",
+"node": "burm1266",
+"name": "Burmish",
+"family": "Sino-Tibetan",
+"age_years": 1373.7531510000008,
+"leaves": 10,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "zhang_et_al2019",
+"node": "sout3159",
+"name": "Southern Burmish",
+"family": "Sino-Tibetan",
+"age_years": 1373.7531510000008,
+"leaves": 6,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "zhang_et_al2019",
+"node": "maru1254",
+"name": "Maruic",
+"family": "Sino-Tibetan",
+"age_years": 1100.7155570000004,
+"leaves": 4,
+"branches": 4,
+"monophyletic": false
+},
+{
+"repo": "zhang_et_al2019",
+"node": "nucl1811",
+"name": "Nuclear Mranmaic",
+"family": "Sino-Tibetan",
+"age_years": 763.669890000001,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "zhang_et_al2019",
+"node": "lolo1267",
+"name": "Loloish",
+"family": "Sino-Tibetan",
+"age_years": 1932.0681210000002,
+"leaves": 22,
+"branches": 4,
+"monophyletic": false
+},
+{
+"repo": "zhang_et_al2019",
+"node": "hani1249",
+"name": "Hani-Jino",
+"family": "Sino-Tibetan",
+"age_years": 1273.1725589999996,
+"leaves": 8,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "zhang_et_al2019",
+"node": "hani1250",
+"name": "Hanic",
+"family": "Sino-Tibetan",
+"age_years": 1192.9423729999999,
+"leaves": 7,
+"branches": 3,
+"monophyletic": true
+},
+{
+"repo": "zhang_et_al2019",
+"node": "laho1234",
+"name": "Lahoid",
+"family": "Sino-Tibetan",
+"age_years": 586.9143139999996,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "zhang_et_al2019",
+"node": "nili1235",
+"name": "Ni-Li-Kazhouish",
+"family": "Sino-Tibetan",
+"age_years": 1432.945114,
+"leaves": 9,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "zhang_et_al2019",
+"node": "lisu1252",
+"name": "Lisu-Laluba-Lavu",
+"family": "Sino-Tibetan",
+"age_years": 1264.4375929999997,
+"leaves": 4,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "zhang_et_al2019",
+"node": "sout3212",
+"name": "Southeastern Ngwi",
+"family": "Sino-Tibetan",
+"age_years": 1133.5382570000002,
+"leaves": 5,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "zhang_et_al2019",
+"node": "niso1234",
+"name": "Nisoid",
+"family": "Sino-Tibetan",
+"age_years": 1133.5382570000002,
+"leaves": 3,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "zhang_et_al2019",
+"node": "nesu1234",
+"name": "Nesu-Nasu",
+"family": "Sino-Tibetan",
+"age_years": 1133.5382570000002,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "zhang_et_al2019",
+"node": "sani1267",
+"name": "Sani-Axi-Azhe",
+"family": "Sino-Tibetan",
+"age_years": 1133.5382570000002,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "zhang_et_al2019",
+"node": "naqi1236",
+"name": "Na-Qiangic",
+"family": "Sino-Tibetan",
+"age_years": 2175.367709,
+"leaves": 16,
+"branches": 3,
+"monophyletic": true
+},
+{
+"repo": "zhang_et_al2019",
+"node": "qian1263",
+"name": "Qiangic",
+"family": "Sino-Tibetan",
+"age_years": 1920.43053,
+"leaves": 10,
+"branches": 5,
+"monophyletic": true
+},
+{
+"repo": "zhang_et_al2019",
+"node": "rgya1241",
+"name": "Gyalrongic",
+"family": "Sino-Tibetan",
+"age_years": 1920.43053,
+"leaves": 4,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "zhang_et_al2019",
+"node": "core1262",
+"name": "Core Gyalrong",
+"family": "Sino-Tibetan",
+"age_years": 751.1217670000005,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "zhang_et_al2019",
+"node": "pumi1242",
+"name": "Pumi",
+"family": "Sino-Tibetan",
+"age_years": 708.9044100000001,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "zhang_et_al2019",
+"node": "ersu1242",
+"name": "Ersuic",
+"family": "Sino-Tibetan",
+"age_years": 1181.8239460000004,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "zhang_et_al2019",
+"node": "naic1235",
+"name": "Naic",
+"family": "Sino-Tibetan",
+"age_years": 1362.3112660000006,
+"leaves": 4,
+"branches": 3,
+"monophyletic": true
+},
+{
+"repo": "zhang_et_al2019",
+"node": "bodi1256",
+"name": "Bodic",
+"family": "Sino-Tibetan",
+"age_years": 4309.186329,
+"leaves": 16,
+"branches": 3,
+"monophyletic": false
+},
+{
+"repo": "zhang_et_al2019",
+"node": "bodi1257",
+"name": "Bodish",
+"family": "Sino-Tibetan",
+"age_years": 1981.5678450000005,
+"leaves": 9,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "zhang_et_al2019",
+"node": "tibe1276",
+"name": "Middle Old Tibetan",
+"family": "Sino-Tibetan",
+"age_years": 1139.9725540000009,
+"leaves": 7,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "zhang_et_al2019",
+"node": "late1253",
+"name": "Late Old Tibetan",
+"family": "Sino-Tibetan",
+"age_years": 1139.9725540000009,
+"leaves": 4,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "zhang_et_al2019",
+"node": "cent2346",
+"name": "Central Tibetan",
+"family": "Sino-Tibetan",
+"age_years": 1139.9725540000009,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "zhang_et_al2019",
+"node": "tama1367",
+"name": "Tamangic",
+"family": "Sino-Tibetan",
+"age_years": 1198.2582240000002,
+"leaves": 5,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "zhang_et_al2019",
+"node": "guru1260",
+"name": "Gurungic",
+"family": "Sino-Tibetan",
+"age_years": 1198.2582240000002,
+"leaves": 4,
+"branches": 3,
+"monophyletic": false
+},
+{
+"repo": "zhang_et_al2019",
+"node": "west2868",
+"name": "Western West Himalayish",
+"family": "Sino-Tibetan",
+"age_years": 1844.617929,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "zhang_et_al2019",
+"node": "guno1235",
+"name": "Gunong",
+"family": "Sino-Tibetan",
+"age_years": 1593.8168999999998,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "zhang_et_al2019",
+"node": "maha1306",
+"name": "Mahakiranti",
+"family": "Sino-Tibetan",
+"age_years": 3426.7555210000005,
+"leaves": 7,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "zhang_et_al2019",
+"node": "kham1285",
+"name": "Kham-Magar-Chepang",
+"family": "Sino-Tibetan",
+"age_years": 1988.2042840000004,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "zhang_et_al2019",
+"node": "kira1253",
+"name": "Kiranti",
+"family": "Sino-Tibetan",
+"age_years": 2958.1948650000004,
+"leaves": 5,
+"branches": 4,
+"monophyletic": true
+},
+{
+"repo": "zhang_et_al2019",
+"node": "nort2730",
+"name": "Northwestern Kiranti",
+"family": "Sino-Tibetan",
+"age_years": 1643.6145770000003,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "zhang_et_al2019",
+"node": "tani1259",
+"name": "Tani",
+"family": "Sino-Tibetan",
+"age_years": 838.5774590000001,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "zhang_et_al2019",
+"node": "west2797",
+"name": "Western Tani",
+"family": "Sino-Tibetan",
+"age_years": 838.5774590000001,
+"leaves": 2,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "zhang_et_al2019",
+"node": "mish1241",
+"name": "Digarish",
+"family": "Sino-Tibetan",
+"age_years": 1791.2701340000003,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "zhang_et_al2019",
+"node": "brah1260",
+"name": "Brahmaputran",
+"family": "Sino-Tibetan",
+"age_years": 3443.5576170000004,
+"leaves": 9,
+"branches": 3,
+"monophyletic": true
+},
+{
+"repo": "zhang_et_al2019",
+"node": "bodo1279",
+"name": "Bodo-Garo",
+"family": "Sino-Tibetan",
+"age_years": 1442.3804840000003,
+"leaves": 4,
+"branches": 3,
+"monophyletic": true
+},
+{
+"repo": "zhang_et_al2019",
+"node": "boro1284",
+"name": "Boroic",
+"family": "Sino-Tibetan",
+"age_years": 1162.9549800000004,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "zhang_et_al2019",
+"node": "chan1331",
+"name": "Chang-Phom-Konyak",
+"family": "Sino-Tibetan",
+"age_years": 1405.6454380000005,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "zhang_et_al2019",
+"node": "kony1251",
+"name": "Konyak-Phom",
+"family": "Sino-Tibetan",
+"age_years": 946.6583300000002,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "zhang_et_al2019",
+"node": "jing1259",
+"name": "Jingpho-Luish",
+"family": "Sino-Tibetan",
+"age_years": 2795.1006520000005,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "zhang_et_al2019",
+"node": "kuki1245",
+"name": "Kuki-Chin-Naga",
+"family": "Sino-Tibetan",
+"age_years": 3302.4660970000004,
+"leaves": 16,
+"branches": 4,
+"monophyletic": true
+},
+{
+"repo": "zhang_et_al2019",
+"node": "anga1312",
+"name": "Angami-Ao",
+"family": "Sino-Tibetan",
+"age_years": 2755.1887220000003,
+"leaves": 6,
+"branches": 2,
+"monophyletic": false
+},
+{
+"repo": "zhang_et_al2019",
+"node": "anga1286",
+"name": "Angami-Pochuri",
+"family": "Sino-Tibetan",
+"age_years": 1531.4870100000007,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "zhang_et_al2019",
+"node": "zeme1241",
+"name": "Zemeic",
+"family": "Sino-Tibetan",
+"age_years": 1416.0902730000007,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "zhang_et_al2019",
+"node": "nucl1313",
+"name": "Nuclear Zemeic",
+"family": "Sino-Tibetan",
+"age_years": 700.5543830000006,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "zhang_et_al2019",
+"node": "aoic1235",
+"name": "Central Naga",
+"family": "Sino-Tibetan",
+"age_years": 1178.8970340000005,
+"leaves": 4,
+"branches": 3,
+"monophyletic": true
+},
+{
+"repo": "zhang_et_al2019",
+"node": "peri1260",
+"name": "Peripheral Kuki-Chin",
+"family": "Sino-Tibetan",
+"age_years": 1909.9089070000005,
+"leaves": 6,
+"branches": 3,
+"monophyletic": true
+},
+{
+"repo": "zhang_et_al2019",
+"node": "choi1241",
+"name": "Choic",
+"family": "Sino-Tibetan",
+"age_years": 704.359633,
+"leaves": 3,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "zhang_et_al2019",
+"node": "daai1235",
+"name": "Daai-Nghmoye-Muun-Kaang",
+"family": "Sino-Tibetan",
+"age_years": 474.9997149999999,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "zhang_et_al2019",
+"node": "thad1239",
+"name": "Thadoic",
+"family": "Sino-Tibetan",
+"age_years": 602.6481120000008,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+},
+{
+"repo": "zhang_et_al2019",
+"node": "kare1337",
+"name": "Karenic",
+"family": "Sino-Tibetan",
+"age_years": 1128.9498200000007,
+"leaves": 3,
+"branches": 3,
+"monophyletic": true
+},
+{
+"repo": "zhang_et_al2019",
+"node": "sini1245",
+"name": "Sinitic",
+"family": "Sino-Tibetan",
+"age_years": 2749.9498010000007,
+"leaves": 2,
+"branches": 2,
+"monophyletic": true
+}
+]

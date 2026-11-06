@@ -1,8 +1,8 @@
 {
  "common_languages": 4445,
- "cognate_pairs": 9235,
- "cognate_datasets": 12,
+ "cognate_pairs": 8777,
+ "cognate_datasets": 15,
  "dated_nodes": 192,
- "language_pairs": 13206,
+ "language_pairs": 12751,
  "seqsim_distances": 32
 }

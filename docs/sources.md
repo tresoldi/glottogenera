@@ -42,7 +42,7 @@ The web explorer draws its basemap and clips the genus areas with the
 The validation of the word distance (not part of the pipeline; see
 [`../research/divergence/README.md`](../research/divergence/README.md)) also
 used GLED (CLDF release v1.0, r20221127.1, doi:10.5281/zenodo.7368116), the
-expert cognate judgements of twelve datasets (in
+expert cognate judgements of sixteen datasets (in
 [`../research/divergence/cognates/`](../research/divergence/cognates/), each
 under the licence of its source), and dated phylogenies from Phlorest. The research scripts include a Newick
 reader forked from [python-newick](https://github.com/dlce-eva/python-newick),

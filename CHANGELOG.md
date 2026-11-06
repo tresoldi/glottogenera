@@ -1,5 +1,34 @@
 # Changelog
 
+## 1.2.0 — unreleased
+
+Corrections after review; the genera and their divergences are unchanged.
+
+- **Cognate judgements.** The files in `research/divergence/cognates/` are now
+  one per source dataset: the aggregate's grouping had put the judgements of
+  several datasets under other names (the file labelled ACD held ABVD's
+  Philippine subset, the one labelled Turkic held Savelyev & Robbeets' and
+  Kessler's data, Austroasiatic and TuLeD also held Aslian, Khasian and
+  Tupí-Guaraní data). Sixteen source datasets, with their own citations and
+  licences. The distance screen now counts two forms as cognate when they
+  share any of their cognate sets (several are separated by `;`); its results
+  are recomputed.
+- **Reproducibility.** The Phlorest trees are pinned to commits
+  (`results/phlorest_manifest.json`), and the crown ages and the pair-level
+  values of the screen are archived in `research/divergence/results/`;
+  `gled_cldf.py` writes the GLED tables the screen reads from the GLED
+  release.
+- **Unclassified nodes.** `genera_summary.tsv` has a column
+  `unclassified_node`, 1 for the 26 genera on Glottolog "Unclassified" nodes,
+  which are residual groups rather than subgroups.
+- **Names.** Two renamings are withdrawn, as they broke the naming policy:
+  Sara-Bongo-Bagirmi (not Bongo-Bagirmi: the WALS genus also includes Birri)
+  and North Borneo Malayo-Polynesian (not North Borneo, which in the
+  literature is a smaller group); 30 genera are renamed.
+- **Calibration curve.** `params.json` keeps the curve at every grid value.
+- `scripts/dravidian_map.py` takes a width and a title size, and keeps its
+  labels inside the panels.
+
 ## 1.1.0 — 2026-11-05
 
 - **Cognate judgements.** The expert cognate judgements on the 40 ASJP core

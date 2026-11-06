@@ -49,6 +49,7 @@ upstream attribution).
 | `margin_above` | `upper_value` minus δ |
 | `stability` | share of 200 bootstrap replicates (resampling concepts and language pairs, δ recalibrated in each) in which the genus reappears with exactly its members |
 | `stability_fixed_delta` | the same with δ fixed at 0.81 |
+| `unclassified_node` | 1 if the genus node is a Glottolog "Unclassified" node, which collects languages not placed in a subgroup: a residual group, not a subgroup |
 
 A genus cut by divergence exists for every δ from `cut_value` up to, not
 including, `upper_value`; `glottogenera.genera_at(delta)` recuts at any δ.

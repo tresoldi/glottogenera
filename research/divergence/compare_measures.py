@@ -1,8 +1,8 @@
 """
 The evidence for screening word distances, used by compare_sources.py and
 heldout_training.py: expert cognate distances between pairs of languages from
-the expert cognate judgements of twelve datasets on the 40 core concepts
-(cognates/ or COGNATE_DIR, one CSV per dataset:
+the expert cognate judgements of sixteen source datasets on the 40 core concepts
+(cognates/ or COGNATE_DIR, one CSV per source dataset:
 columns cognate_source, doculect, Glottocode, concept, Concepticon_ID, Cognacy
 and source_language_id), crown ages
 of the dated Phlorest trees (OUT/ages.json, from ages.py), and the scores
@@ -37,8 +37,8 @@ CORE_CONCEPTS = ["kin-i", "kin-you", "kin-we", "qua-one", "qua-two", "kin-person
              "bod-liver", "foo-drink", "sns-see", "sns-hear", "bod-die", "mot-come", "phy-sun", "phy-star",
              "phy-water", "phy-stone", "phy-fire", "mot-path", "phy-mountain", "tim-night", "qua-full",
              "tim-new", "lng-name"]
-SOURCES = ["iecor", "abvd2026", "grollemundbantu", "bowernpny", "tuled", "uralex", "sagartst",
-           "kogansemitic", "hruschkaturkic", "dravlex", "peirosaustroasiatic", "acd"]
+# one file per source dataset of cognate judgements
+SOURCES = sorted(f.stem for f in COGNATE_DIR.glob("*.csv"))
 PER_DATASET = 1500
 PER_NODE = 50
 
@@ -57,7 +57,9 @@ def cognate_pairs():
         with open(COGNATE_DIR / f"{s}.csv", newline="") as fh:
             for r in csv.DictReader(fh):
                 if r["concept"] in core and r["Cognacy"]:
-                    cog[s][r["doculect"]][r["concept"]].add(r["Cognacy"])
+                    # a form may belong to several cognate sets, separated by ";": two forms are cognate when
+                    # they share any of them
+                    cog[s][r["doculect"]][r["concept"]].update(r["Cognacy"].split(";"))
                     gc_of[r["doculect"]] = r["Glottocode"]
     out = []
     for s, langs in cog.items():

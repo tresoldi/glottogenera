@@ -34,7 +34,7 @@ criteria, a confidence, a rationale and its sources.
 
 ## Decisions
 
-32 genera are renamed (`genus_names.tsv`). The cases below were considered and
+30 genera are renamed (`genus_names.tsv`). The cases below were considered and
 decided as described.
 
 **WALS name differs, Glottolog name kept**, because the Glottolog name is at
@@ -51,7 +51,9 @@ Cushitic).
 Lower Ramu), Oti-Volta (Northern-Central Gur), Fula (Peul-Serer), South Surmic
 (Surmic), Khoe (Khoe-Kwadi), Northern North Halmahera (North Halmaheran),
 Greater South Sulawesi (South Sulawesi; it is unclear whether WALS includes
-the Rampi-Seko-Badaic languages).
+the Rampi-Seko-Badaic languages), Sara-Bongo-Bagirmi (WALS Bongo-Bagirmi also
+includes Birri, which Glottolog places in Membi-Mangbutu-Efe; Sara-Bongo-Bagirmi
+is the specialist term for this group; renamed in releases 1.0.0 and 1.1.0).
 
 **Names that look coined but are the literature's, kept:** West
 Alor-Straits-Pantar (Kaiping & Klamer 2022), Nambikwara Complex (Eberhard
@@ -63,7 +65,11 @@ languages and B20).
 **No established name, Glottolog name kept:** East Queensland Border Pama
 Nyungan (Central East Coast is larger), Southwestern Alaya-Athima (Kunjen is
 also a member's name and may not include Athima), Continental Transalpine
-Celtic (Transalpine Celtic and Gaulish vary in scope).
+Celtic (Transalpine Celtic and Gaulish vary in scope), North Borneo
+Malayo-Polynesian (WALS North Borneo coincides, but in Blust 2010 and Smith
+2017 North Borneo is only Sabahan and North Sarawakan, with Central Sarawak and
+Kayanic separate branches of the much larger Greater North Borneo; renamed
+"North Borneo" in releases 1.0.0 and 1.1.0).
 
 **Kept because the alternative would mislead:**
 - Madak linkage, Buang linkage: dropping "linkage" gives the name of a member

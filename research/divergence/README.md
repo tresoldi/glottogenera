@@ -35,7 +35,7 @@ From the repository root, after `make fetch`, with the research extra
 
 ```bash
 PY=python; R=research/divergence; OUT=/tmp/divergence; mkdir -p $OUT/phlorest
-$PY $R/fetch_phlorest.py $OUT/phlorest
+$PY $R/fetch_phlorest.py $OUT/phlorest $R/results/phlorest_manifest.json
 $PY $R/ages.py $OUT/phlorest $OUT
 $PY $R/compare_sources.py $OUT
 $PY $R/measure_tests.py $OUT/source_values.pkl "asjp:ldnd (released)" \
@@ -52,15 +52,19 @@ $PY $R/estimated_trees.py $OUT          # about 30 minutes
 
 ## External inputs
 
-- **Expert cognate judgements**: the expert judgements of the twelve cognate
+- **Expert cognate judgements**: the expert judgements of the sixteen cognate
   datasets on the 40 core concepts, one CSV per dataset, in
   [`cognates/`](cognates/), each under the licence of its source (set
   `COGNATE_DIR` to read another copy).
-- **GLED** (Global Lexical Database, CLDF release v1.0, r20221127.1,
-  doi:10.5281/zenodo.7368116); set `GLED_CLDF` to its `cldf/`
-  directory (default `gled/cldf`).
-- **Phlorest**: `fetch_phlorest.py` downloads the current version of every
-  Phlorest repository, so a later run may see updated trees.
+- **GLED** (Global Lexical Database, release r20221127.1,
+  doi:10.5281/zenodo.7368116): download `20221127.1.zip` from that record and
+  write the CLDF tables the scripts read with
+  `python research/divergence/gled_cldf.py 20221127/gled.tsv gled/cldf`
+  (`GLED_CLDF` selects another directory; default `gled/cldf`).
+- **Phlorest**: `fetch_phlorest.py OUT/phlorest results/phlorest_manifest.json`
+  downloads the trees at the commits archived in the manifest, as used for
+  the results; without a manifest it takes every repository's current head
+  and writes a new manifest.
 
 The released distance itself is the package's (`glottogenera.divergence`
 with `glottogenera.pmi`), and the scripts use it through the package.
