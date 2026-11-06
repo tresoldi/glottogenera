@@ -557,17 +557,17 @@ class Calibration:
         objective: np.ndarray, half_width: float = SMOOTHING, grid: Sequence[float] = DELTA_GRID
     ) -> Tuple[float, List[float]]:
         """
-        The grid value nearest to the median of those that tie for the maximum of
-        the smoothed objective (the smaller on a tie): always a maximizer, also
-        when the maximizing values are not contiguous.
+        The middle one of the grid values that maximize the smoothed objective
+        (within 1e-12), in grid order; of an even number, the lower of the two in
+        the middle. Always a grid value and a maximizer, also when the maximizing
+        values are not contiguous.
         """
         smoothed = smooth(objective, half_width, _step(grid))
         if np.ptp(smoothed[np.isfinite(smoothed)]) < 1e-12:
             warnings.warn("the calibration objective is flat over the grid; delta is not determined", stacklevel=2)
         best = np.nanmax(smoothed)
-        tied = [d for d, v in zip(grid, smoothed) if np.isfinite(v) and abs(v - best) <= 1e-12]
-        middle = float(np.median(tied))
-        return round(float(min(tied, key=lambda d: (abs(d - middle), d))), 4), tied
+        tied = sorted(float(d) for d, v in zip(grid, smoothed) if np.isfinite(v) and abs(v - best) <= 1e-12)
+        return tied[(len(tied) - 1) // 2], tied
 
     def objective(self, rows=None, weights=None) -> np.ndarray:
         """The (weighted) mean group ARI at every grid value, over ``rows``."""

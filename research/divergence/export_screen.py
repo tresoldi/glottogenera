@@ -6,7 +6,9 @@ measures (age pairs), with the values of the distances of the screen's table
 and of the held-out training.
 
 Usage: export_screen.py SOURCE_VALUES.pkl HELDOUT_VALUES.pkl OUT_DIR
-Writes OUT_DIR/screen_pairs.csv.gz and OUT_DIR/screen_nodes.csv.
+Writes OUT_DIR/screen_pairs.csv.gz (the distances of the table),
+OUT_DIR/screen_pairs_all.csv.gz (every screened distance) and
+OUT_DIR/screen_nodes.csv.
 """
 
 import csv
@@ -49,6 +51,22 @@ def main(source_pkl, heldout_pkl, out):
         for node, r in sorted(src["clock"].items()):
             for a, b in r["pairs"]:
                 w.writerow(["age", node, a, b, ""] + cells(a, b))
+    # every screened distance, for the full screen (sources.json)
+    every = sorted({name for v in src["values"].values() if v for name in v})
+    with gzip.open(out / "screen_pairs_all.csv.gz", "wt", newline="", encoding="utf-8") as fh:
+        w = csv.writer(fh)
+        w.writerow(["evidence", "dataset_or_node", "language_a", "language_b", "cognate_distance"]
+                   + [f"{m} {k}" for m in every for k in ("raw", "normalized")])
+
+        def all_cells(a, b):
+            v = src["values"].get((a, b)) or {}
+            return [fmt(x) for name in every for x in v.get(name, (None, None))]
+
+        for s, a, b, cd in src["cognates"]:
+            w.writerow(["cognates", s, a, b, f"{cd:.6g}"] + all_cells(a, b))
+        for node, r in sorted(src["clock"].items()):
+            for a, b in r["pairs"]:
+                w.writerow(["age", node, a, b, ""] + all_cells(a, b))
     with (out / "screen_nodes.csv").open("w", newline="", encoding="utf-8") as fh:
         w = csv.writer(fh)
         w.writerow(["node", "family", "age_years", "pairs"])

@@ -24,6 +24,7 @@ else:
         head = subprocess.run(["git", "ls-remote", f"https://github.com/phlorest/{repo}", "HEAD"],
                               capture_output=True, text=True, check=True).stdout.split()
         manifest[repo] = head[0]
+(OUT / "phlorest_manifest.json").unlink(missing_ok=True)  # written again only when every file is in
 failed = []
 for repo, commit in sorted(manifest.items()):
     out = OUT / repo

@@ -1,22 +1,148 @@
 {
- "pairs": 8760,
- "changed": 7359,
+ "pairs": 8728,
+ "dropped": 49,
+ "changed": 1185,
+ "changed_by_dataset": {
+  "abvd2026": 319,
+  "abvdphilippines": 502,
+  "bowernpny": 71,
+  "dravlex": 0,
+  "dunnaslian": 11,
+  "gerarditupi": 0,
+  "grollemundbantu": 242,
+  "iecor": 0,
+  "kogansemitic": 0,
+  "nagarajakhasian": 0,
+  "peirosaustroasiatic": 36,
+  "sagartst": 0,
+  "savelyevturkic": 0,
+  "tuled": 4,
+  "uralex": 0
+ },
  "measures": [
   {
    "measure": "released distance (PMI alignment)",
    "datasets": 13,
-   "within_pooled_doculects": 0.6831,
-   "within_single_variety": 0.686,
-   "pooled_pooled_doculects": 0.7601,
-   "pooled_single_variety": 0.7538
+   "within_pooled_doculects": 0.6829,
+   "within_single_variety": 0.6857,
+   "pooled_pooled_doculects": 0.7615,
+   "pooled_single_variety": 0.7551,
+   "by_dataset": {
+    "abvd2026": [
+     0.6293,
+     0.6205
+    ],
+    "abvdphilippines": [
+     0.7068,
+     0.7463
+    ],
+    "bowernpny": [
+     0.5479,
+     0.5393
+    ],
+    "dravlex": [
+     0.8074,
+     0.8074
+    ],
+    "gerarditupi": [
+     0.6515,
+     0.6515
+    ],
+    "grollemundbantu": [
+     0.5429,
+     0.5517
+    ],
+    "iecor": [
+     0.6574,
+     0.6574
+    ],
+    "kogansemitic": [
+     0.7833,
+     0.7833
+    ],
+    "peirosaustroasiatic": [
+     0.7016,
+     0.7057
+    ],
+    "sagartst": [
+     0.5931,
+     0.5931
+    ],
+    "savelyevturkic": [
+     0.6435,
+     0.6435
+    ],
+    "tuled": [
+     0.7526,
+     0.7542
+    ],
+    "uralex": [
+     0.8602,
+     0.8602
+    ]
+   }
   },
   {
    "measure": "LDND",
    "datasets": 13,
-   "within_pooled_doculects": 0.6516,
-   "within_single_variety": 0.6559,
-   "pooled_pooled_doculects": 0.7167,
-   "pooled_single_variety": 0.7108
+   "within_pooled_doculects": 0.6512,
+   "within_single_variety": 0.6555,
+   "pooled_pooled_doculects": 0.7175,
+   "pooled_single_variety": 0.7116,
+   "by_dataset": {
+    "abvd2026": [
+     0.5878,
+     0.5795
+    ],
+    "abvdphilippines": [
+     0.6881,
+     0.741
+    ],
+    "bowernpny": [
+     0.5403,
+     0.5326
+    ],
+    "dravlex": [
+     0.8003,
+     0.8003
+    ],
+    "gerarditupi": [
+     0.5893,
+     0.5893
+    ],
+    "grollemundbantu": [
+     0.5334,
+     0.5399
+    ],
+    "iecor": [
+     0.6526,
+     0.6526
+    ],
+    "kogansemitic": [
+     0.7734,
+     0.7734
+    ],
+    "peirosaustroasiatic": [
+     0.6414,
+     0.6522
+    ],
+    "sagartst": [
+     0.5123,
+     0.5123
+    ],
+    "savelyevturkic": [
+     0.555,
+     0.555
+    ],
+    "tuled": [
+     0.7209,
+     0.7226
+    ],
+    "uralex": [
+     0.8714,
+     0.8714
+    ]
+   }
   }
  ]
 }

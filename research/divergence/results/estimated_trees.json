@@ -34,7 +34,7 @@
    "genera": 1079,
    "mean_family_ari_smoothed": 0.5865,
    "mean_family_ari": 0.5905,
-   "held_out_mean_family_ari": 0.5874,
+   "held_out_mean_family_ari": 0.5905,
    "pooled_ari": 0.4314,
    "ari_with_glottolog_genera": 0.4906,
    "genera_identical_to_glottolog": 0.6738,

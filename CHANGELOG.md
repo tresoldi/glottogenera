@@ -12,8 +12,9 @@ Corrections after a second review; the genera are unchanged.
   varieties (`variety_sensitivity.py`) and of the release to the envelope rule
   (`envelope_sensitivity.py`); the recovery of genera under GLED is reported
   by how many of their members GLED covers.
-- **Calibration.** The threshold is always a grid value that maximizes the
-  objective (before, the median of disconnected maximizers could be neither);
+- **Calibration.** The threshold is the middle one of the grid values that
+  maximize the objective (the lower of two), always a maximizer (before, the
+  median of disconnected maximizers could be neither);
   the released δ is unchanged, three leave-one-family-out thresholds and the
   bootstrap stability of 29 genera (by one replicate in 200) change.
 - **Precision.** Node values are released with six decimals, and the release
@@ -23,6 +24,10 @@ Corrections after a second review; the genera are unchanged.
   in the explorer (genus pages and CSV exports).
 - **Metadata.** The repository cites the DOI of all versions
   (10.5281/zenodo.23979574).
+- **Archive.** The pair-level values of every screened distance
+  (`screen_pairs_all.csv.gz`) and the estimated UPGMA and neighbour-joining
+  trees (`estimated_trees.nwk`) are in `research/divergence/results/`.
+- **Explorer.** Thresholds are kept on the 0.001 grid in addresses and cache.
 - **Research scripts.** The ABVD source is pinned to the commit actually used;
   `fetch_phlorest.py` fails when a file is missing; `gled_cldf.py` keeps the
   ASJP form in `Value`.

@@ -36,7 +36,7 @@ def partitions(env):
     return delta, dv.divergence_genera(g, env, delta)[0], dv.divergence_genera(g, env, DELTA)[0]
 
 
-def compare(other, label, covered):
+def compare(other, label, covered, crowns):
     langs = sorted(released)
     sets = lambda part: {frozenset(x for x in langs if part[x] == gg) for gg in set(part.values())}
     rel_sets, oth_sets = sets(released), sets(other)
@@ -55,27 +55,36 @@ def compare(other, label, covered):
         by_coverage.append({"coverage": name, "genera": len(grp),
                             "stable_genera": sum(stab[node_of[s]] >= 0.9 for s in grp),
                             "identical": float(np.mean([s in oth_sets for s in grp])) if grp else None})
+    # and by whether the compared source measures the genus's own crown: only then is its recovery a test
+    by_crown = []
+    for measured, name in ((True, "own crown measured"), (False, "own crown not measured")):
+        grp = [s for s in multi if (node_of[s] in crowns) == measured]
+        by_crown.append({"crown": name, "genera": len(grp), "stable_genera": sum(stab[node_of[s]] >= 0.9 for s in grp),
+                         "identical": float(np.mean([s in oth_sets for s in grp])) if grp else None})
     both = [x for x in langs if x in covered]
     r = {"against": label, "ari": float(adjusted_rand_score([released[x] for x in langs], [other[x] for x in langs])),
          "changing_genus": float(np.mean([released[x] != other[x] for x in langs])),
          "changing_genus_covered": float(np.mean([released[x] != other[x] for x in both])), "covered": len(both),
          "ari_covered": float(adjusted_rand_score([released[x] for x in both], [other[x] for x in both])),
          "identical_multi": sum(s in oth_sets for s in multi), "released_multi": len(multi), "by_stability": by,
-         "by_coverage": by_coverage}
+         "by_coverage": by_coverage,
+         "by_crown": by_crown}
     print(json.dumps(r), flush=True)
     return r
 
 
-ldnd_delta, ldnd_recal, ldnd_fixed = partitions(dv.envelope(g, lr.LdndCrowns(g, asjp).divergence(), dv.ENVELOPE_RULE))
+ldnd_crowns = lr.LdndCrowns(g, asjp).divergence()
+ldnd_delta, ldnd_recal, ldnd_fixed = partitions(dv.envelope(g, ldnd_crowns, dv.ENVELOPE_RULE))
 print("LDND delta", ldnd_delta, flush=True)
 scorer, _ = pmi.train(gled, g)
-gled_delta, gled_recal, gled_fixed = partitions(dv.envelope(g, dv.Crowns(g, gled, scorer).divergence(), dv.ENVELOPE_RULE))
+gled_crowns = dv.Crowns(g, gled, scorer).divergence()
+gled_delta, gled_recal, gled_fixed = partitions(dv.envelope(g, gled_crowns, dv.ENVELOPE_RULE))
 print("GLED delta", gled_delta, flush=True)
 covered_asjp, covered_both = set(asjp), set(asjp) & set(gled)
 out = {"released_delta": DELTA, "ldnd_delta": ldnd_delta, "gled_delta": gled_delta,
        "gled_languages_with_wordlists": len(gled), "asjp_languages_with_wordlists": len(asjp),
-       "comparisons": [compare(ldnd_recal, "LDND, delta recalibrated", covered_asjp),
-                       compare(ldnd_fixed, "LDND, released delta", covered_asjp),
-                       compare(gled_recal, "GLED PMI, delta recalibrated", covered_both),
-                       compare(gled_fixed, "GLED PMI, released delta", covered_both)]}
+       "comparisons": [compare(ldnd_recal, "LDND, delta recalibrated", covered_asjp, ldnd_crowns),
+                       compare(ldnd_fixed, "LDND, released delta", covered_asjp, ldnd_crowns),
+                       compare(gled_recal, "GLED PMI, delta recalibrated", covered_both, gled_crowns),
+                       compare(gled_fixed, "GLED PMI, released delta", covered_both, gled_crowns)]}
 json.dump(out, open(OUT / "source_agreement.json", "w"), indent=1)

@@ -40,28 +40,34 @@ Every node above a genus that is not a whole tree has $c > \delta$, and a genus 
 
 ## Word distance
 
-Words are compared by global alignment with substitution scores for pairs of ASJP symbols learned from the data, after @jager2013. Same-concept words of 30,000 randomly drawn pairs of languages from the same family are aligned; pairs that align closely are taken as probable cognates; the association between the symbols aligned in them is estimated as pointwise mutual information [@church1990] with add-one (Laplace) smoothing, computed with the ASymCat library [@tresoldi2026asymcat] on FreqProb's estimators [@tresoldi2026freqprob], averaged over its two directions; and the words are realigned with those scores. Three iterations are run. With $s(x, y)$ the score of the best alignment of words $x$ and $y$ (Needleman–Wunsch, linear gap penalty 2.5), the word distance is
+Words are compared by global alignment with substitution scores for pairs of ASJP symbols learned from the data, after Jäger [@jager2013]. ASJP distances have also been used to classify and date the world's languages automatically [@holman2011; @jager2018]; in the release they measure divergence on an expert classification.
+
+The scores are learned in three iterations. In each, the same-concept words of 30,000 random pairs of languages from the same family are aligned; families are drawn in proportion to their number of languages, and the first form of each concept is used, with the modifiers of ASJP's transcription removed. Pairs that align closely are taken as probable cognates: in the first iteration, those whose identical aligned symbols make up at least half of the longer word, and afterwards those with a word distance (below) of at most 0.5. The association between the symbols aligned in them is estimated as pointwise mutual information (PMI) [@church1990] with add-one (Laplace) smoothing, computed with the ASymCat library [@tresoldi2026asymcat] on FreqProb's estimators [@tresoldi2026freqprob] and averaged over its two directions, and the words are realigned with these scores.
+
+With $s(x, y)$ the score of the best alignment of words $x$ and $y$ (Needleman–Wunsch, linear gap penalty 2.5), the word distance is
 
 $$
 d(x, y) = 1 - \frac{2\, s(x, y)}{s(x, x) + s(y, y)},
 $$
 
-which is 0 for identical words and exceeds 1 when two words align worse than chance. For two languages $a$ and $b$, let $\bar d_{ij}$ be the mean of $d$ over the forms of concept $i$ in $a$ and concept $j$ in $b$, which averages over synonyms; let $S$ be the concepts attested in both, and $O$ a sample of 60 pairs $(i, j)$, $i \ne j$, of concepts attested in $a$ and $b$ respectively, drawn with a generator seeded by the language pair. The language distance divides the mean same-concept distance by the mean different-concept distance,
+which is 0 for identical words and exceeds 1 when the alignment score is negative; it is set to 1 when the denominator is not positive. For two languages $a$ and $b$, let $\bar d_{ij}$ be the mean of $d$ over the forms of concept $i$ in $a$ and concept $j$ in $b$, which averages over synonyms; let $S$ be the concepts attested in both, and $O$ a sample of 60 pairs $(i, j)$, $i \ne j$, of concepts attested in $a$ and $b$ respectively, drawn with a generator seeded by the language pair. The language distance divides the mean same-concept distance by the mean different-concept distance,
 
 $$
 \Delta(a, b) = \frac{\frac{1}{|S|}\sum_{i \in S} \bar d_{ii}}{\frac{1}{|O|}\sum_{(i, j) \in O} \bar d_{ij}},
 $$
 
-defined when $|S| \ge 20$, in the way LDND normalizes edit distance [@wichmann2010]. The denominator discounts the similarity that any two languages share by chance through their phonotactics.
+defined when $|S| \ge 20$ and the denominator is positive, in the way LDND, the Levenshtein distance normalized and divided, normalizes edit distance [@wichmann2010]. The denominator is a heuristic normalization for the similarity that unrelated words of two languages share through their phonotactics.
 
 ## Calibration
 
 The threshold can be fixed or calibrated against a reference partition of some of the languages, here the WALS genera. The threshold is calibrated against the WALS genera of all families, giving each family equal weight:
 
 $$
-A(\delta) = \frac{1}{|F|} \sum_{f \in F} \mathrm{ARI}\left(W_f,\ h_\delta|_f\right), \qquad
-\delta^* = \operatorname{median}\, \operatorname*{arg\,max}_{\delta \in \Delta}\ \frac{1}{41} \sum_{k=-20}^{20} A(\delta + 0.001\,k),
-\qquad \Delta = \{0.520, 0.521, \ldots, 0.980\},
+\begin{aligned}
+A(\delta) &= \frac{1}{|F|} \sum_{f \in F} \mathrm{ARI}\left(W_f,\ h_\delta|_f\right),\\
+M &= \operatorname*{arg\,max}_{\delta \in \Delta}\ \frac{1}{41} \sum_{k=-20}^{20} A(\delta + 0.001\,k),\\
+\Delta &= \{0.520, 0.521, \ldots, 0.980\},
+\end{aligned}
 $$
 
-where $F$ is the set of Glottolog families whose WALS-labelled in-scope languages fall into at least two WALS genera, $W_f$ the WALS genus partition of those languages, $h_\delta|_f$ the divergence partition restricted to them, and ARI the adjusted Rand index [@rand1971; @hubert1985]. The WALS label "Creoles and Pidgins" is not genealogical and is left out of calibration and evaluation alike. Averaging over families instead of pooling all languages kept the most populous WALS genera, such as Bantoid and Oceanic, from dominating the criterion. $A(\delta)$ is a step function that jumps whenever $\delta$ crosses the value of a node in one of the families; averaging it over a window of ±0.02 makes $\delta^*$ depend on the run of the curve rather than on single crossings.
+and $\delta^*$ is the middle value of the maximizing set $M$ in increasing order (of an even number, the lower of the two in the middle), so that it is always a maximizer, where $F$ is the set of Glottolog families whose WALS-labelled in-scope languages fall into at least two WALS genera, $W_f$ the WALS genus partition of those languages, $h_\delta|_f$ the divergence partition restricted to them, and ARI the adjusted Rand index [@rand1971; @hubert1985]. The WALS label "Creoles and Pidgins" is not genealogical and is left out of calibration and evaluation alike. Averaging over families instead of pooling all languages kept the most populous WALS genera, such as Bantoid and Oceanic, from dominating the criterion. $A(\delta)$ is a step function that jumps whenever $\delta$ crosses the value of a node in one of the families; averaging it over a window of ±0.02 makes $\delta^*$ depend on the run of the curve rather than on single crossings.

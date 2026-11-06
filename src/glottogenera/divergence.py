@@ -16,7 +16,7 @@ clade.
 delta is calibrated against the WALS genera family by family: it maximizes the
 mean, over Glottolog families with at least two WALS genera, of the agreement
 (ARI) between the proposed and the WALS genera of the family's languages; among
-tied values the median is taken. Averaging over families rather than pooling
+tied values the middle one (the lower of two) is taken. Averaging over families rather than pooling
 keeps the largest WALS genera from dominating. A bootstrap over concepts and
 language pairs recalibrates delta and recuts to give each genus a stability
 score.
@@ -317,7 +317,7 @@ class Calibration(tree.Calibration):
 def calibrate_delta(glottolog, env, wl) -> Tuple[float, float, List[float]]:
     """
     delta maximizing the mean ARI against WALS over the calibration families,
-    averaged over a window of +-SMOOTHING; the median of tied grid values.
+    averaged over a window of +-SMOOTHING; the middle one of the tied grid values (the lower of two).
     """
     return Calibration(glottolog, env, wl).delta()
 

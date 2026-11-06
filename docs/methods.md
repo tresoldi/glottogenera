@@ -67,7 +67,7 @@ genus is a complete clade and the partitions nest as δ varies.
 **Calibration.** δ maximizes the mean ARI against WALS genera over the
 Glottolog families whose WALS-labelled languages fall into at least two WALS
 genera ("Creoles and Pidgins" excluded), averaged over a window of ±0.02 on a
-0.001 grid; the median of tied values is used. Averaging over families keeps
+0.001 grid; of tied values, the middle one (the lower of two) is used. Averaging over families keeps
 the largest WALS genera (Bantoid, Oceanic) from dominating, as they do pooled
 ARI; using all families keeps a single family's few deep nodes from fixing δ,
 as Indo-European alone did. The window keeps δ from hinging on single node

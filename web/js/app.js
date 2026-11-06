@@ -84,7 +84,8 @@
 
   function readParams(params) {
     const d = parseFloat(params.get("d"));
-    S.delta = isFinite(d) ? Math.min(1, Math.max(0.5, d)) : S.data.meta.delta;
+    // thresholds live on the 0.001 grid of the control, in addresses and in the cache alike
+    S.delta = isFinite(d) ? Math.min(1, Math.max(0.5, Math.round(d * 1000) / 1000)) : S.data.meta.delta;
     S.area = AREAS[params.get("a")] ? params.get("a") : "voronoi";
     const r = parseInt(params.get("r"), 10);
     S.radius = isFinite(r) ? nearestRadius(r) : S.data.meta.radius_km;
@@ -97,7 +98,7 @@
   }
 
   function current() {
-    const key = S.delta.toFixed(4);
+    const key = S.delta.toFixed(3);
     if (!S.cuts.has(key)) {
       const cut = Core.recut(S.ix, S.delta);
       S.cuts.set(key, { cut, gens: Core.genera(cut) });

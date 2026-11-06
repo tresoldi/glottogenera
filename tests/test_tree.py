@@ -203,3 +203,6 @@ def test_choose_picks_a_maximizer():
 
     delta, tied = Calibration.choose(np.array([1.0, 0.0, 1.0]), half_width=0, grid=[0.0, 0.1, 0.2])
     assert delta in (0.0, 0.2) and tied == [0.0, 0.2]
+    # an even number of maximizers: the lower middle one; a grid finer than four decimals is kept as is
+    assert Calibration.choose(np.ones(2), half_width=0, grid=[0.1, 0.2])[0] == 0.1
+    assert Calibration.choose(np.array([0.0, 1.0, 0.0]), half_width=0, grid=[0.0, 0.00001, 0.00002])[0] == 0.00001

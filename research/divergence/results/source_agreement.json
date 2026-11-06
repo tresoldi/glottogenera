@@ -59,6 +59,20 @@
      "stable_genera": 17,
      "identical": 0.9047619047619048
     }
+   ],
+   "by_crown": [
+    {
+     "crown": "own crown measured",
+     "genera": 595,
+     "stable_genera": 249,
+     "identical": 0.9042016806722689
+    },
+    {
+     "crown": "own crown not measured",
+     "genera": 119,
+     "stable_genera": 84,
+     "identical": 0.9243697478991597
+    }
    ]
   },
   {
@@ -114,6 +128,20 @@
      "genera": 21,
      "stable_genera": 17,
      "identical": 1.0
+    }
+   ],
+   "by_crown": [
+    {
+     "crown": "own crown measured",
+     "genera": 595,
+     "stable_genera": 249,
+     "identical": 0.7159663865546219
+    },
+    {
+     "crown": "own crown not measured",
+     "genera": 119,
+     "stable_genera": 84,
+     "identical": 0.9495798319327731
     }
    ]
   },
@@ -171,6 +199,20 @@
      "stable_genera": 38,
      "identical": 0.6851851851851852
     }
+   ],
+   "by_crown": [
+    {
+     "crown": "own crown measured",
+     "genera": 491,
+     "stable_genera": 200,
+     "identical": 0.9164969450101833
+    },
+    {
+     "crown": "own crown not measured",
+     "genera": 223,
+     "stable_genera": 133,
+     "identical": 0.8385650224215246
+    }
    ]
   },
   {
@@ -226,6 +268,20 @@
      "genera": 54,
      "stable_genera": 38,
      "identical": 0.6851851851851852
+    }
+   ],
+   "by_crown": [
+    {
+     "crown": "own crown measured",
+     "genera": 491,
+     "stable_genera": 200,
+     "identical": 0.9164969450101833
+    },
+    {
+     "crown": "own crown not measured",
+     "genera": 223,
+     "stable_genera": 133,
+     "identical": 0.8475336322869955
     }
    ]
   }
