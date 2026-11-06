@@ -6,7 +6,7 @@ type: dataset
 title: "glottogenera: genera defined by a divergence threshold on a language tree, with a release for Glottolog 5.3"
 version: 1.2.0
 doi: 10.5281/zenodo.23984192
-date-released: "2026-11-05"
+date-released: "2026-11-06"
 license: CC-BY-4.0
 url: "https://glottogenera.tresoldi.org"
 repository-code: "https://github.com/tresoldi/glottogenera"
