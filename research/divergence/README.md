@@ -8,7 +8,7 @@ not part of the release pipeline, and their results are committed in
 
 | script | writes | reported as |
 |---|---|---|
-| `fetch_phlorest.py OUT/phlorest` | the dated Phlorest trees (summary trees and tip metadata) | input of `ages.py` |
+| `fetch_phlorest.py OUT/phlorest [MANIFEST]` | the dated Phlorest trees (summary trees and tip metadata), and `phlorest_manifest.json` (the commits) | input of `ages.py` |
 | `ages.py OUT/phlorest OUT` | `ages.json`: crown ages of Glottolog nodes in the dated trees | input of the screen |
 | `compare_sources.py OUT` | `sources.json`, `sources_meta.json`; `source_values.pkl` | Table 8 (selection screen), the residual variance of log age between families (Limitations) |
 | `measure_tests.py PKL BASE CANDIDATES…` | paired and blocked bootstrap of differences between distances | `source_tests.txt` (intervals in Validation) |
@@ -16,9 +16,14 @@ not part of the release pipeline, and their results are committed in
 | `source_agreement.py OUT` | `source_agreement.json` | Table 10 (another distance or lexical source) |
 | `input_sensitivity.py OUT 8` | `input_sensitivity.json` | Uncertainty (relearned correspondences, other doculects) |
 | `estimated_trees.py OUT` | `estimated_trees.json`, `estimated_trees.nwk` | Table 11 (UPGMA and neighbour-joining trees) |
+| `export_screen.py SOURCE_PKL HELDOUT_PKL OUT` | `screen_pairs.csv.gz`, `screen_nodes.csv`: the pair-level evidence of the screen | archived evidence of Table 8 |
+| `variety_sensitivity.py OUT` | `variety_sensitivity.json` | Validation (single source variety per language) |
+| `envelope_sensitivity.py OUT` | `envelope_sensitivity.json` | Limitations (the "max" envelope rule) |
+| `gled_cldf.py GLED_TSV OUT` | the GLED tables the screen reads | input |
 
 Helper modules: `compare_measures.py` (the cognate and dated-tree evidence and
-its scoring), `measures.py` (alternative word distances and the GLED reader),
+its scoring), `cognacy.py` (the cognate sets of a form; placeholders are no
+judgement), `measures.py` (alternative word distances and the GLED reader),
 `pmi_variants.py` (the PMI estimators compared in the screen),
 `ldnd_reference.py` (standard LDND) and `newick.py` (a Newick reader forked
 from python-newick, under the Apache License 2.0 in `LICENSE-newick`, used by
@@ -48,6 +53,9 @@ $PY $R/measure_tests.py $OUT/heldout_values.pkl "asjp:ldnd (released)" "asjp:pmi
 $PY $R/source_agreement.py $OUT
 $PY $R/input_sensitivity.py $OUT 8
 $PY $R/estimated_trees.py $OUT          # about 30 minutes
+$PY $R/export_screen.py $OUT/source_values.pkl $OUT/heldout_values.pkl $OUT
+$PY $R/variety_sensitivity.py $OUT
+$PY $R/envelope_sensitivity.py $OUT
 ```
 
 ## External inputs

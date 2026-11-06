@@ -87,6 +87,9 @@ DELTA_GRID = tree.DELTA_GRID
 # Half-width of the window over which the calibration objective is averaged, so
 # that delta does not hinge on the crossing of single nodes.
 SMOOTHING = tree.SMOOTHING
+# Node values are rounded to this many decimals before the cut, the calibration and the release, so
+# that recutting the released nodes.tsv reproduces every released result exactly.
+DECIMALS = 6
 CURVE_STEP = 1  # the curve in params.json keeps every grid value (the figure draws its steps)
 PERMUTATIONS = 20  # crown divergence shuffled across nodes: the null for the calibration
 YARDSTICK_FAMILY = "indo1319"  # reported separately: Dryer's reference family
@@ -460,7 +463,7 @@ def run(data_dir: Path) -> int:
     print(f"  {training}")
     print("Measuring crown divergence ...")
     crowns = Crowns(glottolog, lists, scorer)
-    measured = crowns.divergence()
+    measured = {n: {**v, "D": round(v["D"], DECIMALS)} for n, v in crowns.divergence().items()}
     print(f"crown divergence measured at {len(measured)} nodes from {crowns.n_pairs} pairs")
     env = envelope(glottolog, measured, ENVELOPE_RULE)
     wl = genealogical_wals(wals_eval_set(glottolog, load_wals(sources_dir(data_dir))))
@@ -482,12 +485,12 @@ def run(data_dir: Path) -> int:
     def upper(node):
         """The smallest cut value above the node: the genus exists up to there."""
         above = [env[a] for a in glottolog.ancestors(node) if a in env]
-        return round(min(above), 4) if above else ""
+        return round(min(above), DECIMALS) if above else ""
 
     def value(table, node, key=None):
         if node not in table:
             return ""
-        return round(table[node][key] if key else table[node], 4)
+        return round(table[node][key] if key else table[node], DECIMALS)
 
     lang_path = data_dir / "genera.tsv"
     with lang_path.open("w", newline="", encoding="utf-8") as fh:
@@ -541,8 +544,8 @@ def run(data_dir: Path) -> int:
                     measured[node]["n_pairs"] if node in measured else "",
                     cut,
                     top,
-                    round(delta - cut, 4) if cut != "" else "",
-                    round(top - delta, 4) if top != "" else "",
+                    round(delta - cut, DECIMALS) if cut != "" else "",
+                    round(top - delta, DECIMALS) if top != "" else "",
                     round(stability[node], 3),
                     round(stability_fixed[node], 3),
                     # an "Unclassified" node collects languages not placed in a subgroup: a residual group
@@ -560,7 +563,7 @@ def run(data_dir: Path) -> int:
                     glottolog.name(node),
                     glottolog.family_name(glottolog.family_gc(node)),
                     len(glottolog.ancestors(node)),
-                    round(measured[node]["D"], 4),
+                    round(measured[node]["D"], DECIMALS),
                     measured[node]["n_pairs"],
                     value(env, node),
                 ]

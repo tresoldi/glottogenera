@@ -1,5 +1,32 @@
 # Changelog
 
+## 1.3.0 — unreleased
+
+Corrections after a second review; the genera are unchanged.
+
+- **Distance screen.** A placeholder cognate set numbered 0 (in Peiros'
+  Austroasiatic data, for loans and entries without a judgement) is no longer
+  read as a shared judgement (`research/divergence/cognacy.py`, with tests);
+  the released distance is now trained as the package trains it; the results
+  are recomputed. New: the sensitivity of the screen to the pooling of source
+  varieties (`variety_sensitivity.py`) and of the release to the envelope rule
+  (`envelope_sensitivity.py`); the recovery of genera under GLED is reported
+  by how many of their members GLED covers.
+- **Calibration.** The threshold is always a grid value that maximizes the
+  objective (before, the median of disconnected maximizers could be neither);
+  the released δ is unchanged, three leave-one-family-out thresholds and the
+  bootstrap stability of 29 genera (by one replicate in 200) change.
+- **Precision.** Node values are released with six decimals, and the release
+  is computed from these rounded values, so that recutting `nodes.tsv`
+  reproduces every released result.
+- **Residual groups.** `unclassified_node` is also in the CLDF CodeTable and
+  in the explorer (genus pages and CSV exports).
+- **Metadata.** The repository cites the DOI of all versions
+  (10.5281/zenodo.23979574).
+- **Research scripts.** The ABVD source is pinned to the commit actually used;
+  `fetch_phlorest.py` fails when a file is missing; `gled_cldf.py` keeps the
+  ASJP form in `Value`.
+
 ## 1.2.0 — 2026-11-06
 
 Corrections after review; the genera and their divergences are unchanged.

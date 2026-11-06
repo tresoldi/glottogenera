@@ -1,16 +1,16 @@
 # blocks: 15 cognate datasets, 13 language families of dated nodes
 asjp:pmi (family held out) minus asjp:pmi (all families):
-   cognate within           -0.000  95% CI [-0.002, +0.002]  P(diff<=0)=0.688
+   cognate within           -0.000  95% CI [-0.002, +0.002]  P(diff<=0)=0.649
    age                      +0.003  95% CI [-0.001, +0.009]  P(diff<=0)=0.095
    age old                  +0.006  95% CI [-0.008, +0.023]  P(diff<=0)=0.223
-   cognate within, blocked  -0.000  95% CI [-0.002, +0.001]  P(diff<=0)=0.768
+   cognate within, blocked  -0.000  95% CI [-0.002, +0.001]  P(diff<=0)=0.735
    age, blocked             +0.003  95% CI [-0.001, +0.008]  P(diff<=0)=0.055
    age old, blocked         +0.006  95% CI [-0.011, +0.016]  P(diff<=0)=0.257
 # blocks: 15 cognate datasets, 13 language families of dated nodes
 asjp:pmi (family held out) minus asjp:ldnd (released):
-   cognate within           +0.031  95% CI [+0.020, +0.042]  P(diff<=0)=0.000
+   cognate within           +0.031  95% CI [+0.020, +0.043]  P(diff<=0)=0.000
    age                      +0.026  95% CI [+0.006, +0.049]  P(diff<=0)=0.003
    age old                  +0.020  95% CI [-0.028, +0.074]  P(diff<=0)=0.195
-   cognate within, blocked  +0.031  95% CI [+0.015, +0.047]  P(diff<=0)=0.000
+   cognate within, blocked  +0.031  95% CI [+0.015, +0.048]  P(diff<=0)=0.000
    age, blocked             +0.026  95% CI [+0.006, +0.059]  P(diff<=0)=0.005
    age old, blocked         +0.020  95% CI [-0.015, +0.055]  P(diff<=0)=0.113

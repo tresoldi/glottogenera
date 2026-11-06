@@ -212,7 +212,8 @@ def main() -> int:
         "nodes": nodes,
         "languages": langs,
         "genera": {gid: {k: s[k] for k in ("method", "crown_divergence", "crown_pairs", "cut_value", "upper_value",
-                                           "margin_below", "margin_above", "stability", "stability_fixed_delta")}
+                                           "margin_below", "margin_above", "stability", "stability_fixed_delta",
+                                           "unclassified_node")}
                    for gid, s in summary.items()},
         "names": {gid: {k: r[k] for k in ("name", "criterion", "confidence", "rationale", "sources")}
                   for gid, r in corrections.items()},

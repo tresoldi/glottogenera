@@ -118,6 +118,11 @@
   // ---------- data helpers ----------
   function familyOf(langId) { return Core.family(S.ix, langId); }
   function familyName(fid) { return Core.name(S.ix, fid); }
+  // a Glottolog "Unclassified" node collects languages not placed in a subgroup: a residual group
+  function unclassified(id) {
+    const node = S.ix.nodes[id];
+    return (node ? node.name : S.ix.byId[id].name).startsWith("Unclassified");
+  }
   function genusRow(g) {
     const first = g.members[0];
     const fid = familyOf(first);
@@ -132,6 +137,7 @@
       family: familyName(fid),
       n_languages: g.members.length,
       method: g.method,
+      unclassified_node: unclassified(g.id) ? 1 : 0,
       cut_value: g.method === "divergence" ? Core.cutValue(S.ix, g.id) : "",
       crown_divergence: node && node.D !== null ? node.D : "",
       from_delta: isFinite(lo) ? lo : "",
@@ -154,7 +160,7 @@
   const LANG_COLUMNS = ["glottocode", "name", "iso639_3", "family_id", "family", "genus_id", "genus_name",
     "genus_glottolog_name", "method", "latitude", "longitude", "macroarea", "wals_genus", "delta"];
   const GENUS_COLUMNS = ["genus_id", "genus_name", "genus_glottolog_name", "family_id", "family", "n_languages",
-    "method", "cut_value", "crown_divergence", "from_delta", "to_delta", "stability", "delta"];
+    "method", "unclassified_node", "cut_value", "crown_divergence", "from_delta", "to_delta", "stability", "delta"];
 
   // WALS families used in the calibration: genealogical WALS genera of in-scope
   // languages, families with at least two such languages and two WALS genera.
@@ -621,6 +627,7 @@
         <dt>Family</dt><dd><a href="${link("family/" + fid)}">${esc(familyName(fid))}</a></dd>
         <dt>Languages</dt><dd>${int(members.length)}</dd>
         ${g ? `<dt>Method</dt><dd>${esc(METHODS[g.method])}</dd>` : ""}
+        ${unclassified(id) ? `<dt>Residual group</dt><dd>A Glottolog "Unclassified" node: it collects languages not yet placed in a subgroup, so this genus is not a subgroup.</dd>` : ""}
         <dt>Cut value c</dt><dd>${fmt(Core.cutValue(S.ix, id))}${node && node.D !== null ? ` (own crown divergence ${fmt(node.D)} from ${int(node.pairs)} language pairs)` : node ? " (not measured; the largest value among its sub-clades)" : ""}</dd>
         ${status}
         ${released && isReleased() ? `<dt>Stability</dt><dd>${fmt(released.stability, 2)} with δ recalibrated, ${fmt(released.stability_fixed_delta, 2)} with δ fixed; margins ${fmt(released.margin_below)} below and ${fmt(released.margin_above)} above δ</dd>` : ""}
@@ -926,7 +933,7 @@
         <a href="${link("downloads")}">Downloads</a> page.</li>
       </ul>
       <h2>Citation</h2>
-      <p>Tresoldi, Tiago. Glottogenera: genera defined by a divergence threshold on a language tree, with a release for Glottolog ${esc(m.glottolog)}, version ${esc(m.version)}. Zenodo, doi:<a href="https://doi.org/10.5281/zenodo.24010019">10.5281/zenodo.24010019</a>.
+      <p>Tresoldi, Tiago. Glottogenera: genera defined by a divergence threshold on a language tree, with a release for Glottolog ${esc(m.glottolog)}, version ${esc(m.version)}. Zenodo, doi:<a href="https://doi.org/10.5281/zenodo.23979574">10.5281/zenodo.23979574</a>.
       <a href="${REPO}">${REPO}</a>. Please also cite Glottolog (doi:${esc(m.glottolog_doi)}), ASJP and, if you use the comparison, WALS.
       A paper describing the dataset is in preparation.</p>
       <h2>Author</h2>

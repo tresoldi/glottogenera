@@ -58,6 +58,8 @@ GENUS_COLUMNS = [
     ("margin_above", "Margin_Above", "decimal", "Upper_Value minus delta"),
     ("stability", "Stability", "decimal", "Share of bootstrap replicates (delta recalibrated) in which the genus reappears"),
     ("stability_fixed_delta", "Stability_Fixed_Delta", "decimal", "The same with delta fixed"),
+    ("unclassified_node", "Unclassified_Node", "integer",
+     "1 if the genus node is a Glottolog 'Unclassified' node, a residual group rather than a subgroup"),
 ]
 
 

@@ -35,7 +35,7 @@ glottogenera.
 
 | file | source | version | licence | doculects | rows |
 |---|---|---|---|---:|---:|
-| `abvd2026.csv` | Greenhill, Blust & Gray, ABVD; https://github.com/lexibank/abvd | commit 2af9f4ef6f | CC BY 4.0 | 453 | 18,461 |
+| `abvd2026.csv` | Greenhill, Blust & Gray, ABVD; https://github.com/lexibank/abvd | commit 81748db0c5 | CC BY 4.0 | 453 | 18,461 |
 | `abvdphilippines.csv` | Greenhill, Blust & Gray, ABVD, Philippine languages; https://github.com/lexibank/abvdphilippines | v1.0 | CC BY 4.0 | 71 | 3,527 |
 | `bowernpny.csv` | Bowern & Atkinson 2012, Pama-Nyungan; https://github.com/lexibank/bowernpny | v4.1 | CC BY 4.0 | 162 | 5,017 |
 | `dravlex.csv` | Kolipakam et al., DravLex; https://github.com/lexibank/dravlex | commit 37578075e5 | CC BY 4.0 | 16 | 575 |

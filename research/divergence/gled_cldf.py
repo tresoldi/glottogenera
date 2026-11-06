@@ -20,7 +20,7 @@ def main(tsv, out):
         w = csv.writer(fo)
         w.writerow(["ID", "Language_ID", "Parameter_ID", "Value", "Form", "Segments", "Cognacy", "Alignment", "Source"])
         for r in csv.DictReader(fh, delimiter="\t"):
-            w.writerow([r["ID"], r["DOCULECT"], r["CONCEPT"], r["FORM"], r["FORM"], r["IPA"], r["COGSET"],
+            w.writerow([r["ID"], r["DOCULECT"], r["CONCEPT"], r["ASJP_FORM"], r["FORM"], r["IPA"], r["COGSET"],
                         r["ALIGNMENT"], "Tresoldi2022gled"])
             languages.setdefault(r["DOCULECT"], (r["LANGUAGE_NAME"], r["GLOTTOCODE"], r["GLOTTOLOG_NAME"], r["FAMILY"]))
             concepts.setdefault(r["CONCEPT"], r["CONCEPTICON_ID"])

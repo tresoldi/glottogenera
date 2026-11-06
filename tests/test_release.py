@@ -127,3 +127,10 @@ def test_cldf_matches_release_tables():
     codes = rows(REPO / "cldf" / "codes.csv")
     assert {c["ID"]: int(c["Languages"]) for c in codes} == Counter(g for g, _, _ in genus.values())
     assert len(rows(REPO / "cldf" / "nodes.csv")) == len(glottogenera.load_nodes())
+    # every column of the genus summary is carried by the CodeTable, with the same values
+    summary = {r["genus_id"]: r for r in glottogenera.load_genera_summary()}
+    cldf_codes = {c["ID"]: c for c in codes}
+    for col, name in (("unclassified_node", "Unclassified_Node"), ("stability", "Stability"),
+                      ("cut_value", "Cut_Value")):
+        assert {g: (r[col] or None) for g, r in summary.items()} == \
+            {g: (cldf_codes[g][name] or None) for g in summary}, col

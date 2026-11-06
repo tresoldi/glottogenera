@@ -2,7 +2,7 @@
 
 Genera defined by a divergence threshold: the highest Glottolog clades whose crown divergence (normalized PMI alignment distance over the 40 ASJP core concepts, one doculect per language) does not exceed delta. See `docs/definition.md` and `docs/methods.md`.
 
-- **delta = 0.81**: maximizes the mean ARI against WALS, averaged over a window of +-0.02, over 49 families with at least two WALS genera (1704 languages; mean ARI 0.635). Resampling families: delta 0.73/0.81/0.825 (5th/50th/95th percentiles); leaving one family out: {'0.808': 2, '0.8085': 1, '0.8095': 1, '0.81': 40, '0.813': 2, '0.814': 1, '0.817': 2}.
+- **delta = 0.81**: maximizes the mean ARI against WALS, averaged over a window of +-0.02, over 49 families with at least two WALS genera (1704 languages; mean ARI 0.635). Resampling families: delta 0.73/0.81/0.825 (5th/50th/95th percentiles); leaving one family out: {'0.808': 2, '0.809': 1, '0.81': 41, '0.813': 2, '0.814': 1, '0.817': 2}.
   At delta = 0.73: 1728 genera, 2962 languages in a different genus.
   At delta = 0.825: 1114 genera, 573 languages in a different genus.
 - Other criteria: pooled ARI over all WALS languages picks delta = 0.864 (817 genera); Indo-European alone picks 0.767 (tied 0.728–0.806).

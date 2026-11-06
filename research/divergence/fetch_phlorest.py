@@ -24,14 +24,18 @@ else:
         head = subprocess.run(["git", "ls-remote", f"https://github.com/phlorest/{repo}", "HEAD"],
                               capture_output=True, text=True, check=True).stdout.split()
         manifest[repo] = head[0]
+failed = []
 for repo, commit in sorted(manifest.items()):
     out = OUT / repo
     out.mkdir(parents=True, exist_ok=True)
     for name in ("summary.trees", "languages.csv", "trees.csv"):
+        (out / name).unlink(missing_ok=True)  # no stale file survives a failed download
         url = f"https://raw.githubusercontent.com/phlorest/{repo}/{commit}/cldf/{name}"
         try:
             (out / name).write_bytes(urllib.request.urlopen(url, timeout=60).read())
         except Exception as exc:
-            print(f"{repo}/{name}: {exc}")
+            failed.append(f"{repo}/{name}: {exc}")
     print(repo, commit)
+if failed:
+    sys.exit("download failed, no manifest written:\n" + "\n".join(failed))
 (OUT / "phlorest_manifest.json").write_text(json.dumps(manifest, indent=1, sort_keys=True) + "\n")

@@ -1,0 +1,22 @@
+{
+ "pairs": 8760,
+ "changed": 7359,
+ "measures": [
+  {
+   "measure": "released distance (PMI alignment)",
+   "datasets": 13,
+   "within_pooled_doculects": 0.6831,
+   "within_single_variety": 0.686,
+   "pooled_pooled_doculects": 0.7601,
+   "pooled_single_variety": 0.7538
+  },
+  {
+   "measure": "LDND",
+   "datasets": 13,
+   "within_pooled_doculects": 0.6516,
+   "within_single_variety": 0.6559,
+   "pooled_pooled_doculects": 0.7167,
+   "pooled_single_variety": 0.7108
+  }
+ ]
+}

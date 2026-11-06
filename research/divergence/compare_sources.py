@@ -25,6 +25,7 @@ sys.path.insert(0, str(Path(__file__).parent))
 import compare_measures as cm  # noqa: E402  (cognate and clock evaluation sets)
 import measures as ms  # noqa: E402
 import pmi_variants as pmi  # noqa: E402
+from glottogenera import pmi as released_pmi  # noqa: E402
 import ldnd_reference as lr  # noqa: E402
 
 OUT = Path(sys.argv[1])
@@ -36,6 +37,8 @@ MEASURES = defaultdict(dict)  # source -> {name: distance}
 for source in ("asjp", "gled"):
     for name, estimator in ESTIMATORS.items():
         MEASURES[source][name] = pmi.train(SOURCES[source], g, estimator=estimator)[0].distance
+# the released distance as the package trains it (its sampling of training pairs differs from pmi_variants')
+MEASURES["asjp"]["pmi-asymcat-smoothed"] = released_pmi.train(SOURCES["asjp"], g)[0].distance
 MEASURES["gled"]["levenshtein"] = ms._seqsim("levenshtein")
 MEASURES["gled"]["cognates"] = ms.cognate_distance
 for m in sorted(seqsim.METHODS):

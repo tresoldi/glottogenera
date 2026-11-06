@@ -46,12 +46,22 @@ def compare(other, label, covered):
     for lo, hi in ((0.9, 1.01), (0.5, 0.9), (0, 0.5)):
         grp = [s for s in multi if lo <= stab[node_of[s]] < hi]
         by.append({"stability": [lo, min(hi, 1)], "genera": len(grp), "identical": float(np.mean([s in oth_sets for s in grp]))})
+    # recovery by how much of the genus the compared source covers: a genus with fewer than two covered
+    # members cannot be tested by that source, only kept by the rules for unmeasured clades
+    by_coverage = []
+    for lo, hi, name in ((2, 10**6, "at least two members covered"), (1, 2, "one member covered"),
+                         (0, 1, "no member covered")):
+        grp = [s for s in multi if lo <= len(s & covered) < hi]
+        by_coverage.append({"coverage": name, "genera": len(grp),
+                            "stable_genera": sum(stab[node_of[s]] >= 0.9 for s in grp),
+                            "identical": float(np.mean([s in oth_sets for s in grp])) if grp else None})
     both = [x for x in langs if x in covered]
     r = {"against": label, "ari": float(adjusted_rand_score([released[x] for x in langs], [other[x] for x in langs])),
          "changing_genus": float(np.mean([released[x] != other[x] for x in langs])),
          "changing_genus_covered": float(np.mean([released[x] != other[x] for x in both])), "covered": len(both),
          "ari_covered": float(adjusted_rand_score([released[x] for x in both], [other[x] for x in both])),
-         "identical_multi": sum(s in oth_sets for s in multi), "released_multi": len(multi), "by_stability": by}
+         "identical_multi": sum(s in oth_sets for s in multi), "released_multi": len(multi), "by_stability": by,
+         "by_coverage": by_coverage}
     print(json.dumps(r), flush=True)
     return r
 

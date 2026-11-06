@@ -1,30 +1,30 @@
 # blocks: 15 cognate datasets, 13 language families of dated nodes
 asjp:pmi-asymcat-smoothed minus asjp:ldnd (released):
-   cognate within           +0.030  95% CI [+0.019, +0.041]  P(diff<=0)=0.000
-   age                      +0.024  95% CI [+0.004, +0.046]  P(diff<=0)=0.012
-   age old                  +0.017  95% CI [-0.034, +0.069]  P(diff<=0)=0.226
-   cognate within, blocked  +0.030  95% CI [+0.013, +0.047]  P(diff<=0)=0.000
-   age, blocked             +0.024  95% CI [+0.003, +0.058]  P(diff<=0)=0.014
-   age old, blocked         +0.017  95% CI [-0.018, +0.057]  P(diff<=0)=0.153
+   cognate within           +0.031  95% CI [+0.021, +0.043]  P(diff<=0)=0.000
+   age                      +0.023  95% CI [+0.003, +0.045]  P(diff<=0)=0.014
+   age old                  +0.015  95% CI [-0.033, +0.062]  P(diff<=0)=0.261
+   cognate within, blocked  +0.031  95% CI [+0.015, +0.048]  P(diff<=0)=0.000
+   age, blocked             +0.023  95% CI [+0.001, +0.057]  P(diff<=0)=0.020
+   age old, blocked         +0.015  95% CI [-0.018, +0.055]  P(diff<=0)=0.159
 gled:pmi-asymcat-smoothed minus asjp:ldnd (released):
-   cognate within           +0.011  95% CI [-0.004, +0.025]  P(diff<=0)=0.074
+   cognate within           +0.011  95% CI [-0.004, +0.025]  P(diff<=0)=0.078
    age                      +0.041  95% CI [+0.017, +0.069]  P(diff<=0)=0.000
    age old                  +0.020  95% CI [-0.035, +0.084]  P(diff<=0)=0.228
-   cognate within, blocked  +0.011  95% CI [-0.014, +0.031]  P(diff<=0)=0.180
+   cognate within, blocked  +0.011  95% CI [-0.014, +0.031]  P(diff<=0)=0.175
    age, blocked             +0.041  95% CI [+0.013, +0.092]  P(diff<=0)=0.002
    age old, blocked         +0.020  95% CI [-0.022, +0.065]  P(diff<=0)=0.188
 asjp:pmi minus asjp:ldnd (released):
-   cognate within           +0.032  95% CI [+0.022, +0.043]  P(diff<=0)=0.000
+   cognate within           +0.033  95% CI [+0.023, +0.044]  P(diff<=0)=0.000
    age                      +0.026  95% CI [+0.003, +0.049]  P(diff<=0)=0.011
    age old                  +0.021  95% CI [-0.023, +0.075]  P(diff<=0)=0.189
-   cognate within, blocked  +0.032  95% CI [+0.017, +0.049]  P(diff<=0)=0.000
+   cognate within, blocked  +0.033  95% CI [+0.018, +0.050]  P(diff<=0)=0.000
    age, blocked             +0.026  95% CI [+0.003, +0.067]  P(diff<=0)=0.014
    age old, blocked         +0.021  95% CI [-0.023, +0.056]  P(diff<=0)=0.147
 # blocks: 15 cognate datasets, 13 language families of dated nodes
 asjp:pmi-asymcat-smoothed minus gled:pmi-asymcat-smoothed:
-   cognate within           +0.019  95% CI [+0.007, +0.030]  P(diff<=0)=0.002
-   age                      -0.018  95% CI [-0.040, -0.001]  P(diff<=0)=0.987
-   age old                  -0.003  95% CI [-0.036, +0.031]  P(diff<=0)=0.564
-   cognate within, blocked  +0.019  95% CI [-0.001, +0.054]  P(diff<=0)=0.038
-   age, blocked             -0.018  95% CI [-0.044, -0.003]  P(diff<=0)=0.990
-   age old, blocked         -0.003  95% CI [-0.025, +0.026]  P(diff<=0)=0.576
+   cognate within           +0.020  95% CI [+0.008, +0.032]  P(diff<=0)=0.001
+   age                      -0.019  95% CI [-0.042, -0.002]  P(diff<=0)=0.990
+   age old                  -0.005  95% CI [-0.041, +0.032]  P(diff<=0)=0.618
+   cognate within, blocked  +0.020  95% CI [+0.001, +0.054]  P(diff<=0)=0.011
+   age, blocked             -0.019  95% CI [-0.047, -0.002]  P(diff<=0)=0.982
+   age old, blocked         -0.005  95% CI [-0.028, +0.025]  P(diff<=0)=0.616

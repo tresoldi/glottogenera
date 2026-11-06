@@ -1,6 +1,6 @@
 # glottogenera
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24010019.svg)](https://doi.org/10.5281/zenodo.24010019)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23979574.svg)](https://doi.org/10.5281/zenodo.23979574)
 
 Language **genera** defined by an explicit rule, as a reproducible
 replacement for the expert-assigned genera of Dryer (1989) and WALS, with a
@@ -154,7 +154,8 @@ sensitivity, estimated trees) is in [`research/divergence/`](research/divergence
 
 ## Citation
 
-Please cite the dataset, doi:[10.5281/zenodo.24010019](https://doi.org/10.5281/zenodo.24010019) (see [`CITATION.cff`](CITATION.cff)),
+Please cite the dataset, doi:[10.5281/zenodo.23979574](https://doi.org/10.5281/zenodo.23979574), which resolves to
+its latest version (the Zenodo record gives each version its own DOI; see [`CITATION.cff`](CITATION.cff)),
 and Glottolog, ASJP and WALS, from which it derives. A data descriptor is in preparation.
 
 ## License

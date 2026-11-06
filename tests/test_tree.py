@@ -194,3 +194,12 @@ def test_input_errors():
         cut_values(Tree({"a": "r", "b": "r"}), {"r": 1.0}, rule="mean")
     with pytest.raises(ValueError):
         Tree({"a": "x", "x": "y", "y": "x"}, ["a"]).lineage("a")
+
+
+def test_choose_picks_a_maximizer():
+    # disconnected maxima: the median (0.1) would not be one
+    import numpy as np
+    from glottogenera.tree import Calibration
+
+    delta, tied = Calibration.choose(np.array([1.0, 0.0, 1.0]), half_width=0, grid=[0.0, 0.1, 0.2])
+    assert delta in (0.0, 0.2) and tied == [0.0, 0.2]

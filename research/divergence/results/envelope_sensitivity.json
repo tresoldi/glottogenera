@@ -1,0 +1,40 @@
+{
+ "rows": [
+  {
+   "rule": "own",
+   "threshold": "released delta",
+   "delta": 0.81,
+   "genera": 1190,
+   "languages_changing_genus": 0,
+   "ari_with_release": 1.0,
+   "mean_family_ari": 0.6541
+  },
+  {
+   "rule": "own",
+   "threshold": "recalibrated delta",
+   "delta": 0.81,
+   "genera": 1190,
+   "languages_changing_genus": 0,
+   "ari_with_release": 1.0,
+   "mean_family_ari": 0.6541
+  },
+  {
+   "rule": "max",
+   "threshold": "released delta",
+   "delta": 0.81,
+   "genera": 1382,
+   "languages_changing_genus": 1147,
+   "ari_with_release": 0.8105,
+   "mean_family_ari": 0.608
+  },
+  {
+   "rule": "max",
+   "threshold": "recalibrated delta",
+   "delta": 0.798,
+   "genera": 1451,
+   "languages_changing_genus": 1583,
+   "ari_with_release": 0.7941,
+   "mean_family_ari": 0.5987
+  }
+ ]
+}

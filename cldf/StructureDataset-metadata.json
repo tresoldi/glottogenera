@@ -10,7 +10,7 @@
     "dc:description": "Genera defined by a divergence threshold on a language tree: a genus is the largest clade whose divergence does not exceed a threshold delta. This release cuts Glottolog 5.3, with crown divergence from PMI alignment of ASJP 21 wordlists and delta = 0.81 calibrated against the WALS genera.",
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:source": "sources.bib",
-    "dc:title": "Glottogenera 1.2.0: genera for the languages of Glottolog 5.3",
+    "dc:title": "Glottogenera 1.3.0: genera for the languages of Glottolog 5.3",
     "dcat:accessURL": "https://github.com/tresoldi/glottogenera",
     "prov:wasDerivedFrom": [
         {
@@ -342,6 +342,11 @@
                         "dc:description": "The same with delta fixed",
                         "datatype": "decimal",
                         "name": "Stability_Fixed_Delta"
+                    },
+                    {
+                        "dc:description": "1 if the genus node is a Glottolog 'Unclassified' node, a residual group rather than a subgroup",
+                        "datatype": "integer",
+                        "name": "Unclassified_Node"
                     }
                 ],
                 "foreignKeys": [

@@ -39,6 +39,26 @@
      "genera": 67,
      "identical": 0.6417910447761194
     }
+   ],
+   "by_coverage": [
+    {
+     "coverage": "at least two members covered",
+     "genera": 626,
+     "stable_genera": 262,
+     "identical": 0.902555910543131
+    },
+    {
+     "coverage": "one member covered",
+     "genera": 67,
+     "stable_genera": 54,
+     "identical": 0.9552238805970149
+    },
+    {
+     "coverage": "no member covered",
+     "genera": 21,
+     "stable_genera": 17,
+     "identical": 0.9047619047619048
+    }
    ]
   },
   {
@@ -74,6 +94,26 @@
      ],
      "genera": 67,
      "identical": 0.08955223880597014
+    }
+   ],
+   "by_coverage": [
+    {
+     "coverage": "at least two members covered",
+     "genera": 626,
+     "stable_genera": 262,
+     "identical": 0.7204472843450479
+    },
+    {
+     "coverage": "one member covered",
+     "genera": 67,
+     "stable_genera": 54,
+     "identical": 1.0
+    },
+    {
+     "coverage": "no member covered",
+     "genera": 21,
+     "stable_genera": 17,
+     "identical": 1.0
     }
    ]
   },
@@ -111,6 +151,26 @@
      "genera": 67,
      "identical": 0.7611940298507462
     }
+   ],
+   "by_coverage": [
+    {
+     "coverage": "at least two members covered",
+     "genera": 533,
+     "stable_genera": 216,
+     "identical": 0.9099437148217636
+    },
+    {
+     "coverage": "one member covered",
+     "genera": 127,
+     "stable_genera": 79,
+     "identical": 0.905511811023622
+    },
+    {
+     "coverage": "no member covered",
+     "genera": 54,
+     "stable_genera": 38,
+     "identical": 0.6851851851851852
+    }
    ]
   },
   {
@@ -146,6 +206,26 @@
      ],
      "genera": 67,
      "identical": 0.746268656716418
+    }
+   ],
+   "by_coverage": [
+    {
+     "coverage": "at least two members covered",
+     "genera": 533,
+     "stable_genera": 216,
+     "identical": 0.9136960600375235
+    },
+    {
+     "coverage": "one member covered",
+     "genera": 127,
+     "stable_genera": 79,
+     "identical": 0.905511811023622
+    },
+    {
+     "coverage": "no member covered",
+     "genera": 54,
+     "stable_genera": 38,
+     "identical": 0.6851851851851852
     }
    ]
   }

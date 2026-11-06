@@ -28,6 +28,7 @@ sys.path.insert(0, str(Path(__file__).parent))
 from glottogenera import divergence as dv  # noqa: E402
 from glottogenera.glottolog import Glottolog  # noqa: E402
 import measures as ms  # noqa: E402
+from cognacy import memberships  # noqa: E402
 
 OUT = Path(sys.argv[1])
 COGNATE_DIR = Path(os.environ.get("COGNATE_DIR", Path(__file__).parent / "cognates"))
@@ -56,10 +57,11 @@ def cognate_pairs():
     for s in SOURCES:
         with open(COGNATE_DIR / f"{s}.csv", newline="") as fh:
             for r in csv.DictReader(fh):
-                if r["concept"] in core and r["Cognacy"]:
-                    # a form may belong to several cognate sets, separated by ";": two forms are cognate when
-                    # they share any of them
-                    cog[s][r["doculect"]][r["concept"]].update(r["Cognacy"].split(";"))
+                # a form may belong to several cognate sets: two forms are cognate when they share any of
+                # them; placeholder sets (numbered 0) are no judgement
+                sets = memberships(r["Cognacy"])
+                if r["concept"] in core and sets:
+                    cog[s][r["doculect"]][r["concept"]].update(sets)
                     gc_of[r["doculect"]] = r["Glottocode"]
     out = []
     for s, langs in cog.items():
