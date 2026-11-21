@@ -27,7 +27,7 @@ from typing import Dict, List, Optional
 
 from .config import PACKAGE_DATA
 
-__version__ = "1.3.0"
+__version__ = "1.4.0"
 
 __all__ = [
     "load_genera",
@@ -49,7 +49,8 @@ def load_genera(path: Optional[Path] = None) -> List[dict]:
     """
     The per-language genus table: one dict per in-scope Glottolog language with
     ``glottocode``, ``name``, ``family``, ``genus_id``, ``genus_name``,
-    ``genus_glottolog_name`` and ``method`` (see data/README.md). Reads the packaged release copy unless
+    ``genus_glottolog_name``, ``method``, macroareas, ASJP provenance and
+    precomputed delta-0.75 genera (see data/README.md). Reads the packaged release copy unless
     ``path`` points at another genera.tsv.
     """
     return _read_tsv(path or PACKAGE_DATA / "genera.tsv")

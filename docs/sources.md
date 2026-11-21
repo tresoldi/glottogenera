@@ -42,7 +42,7 @@ The web explorer draws its basemap and clips the genus areas with the
 The validation of the word distance (not part of the pipeline; see
 [`../research/divergence/README.md`](../research/divergence/README.md)) also
 used GLED (CLDF release v1.0, r20221127.1, doi:10.5281/zenodo.7368116), the
-expert cognate judgements of sixteen datasets (in
+expert cognate judgements of sixteen datasets in the historical screen (fifteen redistributed in
 [`../research/divergence/cognates/`](../research/divergence/cognates/), each
 under the licence of its source), and dated phylogenies from Phlorest. The research scripts include a Newick
 reader forked from [python-newick](https://github.com/dlce-eva/python-newick),
@@ -87,3 +87,19 @@ compatible with every upstream license above. The code is **MIT**
 (`LICENSE`), except the Newick reader in `research/divergence/newick.py`
 (Apache-2.0) and the libraries bundled in `web/vendor/` (their own licences,
 `web/vendor/LICENSES.txt`).
+
+## Validation exceptions in the next distribution
+
+The core genus data remain CC BY 4.0. Fifteen expert-judgement files are
+redistributed: fourteen CC BY 4.0 and the Grollemund Bantu input under CC
+BY-NC 4.0, verified against upstream v1.1 LICENSE and metadata.json on
+2026-11-21. Its licence is retained in cognates/LICENSE-grollemundbantu.
+The pair-level screen exports also carry CC BY-NC 4.0, explicitly stated in
+results/README.md and results/LICENSE-screen-pairs.
+
+The Kogan Semitic input and its pair-level screen records are omitted unless
+permission is established. Historical aggregate validation summaries still
+describe the original sixteen-source v1.3.0 analysis; the audit reports
+sensitivity after omitting the Kogan pairs separately. This distribution
+change does not alter the independent Kitchen Semitic phylogeny or any
+primary genus assignment. No historic Zenodo record is modified here.

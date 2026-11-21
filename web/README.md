@@ -26,6 +26,14 @@ the browser from the files in `data/`.
 Rebuild them whenever the release changes, and commit them: the Pages workflow
 (`.github/workflows/pages.yml`) only copies `web/`.
 
+Language exports include the best ASJP candidate, retained core-concept count,
+wordlist eligibility, and identifiers and names for the fixed δ = 0.75
+sensitivity partition. Those sensitivity columns stay at 0.75 when the slider
+changes. Genus exports include the sorted union of member macroareas and a
+`has_above_threshold_subclade` flag evaluated at the **current slider threshold**.
+The reference summary in the downloaded release tables evaluates that flag at
+δ = 0.81. A missing usable wordlist does not remove a language from its genus.
+
 ## How it works
 
 - `js/core.js` recuts the genera at any δ exactly as `genera_at()` does, and

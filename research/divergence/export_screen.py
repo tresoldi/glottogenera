@@ -12,10 +12,10 @@ OUT_DIR/screen_nodes.csv.
 """
 
 import csv
+import argparse
 import gzip
 import math
 import pickle
-import sys
 from pathlib import Path
 
 MEASURES = ["asjp:pmi-asymcat-smoothed", "asjp:pmi", "gled:pmi-asymcat-smoothed", "gled:levenshtein",
@@ -28,7 +28,7 @@ def fmt(x):
     return "" if x is None or (isinstance(x, float) and math.isnan(x)) else f"{x:.6g}"
 
 
-def main(source_pkl, heldout_pkl, out):
+def main(source_pkl, heldout_pkl, out, include_undistributed=False):
     src = pickle.load(open(source_pkl, "rb"))
     held = pickle.load(open(heldout_pkl, "rb"))
     out.mkdir(parents=True, exist_ok=True)
@@ -47,6 +47,8 @@ def main(source_pkl, heldout_pkl, out):
         w = csv.writer(fh)
         w.writerow(["evidence", "dataset_or_node", "language_a", "language_b", "cognate_distance"] + header)
         for s, a, b, cd in src["cognates"]:
+            if s == "kogansemitic" and not include_undistributed:
+                continue
             w.writerow(["cognates", s, a, b, f"{cd:.6g}"] + cells(a, b))
         for node, r in sorted(src["clock"].items()):
             for a, b in r["pairs"]:
@@ -63,6 +65,8 @@ def main(source_pkl, heldout_pkl, out):
             return [fmt(x) for name in every for x in v.get(name, (None, None))]
 
         for s, a, b, cd in src["cognates"]:
+            if s == "kogansemitic" and not include_undistributed:
+                continue
             w.writerow(["cognates", s, a, b, f"{cd:.6g}"] + all_cells(a, b))
         for node, r in sorted(src["clock"].items()):
             for a, b in r["pairs"]:
@@ -75,6 +79,11 @@ def main(source_pkl, heldout_pkl, out):
 
 
 if __name__ == "__main__":
-    if len(sys.argv) != 4:
-        sys.exit(__doc__)
-    main(sys.argv[1], sys.argv[2], Path(sys.argv[3]))
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("source_pkl")
+    parser.add_argument("heldout_pkl")
+    parser.add_argument("out", type=Path)
+    parser.add_argument("--include-undistributed", action="store_true",
+                        help="Include Kogan rows for private historical reproduction only; permission for distribution is not established")
+    args = parser.parse_args()
+    main(args.source_pkl, args.heldout_pkl, args.out, args.include_undistributed)

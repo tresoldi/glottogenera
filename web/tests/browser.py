@@ -6,6 +6,8 @@ exports download. Usage (serve web/ first, e.g. python -m http.server -d web):
     uv run --no-project --with playwright python web/tests/browser.py http://127.0.0.1:8811/ [screenshots-dir]
 """
 
+import csv
+import io
 import json
 import sys
 from pathlib import Path
@@ -14,6 +16,7 @@ from playwright.sync_api import sync_playwright
 
 BASE = sys.argv[1].rstrip("/") + "/"
 SHOTS = Path(sys.argv[2]) if len(sys.argv) > 2 else None
+ROOT = Path(__file__).resolve().parents[2]
 PAGES = ["", "genera", "languages", "families", "map", "wals", "downloads", "about",
          "genus/germ1287", "genus/cent2060", "language/stan1293", "family/indo1319", "family/sino1245"]
 
@@ -96,14 +99,29 @@ def main() -> int:
                 assert {f["properties"]["radius_km"] for f in fc["features"]} == {75}
             else:
                 assert text.count("\n") > 10
+                if kind == "langs":
+                    exported = list(csv.DictReader(io.StringIO(text)))
+                    with (ROOT / "data/genera.tsv").open() as f:
+                        released_rows = {r["glottocode"]: r for r in csv.DictReader(f, delimiter="\t")}
+                    for r in exported:
+                        for field in ["asjp_doculect_id", "asjp_core_concepts", "has_usable_wordlist",
+                                      "genus_id_delta_075", "genus_name_delta_075"]:
+                            assert r[field] == released_rows[r["glottocode"]][field]
             print("ok export", kind, d.value.suggested_filename)
 
         page.goto(BASE + "#/genera")
         page.wait_for_selector("tbody tr")
         with page.expect_download() as d:
             page.click("button.csv")
-        assert Path(d.value.path()).read_text().count("\n") == 1191
-        print("ok genera CSV")
+        exported = list(csv.DictReader(io.StringIO(Path(d.value.path()).read_text())))
+        assert len(exported) == 1190
+        with (ROOT / "data/genera_summary.tsv").open() as f:
+            released_rows = {r["genus_id"]: r for r in csv.DictReader(f, delimiter="\t")}
+        for r in exported:
+            for field in ["macroareas", "has_above_threshold_subclade"]:
+                assert r[field] == released_rows[r["genus_id"]][field]
+        assert sum(int(r["has_above_threshold_subclade"]) for r in exported) == 27
+        print("ok genera CSV including macroareas and 27 descendant flags")
 
         # phone width: no horizontal page scroll
         mobile = browser.new_page(viewport={"width": 390, "height": 800})

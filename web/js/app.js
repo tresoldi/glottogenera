@@ -137,6 +137,11 @@
       family_id: fid,
       family: familyName(fid),
       n_languages: g.members.length,
+      macroareas: [...new Set(g.members.flatMap((id) => (S.ix.byId[id].macroarea || "").split(";")).filter(Boolean))].sort().join(";"),
+      has_above_threshold_subclade: g.members.some((id) => {
+        const path = S.ix.lineage[id];
+        return path.slice(path.indexOf(g.id) + 1).some((n) => S.ix.nodes[n] && S.ix.nodes[n].D !== null && S.ix.nodes[n].D > S.delta);
+      }) ? 1 : 0,
       method: g.method,
       unclassified_node: unclassified(g.id) ? 1 : 0,
       cut_value: g.method === "divergence" ? Core.cutValue(S.ix, g.id) : "",
@@ -156,12 +161,17 @@
       genus_glottolog_name: S.ix.nodes[gid] ? S.ix.nodes[gid].name : S.ix.byId[gid].name,
       method, latitude: l.lat === null ? "" : l.lat, longitude: l.lon === null ? "" : l.lon,
       macroarea: l.macroarea || "", wals_genus: l.wals || "", delta: S.delta.toFixed(3),
+      asjp_doculect_id: l.asjp_doculect_id || "", asjp_core_concepts: l.asjp_core_concepts,
+      has_usable_wordlist: l.has_usable_wordlist ? 1 : 0,
+      genus_id_delta_075: l.genus_id_delta_075, genus_name_delta_075: l.genus_name_delta_075,
     };
   }
   const LANG_COLUMNS = ["glottocode", "name", "iso639_3", "family_id", "family", "genus_id", "genus_name",
-    "genus_glottolog_name", "method", "latitude", "longitude", "macroarea", "wals_genus", "delta"];
+    "genus_glottolog_name", "method", "latitude", "longitude", "macroarea", "wals_genus", "delta",
+    "asjp_doculect_id", "asjp_core_concepts", "has_usable_wordlist", "genus_id_delta_075", "genus_name_delta_075"];
   const GENUS_COLUMNS = ["genus_id", "genus_name", "genus_glottolog_name", "family_id", "family", "n_languages",
-    "method", "unclassified_node", "cut_value", "crown_divergence", "from_delta", "to_delta", "stability", "delta"];
+    "method", "unclassified_node", "cut_value", "crown_divergence", "from_delta", "to_delta", "stability", "delta",
+    "macroareas", "has_above_threshold_subclade"];
 
   // WALS families used in the calibration: genealogical WALS genera of in-scope
   // languages, families with at least two such languages and two WALS genera.

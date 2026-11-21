@@ -60,6 +60,9 @@ GENUS_COLUMNS = [
     ("stability_fixed_delta", "Stability_Fixed_Delta", "decimal", "The same with delta fixed"),
     ("unclassified_node", "Unclassified_Node", "integer",
      "1 if the genus node is a Glottolog 'Unclassified' node, a residual group rather than a subgroup"),
+    ("macroareas", "Macroareas", "string", "Sorted union of member languages' Glottolog macroareas"),
+    ("has_above_threshold_subclade", "Has_Above_Threshold_Subclade", "boolean",
+     "A measured proper descendant has crown divergence above the reference delta"),
 ]
 
 
@@ -91,10 +94,17 @@ def main():
             path.unlink()
     ds = StructureDataset.in_dir(OUT)
     ds.add_component("LanguageTable", {"name": "Family", "datatype": "string", "dc:description": "Top-level Glottolog family"})
+    ds.add_columns("LanguageTable",
+        {"name": "ASJP_Doculect_ID", "datatype": "string", "dc:description": "Best ASJP candidate, including short or empty lists; empty without a mapped candidate"},
+        {"name": "ASJP_Core_Concepts", "datatype": "integer", "dc:description": "Retained core concepts in the best candidate after excluding explicitly flagged loans"},
+        {"name": "Has_Usable_Wordlist", "datatype": "boolean", "dc:description": "Candidate has at least 20 retained concepts; not a flag for participation in a crown pair"},
+        {"name": "Genus_075_ID", "datatype": "string", "dc:description": "Genus node Glottocode at delta 0.75 under the reference own rule; may not occur in reference CodeTable"},
+        {"name": "Genus_075_Name", "datatype": "string", "dc:description": "Genus name at delta 0.75"})
     ds.add_component("ParameterTable")
     ds.add_component(
         "CodeTable",
-        *({"name": name, "datatype": dtype, "dc:description": desc} for _, name, dtype, desc in GENUS_COLUMNS),
+        *({"name": name, "datatype": dtype, "dc:description": desc,
+           **({"separator": ";"} if name == "Macroareas" else {})} for _, name, dtype, desc in GENUS_COLUMNS),
     )
     ds.add_columns("ValueTable", {"name": "Method", "datatype": "string",
                                   "dc:description": "How the genus was reached (see data/README.md)"})
@@ -127,6 +137,11 @@ def main():
             "Latitude": blank(row["latitude"]),
             "Longitude": blank(row["longitude"]),
             "Family": r["family"],
+            "ASJP_Doculect_ID": blank(r["asjp_doculect_id"]),
+            "ASJP_Core_Concepts": r["asjp_core_concepts"],
+            "Has_Usable_Wordlist": bool(int(r["has_usable_wordlist"])),
+            "Genus_075_ID": r["genus_id_delta_075"],
+            "Genus_075_Name": r["genus_name_delta_075"],
         })
     parameter = {
         "ID": PARAMETER,
@@ -141,6 +156,8 @@ def main():
                 "Description": f"Glottolog node {r['genus_id']}"}
         for column, name, _, _ in GENUS_COLUMNS:
             code[name] = blank(r[column])
+        code["Macroareas"] = r["macroareas"].split(";") if r["macroareas"] else []
+        code["Has_Above_Threshold_Subclade"] = bool(int(r["has_above_threshold_subclade"]))
         code_rows.append(code)
     value_rows = [{
         "ID": r["glottocode"],

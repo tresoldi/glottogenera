@@ -10,7 +10,7 @@
     "dc:description": "Genera defined by a divergence threshold on a language tree: a genus is the largest clade whose divergence does not exceed a threshold delta. This release cuts Glottolog 5.3, with crown divergence from PMI alignment of ASJP 21 wordlists and delta = 0.81 calibrated against the WALS genera.",
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:source": "sources.bib",
-    "dc:title": "Glottogenera 1.3.0: genera for the languages of Glottolog 5.3",
+    "dc:title": "Glottogenera 1.4.0: genera for the languages of Glottolog 5.3",
     "dcat:accessURL": "https://github.com/tresoldi/glottogenera",
     "prov:wasDerivedFrom": [
         {
@@ -202,6 +202,31 @@
                         "dc:description": "Top-level Glottolog family",
                         "datatype": "string",
                         "name": "Family"
+                    },
+                    {
+                        "dc:description": "Best ASJP candidate, including short or empty lists; empty without a mapped candidate",
+                        "datatype": "string",
+                        "name": "ASJP_Doculect_ID"
+                    },
+                    {
+                        "dc:description": "Retained core concepts in the best candidate after excluding explicitly flagged loans",
+                        "datatype": "integer",
+                        "name": "ASJP_Core_Concepts"
+                    },
+                    {
+                        "dc:description": "Candidate has at least 20 retained concepts; not a flag for participation in a crown pair",
+                        "datatype": "boolean",
+                        "name": "Has_Usable_Wordlist"
+                    },
+                    {
+                        "dc:description": "Genus node Glottocode at delta 0.75 under the reference own rule; may not occur in reference CodeTable",
+                        "datatype": "string",
+                        "name": "Genus_075_ID"
+                    },
+                    {
+                        "dc:description": "Genus name at delta 0.75",
+                        "datatype": "string",
+                        "name": "Genus_075_Name"
                     }
                 ],
                 "primaryKey": [
@@ -347,6 +372,17 @@
                         "dc:description": "1 if the genus node is a Glottolog 'Unclassified' node, a residual group rather than a subgroup",
                         "datatype": "integer",
                         "name": "Unclassified_Node"
+                    },
+                    {
+                        "dc:description": "Sorted union of member languages' Glottolog macroareas",
+                        "datatype": "string",
+                        "separator": ";",
+                        "name": "Macroareas"
+                    },
+                    {
+                        "dc:description": "A measured proper descendant has crown divergence above the reference delta",
+                        "datatype": "boolean",
+                        "name": "Has_Above_Threshold_Subclade"
                     }
                 ],
                 "foreignKeys": [

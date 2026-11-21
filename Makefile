@@ -7,7 +7,7 @@ RUN = PYTHONPATH=src $(PYTHON) -m glottogenera
 PKG_DATA = src/glottogenera/data
 THREAD_ENV = OPENBLAS_NUM_THREADS=1 OMP_NUM_THREADS=1 MKL_NUM_THREADS=1 NUMEXPR_NUM_THREADS=1 VECLIB_MAXIMUM_THREADS=1
 
-.PHONY: all release update-glottolog fetch divergence bundle cldf web test lint clean
+.PHONY: all release update-glottolog fetch divergence metadata bundle cldf web test lint clean
 
 all: fetch divergence bundle
 
@@ -24,7 +24,10 @@ divergence:
 
 # The release copies shipped inside the package (read by load_genera() and
 # friends), and the curated genus names, kept in the package, copied to data/.
-bundle:
+metadata:
+	$(PYTHON) scripts/enrich_release.py
+
+bundle: metadata
 	cp data/genera.tsv data/genera_summary.tsv data/nodes.tsv $(PKG_DATA)/
 	cp $(PKG_DATA)/genus_names.tsv data/
 

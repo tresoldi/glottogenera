@@ -114,6 +114,16 @@ def load_wordlists(data_dir: Path, glottolog: Glottolog) -> Dict[str, Wordlist]:
     distances towards zero for well-documented languages. Forms flagged as
     loans are dropped. Languages need at least MIN_CONCEPTS core concepts.
     """
+    return load_wordlists_with_provenance(data_dir, glottolog)[0]
+
+
+def load_wordlists_with_provenance(data_dir: Path, glottolog: Glottolog):
+    """Return eligible lists and the best ASJP candidate's ID and coverage.
+
+    Provenance includes short and empty lists. Selection is identical to
+    load_wordlists: most retained concepts, then lexically smallest doculect ID.
+    A missing candidate has an empty ID and zero concepts.
+    """
     inscope = {r["glottocode"] for r in glottolog.in_scope_languages()}
     sources = sources_dir(data_dir)
     gc_of = {}
@@ -121,7 +131,7 @@ def load_wordlists(data_dir: Path, glottolog: Glottolog) -> Dict[str, Wordlist]:
         for r in csv.DictReader(fh):
             if r.get("Glottocode") in inscope:
                 gc_of[r["ID"]] = r["Glottocode"]
-    doculects: Dict[str, Wordlist] = {}
+    doculects: Dict[str, Wordlist] = {doc: [[] for _ in range(K)] for doc in gc_of}
     with (sources / "asjp_forms.csv").open(encoding="utf-8") as fh:
         for r in csv.DictReader(fh):
             doc = r["Language_ID"]
@@ -135,9 +145,16 @@ def load_wordlists(data_dir: Path, glottolog: Glottolog) -> Dict[str, Wordlist]:
     for doc, words in doculects.items():
         n = sum(1 for forms in words if forms)
         gc = gc_of[doc]
-        if n >= MIN_CONCEPTS and (gc not in best or (-n, doc) < (-best[gc][0], best[gc][1])):
+        if gc not in best or (-n, doc) < (-best[gc][0], best[gc][1]):
             best[gc] = (n, doc)
-    return {gc: doculects[doc] for gc, (_, doc) in best.items()}
+    provenance = {
+        gc: {"asjp_doculect_id": best[gc][1] if gc in best else "",
+             "asjp_core_concepts": best[gc][0] if gc in best else 0,
+             "has_usable_wordlist": int(gc in best and best[gc][0] >= MIN_CONCEPTS)}
+        for gc in sorted(inscope)
+    }
+    lists = {gc: doculects[doc] for gc, (n, doc) in best.items() if n >= MIN_CONCEPTS}
+    return lists, provenance
 
 
 def pair_components(a: Wordlist, b: Wordlist, scorer, seed: str):
@@ -943,5 +960,8 @@ def run(data_dir: Path) -> int:
         f"{block['crown_spread']['iqr']:.3f}.\n"
     )
     (data_dir / "report.md").write_text("\n".join(lines))
+    from .release_metadata import refresh_release
+
+    refresh_release(data_dir)
     print(f"Wrote {lang_path}, {sum_path}, {node_path}, report.md; {len(members)} genera")
     return 0

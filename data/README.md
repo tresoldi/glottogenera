@@ -18,7 +18,7 @@ upstream attribution).
 | `genera.tsv` | 7,674 | one row per language: its genus and how it was reached |
 | `genera_summary.tsv` | 1,190 | one row per genus: size, crown divergence, margins, stability |
 | `nodes.tsv` | 3,609 | one row per measured Glottolog node: crown divergence |
-| `genus_names.tsv` | 32 | curated genus names replacing Glottolog node names |
+| `genus_names.tsv` | 30 | curated genus names replacing Glottolog node names |
 | `params.json` | – | source versions, parameters, calibration and evaluation |
 | `report.md` | – | a readable summary of the calibration, uncertainty and agreement |
 
@@ -33,6 +33,22 @@ upstream attribution).
 | `genus_name` | the curated name from `genus_names.tsv` if there is one, otherwise the Glottolog name of the node |
 | `genus_glottolog_name` | Glottolog name of the node |
 | `method` | how the genus was reached: `divergence` (the highest clade whose cut value is at most δ), `unmeasured-clade` (a clade without measurements below a node that exceeds δ), `single-language` (the language itself, below a node that exceeds δ), `unmeasured-family` (a family without any measurement, kept whole) or `isolate` |
+
+New provenance and sensitivity columns:
+
+| column | description |
+|---|---|
+| `macroareas` | sorted Glottolog macroareas, separated by `;`; empty if unavailable |
+| `asjp_doculect_id` | best mapped ASJP candidate, including short or empty lists; empty only without a mapped candidate |
+| `asjp_core_concepts` | retained core concepts in that candidate after removing only explicitly flagged loans; zero if empty or missing |
+| `has_usable_wordlist` | boolean `1`/`0`: at least 20 retained concepts, not direct participation in a measured crown pair |
+| `genus_id_delta_075` | genus node Glottocode at δ = 0.75, using the same own-crown rule and released node values |
+| `genus_name_delta_075` | curated or Glottolog name of that alternative genus |
+
+The best candidate maximizes retained core-concept coverage; ties use the
+lexically smallest ASJP doculect ID. The alternative partition has 1,587
+genera. At δ = 0.81 the reference remains 1,190 genera. `make metadata`
+refreshes these columns without rescoring distances or running the bootstrap.
 
 ## `genera_summary.tsv`
 
@@ -50,6 +66,13 @@ upstream attribution).
 | `stability` | share of 200 bootstrap replicates (resampling concepts and language pairs, δ recalibrated in each) in which the genus reappears with exactly its members |
 | `stability_fixed_delta` | the same with δ fixed at 0.81 |
 | `unclassified_node` | 1 if the genus node is a Glottolog "Unclassified" node, which collects languages not placed in a subgroup: a residual group, not a subgroup |
+
+The additional `macroareas` column is the sorted union of member languages'
+macroareas, separated by `;`; a genus can span more than one area.
+`has_above_threshold_subclade` is a boolean `1`/`0`, true if any measured
+proper descendant has crown divergence above the reference δ = 0.81. It is
+true for 27 genera. A false value does not establish equal age or structural
+homogeneity.
 
 A genus cut by divergence exists for every δ from `cut_value` up to, not
 including, `upper_value`; `glottogenera.genera_at(delta)` recuts at any δ.

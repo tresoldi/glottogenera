@@ -1,0 +1,45 @@
+{
+  "historical_analysis_version": "1.3.0",
+  "historical": {
+    "pairs_by_dataset": {
+      "abvd2026": 1500,
+      "abvdphilippines": 1484,
+      "bowernpny": 1500,
+      "dravlex": 105,
+      "dunnaslian": 21,
+      "gerarditupi": 66,
+      "grollemundbantu": 1500,
+      "iecor": 1500,
+      "kogansemitic": 66,
+      "nagarajakhasian": 1,
+      "peirosaustroasiatic": 210,
+      "sagartst": 253,
+      "savelyevturkic": 105,
+      "tuled": 190,
+      "uralex": 276
+    },
+    "cross_family_pairs": 148,
+    "export_sha256": "32a1f51ba07e010ab2e0a1e8a00ef70d067a01bd179db2bbc90142db77e630eb"
+  },
+  "redistributed": {
+    "pairs_by_dataset": {
+      "abvd2026": 1500,
+      "abvdphilippines": 1484,
+      "bowernpny": 1500,
+      "dravlex": 105,
+      "dunnaslian": 21,
+      "gerarditupi": 66,
+      "grollemundbantu": 1500,
+      "iecor": 1500,
+      "nagarajakhasian": 1,
+      "peirosaustroasiatic": 210,
+      "sagartst": 253,
+      "savelyevturkic": 105,
+      "tuled": 190,
+      "uralex": 276
+    },
+    "cross_family_pairs": 148,
+    "export_sha256": "29d022f80335653001527c5d37e52acf616bd4e778c87bb93f3a6c90ed96807c"
+  },
+  "note": "Aggregate counts only. Historical sources.json and sources_meta.json describe the original analysis, not the sanitized export. The historical input had sixteen cognate files; fifteen contributed pair rows. One empty source did not contribute. The next distribution omits the Kogan input and its 66 pair rows."
+}

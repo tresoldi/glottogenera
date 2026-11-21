@@ -191,6 +191,11 @@ def main() -> int:
             "lon": round(float(lon), 4) if lon else None,
             "iso": row["iso"] or None,
             "macroarea": row["macroareas"] or None,
+            "asjp_doculect_id": r["asjp_doculect_id"] or None,
+            "asjp_core_concepts": int(r["asjp_core_concepts"]),
+            "has_usable_wordlist": bool(int(r["has_usable_wordlist"])),
+            "genus_id_delta_075": r["genus_id_delta_075"],
+            "genus_name_delta_075": r["genus_name_delta_075"],
             "countries": row["countries"] or None,
             "wals": ws[-1]["genus"] if ws else None,  # the row load_wals() keeps
             "wals_ids": [w["id"] for w in ws],
@@ -213,7 +218,7 @@ def main() -> int:
         "languages": langs,
         "genera": {gid: {k: s[k] for k in ("method", "crown_divergence", "crown_pairs", "cut_value", "upper_value",
                                            "margin_below", "margin_above", "stability", "stability_fixed_delta",
-                                           "unclassified_node")}
+                                           "unclassified_node", "macroareas", "has_above_threshold_subclade")}
                    for gid, s in summary.items()},
         "names": {gid: {k: r[k] for k in ("name", "criterion", "confidence", "rationale", "sources")}
                   for gid, r in corrections.items()},

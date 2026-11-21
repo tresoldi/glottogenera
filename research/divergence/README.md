@@ -60,8 +60,8 @@ $PY $R/envelope_sensitivity.py $OUT
 
 ## External inputs
 
-- **Expert cognate judgements**: the expert judgements of the sixteen cognate
-  datasets on the 40 core concepts, one CSV per dataset, in
+- **Expert cognate judgements**: the historical expert judgements of sixteen cognate
+  datasets (fifteen redistributed in the next release) on the 40 core concepts, one CSV per dataset, in
   [`cognates/`](cognates/), each under the licence of its source (set
   `COGNATE_DIR` to read another copy).
 - **GLED** (Global Lexical Database, release r20221127.1,
@@ -76,3 +76,13 @@ $PY $R/envelope_sensitivity.py $OUT
 
 The released distance itself is the package's (`glottogenera.divergence`
 with `glottogenera.pmi`), and the scripts use it through the package.
+
+## Historical results and redistributed evidence
+
+The committed aggregate results describe the original sixteen-source v1.3.0
+screen. The next release omits the Kogan cognate file and its pair-level
+exports while retaining fifteen licensed source aggregates. A new run from
+the distributed inputs therefore has a different validation sample; it must
+not be represented as a byte-identical reconstruction of the historical
+sixteen-source screen. See cognates/README.md and results/README.md for the
+licensing exceptions and the explicit private-reproduction export option.

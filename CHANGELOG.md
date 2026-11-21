@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.4.0 — unreleased
+
+- Preserve the 7,674 reference assignments and 1,190 crown-based genera at δ = 0.81.
+- Add macroareas, ASJP candidate provenance and usable-list eligibility, and precomputed δ = 0.75 genus IDs and names to the language tables.
+- Add genus macroarea lists and a flag for the 27 genera with an above-threshold measured proper descendant.
+- Carry these fields into package data, CLDF and explorer CSV exports; support metadata-only refreshes.
+- Clarify mixed licensing and exclude the unlicensed Semitic source and its pair-level exports from the next distribution; retain historical aggregate results with explicit provenance.
+
 ## 1.3.0 — 2026-11-06
 
 Corrections after a second review; the genera are unchanged.
